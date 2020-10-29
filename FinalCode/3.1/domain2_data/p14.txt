@@ -1,0 +1,1719 @@
+OUT
+US M ANTAL 20170297262A1 UNUI MINUTI
+( 19 ) United States
+( 12 ) Patent Application Publication ( 10 ) Pub . No . : US 2017 / 0297262 A1 Grigorian ( 43 ) Pub . Date : Oct . 19 , 2017
+( 54 ) 3D PRINTERS AND FEEDSTOCKS FOR 3D
+PRINTERS
+( 71 ) Applicant : Leonid Grigorian , Camarillo , CA ( US )
+( 72 ) Inventor : Leonid Grigorian , Camarillo , CA ( US )
+( 21 ) Appl . No . : 15 / 515 , 955
+( 22 ) PCT Filed : Sep . 27 , 2015
+( 86 ) PCT No . : PCT / US15 / 52530
+$ 371 ( c ) ( 1 ) , ( 2 ) Date : Mar . 30 , 2017
+B29C 71 / 04 ( 2006 . 01 )
+C22C 32 / 00 ( 2006 . 01 )
+B22F 3 / 105 ( 2006 . 01 )
+C22C 26 / 00 ( 2006 . 01 )
+B33Y 40 / 00 ( 2006 . 01 )
+B33Y 70 / 00 ( 2006 . 01 ) B33Y 10 / 00 ( 2006 . 01 )
+U . S . Cl . CPC . . . . . . . . B29C 64 / 153 ( 2017 . 08 ) ; C22C 32 / 0084
+( 2013 . 01 ) ; B22F 3 / 008 ( 2013 . 01 ) ; B29C
+64 / 268 ( 2017 . 08 ) ; B22F 1 / 02 ( 2013 . 01 ) ; B22F
+3 / 1055 ( 2013 . 01 ) ; C22C 1 / 1084 ( 2013 . 01 ) ; B29C 71 / 04 ( 2013 . 01 ) ; B33Y 40 / 00 ( 2014 . 12 ) ;
+B33Y 70 / 00 ( 2014 . 12 ) ; B33Y 10 / 00 ( 2014 . 12 ) ;
+C22C 26 / 00 ( 2013 . 01 )
+ABSTRACT
+This disclosure relates in general to three dimensional
+( “ 3D " ) printers having a configuration that prepares a three
+dimensional object by using a feedstock comprising a metal
+or a polymer compound and a carbon coating formed on a
+surface of the compound . This disclosure also relates to such
+feedstocks and their preparation methods . This disclosure
+further relates to 3D composite objects prepared by using such printers and feedstocks . This disclosure also relates to
+carbon containing photocurable formulations and methods
+for their preparation . This disclosure further relates to elec trically conducting 3D polymer composites prepared by using such carbon containing photocurable formulations .
+Related U . S . Application Data ( 57 )
+( 60 ) Provisional application No . 62 / 059 , 947 , filed on Oct . 5 , 2014 , provisional application No . 62 / 184 , 867 , filed
+on Jun . 26 , 2015 .
+( 51 )
+Publication Classification
+Int . CI . B29C 64 / 153 ( 2006 . 01 )
+B22F 3 / 00 ( 2006 . 01 )
+B29C 64 / 268 ( 2006 . 01 )
+B22F 1 / 02 ( 2006 . 01 )
+C22C 1 / 10 ( 2006 . 01 )
+CNT coated
+filament filament
+TIITIKITTIIIIIIIIIIIIIZZZZZZZ CNT
+suspension
+4 * .
+*
+* :
+* # . *
+*
+*
+* *
+* *
+*
++
+*
+* * .
+*
+*
+> * * * > > > > +
+?? + + + * *
+. * : * *
+*
+* * * * * # *
+* . . * *
+* * * * 4 * * *
+.
++
++ * . * * . + * * A + Luh Y . , 1 . . - - - - - 5 .
+* * *
+* * * * * * * * * * *
+* * * *
+*
+* * * . * * + * * Ho A : A . * A * * . * * * * * * * * + * * * :
+* * . . * *
+* * * *
+*
+# * * *
+*
+* * * * * * . IRI * * * . * * + * * * . * * *
+1 . * . *
+: * * * *
+* #
+* * . * * *
+* * * * * * * * . * * } } } } } * }
+. * * * : * } } * # : : : + :
+. *
+: *
+: 
+Patent Application Publication Oct . 19 , 2017 Shet lofs US 2017 / 0297262 A1
+?
+FIG . 1 
+Patent Application Publication Oct . 19 , 2017 Sheet 2 of 8 US 2017 / 0297262 A1
+metal particle
+nanocarbon coating
+nanocarbon
+coating
+.
+polymer
+filament
+FIG . 2 
+Patent Application Publication Oct . 19 , 2017 Sheet 3 of 8 US 2017 / 0297262 A1
+as - cast aluminum - CNT
+composite object
+FIG . 3 
+Patent Application Publication Oct . 19 , 2017 Sheet 4 of 8 US 2017 / 0297262 A1
+CNT coated
+filament filament
+| | LIULIULIULIULINE CNT
+suspension
+# t # #
+* *
+?????? ;
+* *
++ + + + ??????
+* * # * * * # * * * # * * * * *
+# # * *
+* * * * * # # ??? ???? ?
+???? , ??? ! ???4? ???? ???? * * * *
+# # # # * *
+# # ?? 4???? # #
+??? ??? ; # * ???? # # F # in * # # * * * :
+: : : : : : : : : : : ??? * * : : , # : : * # # # * *
+* * * * * *
+* #
+# # # : * # #
+* * # # # # # # # # * * * * * * # # # * * * # * * # # # # # * # * * # * * # * #
+* # * * * # #
+# * # * * * # #
+# * # ??? #
+?? # *? # #
+# # * # * * * * *
+FIG . 4 
+Patent Application Publication Oct . 19 , 2017 Sheet 5 of 8 US 2017 / 0297262 A1
+( A )
+1 .!( B )
+( C )
+FIG . 5 
+Patent Application Publication Oct . 19 , 2017 Shet 6 of 8 US 2017 / 0297262 A1
+????
+* * * ?? , ????? ??
+FIG . 6 
+Patent Application Publication Oct . 19 , 2017 Sheet 7 of 8 US 2017 / 0297262 A1
+CNT coated
+filament
+LIITRITIZATIITINILI
+filament
+CNT
+suspension
+* * * * * * * + > > *
+??? > > > * * 4 # *
+* * * # . * * * *
+* * * *
+* * * * * # * * * * # . # *
+* * . * * * * *
+. *
+# Y
+5
+* *
+* * *
++ * * * * * * # * * * * *
+* * * * * * * Lo * t . * * + * / # *
+* * / / * 4 * * . * * * # *
+A
+t . A
+* . * * * 14 : A 4 * * * . "
+*
+II * * * + II . I . / AL4
+* 114 . * * * * *
+* *
+* * * . * *
+I . * * . * *
+*
+* * * + * . *
+* . * * *
++
+* # * * * + * * * * * " * * # *
+* * * 4 + * * + * * * # # * * * * * + + * * * : : +
+FIG . 7 
+Patent Application Publication Oct . 19 , 2017 Sheet 8 of 8 US 2017 / 0297262 A1
+( A )
+( B )
+FIG . 8 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+3D PRINTERS AND FEEDSTOCKS FOR 3D
+PRINTERS
+CROSS - REFERENCE TO RELATED
+APPLICATIONS
+[ 0001 ] This application is based upon and claims priority to the U . S . provisional patent application No . 62 / 059 , 947 , entitled “ Nanocarbon Composites for 3D Printing , " filed
+Oct . 5 , 2014 , with attorney docket number Vasik - 14 - 002 ; and to the U . S . provisional patent application No . 62 / 184 , 867 , entitled “ Nanocarbon Composites for 3D Printing , "
+filed Jun . 26 , 2015 , with attorney docket number Vasik - 15
+001 . The entire content of each of these patent applications is incorporated herein by reference .
+BACKGROUND
+Technical Field
+[ 0002 ] This disclosure relates in general to three dimen
+sional ( “ 3D ” ) printers having a configuration that prepares a
+three - dimensional object by using a feedstock comprising a
+metal or a polymer compound and a carbon coating formed
+on a surface of the compound . This disclosure also relates to
+such feedstocks and their preparation methods . This disclo
+sure further relates to 3D composite objects prepared by using such printers and feedstocks . This disclosure also
+relates to carbon containing photocurable formulations and
+methods for their preparation . This disclosure further relates
+to electrically conducting 3D polymer composites prepared
+by using such carbon containing photocurable formulations .
+Description of Related Art
+[ 0003 ] 3D printing , also known as additive manufacturing , is a technology of building three dimensional ( 3D ) solid
+objects by depositing layers of materials in a design defined
+by a computer software using many of the commonly available CAD ( computer aided design ) packages . This
+technology can create highly customized complex parts and
+products that are difficult or impossible to manufacture using traditional technologies . [ 0004 ] There are several major 3D printing technologies differing mainly in the way layers are built to create the final
+3D object . Some methods use melting or softening materials
+to produce the layers . For example , Selective Laser Sinter
+ing ( SLS ) and Selective Laser Melting ( SLM ) work by respectively sintering or melting metal , plastic , ceramic , or
+glass powders using irradiative heating . The heating is done
+by various light sources emitting electromagnetic radiation
+in ultraviolet ( UV ) , visible , or infrared ( IR ) range that is
+absorbed by the powder , and the radiation energy is con
+verted to heat . Typically , the light source is a lamp or a laser . For example , metal powders are typically heated by fiber
+lasers emitting IR radiation . For example , the popular M 400
+SLS 3D printer manufactured by EOS ( Germany ) uses a
+Yb - fiber laser rated at about 1 kilowatt power operating at
+about 1 , 070 nanometer wavelength . The second group of
+methods , exemplified by Fused Deposition Modeling ( FDM ) , works by extruding melted plastic filaments or
+metal wires through an extrusion nozzle . The third group of
+methods such as stereolithography ( SLA ) and Digital Light Processing ( DLP ) are based on curing ( solidifying ) liquid materials ( such as photopolymer resins ) with electromag netic radiation in UV , visible , or IR ranges . Typically , SLA
+lasers require much less power compared to SLS lasers . For
+example , the popular Form1 + 3D printer manufactured by
+Formlabs ( Somerville , Mass . ) uses a 0 . 12 watt laser oper ating at about 405 nanometer wavelength . [ 0005 ] Current challenges include improving the available
+3D printing materials to impart advanced properties and
+versatility needed for industrial applications , as well as
+enabling faster 3D printing processes . [ 0006 ] For further disclosures related to the nanocarbon
+3D printing materials ( including nanocarbon oxides ) , for
+example , see the following publications : M . N . dos Santos , C . V . Opelt , S . H . Pezzin , C . A . C . E . da Costa , J . C . Milan , F . H . Lafratta , and L . A . F . Coelho , Nanocomposite of
+photocurable epoxy - acrylate resin and carbon nanotubes :
+dynamic - mechanical , thermal and tribological properties , Materials Research , 16 ( 2 ) , 367 - 374 ( 2013 ) ; M . Sanger
+mano , E . Borella , A . Priola , M . Messori , R . Taurino , and P . Potschke , Use of single - walled carbon nanotubes as rein
+forcing fillers in UV - curable epoxy systems . Macromolecu
+lar Materials and Engineering , 293 ( 8 ) , 708 - 713 ( 2008 ) ; Y . F . Zhu , C . Ma , W . Zhang , R . P . Zhang , N . Koratkar , and J . Liang , Alignment of multiwalled carbon nanotubes in bulk
+epoxy composites via electric field . Journal of Applied Physics , 105 ( 5 ) , 1 - 6 ( 2009 ) ; M . Martin - Gallego , M . Her
+nandez , V . Lorenzo , R . Verdejo , M . A . Lopez - Manchado , and M . Sangermano , Cationic photocured epoxy nanocom
+posites filled with different carbon fillers . Polymer , 53 ( 9 ) , 1831 - 1838 ( 2012 ) ; M . N . dos Santos , C . V . Opelt , F . H . Lafratta , Lepienski C M , S . H . Pezzin , and L . A . F . Coelho , Thermal and mechanical properties of a nanocomposite of a
+photocurable epoxy - acrylate resin and multiwalled carbon
+nanotubes , Materials Science and Engineering A : Structural
+Materials Properties Microstructure and Processing , 528 ( 13
+14 ) , 4318 - 4324 ( 2011 ) ; F . H . Gojny , M . H . G . Wichmann , U . Kopke , B . Fiedler , and K . Schulte , Carbon nanotube - rein
+forced epoxy - compo sites : enhanced stiffness and fracture
+toughness at low nanotube content , Composites Science and
+Technology , 64 ( 15 ) , 2363 - 2371 ( 2004 ) ; B . Dong , Z . Yang ,
+Y . Huang , and H . L . Li , Study on tribological properties of
+multi - walled carbon nanotubes / epoxy resin nanocompos ites , Tribology Letters , 20 ( 3 - 4 ) , 251 - 254 ( 2005 ) ; S . Ushiba , S . Shoji , K . Masui , P . Kuray , J . Kono , and S . Kawata , 3D
+microfabrication of single - wall carbon nanotube / polymer composites by two - photon polymerization lithography , Car
+bon 59 , 283 - 288 ( 2013 ) . The entire content of each of these
+publications is incorporated herein by reference .
+[ 0007 ] A variety of CNT materials ( i . e . , single - wall , double - wall , and multi - wall CNTs ) are commercially avail
+able as dry powders and / or suspensions . These CNT mate
+rials may be synthesized by variety of CNT synthesis
+methods . Some examples of the CNT synthesis methods are
+arc - discharge methods , laser - vaporization methods , and
+chemical vapor deposition method ( CVD ) . See , for example , following publications : M . Kumar and Y . Ando , Chemical
+Vapor Deposition of Carbon Nanotubes : A Review on
+Growth Mechanism and Mass Production , Journal of Nano
+science and Nanotechnology , vol . 10 , pp . 3739 - 3758 ( 2010 ) ;
+G . L . Hornyak , L . Grigorian , A . C . Dillon , P . A . Parilla , K . M . Jones , and M . J . Heben , A Temperature Window for
+Chemical Vapor Decomposition Growth of Single - Wall Car
+bon Nanotubes , Journal of Physical Chemistry B , vol . 106 , pp . 2821 - 2825 ( 2002 ) ; L . Grigorian , G . L . Hornyak , A . C . Dillon , and M . J . Heben , Continuous growth of single - wall
+carbon nanotubes using chemical vapor deposition , U . S . Pat . 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+No . 7 , 431 , 965 , Oct . 7 , 2008 . The entire content of each of
+these publications is incorporated herein by reference . 10008 ] The arc - discharge method employs evaporation of
+metal - catalyzed graphite electrodes in electric arcs that
+involve very high ( about 4 , 000° C . ) temperatures . The
+laser - vaporization method employs evaporation of graphite
+target by lasers in conjunction with high - temperature fur
+naces . These two methods operate in a batch mode and may therefore be poorly suited to high - volume , low cost produc tion . The CVD method is based on decomposition of carbon
+containing gases on supported catalyst and may offer the
+more efficient , low - cost , and scalable method of producing
+CNTs . Currently , most commercial CNT materials are
+manufactured by the CVD method . [ 0009 ] For examples of 3D printers and 3D printing tech
+niques , see : Sachs et al . “ Three - Dimensional Printing Tech
+niques ” U . S . Pat . No . 5 , 204 , 055 ; Deckard “ Apparatus for
+Producing Parts by Selective Sintering ” U . S . Pat . No . 5 , 597 , 589 ; Hopkinson et al . “ Method and Apparatus for Combin
+ing Particulate Material ” U . S . Pat . No . 7 , 879 , 282 ; Liu et al . “ Layer Manufacturing of a Multi - Material or Multi - Color
+3D Object Using Electrostatic Imaging and Lamination ”
+U . S . Patent Application Publication No . 2002 / 0145213 ;
+Kramer et al . “ Systems and Methods for Using Multi - Part
+Curable Materials ” U . S . Patent Application Publication No . 2005 / 0012247 ; and Boyd et al . “ Method and a System for
+Solid Freeform Fabrication of a Three - Dimensional Object ”
+U . S . Patent Application Publication No . 2005 / 0093208 . The
+entire content of each of these patents and patent applica tions is incorporated herein by reference .
+SUMMARY
+[ 0010 ] This disclosure relates in general to three dimen sional ( “ “ 3D ' ' ) printers having a configuration that prepares
+three - dimensional objects by using a feedstock comprising a
+metal or a polymer compound and a carbon coating formed
+on a surface of the compound . This disclosure also relates to
+such feedstocks and their preparation methods . This disclo
+sure further relates to 3D composite objects prepared by
+using such printers and feedstocks . This disclosure also
+relates to carbon containing photocurable formulations and
+methods for their preparation . This disclosure further relates
+to electrically conducting 3D polymer composites prepared
+by using such carbon containing photocurable formulations . [ 0011 ] This disclosure relates to a 3D printer that may have a configuration that dispenses a feedstock ; deposits a
+layer of the feedstock on a surface ; delivers an electromag
+netic radiation to selected areas of the feedstock layer ; and
+prepares a three - dimensional object . The coating may
+absorb the delivered electromagnetic radiation at a selected
+area of the feedstock layer , convert the absorbed electro
+magnetic radiation to heat , and transfer the heat to the metal
+compound thereby heating the selected area of the feedstock
+layer , and causing the feedstock to bond to each other , and
+thereby forming a bonded feedstock layer . [ 0012 ] The 3D printer may further have a configuration that deposits a layer of feedstock on a surface of the bonded
+feedstock layer formed before ; and forms another bonded
+feedstock layer . Thus , the 3D printer of the instant disclosure
+may prepare an object layer by layer . [ 0013 ] This disclosure also relates to a feedstock . The feedstock may comprise a compound and a coating formed
+on a surface of the compound . The compound may be any compound . For example , the compound may be a metal , a
+glass , a ceramic , a polymer , or a combination thereof . For
+example , the compound may be a metal . [ 0014 ] . This disclosure also relates to carbon containing photocurable formulations and methods for their preparation and to electrically conducting 3D polymer composites pre
+pared by using such carbon containing photocurable formu
+lations . Addition of carbons to photocurable formulations
+may impart high electrically conductivity and also improve mechanical , thermal , and other properties of 3D - printed polymer objects . For example , carbon containing polymer
+composites may have higher tensile strength and be less
+flammable compared to pristine polymer objects . 10015 ] The coating may comprise a carbon . The carbon
+may be any type of carbon . For example , the carbon may comprise a nanocarbon , a pyrolytic carbon , a graphite , an
+activated carbon , an amorphous carbon , a carbon fiber , or a
+combination thereof . For example , the coating may com
+prise a nanocarbon . The nanocarbon may be a non - agglom
+erated nanocarbon . Examples of the nanocarbon may be a
+carbon nanotube ( CNT ) , a graphene ( GR ) , a fullerene ( FL ) , or a combination thereof . Examples of the carbon nanotube
+may be a single - wall carbon nanotube , a double - wall carbon
+nanotube , a multi - wall carbon nanotube , or a combination
+thereof . For example , the coating may comprise a graphene . Examples of the graphene may be a single layer graphene ,
+a double layer graphene , a multilayer graphene , a graphene strip , or a combination thereof . For example , the coating
+may comprise a fullerene . Examples the fullerene may be a
+C60 , a C70 , a C76 , a C78 , a C84 , or a combination thereof . [ 0016 ] For example , the compound may comprise a metal . The metal compound may be any metal . The examples of the
+metal compound may be titanium , vanadium , chromium ,
+manganese , iron , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a
+combination thereof . The metal compound may have any shape . For example , the metal compound may comprise a
+metal particle ( e . g . granule ) , a metal wire , a metal tube , a
+metal sheet , or a combination thereof . [ 0017 ] The coating may absorb the delivered electromag
+netic radiation at a selected area of the feedstock layer , may
+convert the absorbed electromagnetic radiation to heat , and
+may then transfer the heat to the compound thereby heating
+the selected area of the feedstock layer , and causing the
+feedstock to bond to each other , and thereby forming a
+bonded feedstock layer . [ 0018 ] The coating has an absorbance of the electromag netic radiation . The absorbance of the coating may be higher
+than absorbance of the compound . For example , the absor
+bance of the coating may be at least 50 percent , at least 100
+percent , at least 500 percent , or at least 800 percent higher
+than the absorbance of the compound . [ 0019 ] Because the coating has an absorbance of the
+electromagnetic radiation higher than that of the compound , heating rate of the feedstock comprising the compound and
+the coating may be higher than that of a feedstock without
+the coating . For example , the heating rate of the feedstock
+comprising the compound and the coating may be at least 50
+percent , at least 100 percent , at least 500 percent , or at least
+800 percent higher than that of a feedstock without the
+coating .
+[ 0020 ] The 3D printer of the instant disclosure may emit
+the electromagnetic radiation at any power suitable to form
+a bonded feedstock layer . For example , the 3D printer may 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+emit the electromagnetic radiation with power less than or
+equivalent to 5 , 000 watts , with power less than or equivalent
+to 1 , 000 watts ; with power less than or equivalent to 500
+watts ; or with power less than or equivalent to 100 watts . ( 0021 ] A three - dimensional object prepared by any of the
+3D printers disclosed above may be within scope of this
+instant disclosure . [ 0022 ] This disclosure also relates to a feedstock as dis
+closed above . This feedstock may be used for preparation of
+3D objects by any equipment or method . For example , this
+feedstock may be used for preparation of 3D objects by any
+of the 3D printers disclosed above . [ 0023 ] . The feedstock may comprise a compound , and a
+coating formed on a surface of the compound . [ 0024 ] The compound may be any compound . For
+example , the compound may comprise a metal , a glass , a
+ceramic , a polymer , or a combination thereof . For example , the compound may comprise a metal . For example , the
+compound may comprise a polymer . [ 0025 ] The coating may comprise a carbon . The carbon
+may be any type of carbon . For example , the carbon may comprise a nanocarbon , a pyrolytic carbon , a graphite , an
+activated carbon , an amorphous carbon , a carbon fiber , or a
+combination thereof . For example , the coating may com
+prise a nanocarbon . The nanocarbon may be a non - agglom
+erated nanocarbon . Examples of the nanocarbon may be a
+carbon nanotube ( CNT ) , a graphene ( GR ) , a fullerene ( FL ) ,
+or a combination thereof . Examples of the carbon nanotube
+may be a single - wall carbon nanotube , a double - wall carbon
+nanotube , a multi - wall carbon nanotube , or a combination
+thereof . For example , the coating may comprise a graphene . Examples of the graphene may be a single layer graphene , a double layer graphene , a multilayer graphene , a graphene strip , or a combination thereof . For example , the coating
+may comprise a fullerene . Examples the fullerene may be a
+C60 , a C70 , a C76 , a C78 , a C84 , or a combination thereof . [ 0026 ] For example , the compound may be a metal . The
+metal may be any metal . The examples of the metal com
+pound may comprise titanium , vanadium , chromium , man
+ganese , iron , cobalt , nickel , copper , zinc , ruthenium , rho
+dium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a
+combination thereof . The metal compound may have any
+shape . For example , the metal compound may comprise a
+metal particle ( e . g . granule ) , a metal wire , a metal tube , a
+metal sheet , or a combination thereof . 100271 The coating has an absorbance of the electromag netic radiation . The absorbance of the coating may be higher
+than absorbance of the compound . For example , the absor
+bance of the coating may be at least 50 percent , at least 100
+percent , at least 500 percent , or at least 800 percent higher
+than the absorbance of the compound . [ 0028 ] Because the coating has an absorbance of the
+electromagnetic radiation higher than that of the compound , heating rate of the feedstock comprising the compound and
+the coating may be higher than that of a feedstock without
+the coating . For example , the heating rate of the feedstock
+comprising the compound and the coating may be at least 50
+percent , at least 100 percent , at least 500 percent , or at least
+800 percent higher than that of a feedstock without the
+coating . [ 0029 ] The coating may be sufficiently thick to substan
+tially absorb electromagnetic radiation , but not too thick to
+cause defects in the composite object and thereby negatively
+impact properties of the composite object . For example , the
+coating thickness may be in the range of 10 nanometers to
+100 micrometers , in the range of 100 nanometers to 10
+micrometers , or in the range of 1 micrometer to 5 microm
+eters . 100301 A three - dimensional object prepared by using any
+of the feedstocks disclosed above may be within scope of
+this instant disclosure . 10031 ] The instant disclosure also relates to a method of
+preparation ( preparation method ” ) . For example , the prepa ration method may be preparation of a suspension of a
+carbon in a solvent ( “ method of preparation of a carbon
+suspension " ) . For example , the method may comprise pro
+cessing a conditioned mixture at a high shear rate and
+thereby preparing a carbon suspension . In this preparation method , the conditioned mixture may be prepared by a
+method comprising processing a solution at a low shear rate . The low shear rate may be lower than 200 , 000 s - 4 . The high shear rate may be equivalent to or higher than 200 , 000 s - 1 . ( 0032 ] In this method , first , the conditioned mixture may be prepared . The conditioned mixture may be prepared by processing a solution at a shear rate lower than 200 , 000 s - 7 . In this method , second , a carbon suspension is prepared by
+processing the conditioned mixture at a shear rate higher
+than 200 , 000 s - 1 . After this high shear processing , a carbon
+suspension comprising substantially non - agglomerated car
+bons may be obtained . [ 0033 ] The solution may comprise a carbon and a solvent . The solution may be substantially free of any dispersing
+agent . The carbon may be substantially free of functional
+groups that can facilitate dispersion of the carbon in the
+solution . [ 0034 ] The carbon may be any carbon disclosed above . For example , the carbon may comprise a nanocarbon , a
+pyrolytic carbon , a graphite , an activated carbon , an amor
+phous carbon , a carbon fiber , or a combination thereof . For
+example , the coating may comprise a nanocarbon . The
+nanocarbon may be a non - agglomerated nanocarbon . Examples of the nanocarbon may be a carbon nanotube
+( CNT ) , a graphene ( GR ) , a fullerene ( FL ) , or a combination
+thereof . Examples of the carbon nanotube may be a single wall carbon nanotube , a double - wall carbon nanotube , a
+multi - wall carbon nanotube , or a combination thereof . For
+example , the coating may comprise a graphene . Examples of
+the graphene may be a single layer graphene , a double layer graphene , a multilayer graphene , a graphene strip , or a
+combination thereof . For example , the coating may com
+prise a fullerene . Examples the fullerene may be a C60 , a
+C70 , a C76 , a C78 , a C84 , or a combination thereof . ( 0035 ] In this method , the solvent may be any solvent . For
+example , the solvent may comprise water , an acid , a base , an
+aromatic solvent , an alcohol , an aromatic solvent , benzene , halogenated benzene , xylene , toluene , a dichlorobenzene , dimethylformamide , formamide and its derivatives , N - meth
+ylpyrrolidinone , dichloroethane , dibromoethane , carbon dis
+ulfide , pyridine , or a combination thereof . [ 0036 ] In this method , the conditioned mixture may sub
+stantially be free of any dispersing agent .
+[ 0037 ] The preparation method may further comprise depositing the carbon suspension on a surface of a metal
+compound . [ 0038 ] The metal compound may comprise any metal . For
+example , the metal compound may comprise titanium , vana
+dium , chromium , manganese , iron , cobalt , nickel , copper , 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+zinc , ruthenium , rhodium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a combination thereof . The metal com
+pound may have any structural form or shape . For example , the metal compound comprises a metal particle , a metal
+wire , a metal tube , a metal sheet , or a combination thereof . [ 0039 ] The preparation method may further comprise removing the solvent ; thereby forming a coating on a surface
+of the metal compound ; and thereby preparing a feedstock . The solvent may be removed until the feedstock is substan
+tially free of solvent . The solvent may be removed by any technique . For example , the solvent may be removed by evaporation , centrifugation , using drying agents ( e . g . absor
+bents or adsorbents ) , or a combination thereof . [ 0040 ] The coating has a thickness . The coating thickness
+may be in the range of 10 nanometers to 100 micrometers ;
+the range of 100 nanometers to 10 micrometers ; or in the
+range of 1 micrometer to 5 micrometers . [ 0041 ] After the removal of the solvent , the coating may essentially comprise the carbon . [ 0042 ] Any three - dimensional composite object prepared by using any of the carbon suspension prepared by any of the
+method disclosed above may be within the scope of the
+instant disclosure . [ 0043 ] The instant disclosure also relates to a carbon
+containing photocurable formulation . This formulation may comprise a carbon ; a photocurable resin ; and a photoinitiator ( i . e . photo - catalyst ) . The carbon containing photocurable
+formulation , when cured , may yield a polymer composite with an electrical resistivity lower than or equivalent to 100
+ohm : cm , or lower than or equivalent to 10 ohm . cm , or lower
+than or equivalent to 1 ohm . cm , or lower than or equivalent
+to 0 . 1 ohm . cm . [ 0044 ] The carbon containing photocurable formulation
+may comprise a nanocarbon , a pyrolytic carbon , a graphite , an activated carbon , an amorphous carbon , a carbon fiber , or
+a combination thereof . The carbon may comprise a nano
+carbon . The carbon may comprise a non - agglomerated
+nanocarbon . The nanocarbon may comprise a carbon nano
+tube , a graphene , a fullerene , or a combination thereof . The
+carbon nanotube may comprise a single - wall carbon nano
+tube , a double - wall carbon nanotube , a multi - wall carbon
+nanotube , or a combination thereof . The graphene may comprise a single layer graphene , a double layer graphene , a multilayer graphene , a graphene strip , or a combination
+thereof . The fullerene may comprise a C60 , a C70 , a C76 , a
+C78 , a C84 , or a combination thereof . [ 0045 ] The photocurable resin may comprise a photocur able monomer , a photocurable oligomer , a photocurable
+polymer , or a combination thereof . The photocurable resin
+may comprise a monomer , oligomer , or a polymer of a
+hydrocarbon . The hydrocarbon may be any hydrocarbon .
+For example , the hydrocarbon may be an acrylate , a meth
+acrylate , an epoxy , a urethane , an ester , a silicone , a styrene , or a combination thereof . For example , the hydrocarbon may
+comprise a monofunctional hydrocarbon , a difunctional
+hydrocarbon , a trifunctional hydrocarbon , a multifunctional
+hydrocarbon , or a combination thereof . [ 0046 ] The carbon containing photocurable formulation
+may have a viscosity . The viscosity of the carbon containing
+photocurable formulation is in the range of 1
+millipascal . second to 1 , 000 millipascal . second at about 25°
+C . ; or in the range of 10 millipascal . second to 300
+millipascal . second at about 25° C . ; or in the range of 50
+millipascal second to 150 millipascal . second at about 25° C . [ 0047 ] The carbon containing photocurable formulation
+may comprise a carbon nanotube . The carbon nanotube may comprise a single - wall carbon nanotube , a double - wall car
+bon nanotube , a multi - wall carbon nanotube , or a combina
+tion thereof . The carbon containing photocurable formula
+tion , when cured , may yield a polymer composite with an
+electrical resistivity lower than or equivalent to 1 ohm . cm .
+[ 0048 ] Any three - dimensional polymer composite object prepared by using any of the carbon containing photocurable
+formulations disclosed above is within the scope of the
+instant disclosure . [ 0049 ] The instant disclosure also relates to a method of preparation of a carbon containing photocurable formula
+tion . The method may comprise processing a conditioned
+photocurable mixture at a high shear rate and thereby preparing a carbon containing photocurable formulation . The conditioned photocurable mixture may be prepared by
+a method comprising processing a photocurable mixture at
+a low shear rate . The photocurable mixture may comprise a
+carbon , a photocurable resin , and a photoinitiator . The high
+shear rate may be equivalent to or higher than 200 , 000 s - ;
+or equivalent to or higher than 500 , 000 s - 4 ; or equivalent to
+or higher than 1 , 000 , 000 s - 1 ; or equivalent to or higher than
+10 , 000 , 000 s - 4 . The low shear rate may be lower than
+200 . 000 s - 1 .
+[ 0050 ] The conditioned photocurable mixture may be sub
+stantially free of any dispersing agent . The photocurable mixture may be substantially free of any dispersing agent . [ 0051 ] The carbon may substantially be free of functional
+groups that can facilitate dispersion of the carbon compound
+in the mixture .
+[ 0052 ] The carbon may comprise a nanocarbon , a pyro lytic carbon , a graphite , an activated carbon , an amorphous
+carbon , a carbon fiber , or a combination thereof . The nano
+carbon may comprise a carbon nanotube , a graphene , a
+fullerene , or a combination thereof . The carbon nanotube
+may comprise a single - wall carbon nanotube , a double - wall
+carbon nanotube , a multi - wall carbon nanotube , or a com
+bination thereof . The graphene may comprise a single layer graphene , a double layer graphene , a multilayer graphene , a
+graphene strip , or a combination thereof . The fullerene may comprise a C60 , a C70 , a C76 , a C78 , a C84 , or a combination
+thereof . [ 0053 ] The photocurable resin may comprise a photocur able monomer , a photocurable oligomer , a photocurable polymer , or a combination thereof . [ 0054 ] The photocurable resin may comprise a monomer , oligomer or a polymer of an acrylate , a methacrylate , an
+epoxy , a urethane , an ester , a silicone , a vinyl alcohol , a vinyl acetate , an alkene , a glycerol , a glycol , a ketone , or a
+combination thereof . [ 0055 ] The carbon containing photocurable formulation
+has a viscosity , wherein the viscosity of the carbon contain
+ing photocurable formulation may in the range of 1
+millipascal . second to 1 , 000 millipascal . second at about 25°
+C . ; or in the range of 10 millipascal . second to 300
+millipascal . second at about 25° C . ; or in the range of 50
+millipascal . second to 150 millipascal . second at about 25° C . [ 0056 ] The carbon containing photocurable formulation , when cured , may yield a polymer composite with an elec
+trical resistivity lower than or equivalent to 100 ohm . cm ; or 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+direction . The pristine filament enters into the nanocarbon
+suspension on the left side , and the nanocarbon - coated
+filament exits from the right side . [ 0069 ] FIG . 8 . Examples of 3D - printed polymer compos ite objects : ( A ) CNT - based composite object of Example 10 , ( B ) C6o - based composite object of Example 11 , and ( C )
+reference polymer object ( with no carbon ) of Example 12 .
+lower than or equivalent to 10 ohm . cm ; or lower than or
+equivalent to 1 ohm . cm ; or lower than or equivalent to 0 . 1
+ohm . cm . [ 0057 ] In this preparation method the carbon may com
+prise a carbon nanotube . The carbon nanotube may comprise
+a single - wall carbon nanotube , a double - wall carbon nano
+tube , a multi - wall carbon nanotube , or a combination
+thereof . The carbon containing photocurable formulation , when cured , may yield a polymer composite with an elec
+trical resistivity lower than or equivalent to 1 ohm . cm . [ 0058 ] Any three - dimensional polymer composite object prepared by using any of the carbon containing photocurable formulation disclosed above , which may be prepared by any of the methods suitable for preparation of such formulations
+may be within the scope of the instant disclosure . [ 0059 ] Any combination of the above feedstocks ; methods
+of preparation of such feedstocks ; carbon containing pho
+tocurable formulations ; methods of preparation of such
+formulations ; 3D printers ; 3D printers that use such feed
+stocks and / or such formulations ; 3D objects ; methods of
+preparation of such 3D objects by using such 3D printers ,
+feedstocks and formulations may be within the scope of the
+instant disclosure . [ 0060 ] These , as well as other components , steps , features , objects , benefits , and advantages , will now become clear
+from a review of the following detailed description of
+illustrative embodiments , the accompanying drawings , and
+the exemplary features .
+BRIEF DESCRIPTION OF DRAWINGS
+[ 0061 ] The drawings are of illustrative embodiments . They do not illustrate all embodiments . Other embodiments
+may be used in addition or instead . Details that may be
+apparent or unnecessary may be omitted to save space or for
+more effective illustration . Some embodiments may be prac ticed with additional components or steps and / or without all
+of the components or steps that are illustrated . When the
+same numeral appears in different drawings , it refers to the
+same or like components or steps . [ 0062 ] FIG . 1 . An exemplary SEM ( scanning electron
+microscope ) image of a dried CNT mat showing agglomer
+ated and tangled CNT bundles . The scale bar at the left
+bottom corner ( shown in white color ) equals about 1
+micrometer . 10063 ] FIG . 2 . An example of a metal particle ( or granule )
+( left ) and a polymer filament ( right ) coated with a nanocar
+bon ( e . g . , CNT ) coating . The metal and polymer materials
+are both shown in grey color , and the nanocarbon coating is
+shown in black color . [ 0064 ] FIG . 3 . ( A ) CNT - coated granules and ( B ) pure ( i . e . uncoated ) aluminum granules . The scale bar in the center is
+about 1 mm and refers to both photographs . [ 0065 ] FIG . 4 . As - cast cylinder - shaped aluminum - CNT
+composite . [ 0066 ] FIG . 5 . Optical microscope images of the surface
+of alum inum - CNT composites : ( A ) batch 1 and ( B ) batch 2 . The arrow shows a defect . [ 0067 ] FIG . 6 . High magnification ( ~ 70 , 000 ) scanning electron microscope ( SEM ) image of the surface defect on
+the composite of batch 2 revealing presence of CNT agglom
+erates shown by arrows . [ 0068 ] FIG . 7 . An example of a metal or polymer filament
+( grey color ) drawn through a nanocarbon ( e . g . , CNT ) sus
+pension ( black color ) . The arrows indicate the drawing
+DETAILED DESCRIPTION OF ILLUSTRATIVE
+EMBODIMENTS
+[ 0070 ] Illustrative embodiments are now described . Other
+embodiments may be used in addition or instead . Details that
+may be apparent or unnecessary may be omitted to save
+space or for a more effective presentation . Some embodi
+ments may be practiced with additional components or steps
+and / or without all of the components or steps that are
+described . 10071 ] In this disclosure , the word “ form ” may mean
+“ deposit ” , “ coat ” , “ dispose ” , “ laminate ” , “ apply ” , “ place ” , " provide ” , “ position ” , “ manufacture ” or the like . In this
+disclosure , the phrase " any combination thereof " or " a
+combination thereof ” may mean “ a mixture thereof " , " a
+composite thereof ” , “ an alloy thereof ” , or the like . In this
+disclosure , the indefinite article “ a ” and phrases “ one or
+more ” and “ at least one ” are synonymous and mean “ at least
+one ” . 10072 ] This disclosure relates in general to three dimen
+sional ( “ 3D ” ) printers having a configuration that prepares
+three - dimensional objects by using a feedstock comprising a
+metal or a polymer compound and a carbon coating formed
+on a surface of the compound . This disclosure also relates to
+such feedstocks and their preparation methods . This disclo
+sure further relates to 3D composite objects prepared by
+using such printers and feedstocks . This disclosure also
+relates to carbon containing photocurable formulations and
+methods for their preparation . This disclosure further relates
+to electrically conducting 3D polymer composites prepared
+by using such carbon containing photocurable formulations .
+[ 0073 ] Addition of carbons and , in particular , nanocar
+bons , such as carbon nanotubes ( CNT ) , graphenes ( GR ) , fullerenes ( FL ) , and their mixtures in various proportions and combinations , to metal , plastic , ceramic , glass , polymer , and other 3D printing materials may lead to formation of
+nanocarbon composites with increased electrical conductiv
+ity , increased thermal conductivity , increased mechanical
+strength , and other improvements in properties . [ 0074 ] Addition of nanocarbons also may lead to
+increased absorption of incident light in wide frequency
+range ( e . g . , UV , visible , IR ) thereby improving the efficiency
+of irradiative heating of the feedstock and photochemical reactions . This may lead to higher rates and increased
+throughput of 3D printing processes , thereby making 3D
+printed parts more competitive on the market . [ 0075 ] A major challenge in these tasks is ensuring high
+degree of dispersion of carbon in the carbon composite
+materials since only well - dispersed carbons impart useful
+properties . Typically , carbon agglomeration results in under
+utilized potential of the composite material and degraded properties of product . [ 0076 ] Another challenge is preventing structural or other
+damage to carbons in the process of fabrication of nanocar
+bon composites . Damaged carbons may exhibit inferior
+properties when incorporated in composite materials . 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+[ 0077 ] The feedstock of the instant disclosure may provide several advantages to the 3D printing of objects . For
+example , three dimensional objects may be printed at higher throughputs by using the feedstocks of the instant disclo
+sure . The production costs of such article may thereby be
+decreased while production rates are increased . The use of
+these feedstocks may also decrease the power requirements of the 3D printers , thereby decreasing the prices of such
+printers . 10078 ] . The feedstocks of the instant disclosure may also
+provide materials with improved properties for 3D printing
+technologies . These improvements may include ( but not
+limited to ) higher electrical and thermal conductivity , better
+mechanical and thermal properties . [ 0079 ] This disclosure relates to a 3D printer that may have a configuration that dispenses a feedstock ; deposits a
+layer of the feedstock on a surface ; delivers an electromag netic radiation to selected areas of the feedstock layer ; and
+prepares a three - dimensional object . The coating may
+absorb the delivered electromagnetic radiation at a selected
+area of the feedstock layer , convert the absorbed electro
+magnetic radiation to heat , and transfer the heat to the metal
+compound thereby heating the selected area of the feedstock
+layer , and causing the feedstock to bond to each other , and
+thereby forming a bonded feedstock layer . [ 0080 ] The deposition of the first layer may happen on any
+surface . For example , this surface may be a surface of
+another object . [ 0081 ] The 3D printer may further have a configuration that deposits a layer of feedstock on a surface of the bonded
+feedstock layer formed before ; and forms another bonded
+feedstock layer . Thus , the 3D printer of the instant disclosure
+may prepare an object layer by layer .
+[ 0082 ] This disclosure also relates to a feedstock . The
+feedstock may comprise a compound and a coating formed
+on a surface of the compound . The compound may comprise
+any compound . For example , the compound may comprise
+a metal , a glass , a ceramic , a polymer , or a combination
+thereof . For example , the compound may be a metal . For
+example , the compound may be a polymer . [ 0083 ] The coating may comprise a carbon . The carbon
+may be any type of carbon . For example , the carbon may comprise a nanocarbon , a pyrolytic carbon , a graphite , an
+activated carbon , an amorphous carbon , a carbon fiber , or a
+combination thereof . [ 0084 ] For example , the coating may comprise a nanocar
+bon . The nanocarbon may be a non - agglomerated nanocar
+bon . Examples of the nanocarbon may be a carbon nanotube
+( CNT ) , a graphene ( GR ) , a fullerene ( FL ) , or a combination
+thereof . Examples of the carbon nanotube may be a single wall carbon nanotube , a double - wall carbon nanotube , a
+multi - wall carbon nanotube , or a combination thereof . [ 0085 ] For example , the coating may comprise a graphene . Examples of the graphene may be a single layer graphene , a double layer graphene , a multilayer graphene , a graphene
+strip , or a combination thereof . [ 0086 ] For example , the coating may comprise a fullerene . Examples the fullerene may be a C60 , a C70 , a C76 , a C78 , a
+C84 , or a combination thereof . [ 0087 ] For example , the compound may be a metal com
+pound . The metal compound may be any metal . The
+examples of the metal compound may be titanium , vana
+dium , chromium , manganese , iron , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium ,
+gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a combination thereof . [ 0088 ] The metal compound may have any shape . For
+example , the metal compound may comprise a metal particle ( e . g . granule ) , a metal wire , a metal tube , a metal sheet , or
+a combination thereof . [ 0089 ] The coating may absorb the delivered electromag netic radiation at a selected area of the feedstock layer , may convert the absorbed electromagnetic radiation to heat , and
+may then transfer the heat to the compound thereby heating the selected area of the feedstock layer , and causing the
+feedstock to bond to each other , and thereby forming a
+bonded feedstock layer . [ 0090 ] The coating has an absorbance of the electromag netic radiation . The absorbance of the coating may be higher
+than absorbance of the compound . For example , the absor
+bance of the coating may be at least 50 percent , at least 100
+percent , at least 500 percent , or at least 800 percent higher
+than the absorbance of the compound .
+[ 0091 ] Because the coating has an absorbance of the
+electromagnetic radiation higher than that of the compound ,
+heating rate of the feedstock comprising the compound and
+the coating may be higher than that of a feedstock without
+the coating . For example , the heating rate of the feedstock
+comprising the compound and the coating may be at least 50
+percent , at least 100 percent , at least 500 percent , or at least
+800 percent higher than that of a feedstock without the
+coating . [ 0092 ] The coating may be sufficiently thick to substan
+tially absorb electromagnetic radiation , but not too thick to
+cause defects in the composite object and thereby negatively impact properties of the composite object . For example , the
+coating thickness may be in the range of 10 nanometers to
+100 micrometers , in the range of 100 nanometers to 10
+micrometers , or in the range of 1 micrometer to 5 microm
+eters . 10093 ] . The 3D printer of the instant disclosure may emit
+the electromagnetic radiation at any power suitable to form
+a bonded feedstock layer . Lowest emission power that forms
+a bonded feedstock layer may be preferred since manufac
+turing cost of the 3D printers and / or operating costs of such
+printers may thereby be decreased . For example , the 3D
+printer may emit the electromagnetic radiation with power less than or equivalent to 5 , 000 watts , with power less than
+or equivalent to 1 , 000 watts ; with power less than or
+equivalent to 500 watts ; or with power less than or equiva
+lent to 100 watts . [ 0094 ] Any three - dimensional object prepared by any of
+the 3D printers disclosed above may be within scope of this
+instant disclosure . [ 0095 ] This disclosure also relates to a feedstock as dis
+closed above . This feedstock may be used in preparation of
+3D objects by any equipment or method . For example , this
+feedstock may be used in preparation of 3D objects by any of the 3D printers disclosed above . [ 0096 ] The feedstock may comprise a compound , and a
+coating formed on a surface of the compound . [ 0097 ] The compound may be any compound . For
+example , the compound may comprise a metal , a glass , a
+ceramic , a polymer , or a combination thereof . For example , the compound may comprise a metal . For example , the
+compound may comprise a polymer . [ 0098 ] The coating may comprise a carbon . The carbon
+may be any type of carbon . For example , the carbon may 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+comprise a nanocarbon , a pyrolytic carbon , a graphite , an
+activated carbon , an amorphous carbon , a carbon fiber , or a
+combination thereof .
+[ 0099 ] For example , the coating may comprise a nanocar
+bon . The nanocarbon may be a non - agglomerated nanocar
+bon . Examples of the nanocarbon may be a carbon nanotube
+( CNT ) , a graphene ( GR ) , a fullerene ( FL ) , or a combination
+thereof . Examples of the carbon nanotube may be a single
+wall carbon nanotube , a double - wall carbon nanotube , a
+multi - wall carbon nanotube , or a combination thereof . [ 0100 ] For example , the coating may comprise a graphene . Examples of the graphene may be a single layer graphene , a double layer graphene , a multilayer graphene , a graphene strip , or a combination thereof . [ 0101 ] For example , the coating may comprise a fullerene . Examples the fullerene may be a C60 , a C70 , a C76 , a C78 , a
+C84 , or a combination thereof . 10102 ] For example , the compound may be a metal . The
+metal compound may comprise any metal . The examples of
+the metal may comprise titanium , vanadium , chromium , manganese , iron , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a
+combination thereof . [ 0103 ] The metal compound may have any shape . For
+example , the metal compound may comprise a metal particle
+( e . g . granule ) , a metal wire , a metal tube , a metal sheet , or
+a combination thereof . [ 0104 ] The coating may have an absorbance of the elec
+tromagnetic radiation . The absorbance of the coating may be
+higher than absorbance of the compound . For example , the
+absorbance of the coating may be at least 50 percent , at least
+100 percent , at least 500 percent , or at least 800 percent higher than the absorbance of the compound . [ 0105 ] Because the coating has an absorbance of the
+electromagnetic radiation higher than that of the compound , heating rate of the feedstock comprising the compound and
+the coating may be higher than that of a feedstock without
+the coating . For example , the heating rate of the feedstock
+comprising the compound and the coating may be at least 50
+percent , at least 100 percent , at least 500 percent , or at least
+800 percent higher than that of a feedstock without the
+coating .
+[ 0106 ] The coating may be sufficiently thick to substan
+tially absorb electromagnetic radiation , but not too thick to
+cause defects in the composite object and thereby negatively impact properties of the composite object . For example , the
+coating thickness may be in the range of 10 nanometers to
+100 micrometers , in the range of 100 nanometers to 10
+micrometers , or in the range of 1 micrometer to 5 microm
+eters . [ 0107 ] Any three - dimensional object prepared by using
+any of the feedstocks disclosed above may be within scope
+of this instant disclosure . [ 0108 ] The instant disclosure also relates to a method of
+preparation ( preparation method " ) . For example , the prepa
+ration method may be preparation of a suspension of a
+carbon in a solvent ( “ method of preparation of a carbon
+suspension ” ) . For example , the method may comprise pro cessing a conditioned mixture at a high shear rate and
+thereby preparing a carbon suspension . In this preparation
+method , the conditioned mixture may be prepared by a
+method comprising processing a solution at a low shear rate .
+The low shear rate may be lower than 200 , 000 s - 7 . The high shear rate may be equivalent to or higher than 200 , 000 s - 7 . 101091 .In this method , first , the conditioned mixture may be prepared . The conditioned mixture may be prepared by processing a solution at a shear rate lower than 200 , 000 s - 1 . The low shear rate processing of the solution may be
+achieved by using any low shear mixing equipment . Such
+mixing equipment is disclosed , for example , in a publication
+by Deutsch et al . “ Mix or Match : Choose the Best Mixers
+Every Time : The choice is wide from a variety of agitators , to devices that homogenize , emulsify , or disintegrate solids "
+Chemical Engineering , volume 105 , issue 8 ( August , 1998 ) :
+page 70 . The entire content of this publication is incorpo rated herein by reference . [ 0110 ] In this method , second , a carbon suspension is
+prepared by processing the conditioned mixture at a shear
+rate higher than 200 , 000 s - 4 . Examples of the high shear rate
+equipment may be rotor - stators , colloid mills , homogenizers
+and microfluidizers , as disclosed in Deutsch publication . Microfluidizer high shear fluid processors manufactured by Microfluidics Corporation ( Westwood , Mass . ) may be suit
+able for high shear processing of the conditioned mixture . Such microfluidizers may process the conditioned mixture at
+a shear rate higher than 1 , 000 , 000 s - ? . After this high shear processing , a carbon suspension comprising substantially
+non - agglomerated carbons may be obtained . [ 0111 ] The solution may comprise a carbon and a solvent . The solution may be substantially free of any dispersing
+agent . The carbon may be substantially free of functional
+groups that can facilitate dispersion of the carbon compound
+in the solution . [ 0112 ] The carbon may be any carbon disclosed above . For example , the carbon may comprise a nanocarbon , a
+pyrolytic carbon , a graphite , an activated carbon , an amor
+phous carbon , a carbon fiber , or a combination thereof . For
+example , the coating may comprise a nanocarbon . The
+nanocarbon may be a non - agglomerated nanocarbon . Examples of the nanocarbon may be a carbon nanotube
+( CNT ) , a graphene ( GR ) , a fullerene ( FL ) , or a combination
+thereof . Examples of the carbon nanotube may be a single
+wall carbon nanotube , a double - wall carbon nanotube , a
+multi - wall carbon nanotube , or a combination thereof . For
+example , the coating may comprise a graphene . Examples of
+the graphene may be a single layer graphene , a double layer
+graphene , a multilayer graphene , a graphene strip , or a
+combination thereof . For example , the coating may com
+prise a fullerene . Examples the fullerene may be a C60 , a
+C70 , a C76 , a C78 , a C84 , or a combination thereof . [ 0113 ] In this method , the solvent may be any solvent . For
+example , the solvent may comprise water , an acid , a base , an
+aromatic solvent , an alcohol , an aromatic solvent , benzene , halogenated benzene , xylene , toluene , a dichlorobenzene , dimethylformamide , formamide and its derivatives , N - meth
+ylpyrrolidinone , dichloroethane , dibromoethane , carbon dis
+ulfide , pyridine , or a combination thereof . 0114 ] In this method , the conditioned mixture may sub
+stantially be free of any dispersing agent . 0115 ] . The preparation method may further comprise
+depositing the carbon suspension on a surface of a metal
+compound
+f0116 The metal compound may comprise any metal . For
+example , the metal compound may comprise titanium , vana
+dium , chromium , manganese , iron , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium , 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a combination thereof . [ 0117 ] The metal compound may have any structural form
+or shape . For example , the metal compound may comprise
+a metal particle , a metal wire , a metal tube , a metal sheet , or
+a combination thereof . [ 0118 ] The preparation method may further comprise removing the solvent ; thereby forming a coating on a surface
+of the metal compound ; and thereby preparing a feedstock . The solvent may be removed until the feedstock is substan
+tially free of solvent . The solvent may be removed by any technique . For example , the solvent may be removed by evaporation , centrifugation , using drying agents ( e . g . absor
+bents or adsorbents ) , or a combination thereof . [ 0119 ] The coating has a thickness . The coating thickness
+may be in the range of 10 nanometers to 100 micrometers ;
+the range of 100 nanometers to 10 micrometers ; or in the
+range of 1 micrometer to 5 micrometers . [ 0120 ] After the removal of the solvent , the coating may essentially comprise the carbon . [ 0121 ] Any three - dimensional composite object prepared by using the carbon suspension prepared by the method
+disclosed above may be within the scope of the instant
+disclosure . [ 0122 ] The instant disclosure also relates to a carbon containing photocurable formulation . This formulation may comprise a carbon , a photocurable resin ; and a photoinitiator
+( i . e . photo - catalyst ) . The carbon containing photocurable formulation , when cured , may yield a polymer composite with an electrical resistivity lower than or equivalent to 100
+ohmcm , or lower than or equivalent to 10 ohm . cm , or lower
+than or equivalent to 1 ohm . cm , or lower than or equivalent
+to 0 . 1 ohm . cm . [ 0123 ] The carbon containing photocurable formulation
+may comprise a nanocarbon , a pyrolytic carbon , a graphite , an activated carbon , an amorphous carbon , a carbon fiber , or
+a combination thereof . The carbon may comprise a nano
+carbon . The carbon may comprise a non - agglomerated nanocarbon . The nanocarbon may comprise a carbon nano
+tube , a graphene , a fullerene , or a combination thereof . The
+carbon nanotube may comprise a single - wall carbon nano
+tube , a double - wall carbon nanotube , a multi - wall carbon
+nanotube , or a combination thereof . The graphene may comprise a single layer graphene , a double layer graphene , a multilayer graphene , a graphene strip , or a combination
+thereof . The fullerene may comprise a C60 , a C70 , a C76 , a
+C78 , a C84 , or a combination thereof . [ 0124 ] The photocurable resin may comprise a photocur able monomer , a photocurable oligomer , a photocurable
+polymer , or a combination thereof . The photocurable resin
+may comprise a monomer , oligomer , or a polymer of a
+hydrocarbon . The hydrocarbon may be any hydrocarbon . For example , the hydrocarbon may be an acrylate , a meth
+acrylate , an epoxy , a urethane , an ester , a silicone , a styrene , or a combination thereof . For example , the hydrocarbon may comprise a monofunctional hydrocarbon , a difunctional
+hydrocarbon , a trifunctional hydrocarbon , a multifunctional
+hydrocarbon , or a combination thereof . [ 0125 ] The carbon containing photocurable formulation
+has a viscosity . The viscosity of the carbon containing photocurable formulation is in the range of 1
+millipascal . second to 1 , 000 millipascal . second at about 250
+C . ; or in the range of 10 millipascal . second to 300
+millipascal . second at about 25° C . ; or in the range of 50
+millipascal second to 150 millipascal . second at about 25° C . [ 0126 ] The carbon containing photocurable formulation
+may comprise a carbon nanotube , and wherein the carbon
+nanotube may comprise a single - wall carbon nanotube , a
+double - wall carbon nanotube , a multi - wall carbon nanotube , or a combination thereof ; wherein the carbon containing photocurable formulation , when cured , may yield a polymer composite with an electrical resistivity lower than or equiva lent to 1 ohm . cm . [ 0127 ] Any three - dimensional polymer composite object prepared by using any of the carbon containing photocurable formulations disclosed above is within the scope of the
+instant disclosure . [ 0128 ] The instant disclosure also relates to a method of
+preparation of a carbon containing photocurable formula
+tion . The method may comprise processing a conditioned
+photocurable mixture at a high shear rate and thereby preparing a carbon containing photocurable formulation . The conditioned photocurable mixture may be prepared by
+a method comprising processing a photocurable mixture at
+a low shear rate . The photocurable mixture may comprise a
+carbon , a photocurable resin , and a photoinitiator . The high shear rate may be equivalent to or higher than 200 , 000 s = 1 ;
+or equivalent to or higher than 500 , 000 s - 4 ; or equivalent to
+or higher than 1 , 000 , 000 s - ? ; or equivalent to or higher than
+10 , 000 , 000 s - 1 . The low shear rate may be lower than
+200 , 000 s - .
+[ 0129 ] The conditioned photocurable mixture may sub
+stantially be free of any dispersing agent . The photocurable mixture may be substantially free of any dispersing agent . 0130 ] The carbon may substantially be free of functional
+groups that can facilitate dispersion of the carbon compound
+in the mixture .
+[ 0131 ] The carbon may comprise a nanocarbon , a pyro lytic carbon , a graphite , an activated carbon , an amorphous
+carbon , a carbon fiber , or a combination thereof . The nano
+carbon may comprise a carbon nanotube , a graphene , a
+fullerene , or a combination thereof . The carbon nanotube
+may comprise a single - wall carbon nanotube , a double - wall
+carbon nanotube , a multi - wall carbon nanotube , or a com
+bination thereof . The graphene may comprise a single layer graphene , a double layer graphene , a multilayer graphene , a
+graphene strip , or a combination thereof . The fullerene may comprise a C60 , a C70 , a C76 , a C78 , a C84 , or a combination
+thereof . [ 0132 ] The photocurable resin may comprise a monomer , oligomer or a polymer of an acrylate , a methacrylate , an
+epoxy , a urethane , an ester , a silicone , a vinyl alcohol , a vinyl acetate , an alkene , a glycerol , a glycol , a ketone , or a
+combination thereof . [ 0133 ] The carbon containing photocurable formulation
+has a viscosity , wherein the viscosity of the carbon contain
+ing photocurable formulation may in the range of 1
+millipascal second to 1 , 000 millipascal . second at about 25°
+C . ; or in the range of 10 millipascal . second to 300
+millipascal - second at about 25° C . ; or in the range of 50
+millipascal . second to 150 millipascal . second at about 25° C . [ 0134 ] The carbon containing photocurable formulation , when cured , may yield a polymer composite with an elec
+trical resistivity lower than or equivalent to 100 ohm . cm ; or
+lower than or equivalent to 10 ohm . cm ; or lower than or
+equivalent to 1 ohm . cm ; or lower than or equivalent to 0 . 1
+ohm . cm . 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+[ 0135 ] In this preparation method the carbon may com
+prise a carbon nanotube . The carbon nanotube may comprise
+a single - wall carbon nanotube , a double - wall carbon nano
+tube , a multi - wall carbon nanotube , or a combination
+thereof . The carbon containing photocurable formulation , when cured , may yield a polymer composite with an elec
+trical resistivity lower than or equivalent to 1 ohm . cm . [ 0136 ] Any three - dimensional polymer composite object prepared by using any of the carbon containing photocurable formulation disclosed above , which may be prepared by any of the methods suitable for preparation of such formulations
+may be within the scope of the instant disclosure . [ 0137 ) As disclosed above , the CNT materials may be
+synthesized by variety of CNT synthesis methods . The CNT
+formation and growth may stop during the synthesis . The
+CNT formation and growth may stop due to decreased
+catalyst activity when the catalyst ' s surface is covered with
+an amorphous carbon layer . Or , the CNT formation and
+growth may be stopped after a pre - determined period of
+synthesis . At this process stage , the CNTs are “ as - synthe sized CNTs ” . [ 0138 ] The as - synthesized CNTs may be processed before
+they are used . For example , the as - synthesized CNTs may be
+incorporated into a liquid or mixed with a liquid . This
+incorporation may be done , for example , to dissolve impu rities ( e . g . non - CNT material ) , to provide a CNT suspension ,
+or a combination thereof . Examples of impurities may be
+non - CNT carbons ( e . g . , amorphous carbon ) , inorganic cata
+lysts , catalyst supports , or a combination thereof . 10139 ] The liquid mixture at this process stage may com
+prise a liquid and an as - synthesized nanocarbon ( “ the nano
+carbon slurry ” ) . The liquid may comprise any liquid . For
+example , the liquid may comprise water , or mixtures
+thereof . The solvent may comprise any solvent . For
+example , the solvent may comprise a hydrocarbon solvent
+such as alcohol , ketone , ester , ether , alkane , alkene , aromatic
+hydrocarbons ( such as benzene and various derivatives ) , or
+mixtures thereof . The nanocarbon slurry may further com
+prise an acid , a base , a suspension agent , or a combination
+thereof . [ 0140 ] In one example , the CVD process may involve
+passing a hydrocarbon vapor through a reactor at a suffi
+ciently high temperature , varying in the range of 600° C . to 1200° C . , and in presence of a catalyst to decompose the
+hydrocarbon . In one example , the catalyst may comprise
+metals and / or metal oxides ( e . g . , Fe , Co , Ni , Mo , their
+oxides , and a combination thereof ) . The catalyst may be
+nanoparticles of such metals and / or metal oxides . In one
+example , support material may comprise alumina , silica , magnesium oxide , and a combination thereof . The CNTs
+may form and grow on catalyst particles in the reactor and
+may be collected upon cooling the system to a room tem
+perature . These CNTs collected directly from the reactor and
+not yet treated in any way are the as - synthesized CNTs . The
+as - synthesized CNTs may comprise at least 50 wt % inor
+ganic impurities including the catalyst and the support
+material , which may need to be removed to produce a
+material comprising CNTs with desired properties . 10141 ] In one example , the as - synthesized CNTs may be
+purified by being immersed in acids ( such as H2SO4 , HNO3 , HCl , and a combination thereof ) and refluxed for a period
+varying in the range of 1 hour to 24 hours resulting in
+significantly decreased amount of impurities ( down to a few
+wt % of impurities ) . The purified CNT material may be
+thoroughly washed to remove any residual acid and then
+dried in a convection oven at a temperature varying in the
+range of 20° C . to 150° C . for a period varying in the range of 1 hour to 48 hours . [ 0142 ] The as - synthesized and purified CNTs may easily be dispersed in the liquid since they may not be substantially
+agglomerated . However , upon being wetted and subse
+quently dried , the CNT material may be converted into an
+agglomerated and tangled mat comprising irregular clusters
+of individual CNTs , as shown in FIG . 1 . This post - drying transition may occur due to high amount of the CNTs '
+atomically smooth surface and attendant large surface
+energy . This condition may make the conformation of
+straight individual CNTs energetically unstable and suscep tible to deformation and agglomeration . [ 0143 ] The instability may greatly be enhanced by intro
+ducing a liquid between individual CNTs and then evapo rating the liquid . In other words , wetting and then drying
+CNTs may induce severe agglomeration due to attraction
+forces exerted by liquids in intimate contact with the CNT
+surface . Upon drying , CNTs may coalesce into large bundles
+( including tens to hundreds of CNTs in cross section ) , which
+then form a highly tangled structure , as shown in FIG . 1 by
+way of example . These agglomerated structures may not
+exhibit many of the remarkable properties expected of
+individual , well - dispersed and / or isolated CNTs . 10144 ] Commercially available CNT materials are typi
+cally those of the purified and dried grade , marketed either
+as a powder obtained after drying , or as a CNT suspension produced by re - dispersing the dry purified powder in either
+an aqueous or organic solvent . The commercially available
+purified grades of the CNT materials ( “ the commercial
+CNTs ” ) may undergo at least one wetting and drying cycle
+before they are supplied to a user . The commercial CNTs
+may thereby have agglomerated structures . [ 0145 ] It may then be difficult to disperse this agglomer ated structure down to the level of individual CNTs that may be required for many applications . To accomplish this task , commercially available grades of CNT materials may have
+to be subjected to vigorous harsh treatments that may
+consume a lot of energy and inflict considerable collateral
+damage upon the CNT material ( e . g . , by destroying some
+CNTs , creating defects in CNT walls , and / or cutting CNTs
+into shorter segments ) resulting in degraded nanocarbon
+material properties . [ 014 ] In one example , this disclosure relates to a method
+comprising using the as - synthesized CNTs , the non - agglom
+erated and / or non - damaged CNTs , the CNT slurry , or the
+combination thereof in preparation of the nanocarbon com
+posites . The drying - induced agglomeration and entangle ment , as well as damage during processing of agglomerated CNT may thereby be avoided . For example , the purified CNTs may be kept in a suspension or , at least , as the
+nanocarbon slurry ( the “ purified CNT slurry ' ) . In other
+words , the as - synthesized CNT materials may be purified by refluxing in acids but then never be allowed to dry before
+reaching the customer , instead being kept as the purified
+CNT slurry . The customer may either use the purified CNT
+slurry or , if necessary , exchange the liquid with another
+liquid and process the CNT slurry as desired , allowing it to
+dry only at the final step of their process . This arrangement
+would significantly facilitate dispersion and prevent dam
+aging of CNT materials resulting in improvement of product properties and performance . 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+10
+during the dispersion process . The G / D ratio of a nanocar
+bon incorporated in a nanocarbon composite being 80 %
+lower than , 50 % lower than , 25 % lower than , 10 % lower
+than that of the as - synthesized nanocarbon may indicate a
+non - damaged nanocarbon . Also , the G / D ratio of a nano
+carbon incorporated in a composite being at least 80 %
+higher than , at least 50 % higher than , at least 25 % higher
+than , at least 10 % higher than , or at least equal to that of the
+as - synthesized nanocarbon may indicate a non - damaged nanocarbon .
+[ 0153 ] The disclosure is illustrated further by the follow
+ing additional examples that are not to be construed as
+limiting the disclosure in scope to the specific procedures or
+products described in them .
+EXAMPLE 1
+[ 0147 ] The process of dispersing the purified CNT slurry
+material down to the level of individual CNTs may be
+accomplished through any of mixing , sonicating , or homog
+enizing techniques , or a combination thereof . As compared
+to the current commercial CNT materials , the dispersion of
+the purified CNT slurry material may require much less
+effort and inflict much less damage to CNTs in the process of achieving the desired degree of dispersion . The same
+considerations may apply to other types of nanocarbon
+materials . Higher degree of dispersion and reduced damage to nanocarbon structure may result in improved properties . The dispersion process may be carried out in either aqueous
+or organic solvents . Examples of aqueous or organic sol
+vents may comprise water , toluene , alcohol , carbon disul
+fide , dichlorobenzene , other benzene derivatives , aromatic
+solvents , dimethylformamide , N - methylpyrrolidinone , pyri
+dine , and mixtures thereof . [ 0148 ] The purified CNT slurry may comprise a liquid and
+a CNT . The CNT may comprise less than 80 wt % , less than
+50 wt % , or less than 10 wt % of the CNT slurry . Presence
+of sufficient number of liquid molecules in intimate contact
+with CNTs stabilizes the system and prevents CNT agglom eration . 10149 ] A convenient method to evaluate the degree of
+agglomeration of CNTs incorporated into composite mate
+rials may be through examination of scanning electron
+microscopy ( SEM ) and / or transmission electron microscopy
+( TEM ) images . The CNT agglomerates are readily visible in
+SEM and / or TEM images at magnifications 1 , 000 or 30 , 000
+times and less , depending on agglomerate size . The non
+agglomerated CNTs are much smaller in size and may be
+seen in SEM and / or TEM images at magnifications 40 , 000
+or 80 , 000 times and higher . ( 0150 ] The damage to CNTs caused by a harsh dispersion
+process may be evaluated by measuring Raman spectros
+copy , in particular , using the intensity ratio of the so - called
+G - band and D - band . The G - bands that are typically detected
+at about 1 , 580 cm - ? ( within 120 cm - ? ) are due to the
+non - defective graphitic CNT structure of , while the D - bands
+( at about 1 , 350 cm - 1 within + 20 cm - ? ) are predominantly
+due to structural defects , as disclosed by M . S . Dresselhaus , A . Jorio , A . G . Souza Filho and R . Saito , Defect character
+ization in graphene and carbon nanotubes using Raman
+spectroscopy , Phil . Trans . Royal Society A , vol . 368 , pp . 5355 - 5377 ( 2010 ) . The content of this publication is incor
+porated herein by reference . [ 0151 ] The intensity ratio of the G - band to the D - band
+( i . e . , the G / D ratio ) may be used as a measure of relative
+concentration of CNT defects . Similar evaluation process based on G / D ratio maybe used for graphene materials , as
+disclosed by A . C . Ferrari , Raman spectroscopy of graphene
+and graphite : Disorder , electron — phonon coupling , doping
+and nonadiabatic effects , Solid State Communications , vol . 143 , pp . 47 - 57 ( 2007 ) . The content of this publication is
+incorporated herein by reference . [ 0152 ] To evaluate the damage inflicted on CNT wall
+structure in the process of dispersing the CNT material , the
+G / D ratio may be measured and compared before and after
+the dispersion process . The comparison may be done using
+the same measurement conditions . The as - synthesized and
+or the purified CNT slurry may have the same or higher G / D
+ratio after the dispersion , while the agglomerated CNTs
+( e . g . , dry powder ) may have decreased G / D ratio after the
+dispersion due to the damage inflicted on CNT material
+[ 0154 ] As - synthesized multi - wall CNT material ( compris ing about 85 wt % inorganic impurities ) was refluxed in
+excess amount of about 1M HCl for about 5 hours , and then
+filtered to remove the main volume of the acid while keeping the CNT material wet . The purified product ( comprising about 2 wt % inorganic impurities ) was washed two times
+with de - ionized water to remove the residual acid , and then
+separated into three parts for the experiments described in
+other Examples . The first part was dried in a convection
+oven at about 120° C . for about 4 hours . The second part was
+kept wet and refluxed in water ( at CNT concentration of
+about 2 g / L ) for about 5 hours to loosen up the CNTs . The
+third part was washed with copious amounts of toluene three
+times thereby substantially replacing the water with toluene
+as a solvent and bringing the CNT concentration to about 2
+g / L . Then , the CNT - toluene suspension was refluxed for
+about 5 hours . Finally , both these CNT suspensions ( one in
+water and one in toluene ) were separately passed 2 times
+through a Microfluidizer high shear fluid processor ( LM - 10 , Microfluidics Corporation , Newton , Mass . ) at 20 , 000 psi
+pressure yielding two suspensions of non - agglomerated and /
+or non - damaged CNTs . These suspensions were stable over
+the period of 4 weeks . The G / D ratio as measured with about
+532 nm laser excitation varied in the range of 1 . 2 to 1 . 6 , both
+before and after dispersion indicating that the concentration
+of structural defects did not change . All the above treatment
+steps are scalable and highly reproducible .
+EXAMPLE 2
+[ 0155 ] Dried powder of purified multi - wall CNT material
+prepared in Example 1 as the first part was dispersed following exactly the same process as the other two parts . To
+produce a stable CNT suspension , the dry powder was first
+refluxed in water at CNT concentration of about 2 g / L for
+about 5 hours , then passed 2 times through the Microfluid
+izer . The G / D ratio for the multi - wall CNT dry powder
+material as measured with about 532 nm laser excitation
+may vary in the range of 1 . 1 to 1 . 4 . After dispersing , the G / D
+ratio decreased to a level varying in the range of 0 . 4 to 0 . 8
+indicating increased concentration of CNT defects . [ 0156 ] The multi - wall CNT material may be provided , for
+example , by Thomas Swan & Co Ltd ( UK ) , Nanocyl ( Bel
+gium ) , or many other suppliers . The step of Microfluidizer
+treatment may be combined or substituted with any high shear mixing , sonication , wet ball milling , another similar
+treatment , or a combination thereof . Similar simple and 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+efficient process may be designed to produce the as - synthe sized or the purified non - agglomerated and / or non - damaged CNT slurries . [ 0157 ] A highly dispersed and stable suspension of non
+agglomerated and / or non - damaged CNT material ( “ the well
+dispersed CNT suspension " ) in either water or organic solvents is thereby obtained . The well - dispersed CNT sus
+pension may be used in preparation of composites suitable
+for the 3D printing . [ 0158 ] In the case of SLS and FDM technologies that use
+metal or plastic powder as feedstock , there is a technical
+challenge of mixing nanocarbons with metal or plastic powders in a way that prevents nanocarbons from becoming
+airborne , and also affords achieving the desired proportions . Dry nanocarbon is comprised of particles that may be small
+( - mm or less in length , width , thickness , and / or specific
+dimension ) and have relatively low density ( varying in the
+range of 0 . 005 g / cc to 0 . 5 g / cc ) . These lightweight nano
+carbon particles may easily get airborne thereby presenting potential health hazard and affecting the nominal nanocar
+bon - to - metal or nanocarbon - to - plastic ratio . [ 0159 ] This problem is solved by devising a process to
+physically attach the lightweight nanocarbon particles to
+surfaces of metal or plastic particles which may be denser
+and easier to feed . This step is carried out prior to feeding the
+particles into the 3D printer , so that the feedstock may comprise a metal or plastic core coated with a nanocarbon
+shell , as shown in FIG . 2 . [ 0160 ] On practical level , nanocarbon particles may be
+coated and attached to metal particles through a variety of
+coating techniques using a suspension of a nanocarbon in an
+either aqueous or organic solvent , such as spray coating , dip coating , spin coating , wet ball milling , etc . Process param
+eters are determined by type of a nanocarbon , type of a
+metal , shape and size of the particles , conditions of the
+surfaces ( such as terminating functional group ) . The
+strength of adhesion may need to be just sufficient to allow
+the metal particles to be processed up to the sintering or
+melting step without causing detachment of the coated
+nanocarbons . [ 0161 ] After the sintering or melting step , the coated
+nanocarbons may be captured and incorporated within the
+metal matrix leading to improved properties . Incorporation of the non - agglomerated and / or non - damaged CNT into
+metal structure may result in a CNT composite with
+improved electrical , thermal , mechanical , and other proper ties that may be suitable for 3D - printed products . [ 0162 ] Exemplary procedures to produce CNT - coated
+metal or plastic particles are described in Examples 3 - 7 , 9 - 12 , and CNT - coated filaments — in Example 8 .
+EXAMPLE 4
+[ 0164 ] Iron granules ( average diameter about 50 microm
+eters ) were immersed into the toluene suspension of non
+agglomerated and / or non - damaged CNT of Example 1 and
+subjected to a modified wet ball milling process . In particu
+lar , the wet iron / CNT mixture was agitated for about 30
+minutes in a ball milling apparatus either with the standard
+balls ( batch 1 ) , or with the standard balls removed ( batch 2 ) . Due to the repeated impacts with iron granules or the
+standard balls , CNTs get attached to the metal surface . The
+mixture was dried in a convection oven at about 150° C . for
+about 4 hours . Alternatively , the solvent may be removed by other methods , such as centrifuging . The amount of attached
+CNT was about 0 . 05 wt % and about 0 . 08 wt % in batches
+1 and 2 , respectively . The average coating thickness was 2
+and 3 micrometers in batches 1 and 2 , respectively . The
+CNT - coated iron granules may be used as a feedstock for
+SLS , SLM , and related type 3D printers . 10165 ] Other type CNTs , graphenes and / or fullerenes may also be employed in this application either alone or in
+various combinations . Graphene may be present either as
+graphene oxide ( which may have to be reduced back to
+graphene , e . g . , through reaction with hydrazine ) or pure graphene . The described process may also be used for other
+metals , such as titanium , vanadium , chromium , manganese , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead ,
+bismuth , and alloys , such as steel , bronze , brass , and a
+combination thereof . These nanocarbons , metals , and / or
+alloys may be commercially available from many suppliers . [ 0166 ] Plastics may also be utilized in a manner described
+in this example ( customized for their particular properties , e . g . , softening temperature ) . Examples of such plastics may comprise such as ABS ( acrylonitrile butadiene styrene ) , polyamide , nylon , polycarbonate , polyethylene , polypropyl
+ene , polyetherimide , polyphenylsulfone , polylactic acid , and
+a combination thereof . Any of those plastics may commer
+cially be available from many suppliers . Metal - plastic blends may also be used . The resulting 3D printed nanocar
+bon composite may exhibit improved electrical , thermal , and
+mechanical properties .
+EXAMPLE 5
+[ 0167 ] Aluminum granules ( average diameter about 800
+micrometers ) were immersed into the toluene suspension of
+non - agglomerated and / or non - damaged CNT prepared in
+Example 1 and agitated for about 30 minutes in a ball
+milling apparatus either with the standard balls ( batch 1 ) , or
+with the standard balls removed ( batch 2 ) . The mixture was
+dried in a convection oven at about 150° C . for about 4
+hours . The CNT - coated granules appear black and non
+reflective ( FIG . 3 ( A ) ) , while pure aluminum granules appear white and shiny ( FIG . 3 ( B ) ) . The amount of attached CNT
+was about 0 . 08 wt % in batch 1 and about 0 . 23 wt % in batch
+2 . The average CNT coating thickness was about 1 microm
+eter and about 25 micrometers in batches 1 and 2 , respec tively . The CNT - coated aluminum granules may be used as
+a feedstock for SLS , SLM , and related type 3D printers .
+EXAMPLE 3
+[ 0163 ] Iron powder granules ( average diameter about 50
+micrometers ) were immersed into the aqueous CNT suspen sion of Example 1 , agitated for about 2 hours with a
+magnetic stirrer at 1 , 000 rpm , then allowed to dry in a
+convection oven at about 120° C . for about 4 hours . Weight uptake by the granules yielded the amount of attached CNT
+of about 0 . 06 wt % . Examination under microscope has
+shown the average CNT coating thickness of 5 micrometers . The CNT - coated iron granules may be used as a feedstock
+for SLS , SLM , and related type 3D printers .
+EXAMPLE 6
+[ 0168 ] The batch 1 CNT - coated aluminum granules of
+Example 5 were used to produce alum inum - CNT composite objects and evaluate their properties . The composite objects 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+were fabricated by melting the CNT - coated aluminum gran ules under argon atmosphere at about 750° C . for about 1
+hour while stirring to homogenize the melt , then casting the
+melt into a cylinder - shaped die ( 0 . 7 cm in diameter and 15
+cm in height ) and cooling down to 20° C . ( FIG . 4 ) . Under
+optical microscope , no defects could be observed on sur
+faces of batch 1 samples ( FIG . 5 ( A ) ) , while multiple defects
+were observed on batch 2 samples ( shown by the arrow in
+FIG . 5 ( B ) ) . Examination with SEM at high magnification showed that these defects were due to CNT agglomerates ( FIG . 6 ) . Pure aluminum samples were prepared as reference
+following exactly the same procedure but from uncoated
+aluminum granules . Electrical resistivity , tensile strength , and elongation were evaluated at about 20° C . for both
+CNT - containing and pure aluminum cast samples without
+any further treatment of the samples . The electrical resis
+tivity was measured using four probe technique , and the
+tensile properties were evaluated with an Instron ( Norwood , Mass . ) Testing System . For the reference pure aluminum
+sample , the electrical resistivity was about 2 . 83
+microOhms . cm , tensile strength was about 142 MPa , and
+elongation was about 6 % . For the CNT - containing alumi
+num sample ( batch 1 ) , the electrical resistivity was about
+2 . 71 microOhms : cm , tensile strength was about 165 MPa , and elongation was about 7 % . To summarize , in the alumi
+num - CNT composite ( batch 1 ) , electrical resistivity was
+decreased by about 4 % , tensile strength was increased by about 16 % , and elongation was increased by about 17 % , compared to the pure aluminum . Hence , the properties of the
+aluminum - CNT composite were improved if there was no
+agglomeration of CNT .
+EXAMPLE 7
+[ 0169 ] The batch 2 CNT - coated aluminum granules of
+Example 5 were used to produce aluminum - CNT compos ite objects according to the procedures of Example band
+evaluate their properties . For the aluminum - CNT compos
+ite of batch 2 , the electrical resistivity was about 3 . 14
+microOhms . cm , tensile strength was about 115 MPa , and
+elongation was about 3 % . To summarize , in the aluminum
+- CNT composite ( batch 2 ) , electrical resistivity was
+increased by about 10 % , tensile strength was decreased by about 18 % , and elongation was decreased by about 50 % , compared to the reference pure aluminum sample . The
+partial degradation of properties in the aluminum - CNT
+composite of batch 2 may be attributed to the agglomeration of CNT ( FIG . 6 ) captured within structure of the composite object .
+[ 0171 ] After exiting the bath , the filament or wire may be
+dried by passing it through a convection oven heated to
+about 80° C . ( i . e . , safely below the plastic ' s thermal degra
+dation or softening temperatures ) . In case of metal wires
+with relatively high melting or softening temperatures ( such
+as above ~ 300° C . ) , the drying process may be carried out
+under inert atmosphere to prevent nanocarbon combustion . After drying , the CNT particles adhere to the surface of
+plastic filaments and thereby are transported to the extrusion
+nozzle of the FDM or related type 3D printer . In the
+extrusion nozzle , the CNT is mixed with melted polymer or
+metal and extruded thereby becoming incorporated into the
+structure of the 3D - printed object and producing a carbon
+composite product . [ 0172 ) The bath can be envisaged as an attachment for
+commercial FDM and related type 3D printers enabling
+these commercial printers to produce carbon - containing products . These carbon - containing products are electrically conducting 3D - printed plastic objects which can be pro
+duced from a variety of commercially available filaments
+and / or wires . The incorporation of CNT into plastic imparts
+increased electrical and thermal conductivity , improved
+mechanical and thermal properties , as well as decreased
+flammability . 0173 ] . Other type CNTs , graphenes and / or fullerenes may
+also be employed in this application either alone or in
+various combinations . Graphene may be present either as
+graphene oxide ( which may be reduced back to graphene , e . g . , through the reaction with hydrazine ) or pure graphene . Other plastics may also be utilized in a manner described in
+this example ( customized for their particular properties , e . g . , softening temperature ) . Examples of such plastics may com
+prise ABS ( acrylonitrile butadiene styrene ) , polyamide , nylon , polycarbonate , polyethylene , polypropylene , polyetherimide , polyphenylsulfone , polylactic acid , a com
+bination thereof , and a blend thereof . Any of those plastics
+may commercially be available from many suppliers . The
+resulting 3D printed product comprising nanocarbon com
+posite plastic exhibit increased electrical and thermal con
+ductivity , improved electrical , thermal , and mechanical
+properties , as well as decreased flammability . [ 0174 ] The described process may also be used for other
+metals , such as titanium , vanadium , chromium , manganese , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , and alloys , such as steel , bronze , brass , and a
+combination thereof . Metal - plastic blends may also be used .
+EXAMPLE 8
+[ 0170 ] In the case of FDM technology which uses metal or
+polymer wires or filaments as a feedstock , a wire or filament
+may be coated with non - agglomerated and / or non - damaged CNT through the procedures illustrated in FIG . 2 and FIG . 7 . A commercial polyamide plastic filament ( typically , about
+1 - 2 mm in diameter ) maybe continuously drawn through a
+bath containing the aqueous suspension of non - agglomer
+ated and / or non - damaged CNT of Example 1 allowing each
+segment of the filament to reside in the bath for certain
+amount of time , such as about 1 minute to about 15 minutes . The suspension maybe continuously agitated with a mag
+netic stirrer to keep CNT distribution uniform . While being drawn through the suspension , the filament or wire will be
+coated with CNT particles .
+EXAMPLE 9
+[ 0175 ] A typical procedure to produce electrically con
+ducting 3D - printable photopolymer resin for use in SLA
+technology is described in this example . [ 0176 ] The toluene suspension of non - agglomerated and /
+or non - damaged CNT prepared according to the process
+described in Example 1 may be added to a liquid acrylic resin in a desired proportion and agitated for about 5 hours
+at about 50° C . with a magnetic stirrer to ensure uniform
+distribution of CNT throughout the resin ' s volume . The
+liquid acrylic resin may be , in particular , MakerJuice SF
+resin , and the CNT suspension may be added at about 20 wt
+% . The CNT content in the resin should be high enough to
+ensure desired electrical conductivity , but also low enough
+to keep the viscosity below about 1 , 000 ( millipascal . second )
+at about 25° C . otherwise the resin will be difficult to 3D 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+13
+print . Other commercially available resins , different propor tions of the CNT suspension , and different solvents may also
+be used . For example , aromatic solvents with covalently
+attached photocurable functional groups , such as acrylic , metacrylic , and / or epoxy and their combinations , may be
+used instead of toluene to disperse and suspend CNT and
+further serve as photocurable resin ingredients . Examples of
+such photocurable resin ingredients are benzyl 2 - ethyl acry
+late , benzyl methacrylate , pyridine acrylate , toluene acry late , xylene acrylate , and the like . The resin ingredients may comprise a single photocurable functional group ( e . g . , mono - acrylates ) , two photocurable functional groups ( e . g . , di - acrylates ) , multiple photocurable functional groups ( e . g . , tri - , tetra , and other poly - acrylates ) , and their combinations . The resulting CNT - containing resin is then loaded into an
+SLA 3D printer . Under a UV or visible light irradiation , the
+acrylic resin solidifies through a photopolymerization reac
+tion forming the desired 3D - printed plastic object defined by
+a computer system configured for this purpose . In the
+photopolymerization process , the suspended non - agglomer
+ated and / or non - damaged CNTs are captured within the
+newly formed polymer structure imparting increased elec
+trical and thermal conductivity , improved mechanical and
+thermal properties , as well as decreased flammability .
+acrylate ( IGM Resins , Photomer2050 ) , and 500 mg 2 , 4 , 6
+trimethylbenzoyl - diphenyl phosphine oxide ( IGM Resins , Omnirad TPO ) . The mixture was stirred with magnetic
+stirrer bar at 1 , 000 rpm for 20 hours and about 50° C . Then , the mixture was passed once through a Microfluidizer device
+( Microfluidics , LM - 10 ) to ensure good dispersion of the
+ingredients . The resulting resin was loaded into Formlabs
+Form1 + SLA 3D printer to produce electrically conducting
+3D - printed plastic objects of various shapes ( FIG . 8 ( B ) ) . Both the resin and the 3D - printed objects were of brown
+color . Electrical resistivity was measured in 3D - printed objects shaped as rectangular strips ( about 10 cm in length , about 2 cm in width , about 0 . 2 cm in thickness ) using a
+four - probe technique . The electrical resistivity at about 25°
+C . was about 8 MegaOhm . cm on average with standard
+deviation of about 50 % .
+EXAMPLE 10
+[ 0177 ] An alternative ( to Example 9 ) approach to produc ing electrically conducting 3D - printable photopolymer resin
+for use in SLA technology is described in this example . [ 0178 ] A250 mg of as - received single - wall CNT ( Thomas
+Swan , Elicarb® SWNT ) was added to 90 mL of bisphenol - A
+14 EO ] diacrylate ( IGM Resins , Photomer 4062 ) and 30 mg of Nonyl phenol [ 4 EO ] acrylate ( IGM Resins , Photomer
+4003 ) , mixed by stirring with magnetic stirrer bar at 1 , 000
+rpm and about 40° C . for 5 hours . Then , 80 mL of pen taerythritol [ 5 EO ] tetraacrylate ( IGM Resins , Photomer
+4172 ) , 50 mL polyethylene glycol ( 200 ) di - methacrylate
+( IGM Resins , Photomer 2050 ) , and 250 mg 2 , 4 , 6 - trimeth ylbenzoyl - diphenyl phosphine oxide ( IGM Resins , Omnirad
+TPO ) were added to the mixture and stirred for additional 5
+hours at about 1 , 000 rpm and about 40° C . In the finishing step , the mixture was passed once through a Microfluidizer
+device ( Microfluidics , LM - 10 ) to ensure good dispersion of
+CNT and other ingredients . The resulting resin was loaded
+into Formlabs Form1 + SLA 3D printer to produce electri
+cally conducting 3D - printed plastic objects of various
+shapes ( FIG . 8 ( A ) ) . Both the resin and the 3D - printed
+objects were of black color . Electrical resistivity was mea
+sured in 3D - printed objects shaped as rectangular strips
+( about 10 cm in length , about 2 cm in width , about 0 . 2 cm
+in thickness ) using a four - probe technique . The electrical
+resistivity at about 25° C . was about 1 Ohm . cm on average
+with standard deviation of about 15 % .
+EXAMPLE 12
+[ 0181 ] This example describes fabrication of reference
+photopolymer resin suitable for use in SLA technology similar to Examples 10 and 11 . This resin does not contain
+any carbon additives and yields electrically insulating poly
+mer objects . [ 0182 ] A 120 mL of bisphenol - A [ 4 EO ] diacrylate ( IGM
+Resins , Photomer 4062 ) , 80 mL of pentaerythritol [ 5 EO ] tetraacrylate ( IGM Resins , Photomer 4172 ) , 50 mL poly ethylene glycol ( 200 ) di - methacrylate ( IGM Resins , Pho
+tomer2050 ) , and 1 , 000 mg 2 , 4 , 6 - trimethylbenzoyl - diphenyl phosphine oxide ( IGM Resins , Omnirad TPO ) were loaded
+together in a glass vial and stirred with magnetic stirrer bar
+at 1 , 000 rpm for 20 hours and about 50° C . Then , the mixture
+was passed once through a Microfluidizer device ( Micro
+fluidics , LM - 10 ) to ensure good dispersion of the ingredi
+ents . The resulting carbon additive - free photocurable resin
+formulation was loaded into Form labs Form1 + SLA 3D
+printer to produce reference 3D - printed plastic objects of
+various shapes ( FIG . 8 ( C ) ) . Both the resin and the
+3D - printed objects were of weakly yellow color . Electrical
+resistivity was measured in 3D - printed objects shaped as
+rectangular strips ( about 10 cm in length , about 2 cm in
+width , about 0 . 2 cm in thickness ) using a four - probe tech
+nique . The electrical resistivity at about 25° C . was above
+the measurement range of the instrument , that is , > 200
+MegaOhms . cm indicating that the sample was electrically
+insulating . Note that in this Example a much higher con
+centration of the photoinitiator ( i . e . , 2 , 4 , 6 - trimethylbenzoyl
+diphenyl phosphine oxide ) had to be used compared to the
+carbon - containing resins of Examples 10 and 11 . Similar
+photocurable formulations can be prepared using a variety of
+other mono - and poly - functional acrlylates , methacrylates , epoxies , styrenes , urethanes , esters , silicones , acetates , gly
+cols , ketones , and their combinations . For example , multi
+functional monomeric methacrylates include ethylene glycol dimethacrylate , diethylene glycol dimethacrylate , triethyl
+ene glycol dimethacrylate , polyethylene glycol dimethacry late , 2 , 2 bis [ 4 - ( methacryloxyethoxy ) phenyl ] propane , tricy lodecane dimethanol dimethacrylate , 1 , 10 - decandiol
+dimethacrylate , 1 , 6 - hexanediol dimethacyrlate , 1 , 9 - nonane
+diol dimethacrylate , neopentyl glycol dimethacrylate , 2 - hy droxy 1 - 3 dimethacryloxy propane , trimethyolpropane trimethacrylate , ethoxylated trimethyol propane trimeth
+acrylate , ditrimethyolpropane tetramethacrylate , tris ( 2 - hy droxy ethyl ) isocyanurate trimethacrylate , dipentaerythritol pentamethacrylate , ethyoxylated pentaerythritol tetrameth
+EXAMPLE 11
+[ 0179 ] This example describes an electrically conducting 3D - printable photopolymer resin suitable for use in SLA
+technology similar to Example 10 . [ 0180 ] A 1 , 500 mg of as - received Fullerene - C60 ( Sigma Aldrich , 99 . 5 % , # 379646 ) was added to 120 mL of bisphe nol - A [ 4 EO ] diacrylate ( IGM Resins , Photomer 4062 ) , 80
+mL of pentaerythritol [ 5 EO ] tetraacrylate ( IGM Resins , Photomer 4172 ) , 50 mL polyethylene glycol ( 200 ) di - meth 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+14
+acrylate , propoxylated glyceryl trimethacrylate , propoxy lated trimethylolpropane trimethacrylate , and polyester den
+drimer .
+[ 0183 ] Other type CNTs , graphenes and / or fullerenes may also be employed in this application either alone or in
+various combinations . Graphene may be present either as
+graphene oxide or pure graphene . The graphene oxide may be expected to be reduced to pure graphene due to the UV
+radiation in the process of photopolymerization . Other pho topolymer resins , such as methacrylates , epoxies , urethanes , polyesters , silicones , and their combinations and blends may also be used in this technique . All those polymers may be
+commercially available from many suppliers . Other mixing techniques such as high shear mixing , sonication , wet ball
+milling , or other similar treatments and their combinations
+may also be applied as needed .
+[ 0184 ] Addition of nanocarbons to photopolymers may also impact the rate of photopolymerization reaction due to
+strong absorption of the UV and visible range radiation by nanocarbons and very high values for free charge carrier
+mobility . In nanocarbons , absorption the UV and visible
+range radiation may generate photo - excited electrons that
+may rapidly be re - distributed throughout the entire system . The overall impact may be beneficial resulting in notable
+increase of the reaction rate due to high mobility and
+eventually leading to faster production times and higher
+throughput , which is essential for commercial success of 3D
+printing technologies . Carbon - containing resins may also
+require less photoinitiator to start the reaction leading to cost
+savings since photoinitiators may be the most expensive ingredient in the photocurable resins . [ 0185 ] In that regard , of special interest may be the
+fullerene photopolymer composites since fullerenes may have a rich photochemistry and , in particular , photopoly merization reactions of their own . Hence , presence of fuller
+enes in nanocarbon composite materials may lead to the
+highest improvement in the photopolymerization reaction
+rates .
+( 0186 ] Any combination of the above feedstocks ; methods
+of preparation of such feedstocks ; carbon containing pho tocurable formulations ; methods of preparation of such
+formulations ; 3D printers ; 3D printers that use such feed
+stocks and / or such formulations ; 3D objects ; methods of
+preparation of such 3D objects by using such 3D printers , feedstocks and formulations may be within the scope of the
+instant disclosure . [ 0187 ] In this specification and the appended claims , the
+singular forms “ a , ” “ an ” and “ the ” include plural referents
+unless the context clearly dictates otherwise . [ 0188 ] The components , steps , features , objects , benefits , and advantages that have been discussed are merely illus
+trative . None of them , nor the discussions relating to them , are intended to limit the scope of protection in any way . Numerous other embodiments are also contemplated . These
+include embodiments that have fewer , additional , and / or
+different components , steps , features , objects , benefits , and /
+or advantages . These also include embodiments in which the
+components and / or steps are arranged and / or ordered dif
+ferently . [ 0189 ] Unless otherwise stated , all measurements , values , ratings , positions , magnitudes , sizes , and other specifica
+tions that are set forth in this specification , including in the
+exemplary features that follow , are approximate , not exact .
+They are intended to have a reasonable range that is con
+sistent with the functions to which they relate and with what
+is customary in the art to which they pertain . f0190 ) All articles , patents , patent applications , and other
+publications that have been cited in this disclosure are
+incorporated herein by reference . [ 0191 ] The phrase “ means for ” when used in a feature is
+intended to and should be interpreted to embrace the corre
+sponding structures and materials that have been described
+and their equivalents . Similarly , the phrase “ step for ” when
+used in a feature is intended to and should be interpreted to
+embrace the corresponding acts that have been described
+and their equivalents . The absence of these phrases from a
+feature means that the feature is not intended to and should
+not be interpreted to be limited to these corresponding
+structures , materials , or acts , or to their equivalents . 0192 ] The scope of protection is limited solely by the
+claims that now follow . That scope is intended and should be
+interpreted to be as broad as is consistent with the ordinary meaning of the language that is used in the claims when
+interpreted in light of this specification and the prosecution
+history that follows , except where specific meanings have
+been set forth , and to encompass all structural and functional equivalents . [ 0193 ] Relational terms such as “ first ” and “ second ” and
+the like may be used solely to distinguish one entity or action
+from another , without necessarily requiring or implying any actual relationship or order between them . The terms “ com
+prises , " " comprising , ” and any other variation thereof when
+used in connection with a list of elements in the specification
+or claims are intended to indicate that the list is not exclusive
+and that other elements may be included . Similarly , an
+element proceeded by an “ a ” or an " an " does not , without
+further constraints , preclude the existence of additional
+elements of the identical type . [ 0194 ] None of the claims are intended to embrace subject matter that fails to satisfy the requirement of Sections 101 , 102 , or 103 of the Patent Act , nor should they be interpreted in such a way . Any unintended coverage of such subject
+matter is hereby disclaimed . Except as just stated in this
+paragraph , nothing that has been stated or illustrated is
+intended or should be interpreted to cause a dedication of
+any component , step , feature , object , benefit , advantage , or
+equivalent to the public , regardless of whether it is or is not
+recited in the claims . [ 0195 ] The abstract is provided to help the reader quickly
+ascertain the nature of the technical disclosure . It is submit
+ted with the understanding that it will not be used to interpret
+or limit the scope or meaning of the claims . In addition , various features in the foregoing detailed description are
+grouped together in various embodiments to streamline the
+disclosure . This method of disclosure should not be inter
+preted as requiring claimed embodiments to require more
+features than are expressly recited in each claim . Rather , as
+the following claims reflect , inventive subject matter lies in
+less than all features of a single disclosed embodiment . Thus , the following claims are hereby incorporated into the
+detailed description , with each claim standing on its own as
+separately claimed subject matter . 1 . A three dimensional ( “ 3D ” ) printer having a configu ration that :
+dispenses a feedstock ;
+deposits a layer of the feedstock on a surface ;
+delivers an electromagnetic radiation to selected areas of
+the feedstock layer ; and 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+15
+prepares a three - dimensional composite object ;
+wherein the feedstock comprises a metal compound and a
+coating formed on a surface of the metal compound ;
+wherein the coating has a thickness ; wherein the coating absorbs the delivered electromagnetic radiation at a selected area of the feedstock layer , converts the absorbed electromagnetic radiation to
+heat , and transfers the heat to the metal compound
+thereby heating the selected area of the feedstock layer , and causing the feedstock to bond to each other , and
+thereby forming a bonded feedstock layer .
+2 . The 3D printer of claim 1 , further having a configura tion that deposits a layer of the feedstock on a surface of the
+bonded feedstock layer formed before ;
+and forms another bonded feedstock layer according to
+claim 1 . 3 . The 3D printer of claim 1 , wherein the coating com
+prises a carbon . 4 . The 3D printer of claim 1 , wherein the coating com
+prises a nanocarbon , a pyrolytic carbon , a graphite , an
+activated carbon , an amorphous carbon , a carbon fiber , or a
+combination thereof . 5 . The 3D printer of claim 1 , wherein the coating com
+prises a nanocarbon . 6 . The 3D printer of claim 1 , wherein the coating com
+prises a non - agglomerated nanocarbon .
+7 . The 3D printer of claim 1 , wherein the coating com
+prises a nanocarbon ; and wherein the nanocarbon comprises
+a carbon nanotube , a graphene , a fullerene , or a combination
+thereof . 8 . The 3D printer of claim 1 , wherein the coating com
+prises a carbon nanotube ; and wherein the carbon nanotube
+comprises a single - wall carbon nanotube , a double - wall
+carbon nanotube , a multi - wall carbon nanotube , or a com
+bination thereof . 9 . The 3D printer of claim 1 , wherein the coating com
+prises a nanocarbon , and wherein the nanocarbon comprises
+a graphene , wherein the graphene comprises a single layer
+graphene , a double layer graphene , a multilayer graphene , a
+graphene strip , or a combination thereof . 10 . The 3D printer of claim 1 , wherein the coating
+comprises a fullerene , and wherein the fullerene comprises
+a C60 , a C70 , a C76 , a C78 , a Cg4 , or a combination thereof . 11 . The 3D printer of claim 1 , wherein the metal com
+pound comprises titanium , vanadium , chromium , manga
+nese , iron , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a combina
+tion thereof . 12 . The 3D printer of claim 1 , wherein the metal com
+pound comprises a metal particle , a metal wire , a metal tube , a metal sheet , or a combination thereof . 13 . The 3D printer of claim 1 , wherein absorbance of the
+coating is higher than absorbance of the metal compound .
+14 . The 3D printer of claim 1 , wherein absorbance of the
+coating is at least 50 percent higher than the absorbance of
+the metal compound . 15 . The 3D printer of claim 1 , wherein absorbance of the
+coating is at least 100 percent higher than the absorbance of
+the metal compound . 16 . The 3D printer of claim 1 , wherein absorbance of the
+coating is at least 500 percent higher than the absorbance of
+the metal compound .
+17 . The 3D printer of claim 1 , wherein absorbance of the
+coating is at least 800 percent higher than the absorbance of
+the metal compound . 18 . The 3D printer of claim 1 , wherein heating rate of the
+feedstock comprising the metal compound and the coating is
+higher than that of a feedstock with no coating . 19 . The 3D printer of claim 1 , wherein heating rate of the
+feedstock comprising the metal compound and the coating is
+at least 50 percent higher than that of a feedstock with no
+coating . 20 . The 3D printer of claim 1 , wherein heating rate of the
+feedstock comprising the metal compound and the coating is
+at least 100 percent higher than that of a feedstock with no
+coating . 21 . The 3D printer of claim 1 , wherein heating rate of the
+feedstock comprising the metal compound and the coating is
+at least 500 percent higher than that of a feedstock with no
+coating . 22 . The 3D printer of claim 1 , wherein heating rate of the
+feedstock comprising the metal compound and the coating is
+800 percent higher than that of a feedstock with no coating . 23 . The 3D printer of claim 1 , wherein the coating is
+sufficiently thick to substantially absorb electromagnetic
+radiation , but not too thick to cause defects in the composite object and thereby negatively impact properties of the
+composite object . 24 . The 3D printer of claim 1 , wherein the coating thickness is in the range of 10 nanometers to 100 microm
+eters . 25 . The 3D printer of claim 1 , wherein the coating thickness is in the range of 100 nanometers to 10 microm
+eters . 26 . The 3D printer of claim 1 , wherein the coating thickness is in the range of 1 micrometer to 5 micrometers . 27 . The 3D printer of claim 1 , wherein the 3D printer emits the electromagnetic radiation with power less than or
+equivalent to 5 , 000 watts .
+28 . The 3D printer of claim 1 , wherein the 3D printer emits the electromagnetic radiation with power less than or
+equivalent to 1 , 000 watts . 29 . The 3D printer of claim 1 , wherein the 3D printer
+emits the electromagnetic radiation with power less than or
+equivalent to 500 watts . 30 . The 3D printer of claim 1 , wherein the 3D printer
+emits the electromagnetic radiation with power less than or
+equivalent to 100 watts .
+31 . The 3D printer of claim 1 , wherein the coating
+thickness is in the range of 100 nanometers and 10 microm
+eters and wherein the carbon comprises a carbon nanotube . 32 . The 3D printer of claim 31 , wherein the metal
+compound comprises titanium , vanadium , chromium , man
+ganese , iron , cobalt , nickel , copper , zinc , ruthenium , rho
+dium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a
+combination thereof . 33 . ( canceled )
+34 . A feedstock comprising :
+a metal compound , and
+a coating formed on a surface of the metal compound ;
+wherein the coating comprises a carbon ;
+wherein the coating has a thickness ; and
+wherein the coating thickness is in the range of 10
+nanometers to 100 micrometers . 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+35 . The feedstock of claim 34 , wherein the carbon com
+prises a nanocarbon , a pyrolytic carbon , a graphite , an
+activated carbon , an amorphous carbon , a carbon fiber , or a
+combination thereof . 36 . The feedstock of claim 34 , wherein the carbon com
+prises a nanocarbon . 37 . The feedstock of claim 34 , wherein the carbon com
+prises a non - agglomerated nanocarbon . 38 . The feedstock of claim 34 , wherein the carbon com
+prises a nanocarbon and wherein the nanocarbon comprises
+a carbon nanotube , a graphene , a fullerene , or a combination
+thereof . 39 . The feedstock of claim 34 , wherein the carbon com
+prises a carbon nanotube ; and wherein the carbon nanotube
+comprises a single - wall carbon nanotube , a double - wall
+carbon nanotube , a multi - wall carbon nanotube , or a com
+bination thereof . 40 . The feedstock of claim 34 , wherein the carbon com
+prises a graphene ; wherein the graphene comprises a single layer graphene , a double layer graphene , a multilayer gra
+phene , a graphene strip , or a combination thereof . 41 . The feedstock of claim 34 , wherein the carbon com
+prises a fullerene ; and wherein the fullerene comprises a
+Com a Czo , a C76 , a C78 , a C84 , or a combination thereof . 42 . The feedstock of claim 34 , wherein the metal com
+pound comprises titanium , vanadium , chromium , manga
+nese , iron , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a combina
+tion thereof . 43 . The feedstock of claim 34 , wherein the metal com
+pound comprises a metal particle , a metal wire , a metal tube , a metal sheet , or a combination thereof . 44 . The feedstock of claim 34 , wherein the coating thickness is in the range of 100 nanometers to 10 microm
+eters . 45 . The feedstock of claim 34 , wherein the coating thickness is in the range of 1 micrometer to 5 micrometers . 46 . The feedstock of claim 34 , wherein the coating thickness is in the range of 100 nanometers and 10 microm
+eters ; and wherein the carbon comprises carbon nanotube . 47 . The feedstock of claim 46 , wherein the metal com
+pound comprises titanium , vanadium , chromium , manga
+nese , iron , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a combina
+tion thereof .
+48 . ( canceled ) 49 . A method of preparation of a carbon suspension , comprising :
+processing a conditioned mixture at a high shear rate and
+thereby preparing a carbon suspension ;
+wherein the conditioned mixture is prepared by a method
+comprising processing a solution at a low shear rate ;
+wherein the solution comprises a carbon and a solvent ;
+wherein the high shear rate is equivalent to or higher than
+200 , 000 5 - 1 ; and
+wherein the low shear rate is lower than 200 , 000 s - 1 . 50 . The preparation method of claim 49 , wherein the
+conditioned mixture is substantially free of any dispersing agent . 51 . The preparation method of claim 49 , wherein the
+carbon is substantially free of functional groups that can
+facilitate dispersion of the carbon in the solution .
+52 . The preparation method of claim 49 , wherein the high shear rate is equivalent to or higher than 500 , 000 s - ? . 53 . The preparation method of claim 49 , wherein the high shear rate is equivalent to or higher than 1 , 000 , 000 s - . 54 . The preparation method of claim 49 , wherein the high shear rate is equivalent to or higher than 10 , 000 , 000 s - 1 . 55 . The preparation method of claim 49 , wherein the
+carbon comprises a nanocarbon , a pyrolytic carbon , a graph
+ite , an activated carbon , an amorphous carbon , a carbon
+fiber , or a combination thereof . 56 . The preparation method of claim 49 , wherein the
+carbon comprises a nanocarbon and wherein the nanocarbon
+comprises a carbon nanotube , a graphene , a fullerene , or a
+combination thereof . 57 . The preparation method of claim 49 , wherein the
+carbon comprises a carbon nanotube ; and wherein the car
+bon nanotube comprises a single - wall carbon nanotube , a
+double - wall carbon nanotube , a multi - wall carbon nanotube ,
+or a combination thereof . 58 . The preparation method of claim 49 , wherein the
+carbon comprises a graphene ; and wherein the graphene comprises a single layer graphene , a double layer graphene , a multilayer graphene , a graphene strip , or a combination
+thereof .
+59 . The preparation method of claim 49 , wherein the
+carbon comprises a fullerene ; and wherein the fullerene
+comprises a C60 , a C70 , a C76 , a C78 , a Cg4 , or a combination
+thereof . 60 . The preparation method of claim 49 , wherein the
+solvent comprises water , an acid , a base , an aromatic sol
+vent , an alcohol , an aromatic solvent , benzene , halogenated
+benzene , xylene , toluene , a dichlorobenzene , dimethylfor mamide , formamide and its derivatives , N - methylpyrrolidi
+none , dichloroethane , dibromoethane , carbon disulfide , pyri dine , or a combination thereof .
+61 . A method of preparation of claim 49 , further com
+prising depositing the carbon suspension on a surface of a
+metal compound . 62 . The preparation method of claim 61 , wherein the
+metal compound comprises titanium , vanadium , chromium , manganese , iron , cobalt , nickel , copper , zinc , ruthenium , rhodium , palladium , aluminum , indium , gallium , tin , silver , gold , platinum , lead , bismuth , steel , bronze , brass , or a
+combination thereof . 63 . The preparation method of claim 62 , wherein the
+metal compound comprises a metal particle , a metal wire , a
+metal tube , a metal sheet , or a combination thereof . 64 . The preparation method of claim 62 , further compris ing removing the solvent ; thereby forming a coating on a
+surface of the metal compound ; and thereby preparing a
+feedstock ; wherein the coating has a thickness ; wherein the
+coating thickness is in the range of 10 nanometers to 100
+micrometers ; and wherein the coating essentially comprises
+the carbon . 65 . The preparation method of claim 64 , wherein the
+solvent is removed until the feedstock is substantially free of
+solvent . 66 . The preparation method of claim 64 , wherein the
+feedstock is a feedstock for a 3D printer .
+67 . ( canceled )
+68 . A carbon containing photocurable formulation com
+prising : 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+17
+a carbon ;
+a photocurable resin ; and
+a photoinitiator ;
+wherein the carbon containing photocurable formulation , when cured , yields a polymer composite with an elec
+trical resistivity lower than or equivalent to 100
+ohm . cm . 69 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon containing photocurable for
+mulation , when cured , yields a polymer composite with an
+electrical resistivity lower than or equivalent to 10 ohm . cm . 70 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon containing photocurable for
+mulation , when cured , yields a polymer composite with an
+electrical resistivity lower than or equivalent to 1 ohm . cm . 71 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon containing photocurable for
+mulation , when cured , yields a polymer composite with an
+electrical resistivity lower than or equivalent to 0 . 1 ohm . cm . 72 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon containing photocurable for
+mulation comprises a nanocarbon , a pyrolytic carbon , a
+graphite , an activated carbon , an amorphous carbon , a
+carbon fiber , or a combination thereof . 73 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon comprises a nanocarbon . 74 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon comprises a non - agglomerated
+nanocarbon . 75 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon comprises a nanocarbon and
+wherein the nanocarbon comprises a carbon nanotube , a
+graphene , a fullerene , or a combination thereof . 76 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon comprises a carbon nanotube ; and wherein the carbon nanotube comprises a single - wall
+carbon nanotube , a double - wall carbon nanotube , a multi
+wall carbon nanotube , or a combination thereof . 77 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon comprises a nanocarbon , and
+wherein the nanocarbon comprises a graphene ; and wherein
+the graphene comprises a single layer graphene , a double
+layer graphene , a multilayer graphene , a graphene strip , or
+a combination thereof .
+78 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon comprises a fullerene ; and
+wherein the fullerene comprises a C60 , a C70 , a C76 , a C78 ,
+a C84 , or a combination thereof . 79 . The carbon containing photocurable formulation of
+claim 68 , wherein the photocurable resin comprises a mono - mer , oligomer , or a polymer of an acrylate , a methacrylate , an epoxy , a urethane , an ester , a silicone , a styrene , or a
+combination thereof . 80 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon containing photocurable for
+mulation has a viscosity ; and wherein the viscosity of the
+carbon containing photocurable formulation is in the range
+of 1 millipascal . second to 1 , 000 millipascal . second at about
+25° C . 81 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon containing photocurable for
+mulation has a viscosity ; and wherein the viscosity of the
+carbon containing photocurable formulation is in the range of 10 millipascal . second to 300 millipascal . second at about 25° C . 82 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon containing photocurable for
+mulation has a viscosity ; and wherein the viscosity of the
+carbon containing photocurable formulation is in the range
+of 50 millipascal . second to 150 millipascal . second at about
+25° C . 83 . The carbon containing photocurable formulation of
+claim 68 , wherein the carbon comprises a carbon nanotube ;
+and wherein the carbon nanotube comprises a single - wall
+carbon nanotube , a double - wall carbon nanotube , a multi
+wall carbon nanotube , or a combination thereof ; wherein the
+carbon containing photocurable formulation , when cured , yields a polymer composite with an electrical resistivity
+lower than or equivalent to 1 ohm . cm . 84 . ( canceled ) 85 . A method of preparation of a carbon containing photocurable formulation , comprising :
+processing a conditioned photocurable mixture at a high shear rate and thereby preparing a carbon containing
+photocurable formulation ;
+wherein the conditioned photocurable mixture is prepared by a method comprising processing a photocurable
+mixture at a low shear rate ;
+wherein the photocurable mixture comprises a carbon , a
+photocurable resin , and a photoinitiator ;
+wherein the high shear rate is equivalent to or higher than
+200 , 000 s - ? ; and
+wherein the low shear rate is lower than 200 , 000 s - 1 . 86 . The preparation method of claim 85 , wherein the
+conditioned photocurable mixture is substantially free of any dispersing agent . 87 . The preparation method of claim 85 , wherein the
+carbon is substantially free of functional groups that can
+facilitate dispersion of the carbon compound in the mixture . 88 . The preparation method of claim 85 , wherein the high shear rate is equivalent to or higher than 500 , 000 s - 7 . 89 . The preparation method of claim 85 , wherein the high
+shear rate is equivalent to or higher than 1 , 000 , 000 s - 1 . 90 . The preparation method of claim 85 , wherein the high
+shear rate is equivalent to or higher than 10 , 000 , 000 s - . 91 . The preparation method of claim 85 , wherein the
+carbon comprises a nanocarbon , a pyrolytic carbon , a graph ite , an activated carbon , an amorphous carbon , a carbon
+fiber , or a combination thereof .
+92 . The preparation method of claim 85 , wherein the
+carbon comprises a nanocarbon ; and wherein the nanocar
+bon comprises a carbon nanotube , a graphene , a fullerene , or
+a combination thereof . 93 . The preparation method of claim 85 , wherein the
+carbon comprises a carbon nanotube ; and wherein the car
+bon nanotube comprises a single - wall carbon nanotube , a
+double - wall carbon nanotube , a multi - wall carbon nanotube , or a combination thereof . 94 . The preparation method of claim 85 , wherein the
+carbon comprises a graphene ; and wherein the graphene comprises a single layer graphene , a double layer graphene , a multilayer graphene , a graphene strip , or a combination
+thereof . 
+US 2017 / 0297262 A1 Oct . 19 , 2017
+95 . The preparation method of claim 85 , wherein the
+carbon comprises a fullerene ; and wherein the fullerene
+comprises a C60 , a C70 , a C76 , a C78 , a C84 , or a combination
+thereof . 96 . The preparation method of claim 85 , wherein the
+photocurable resin comprises a monomer , oligomer or a
+polymer of an acrylate , a methacrylate , an epoxy , a urethane , an ester , a silicone , a vinyl alcohol , a vinyl acetate , an
+alkene , a glycerol , a glycol , a ketone , or a combination
+thereof .
+97 . The preparation method of claim 85 , wherein carbon
+containing photocurable formulation has a viscosity ; and
+wherein the viscosity of the carbon containing photocurable
+formulation is in the range of 1 millipascal second to 1 , 000
+millipascal . second at about 25° C . 98 . The preparation method of claim 85 , wherein carbon
+containing photocurable formulation has a viscosity ; and
+wherein the viscosity of the carbon containing photocurable formulation is in the range of 10 millipascal . second to 300
+millipascal second at about 25° C . 99 . The preparation method of claim 85 , wherein carbon
+containing photocurable formulation has a viscosity ; and
+wherein the viscosity of the carbon containing photocurable formulation is in the range of 50 millipascal . second to 150
+millipascal . second at about 25° C .
+100 . The preparation method of claim 85 , wherein the
+carbon containing photocurable formulation , when cured , yields a polymer composite with an electrical resistivity
+lower than or equivalent to 100 ohm . cm . 101 . The preparation method of claim 85 , wherein the
+carbon containing photocurable formulation , when cured , yields a polymer composite with an electrical resistivity lower than or equivalent to 10 ohm . cm . 102 . The preparation method of claim 85 , wherein the
+carbon containing photocurable formulation , when cured , yields a polymer composite with an electrical resistivity
+lower than or equivalent to 1 ohm . cm . 103 . The preparation method of claim 85 , wherein the
+carbon containing photocurable formulation , when cured , yields a polymer composite with an electrical resistivity
+lower than or equivalent to 0 . 1 ohm . cm . 104 . The preparation method of claim 85 , wherein the
+carbon comprises a carbon nanotube , and wherein the car
+bon nanotube comprises a single - wall carbon nanotube , a
+double - wall carbon nanotube , a multi - wall carbon nanotube , or a combination thereof ; and wherein the carbon containing photocurable formulation , when cured , yields a polymer
+composite with an electrical resistivity lower than or equiva
+lent to 1 ohm . cm .
+105 . ( canceled )
+* * * * * 

@@ -1,0 +1,831 @@
+Engineered Relaxin as theranostic nanomedicine to diagnose and
+ameliorate liver cirrhosis
+Beata Nagórniewicz, MSca
+, Deby F. Mardhian, MSca
+, Richell Booijink, MSca
+,
+Gert Storm, PhDa,b, Jai Prakash, PhDa,1, Ruchi Bansal, PhDa,⁎, 1
+a
+Department of Biomaterials Science and Technology, Technical Medical Centre, Faculty of Science and Technology, University of Twente, Enschede,
+The Netherlands b
+Department of Pharmaceutics, Utrecht Institute of Pharmaceutical Sciences, Faculty of Science, Utrecht University, Utrecht, The Netherlands
+Revised 17 December 2018
+Abstract
+Hepatic cirrhosis is a growing health problem with increasing mortality worldwide. So far, there is a lack of early diagnosis and no
+clinical therapy is approved for the treatment. In this study, we developed a novel theranostic nanomedicine by targeting relaxin (RLX) that is
+known to possess potent anti-fibrotic properties but simultaneously has poor pharmacokinetics and detrimental off-target effects. We
+conjugated RLX to PEGylated superparamagnetic iron-oxide nanoparticles (RLX-SPIONs) and examined hepatic stellate cells (HSCs)
+specific binding/uptake. Thereafter, we assessed the therapeutic efficacy of RLX-SPIONs on human HSCs in vitro and in vivo in
+CCl4-induced liver cirrhosis mouse model. RLX-SPIONs showed specific binding and uptake in TGFβ-activated HSCs, and inhibited TGFβinduced HSCs differentiation, migration and contraction. In vivo, RLX-SPIONs strongly attenuated cirrhosis and showed enhanced contrast
+in MR imaging. Altogether, this study presents RLX-SPIONs as a novel theranostic nanomedicine that provides new opportunities for the
+diagnosis and treatment of liver cirrhosis.
+© 2019 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/
+licenses/by-nc-nd/4.0/).
+Key words: Relaxin; Superparamagnetic iron-oxide nanoparticles (SPIONs); Hepatic stellate cells; Cirrhosis; Theranostics; Nanomedicine
+Liver cirrhosis remains the growing cause of increasing
+morbidity and mortality worldwide with no clinically approved
+therapy.1–3 Cirrhosis is a chronic disease that develops after a
+chronic injury over more than 20 years. There are two major clinical
+challenges in the management of this disease; the first is the
+diagnosis for monitoring the progression of the disease using noninvasive methods and the second is the therapeutic treatment which
+is effective at the chronic disease stage. There are several
+endogenous compounds secreted locally in nanograms and are
+highly potent in inhibiting fibrogenesis, however often elicit offtarget adverse effects when administered systemically.4 Therefore,
+their therapeutic applicability for the long-term treatment of chronic
+diseases is not realistic. In earlier studies, we have engineered an
+endogenous cytokine interferon gamma, that possess potent antiBASIC SCIENCE
+Nanomedicine: Nanotechnology, Biology, and Medicine
+17 (2019) 106– 118
+nanomedjournal.com
+Abbreviations: ECM, extracellular matrix; RLX, relaxin; SPIONs, superparamagnetic iron-oxide nanoparticles; RLX-SPIONs, relaxin coated
+superparamagnetic iron-oxide nanoparticles; HSCs, hepatic stellate cells; CCl4, carbon tetrachloride; TGFβ, transforming growth factor beta; qRT-PCR,
+quantitative reverse transcription–polymerase chain reaction; Col1a1, collagen-I; Des, desmin; α-SMA, alpha smooth muscle actin; Timp1, tissue inhibitor of
+matrix metalloproteases 1; MMP, matrix metalloprotease; CD, cluster of differentiation; HIF-1α, hypoxia inducing factor 1 alpha; ALT, alanine
+aminotransferase; MRI, Magnetic resonance imaging.
+Conflict of Interest: The authors declare no competing financial interest.
+Acknowledgments: This project was supported by the Netherlands Organization for Health Research and Development (ZonMW, NWO)-funded VENI
+innovation grant 916.151.94 (to R.B.). Authors thank B. Klomphaar for the technical assistance during the animal experiments. We also acknowledge A. Veltien
+for MRI measurements and Prof. A. Heerschap for discussion and expert opinion for MRI.
+⁎Corresponding author at: Department of Biomaterials Science and Technology, University of Twente, 7500 AE Enschede, The Netherlands.
+E-mail address: r.bansal@utwente.nl. (R. Bansal). 1 Equal contribution.
+https://doi.org/10.1016/j.nano.2018.12.008
+1549-9634/© 2019 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/
+licenses/by-nc-nd/4.0/).
+Please cite this article as: Nagórniewicz B, et al. Engineered Relaxin as theranostic nanomedicine to diagnose and ameliorate liver cirrhosis. Nanomedicine:
+NBM 2019;17:106-118, https://doi.org/10.1016/j.nano.2018.12.008
+fibrotic properties but with immune-related off-target effects, with a
+targeting peptide and demonstrated improved therapeutic efficacy
+and no off-target effects.5–7
+Relaxin (RLX), an endogenous two-chain peptide hormone
+structurally similar to insulin, is an anti-fibrotic hormone that has
+been shown to be therapeutically effective in liver, kidney and
+heart cirrhosis, and progressive systemic sclerosis.8–16 RLX binds
+and activates G-protein coupled receptor, relaxin family peptide
+receptor 1 (RXFP1). While RLX has emerged as a potential
+therapeutic in several diseases, RLX has a very short half-life due
+to small size (6KDa) and rapid renal clearance,17,18 therefore
+chronic administration in fibrotic diseases i.e. continuous infusion
+(via osmotic pumps) increase systemic vasodilation19 therefore
+poses hindrance for the clinical translation.
+Superparamagnetic iron-oxide nanoparticles (SPIONs) are
+promising nanoparticles with unique magnetic properties and
+tailored surface chemistry that facilitated their clinical application
+for magnetic resonance imaging (MRI) and drug targeting.20–22
+SPIONs possess excellent physiochemical properties such as
+magnetization with negligible remanence, colloidal stability, low
+cytotoxicity, and therefore has huge potential for biomedical
+applications.23,24 Recent developments of polymer (dextran/PEG)-
+coated SPIONs has shown tremendous improvements in biocompatibility and blood circulation. Ferumoxide (dextran-coated
+SPIONs, Ferridex) and Ferucarbotran (carboxydextran-coated
+SPION, Resovist) are the two clinically approved SPIONs for
+liver cancer imaging.25
+In the present study, we conjugated RLX on the surface of
+dextran-coated SPIONs to target to the fibrotic livers to achieve
+localized anti-fibrotic efficacy with reduced off-target systemic
+effects. In addition, use of SPIONs provided a great opportunity
+for diagnosing cirrhosis. We first confirmed the overexpression
+of RLX receptor RXFP1 in hepatic stellate cells (HSCs), the key
+fibrogenic cells in liver cirrhosis, in CCl4-induced liver cirrhosis
+mouse model and human pathological fibrotic liver tissues. We
+then conjugated RLX on SPIONs chemically at lysine present in
+RLX. RLX-SPIONs were characterized and investigated for their
+binding and activity in vitro in HSCs. In vivo in CCl4-induced
+liver cirrhosis in mice, we examined the liver distribution of
+RLX-SPIONs using MRI and investigated the therapeutic
+efficacy following post-disease treatment. To our best knowledge,
+this is the first study documenting a theranostic nanomedicine
+based on RLX, especially to HSCs in liver, for MRI-based
+diagnosis and treatment of liver cirrhosis.
+Methods
+Conjugation of Relaxin to SPIONs
+Conjugation of Human Relaxin-2 (H2-RLX or RLX, PeproTech, Rocky Hill, NJ) to SPIONs (micromod Partikeltechnologie,
+GmbH, Rostock, Germany) was performed using carbodiimide
+chemistry (Supplementary Fig. 1). Briefly, 100 μL of SPIONs
+(5 mg/ml) were activated with 10 μmol EDC (1-ethyl-3-(3-
+dimethylaminopropyl)-carbodiimide HCl, Sigma, St. Louis, MO,
+USA) and 35 μmol NHS (N-hydroxysuccinimide, Sigma) prepared
+in 125 μl of MES [2(-N-morpholino) ethanesulfonic acid, Sigma)]
+buffer (pH 6.3). After 45 min, samples were purified with 30KDa
+Amicon® Ultra Centrifugal Filters (Merck Millipore, Darmstadt,
+Germany). 5 μg of RLX (0.8 nmol in 10 μl) was added to the
+activated SPIONs and reacted overnight at 4 °C. Samples were
+purified and unconjugated COOH groups (on SPIONs) were
+reacted with glycine (Sigma) for 30 min at RT. Finally, relaxincoated SPIONs (RLX-SPIONs) were purified and stored at 4 °C.
+Characterization of RLX-SPIONs
+SPIONs and RLX-SPIONs size were measured by dynamic
+light scattering (DLS) using Zetasizer Nano (Malvern Instruments,
+UK). Conjugation efficiency of RLX on SPIONs was determined
+by Dot-Blot analysis. Briefly, SPIONs, RLX and RLX-SPIONs
+were serially diluted in TBS buffer (Thermo Scientific, Rockford,
+IL, USA) and 5 μl of samples were spotted on the nitrocellulose
+membrane and blocked for 1 h in 5% blotting-grade blocker (BioRad, Hercules, CA, USA) prepared in Tween®-20 TBS buffer
+(TTBS; Thermo Scientific). Membrane was incubated with rat
+anti-H2-RLX monoclonal antibody (1:1000; R&D Systems,
+Minneapolis, MN, USA) for 1 hr. Membrane was washed in
+TTBS and incubated for 1 h with secondary rabbit anti-rat
+polyclonal antibody (1:1000, Dako, Glostrup, Denmark) followed
+by tertiary polyclonal goat-anti rabbit antibody (1:1000, Dako).
+Finally, blot was developed using Pierce® ECL Plus Western
+Blotting Substrate (Thermo Scientific) and imaged using
+FluorChem Imaging System (ProteinSimple, Alpha Innotech,
+San Leandro, CA, USA). To estimate loss of SPIONs during
+conjugation process, Prussian blue iron-staining (Sigma) as per
+manufacturer's instructions was performed on the dot blots. The
+dots were quantified using NIH ImageJ software (NIH, Bethesda,
+MD) and the conjugation efficiency was calculated using the
+standard curves prepared from RLX and SPIONs dots (with known
+concentrations) as presented in Supplementary Fig. 2. The
+conjugation efficiency as determined from the standard curves
+from dot-blot and Prussian blue staining's was found to be 90% that
+corresponded to three RLX peptides per SPION.
+Cell lines
+Human hepatic stellate cells (LX2 cells), immortalized humanderived cell line, provided by Prof. Scott Friedman (Mount Sinai
+Hospital, New York, NY, USA) were cultured in DMEMGlutamax (Invitrogen, Carlsbad, CA, USA) supplemented with
+10% fetal bovine serum (FBS, Lonza) and antibiotics (50 U/ml
+Penicillin and 50 μg/ml streptomycin, Sigma). Murine NIH3T3
+fibroblasts were obtained from American Type Culture Collection
+(ATCC, Manassas, VA, USA) and were cultured in Dulbecco's
+modified Eagle's (DMEM) medium (Lonza) supplemented with
+10% FBS and 2 mM L-glutamine (Sigma) and antibiotics.
+Cell binding and uptake experiments
+LX2 cells were seeded at 1 × 104 cells/well and cultured
+overnight. Cells were serum-starved and incubated with TGFβ1
+(Roche, Mannheim, Germany) for 24 h. TGFβ-activated LX2 cells
+were incubated with SPIONs and RLX-SPIONs at RT for 2 h
+(binding study) or at 37 °C for 4 h (uptake study) in with 0.5% BSA
+supplemented medium. After incubation, cells were washed thrice
+and were fixed with 4% formalin and stained using Prussian
+Blue iron staining as per manufacturer's instructions and imaged
+B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118 107
+using Hamamatsu NanoZoomer Digital slide scanner 2.0HT
+(Hamamatsu Photonics, Bridgewater NJ). Cellular uptake was
+assessed by counting iron-positive cells/per field with which %
+uptake was calculated.
+3D collagen-I gel contraction assay
+A collagen suspension (5 ml) containing 3 ml of collagen G1
+(5 mg/ml, Matrix biosciences, Morlenbach, Germany), 0.5 ml of
+10x M199 medium (Sigma), 85 μl of 1 N NaOH (Sigma) and
+sterile water was mixed with 1 ml (2 × 106
+) of LX2 cells. The
+gel and cell suspension (0.6 ml/well) was plated in a 24-well
+culture plate and was allowed to polymerize. Polymerized gels
+were incubated with 1 ml of 0.5% FBS-containing medium with
+or without human recombinant TGFβ (5 ng/ml) together with
+1 μg/ml of RLX, RLX-SPIONs and SPIONs (equimolar
+concentration), followed by detachment of the gels. The size of
+the gels were digitally measured and normalized with their
+respective well size in each image.
+Cell migration/wound healing experiments
+Cells were plated in 12-well culture plates (1 × 105 cells/well),
+cultured overnight and serum-starved for 24 h. A standardized
+scratch was made using a 200 μl pipette tip fixed in a holder. Cells
+were then washed twice and were incubated with starvation
+medium (control), or with 5 ng/ml TGFβ with and without 1 μg/ml
+RLX, SPIONs and RLX-SPIONs. To measure the migration,
+microscopic photographs were taken at 0 and 24 h. Images were
+analyzed using NIH ImageJ software and were represented as
+% wound closure relative to the control wells.
+In vitro effect studies of RLX and RLX-SPIONs
+Cells were seeded in 24-well plates (3 × 104 cells/well for
+staining) and 12-well plates (8 × 104 cells/well for quantitative
+PCR analysis and western blot analysis). Cells were serumstarved and incubated with starvation medium alone, 1 μg/ml
+RLX, SPIONs and RLX-SPIONs, and 5 ng/ml TGFβ1 for 24 h.
+Cells (24-well plates) were then fixed and stained for collagen I
+and α-SMA (refer to Supplementary Table 1). In addition, cells
+(12-well plates) were lysed either with protein lysis buffer or
+RNA lysis buffer for subsequent analyses.
+We also performed the in vitro effect studies with and without
+serum (2%) to investigate the effect of serum on the stability of
+RLX and RLX-SPIONs. Cells were seeded in 12-well plates
+(8 × 104 cells/well for staining). Cells were serum-starved for
+24 h after which the standardized scratches were made. The cells
+were then incubated with medium (with and without serum)
+alone, 1 μg/ml RLX, SPIONs and RLX-SPIONs, and 5 ng/ml
+TGFβ1 for 24 h. Images were made at t = 0 h and t = 24 h to
+analyze the cell migration. Images were analyzed using NIH
+ImageJ software and were represented as % wound closure
+relative to the control wells. Cells were lysed either with RNA
+lysis buffer for subsequent analyses.
+CCl4-induced advanced liver cirrhosis mouse model
+All the animal experiments were performed in strict
+accordance with the ethical guidelines for the Care and Use of
+Laboratory Animals, Utrecht University, The Netherlands. Male
+Balb/c mice (8–10 weeks old; n = 5 per group) were treated with
+intra-peritoneal injections with olive oil or 1 ml/kg carbon
+tetrachloride (CCl4, Sigma), prepared in olive oil (Sigma) twice
+weekly for 8 weeks as described elsewhere.7 In the last 2 weeks,
+CCl4-treated mice received intravenous administration of PBS
+(n = 6), RLX (250 ng/dose, n = 6), RLX-SPIONs (250 ng/dose,
+n = 6) and SPIONs (equimolar concentrations, n = 5) three
+times a week (in total 6 intravenous injections). Healthy controls
+(n = 5) received olive oil for 8 weeks. Finally, all the animals
+were euthanized, and liver tissues, and blood samples were
+collected for subsequent analysis.
+Magnetic resonance imaging
+For MRI, Balb/c mice with 8 weeks of CCl4 administration
+were intravenously injected with 5 μg/dose RLX, RLX-SPIONs
+and SPIONs (equimolar concentrations) 30 min before imaging.
+MRI measurements were performed on a BioSpec Avance III
+small animal MR system (Bruker BioSpin, Ettlingen, Germany)
+equipped with an shielded gradient set of 600mT/m operating on
+Paravision 5.1 software platform (Bruker, Karlsruhe, Germany).
+First gradient echo T2*-weighted images covering the entire
+mouse liver were acquired in three directions for anatomical
+reference using described acquisition parameters.
+Immunohistochemistry and Immunofluorescence
+Liver tissues were harvested and transferred to Tissue-Tek
+OCT embedding medium (Sakura Finetek, Torrance, CA, USA)
+and snap-frozen in 2-methyl butane. Cryosections (4 μm) were
+air-dried and fixed with acetone for 10 min. Cells or tissue
+sections were rehydrated with PBS and incubated with the
+primary antibody (refer to Supplementary Table 1) followed
+by incubation with horseradish peroxidase (HRP)-conjugated
+secondary antibody. Next, the samples were incubated with
+HRP-conjugated tertiary antibody or donkey anti-goat Alexa
+594-labeled tertiary antibody (Life Technologies, Gaithersburg,
+MD, USA). Thereafter, peroxidase activity was developed using
+the AEC (3-amino-9-ethyl carbazole) substrate kit (Life
+Technologies) for 20 min, and nuclei were counterstained with
+hematoxylin (Fluka Chemie, Buchs, Switzerland). For tissue
+sections, endogenous peroxidase activity was blocked by 3%
+H2O2 prepared in methanol. Cells or sections were mounted with
+Aquatex mounting medium (Merck, Darmstadt, Germany) or
+DAPI-containing mounting medium (Sigma). The staining was
+visualized and the images were captured using light microscopy
+(Nikon eclipse E600 microscope, Tokyo, Japan).
+Western blot analysis
+Cells were homogenized in cold RIPA buffer [with protease
+inhibitor and phosphatase inhibitor (Roche)] and centrifuged at
+12,000 rpm for 1 h at 4 °C. The samples were subjected to SDSPAGE with 10% Tris-glycine gels (Life Technologies) followed
+by transfer to PVDF membrane. The membranes were developed
+according to the standard protocols using primary and secondary
+antibodies as mentioned in Supplementary Table 1. The bands
+were visualized using ECL detection reagent (PerkinElmer) and
+photographed using FluorChem Imaging System. Intensity of
+108 B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118
+individual bands was quantified using NIH ImageJ software and
+expressed in % relative to β-actin.
+RNA extraction, reverse transcription and quantitative
+real-time PCR
+Total RNA from cells and liver tissues was isolated using the
+GenElute Total RNA Miniprep Kit (Sigma) and SV total RNA
+isolation system (Promega Corporation, Madison, WI, USA),
+respectively, according to manufacturer's instructions. The RNA
+concentration was quantitated and total RNA (1 μg) was reverse
+transcribed using the iScript cDNA Synthesis Kit (Bio-Rad,
+Hercules, CA, USA). Real-time PCR was performed using the 2x
+SensiMix SYBR and Fluorescein Kit (Bioline GmbH, QT615–05,
+Luckenwalde, Germany), 20 ng of cDNA and pre-tested genespecific primer sets (listed in Supplementary Tables 2 and 3)
+according to manufacturer's instructions. Finally, cycle threshold
+(Ct) values were normalized to the reference gene GAPDH, and
+relative expression were calculated using the 2-ΔΔCt method.
+RXFP1 gene expression in the human cohort from the
+public database
+RXFP1 gene expression was assessed in the publicly available
+transcriptome datasets of liver tissue from cirrhosis patients with
+Hepatitis B virus infection (n = 10 controls; n = 17 liver cirrhosis,
+GSE38941) obtained from the National Center for Biotechnology
+Information Gene Expression Omnibus database (GEO).
+Statistical analyses
+The results are expressed as the mean + standard error of the
+mean. The graphs and statistical analyses were performed using
+GraphPad Prism version 5.02 (GraphPad Prism, La Jolla, CA,
+USA). Multiple comparisons between different groups were
+performed using the one-way analysis of variance (ANOVA)
+with the Bonferroni post hoc test. P b 0.05 was considered
+significant.
+Results
+Up-regulation of RLX receptor (RXFP1) expression in HSCs in
+liver cirrhosis
+In this study, we used RLX receptor as HSCs-specific target
+receptor which is overexpressed on HSCs during liver cirrhosis.
+Previous studies have demonstrated the hepatic expression of
+RLX receptor (RXFP1) after carbon tetrachloride (CCl4) and
+bile-duct ligation (BDL) induced liver cirrhosis models, and in
+explanted end-stage human cirrhotic livers, and in the livers from
+patients with early and advanced liver cirrhosis due to nonalcoholic steatohepatitis (NASH) and autoimmune hepatitis
+(AIH).8,26 Here, we examined RXFP1 mRNA expression in
+HBV-infected liver cirrhosis patients (GSE38941). We observed
+highly significant upregulation in RXFP1 mRNA expression in
+patients with liver cirrhosis as compared to healthy controls
+(Figure 1, A). Furthermore, we examined the RXFP1 expression
+Figure 1. Up-regulation of RXFP1 in fibrotic human livers, CCl4-induced chronic liver cirrhosis in mice and TGFβ-activated hepatic stellate cells. (A) RXFP1 mRNA
+expression levels from publicly available transcriptome profiling datasets. The graph depicts RXFP1 mRNA expression in liver tissues from HBV-infected liver
+cirrhosis (n = 17) as compared to controls (n = 10). (B) mRNA expression of RXFP1 in the livers of olive-oil-treated control mice and CCl4-treated fibrotic mice
+(8 weeks). n = 5 per group. ***P b 0.001 denotes significance versus control. (C) Collagen I- and RXFP1-stained liver sections from control livers and CCl4-treated
+fibrotic mice (n = 5). (D) Gene expression of fibrotic parameters (Collagen I, α-SMA and vimentin), and (E) RXFP1 in control and TGFβ-activated LX2 cells, n = 4.
+#P b 0.05 and ##P b 0.01 denotes significance versus control cells. (F) Representative images showing α-SMA and RXFP1 expression in control and TGFβactivated LX2 cells.
+B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118 109
+in mouse fibrotic livers as compared to healthy mouse livers. As
+shown in Figure 1, B, RXFP1 expression was strongly induced
+in CCl4-induced liver cirrhosis mouse model (8-weeks CCl4) as
+compared to healthy controls. Repeated administration of CCl4
+in mice for 8-weeks resulted in extensive cirrhosis with an
+increased deposition of collagen I as shown in Figure 1, C.
+Importantly, expression levels of RXFP1 were correlatively upregulated and was found to be localized in the areas of cirrhosis
+(Figure 1, C). During fibrogenesis, TGFβ is one of the key
+growth factor involved in disease progression by activated
+fibroblasts.27,28 Therefore, we investigated the expression levels
+of RXFP1 in TGFβ-activated human HSCs (LX2) as compared
+to non-activated control LX2. As shown in Figure 1, D, we
+observed over-expression of major HSC activation markers
+(α-SMA, alpha-smooth muscle actin and vimentin) and collagen I
+in TGFβ-activated LX2. Consistent with HSCs markers, RXFP1
+expression was significantly upregulated in TGFβ-activated LX2
+(Figure 1,E). The protein expression of RXFP1 was also found to be
+significantly increased in TGFβ-activated HSCs and the expression
+was correlated with α-SMA expressing HSCs (Figure 1, F).
+Altogether, these results suggest the increased RXFP1 mRNA and
+protein expression in liver cirrhosis patients and in activated HSCs,
+and therefore suggests RXFP1 as an appropriate therapeutic and
+diagnostic target.
+Synthesis and characterization of relaxin-coated superparamagnetic
+iron-oxide nanoparticles (RLX-SPIONs)
+We conjugated RLX to COOH groups on the surface on
+dextran- and PEG-coated SPIONs using carbodiimide chemistry
+(Figure 2,A and Supplementary Fig. 1). Supplementary Fig. 1
+depicts the step-wise reaction to conjugate RLX peptides on
+COOH functionalized SPIONs. First, carboxyl groups on
+SPIONs were activated by EDC to form an unstable intermediate
+product EDC-activated SPIONs. Second, EDC-activated
+SPIONs were stabilized by NHS followed by coupling with
+RLX to form RLX-SPIONs with a stable peptide bond. As
+shown in Figure 2, B, RLX conjugation was confirmed by the
+increase in hydrodynamic size of SPIONs and more negative
+zeta potential imparted by negatively charged RLX peptides. To
+estimate conjugation efficiency, dot-blot analysis and Prussian
+blue staining's were performed, and standard curves were plotted
+from known concentrations (Supplementary Fig. 2). With the
+standard curves, conjugation efficiency was calculated that
+indicated the conjugation efficiency of about 90% which
+corresponded to conjugation of approximately three RLX
+peptides per SPION (Figure 2, C).
+Binding and uptake of RLX-SPIONs by TGFβ-activated HSCs
+As shown earlier, RXFP1 expression was significantly
+upregulated on TGFβ-activated HSCs, we performed binding
+and uptake studies with RLX-SPIONs and SPIONs on TGFβactivated HSCs. As shown in Figure 2, D & E, RLX-SPIONs
+showed increased binding and significantly increased uptake in
+TGFβ-activated LX2 as compared to unconjugated SPIONs as
+confirmed by Prussian blue iron staining. RLX-SPIONs uptake
+was further confirmed by fluorescent RLX staining's where
+RLX and RLX-SPIONs showed similar binding to TGFβactivated LX2 (Figure 2, F). These results suggest that RLX
+retained RXFP1-mediated binding and uptake following
+chemical conjugation.
+RLX-SPIONs inhibited fibrotic parameters in mouse 3 T3
+fibroblasts in vitro
+We further investigated the effects of RLX-SPIONs on
+TGFβ-induced 3 T3 fibroblasts activation, migration and TGFβsignaling pathway. We first assessed the effect on fibroblasts
+migration, as shown in Figure 3, A & B, RLX and RLX-SPIONs
+significantly inhibited TGFβ-induced migration. Thereafter, we
+examined the effect of RLX-SPIONs on fibrotic parameters and
+TGFβ-signaling pathway i.e. phosphorylated SMAD2/3 pathway. We observed significant inhibition in collagen I deposition,
+α-SMA expression and TGFβ signaling pathway following
+incubation with RLX and RLX-SPIONs (Figure 3, C & D).
+SPIONs had no significant effects on fibroblasts migration,
+expression of fibrotic parameters and TGFβ-signaling pathway
+(Figure 3, A–D). These results suggests that RLX retained its
+anti-fibrotic activity after chemical conjugation to SPIONs.
+Furthermore, RLX-SPIONs showed improved effects than RLX
+suggesting increased stability of RLX following conjugation
+to SPIONs.
+RLX-SPIONs inhibited differentiation, migration and contractility
+of human HSCs (LX2) in vitro
+We then performed studies in immortalized human hepatic
+stellate (LX2) cells. Following TGFβ-mediated LX2 activation,
+we observed significant upregulation of collagen I and α-SMA
+protein expression which was significantly inhibited by RLX and
+RLX-SPIONs (Figure 4, A). Consistent with the protein
+expression, gene expression of major fibrotic parameter i.e.
+collagen I, and HSCs-activation marker i.e. α-SMA and TIMP1
+(tissue inhibitors of metalloproteinases 1) was highly induced
+upon TGFβ activation and strongly reduced with RLX and RLXSPIONs (Figure 4, B). HSCs have been shown to migrate to the
+sites of tissue injury during fibrogenesis and differentiate into
+contractile myofibroblasts that promote liver stiffness.29 Therefore, we examined the effect of RLX and RLX-SPIONs on
+migration using wound-healing/scratch assays and contractility
+of LX2 cells using 3D-collagen contraction assay. We found that
+RLX and RLX-SPIONs significantly inhibited TGFβ-induced
+migration of LX2 cells after 24 h (Figure 4, C & D).
+Furthermore, RLX and RLX-SPIONs drastically diminished
+TGFβ-induced collagen gel contraction after 24, 48 and 72 h
+with maximal inhibitory effects observed after 72 h (Figure 4, E
+and F). Altogether, these results suggest RLX retained complete
+functionality after conjugation on SPIONs.
+Magnetic resonance imaging of fibrotic livers using
+RLX-SPIONs
+We further used RLX-SPIONs for molecular (RXFP1-based)
+MR imaging in 8-week CCl4-induced liver cirrhosis in mice
+(Figure 5, A). Mice were intravenously injected with SPIONs,
+RLX and RLX-SPIONs 30 min before MR imaging. MRI maps
+from axial sections of the upper abdomen in T2* scanning format
+were made at Tr = 1500 ms and different echo time Te = 8.7 ms,
+17.3 ms and 26 ms. T2* maps of the upper abdomen showed
+110 B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118
+significantly higher MRI contrast with RLX-SPIONs as compared
+to untargeted SPIONs and control (RLX) (Figure 5, B) suggesting
+increased uptake and localization of RLX-SPIONs as compared to
+SPIONs. Furthermore, T2* scanning maps showed the homogenous
+and uniform distribution of RLX-SPIONs in liver parenchyma.
+These results demonstrate molecular MR imaging targeting RXFP1
+receptor on HSCs using RLX-SPIONs as promising nanoparticles
+for diagnosis of liver cirrhosis.
+RLX-SPIONs ameliorated CCl4-induced liver cirrhosis in mice
+We studied the therapeutic efficacy of RLX-SPIONs in 8-week
+CCl4-induced advanced and established liver cirrhosis model in
+vivo. This experimental model represents the clinical pathology of
+human liver cirrhosis. Briefly, mice received CCl4 for 8 weeks to
+induce advanced liver cirrhosis/cirrhosis. During the last 2 weeks, six
+doses of vehicle, RLX, RLX-SPIONs or SPIONs were administered
+Figure 2. Characterization and HSC-specific binding/uptake of RLX-SPIONs. (A) Schematic representation of RLX-SPIONs. (B) Table showing the
+hydrodynamic size, polydispersity index (PDI) and zeta potential of SPIONs and RLX-SPIONs from n = 5 preparations. (C) Dot-blot analysis showing RLX
+conjugation on SPIONs performed by RLX staining and SPIONs detection by Prussian blue iron staining. RLX-SPIONs, RLX and SPIONs were serially diluted
+and spotted on the membrane, so the different dots in the figure represents the serial dilutions of the respective samples. (D) Representative microscopic images
+showing binding and uptake of RLX-SPIONs versus SPIONs in TGFβ-activated LX2 cells. (E) Quantitative analysis depicting % cellular uptake of RLXSPIONs versus SPIONs in TGFβ-activated LX2 cells, n = 3. **P b 0.01 denotes significance versus SPIONs. (F) Representative images depicting binding of
+RLX and RLX-SPIONs following relaxin staining.
+B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118 111
+intravenously (Figure 6,A) while continuing the CCl4 administration
+which resembles the clinical treatment regimen. CCl4 mice
+developed extensive bridging cirrhosis, substantial deposition of
+collagen I, and increased expression of the HSC marker, desmin
+(Figure 6, B). Correspondingly, mRNA expression of collagen I and
+HSC markers, α-SMA and TIMP1 were highly significantly induced
+in CCl4 fibrotic mice (Figure 6, C). Interestingly, RLX and more
+significantly RLX-SPIONs inhibited the expression of these fibrotic
+markers (Figure 6B and C). We also analyzed serum alanine
+aminotransferase (ALT) levels and observed downregulation in
+ALT levels with RLX-SPIONs alone while other treatment did not
+influence CCl4-induced ALT levels (Supplementary Fig. 3,A). We
+also measured body weights of mice before and after treatments,
+and found that RLX reduced the body weight of the animals while
+RLX-SPIONs improved the body weights demonstrating reduced
+adverse effects (Supplementary Fig. 3,B). Notably, in line with our
+in vitro data, we did not observe any effect from SPIONs alone.
+Additionally, as shown earlier that RLX has effects on matrix
+metalloproteinases (MMPs) expression and hence regulates collagen
+remodeling,30 we have also analyzed influence of RLX-SPIONs
+on intrahepatic MMPs (MMP2, MMP3, MMP9 and MMP13).
+MMP2 and MMP13 are identified as pro-fibrotic MMPs, and
+MMP3 and MMP9 are defined as anti-fibrotic MMPs.31 We found
+that RLX and more strongly RLX-SPIONs inhibited pro-fibrotic
+MM2 and MMP13 expression (Figure 7, A) while induced antifibrotic MMP3 and MMP9 (Supplementary Fig. 4,A,B). Altogether, these results strongly suggest that RLX-SPIONs exhibited
+improved therapeutic efficacy without adverse effects.
+RLX-SPIONs attenuated CCl4-induced angiogenesis and induced
+intrahepatic nitric oxide signaling
+Angiogenesis induced by hypoxia within an injured liver and
+appears to aggravate hepatic fibrogenesis.32,33 Accordingly, we
+Figure 3. Efficacy of RLX-SPIONs in TGFβ-activated murine 3 T3 fibroblasts. (A) Representative images (n = 3) depicting scratch wounds made at 0 and
+wound closure at 24 h by control and TGFβ-stimulated 3 T3 fibroblasts treated with medium alone, SPIONs, RLX and RLX-SPIONs. (B) Graph showing %
+wound closure after 24 h, n = 3. (C) Representative images and (D) Quantitative analysis of western blot depicting bands for α-SMA, Collagen I, pSMAD2/3,
+SMAD2/3 and β-actin, performed on control and TGFβ-stimulated 3 T3 fibroblasts treated with medium alone, SPIONs, RLX and RLX-SPIONs, n = 3.
+#P b 0.05, ##P b 0.01 denotes significance versus control 3 T3 cells and *P b 0.05, **P b 0.01 denotes significance versus TGFβ-treated 3 T3 fibroblasts.
+112 B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118
+observed significant increase in angiogenesis markers, endothelin1, CD31 and CD34, and hypoxia induced factor 1 alpha (HIF1α) in
+the livers of mice chronically treated with CCl4 (Figure 7, B–D
+and Supplementary Fig. 4,C). The intrahepatic expression of these
+angiogenesis markers were significantly inhibited following
+therapeutic treatment with RLX and more strongly with RLXSPIONs (Figure 7, B–D and Supplementary Fig. 4,C). Since RLX
+has been shown to have role in portal hypertension mediated via
+nitric oxide pathway,8 we also studied intrahepatic expression
+of nitric oxide synthases (NOS), nitric oxide synthases regulator
+cavoelin-1 and serum levels of nitrite levels and found that
+RLN-SPIONs dramatically increased the expression levels of
+NOS expression while decreased the expression of Caveolin-1
+(Figure 7, E and F). These effects are highly significant as
+compared to RLX alone suggesting strong effects of RLX-SPIONs
+on portal hypertension. Notably, Endothelin-1, is also defined as
+contractile agonist, was also strongly inhibited following treatment
+with RLX-SPIONs (Figure 7, B) further demonstrating RLXSPIONs effects on HSCs contractility and also in amelioration of
+portal hypertension.
+To investigate the systemic effects of RLX-SPIONs versus
+RLX, we analyzed total nitrite levels in plasma. Interestingly, we
+found highly significant induction in systemic NO production
+with RLX as compared to RLX-SPIONs suggesting increased
+Figure 4. Efficacy of RLX-SPIONs in TGFβ-activated human HSCs (LX2). (A) Representative images (n = 3) showing Collagen I- and α-SMA-stained control and
+TGFβ-activated LX2 treated with medium alone, SPIONs, RLX and RLX-SPIONs. (B) Gene expression analysis for Collagen I, α-SMA and TIMP1 as examined in
+control and TGFβ-activated LX2 cells treated with medium alone, SPIONs, RLX and RLX-SPIONs, n = 3. (C) Representative images (at 0 and 24 h) and
+(D) Quantitative analysis (after 24 h) of wound healing/migration by control and TGFβ-stimulated LX2 cells treated with medium alone, SPIONs, RLX and RLXSPIONs (E) Representative images (after 72 h) and (F) quantitative analysis of 3D collagen I gel contraction containing control and TGFβ-activated LX2 treated with
+medium alone, SPIONs, RLX and RLX-SPIONs, n = 3. #P b 0.05 versus control HSCs; *P b 0.05 and **P b 0.01 versus TGFβ-treated HSCs.
+B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118 113
+systemic effects of RLX due to multiple dosing and reduced
+adverse effects from RLX-SPIONs (Figure 7, H). Based on these
+results, we proposed that since RLX-SPIONs demonstrated
+increased liver uptake and distribution (Figure 5) and hence
+showed increased expression of intrahepatic NO synthases and
+exerted RLX-mediated localized effects within the fibrotic liver.
+However, free unconjugated RLX induced systemic effects and
+showed increased plasma nitrite levels as compared to RLXSPIONs attributed to the comparatively reduced uptake in the
+liver. Altogether these results demonstrate the inhibitory effects
+of RLX-SPIONs in portal hypertension with no systemic effect
+on relaxant factor (NO) or vasodilation.
+In vivo, we observed the improved therapeutic efficacy with
+RLX-SPIONs as compared to free RLX which might be due to
+(a) improved stability, (b) improved pharmacokinetics due to
+longer circulation and (c) multivalent interaction of RLXSPIONs versus monovalent interaction of free RLX. Herein, we
+investigated the stability of RLX-SPIONs versus free RLX in
+serum in vitro. We performed the migration assay (scratch assay)
+and quantitative PCR analysis whereby RLX and RLX-SPIONs
+were incubated with TGFβ-activated LX2 cells in the absence
+and presence of serum (Supplementary Figs. 5 and 6). We
+observed that although RLX and RLX-SPIONs showed potent
+inhibitory effects in vitro in the absence of serum, however, RLX
+showed significantly reduced therapeutic efficacy as compared
+to RLX-SPIONs in the presence of serum (Supplementary
+Figs. 5 and 6), strongly suggesting the improved stability of
+RLX-SPIONs and therefore, very likely, improved pharmacokinetic profile as compared to free RLX.
+Discussion
+We have developed a novel theranostic nanomedicine by
+targeting relaxin (RLX) using SPIONs for the diagnosis and the
+treatment of liver cirrhosis. We demonstrate the SPIONs-based
+strategy to deliver potent therapeutic peptide hormone RLX
+specifically to relaxin receptor (RXFP1), that is overexpressed
+on HSCs (the key pathogenic cell types in liver), as a promising
+strategy for molecular magnetic resonance imaging and targeted
+therapy of liver cirrhosis. RLX-SPION showed specific binding
+and uptake by HSCs since RLX receptors are specifically
+overexpressed on activated HSCs during liver cirrhosis.
+Furthermore, RLX-SPIONs inhibited HSCs activation, migration and contractility demonstrating the multidimensional effect
+of RLX and that RLX activities were completely retained
+following chemical conjugation. In vivo, in advanced and
+established model of liver cirrhosis in mice, RLX-SPIONs
+showed increased MRI contrast as compared to SPIONs and
+increased therapeutic efficacy as compared to RLX alone.
+Importantly, RLX-SPIONs strongly inhibited ECM deposition,
+ECM remodeling, HSCs activation, angiogenesis and portal
+Figure 5. Magnetic resonance imaging of RLX-SPIONs in vivo in CCl4-induced liver cirrhosis mouse model. (A) Regimen of liver cirrhosis induction. After
+8 weeks of CCl4 injections, animals received RLX, SPIONs, RLX-SPIONs (5 μg/mice/dose) intravenously and MRI was performed after 30 min of intravenous
+administration. (B) T2 contrast-enhanced MRI liver scan performed on CCl4-induced liver fibrotic mice that RLX, SPIONs, RLX-SPIONs.
+114 B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118
+hypertension. In contrast, RLX induced systemic adverse effects
+i.e. systemic vasodilation by release of relaxant factor i.e. nitric
+oxide and decreased the body weight in mice, while RLXSPIONs did not show any side effects.
+RLX is composed of chain A and B joint with a linker and it
+has been demonstrated that chain A is responsible for the
+biological activity.34 Taking the advantage of RLX molecular
+structure, we smartly conjugated one chain (chain B) of RLX to
+SPIONs while the other active chain (chain A) remained free to
+interact with RLX receptor. Since RLX needs to interact with the
+RXFP1 receptor present on the HSCs surface for the activation of
+the RLX signaling pathway and thereby inhibition of HSCs
+activation, we conjugated RLX (chain B) on the surface of
+SPIONs with a PEG spacer that allows RLX (chain A) to freely
+Figure 6. Effects of RLX-SPIONs on cirrhosis-related parameters in CCl4-treated fibrotic mice. (A) Regimen of liver cirrhosis induction. After 6 weeks of CCl4
+injections, animals received PBS (n = 6), RLX (250 ng/dose, n = 6), RLX-SPIONs (250 ng/dose, n = 6) and SPIONs (equimolar concentration as RLXSPIONs, n = 5), 3 times a week) intravenously for 2 weeks, while CCl4 injections were continued. Normal healthy controls (n = 5) received olive oil for
+8 weeks. (B) Representative photomicrographs of collagen I and desmin-stained liver sections of olive oil-treated animals (normal) and fibrotic animals treated
+with PBS, SPIONs, RLX and RLX-SPIONs. (C) Quantitative real-time PCR analysis of collagen I, α-SMA and TIMP1 in olive oil-treated mice (normal) and
+CCl4 animals treated with PBS, SPIONs, RLX and RLX-SPIONs. Bars represent mean ± SEM, n = 5–6 mice per group. #P b 0.05 versus olive oil normal
+mice; *P b 0.05, **P b 0.01 versus PBS treated-CCl4 mice.
+B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118 115
+bind to the receptor. It is important to comprehend that after
+conjugation, such a molecule can lose its biological activity due
+to conjugation at the receptor interaction site or steric hindrance
+caused by the conjugation. Interestingly, we found that chain B
+had 2 lysine groups and a N-terminal amine group, which we
+used for conjugating RLX to SPIONs via carbodiimide
+chemistry. This conjugation strategy therefore makes RLX
+(chain A) accessible for binding to the receptor while having
+RLX (chain B) yet bound to surface of the SPIONs. Our in vitro
+effect studies confirmed that RLX-SPIONs did not lose the
+activity after conjugation, and showed even better efficacy
+especially in the presence of serum, where the efficacy of RLX
+was significantly reduced. This might be due to increased
+stability of RLX-SPIONs allowing longer duration of activity
+and/or confinement of the molecules allowing better interaction
+with the receptor. In addition, it is also known that multivalent
+interaction instead of monovalent interaction can result in
+stronger and more selective interaction.35 Therefore, multivalency and stability of RLX in RLX-SPIONs might have
+contributed to the enhanced therapeutic effects.
+Hepatic cirrhosis, characterized by extensive accumulation of
+extracellular matrix leading to scar tissue formation in the liver
+resulting in liver dysfunction and hepatocellular carcinoma.2
+Activated HSCs are the key pathogenic cells responsible for the
+production of abnormal fibrillar collagens in liver cirrhosis,36,37
+therefore targeted therapeutics to reverse these activated HSCs are
+Figure 7. Effect of RLX-SPIONs on angiogenesis, MMPs, NO bioavailability and signaling in 8-week CCl4 fibrotic mice. Hepatic mRNA expression of
+(A) MMP-2 and -13; angiogenesis markers (B) Endothelin 1, (C) CD31, and (D) HIF1α; Nitric oxide pathway markers (E) NOS2 (iNOS) and (F) NOS3 (eNOS),
+and (G) NOS3 regulator, Caveolin 1; and (H) Serum total nitrite levels as assessed in olive oil-treated mice (normal) and CCl4 animals treated with PBS, SPIONs,
+RLX and RLX-SPIONs. Bars represent mean ± SEM, n = 5–6 mice per group. #P b 0.05, ##P b 0.01 versus olive oil normal mice; *P b 0.05, **P b 0.01
+versus PBS treated-CCl4 mice.
+116 B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118
+of great interest. An emerging concept is the direct delivery of antifibrotics to target HSCs using receptor-specific carriers to increase
+local drug concentrations while preventing deleterious effects on
+non-target cells or other organs.5,6,36–38 HSCs are the major liver
+cells that express RXFP1 and in light of RXFP1 overexpression
+on HSCs in liver cirrhosis, previous studies have demonstrated
+the therapeutic potential of RLX (6KDa, peptide hormone)
+and more recently, small molecule RXFP1 agonists in liver
+diseases.8,11,26,39–42 Furthermore, RLX has been implicated as potent
+anti-fibrotic therapy for kidney and cardiac cirrhosis.12–15,43–48
+In the liver, RLX has shown to lead to the dilation of sinusoids
+and changes in the contractility of activated HSCs or myofibroblasts.49,50 In activated rat HSCs, RLX has shown to result in
+a decreased collagen deposition and synthesis, accompanied by
+reduced expression of TIMP1 and TIMP2.51 Several signaling
+pathways have been shown to be activated by RLX in HSCs
+including cAMP, cGMP, NO and Akt and have been shown to be
+involved in the HSCs-specific inhibitory effects of RLX.8,52
+Further studies have suggested that RLX interaction with RXFP1
+receptors results in the activation of the anti-fibrotic transcription
+factor PPARγ through cAMP, PKA, p38-MAPK and PPARγ
+coactivator protein 1α (PGC1α).40 Promisingly, Serelaxin, a
+recombinant form of human relaxin-2 (H2-RLX) relieved dyspnea,
+showed improvement in clinical outcomes and reduced mortality
+in acute heart failure patients in a Phase 3 trial.53 However, when
+injected into patients, H2-RLX has shown to lose half of its activity
+within 10 min due to the degradation by blood enzymes and
+clearance by the kidney and liver.17,18 For treatment of liver
+diseases, chronic administration of RLX i.e. continuous infusion
+would be required due to the short half-life which would be major
+obstacle for the clinical translation of RLX. To improve the halflife, systemic vasodilation, administration and for future application for magnetic resonance imaging, we synthesized RLX-coated
+superparamagnetic iron-oxide nanoparticles (RLX-SPIONs). In
+this study, we used dextran- and PEG-coated SPIONs, since these
+hydrophilic polymers increase blood circulation time of SPIONs
+and reduce non-specific interactions with macrophages and
+reticuloendothelial system, and hence reduce nanotoxicity.20
+Since RLX-SPIONs does not interact and phagocytosed by
+macrophages and reticuloendothelial system due to the receptor
+specificity (highly expressed on HSCs) and surface modification
+(dextran and PEG), therefore we did not observe any response of
+innate immune system in vivo. Altogether, we did not observe any
+toxic effects from RLX-SPIONs in vitro and in vivo suggesting
+safety profile of these nanoparticles and hence relevance for the
+future clinical application.
+Early and precise stage diagnosis of liver cirrhosis can be
+extremely helpful in predicting the prognosis and therapeutic
+outcome. In spite of advancements in the field of non-invasive
+strategies, liver biopsy remain the gold standard for staging of
+liver cirrhosis. Several advanced MRI techniques (diffusionweighted imaging) have been developed for accurate staging of
+cirrhosis,54 however, these MRI-techniques provide indirect
+measurements and can be confounded by several factors.54
+Therefore, direct visualization of key pathogenic cells might be
+more accurate to evaluate degree of cirrhosis. Recently,
+molecular imaging has emerged to visualize, characterize and
+measure the biological process at the molecular and cellular
+level.55 Due to high spatial resolution and nonionizing
+radiations, MRI has potential for molecular imaging. In this
+study, RLX-SPIONs showed enhanced contrast and hence
+demonstrates the applicability for diagnosis of liver fibrosis. In
+addition, RLX-SPIONs significantly ameliorated liver fibrosis
+without inducing systemic adverse effects.
+To our best knowledge, this is the first study highlighting the
+theranostic application of RLX and SPIONs in liver cirrhosis and
+documenting increased therapeutic effects of RLX while
+overcoming the adverse effects. This promising strategy should
+be further trailed in other fibrotic diseases and should be
+explored for the systematic evaluation of its theranostic potential
+for clinical applications.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.nano.2018.12.008.
+References
+1. Wallace MC, Friedman SL, Mann DA. Emerging and disease-specific
+mechanisms of hepatic stellate cell activation. Semin Liver Dis
+2015;35:107-18.
+2. Bataller R, Brenner DA. Liver fibrosis. J Clin Invest 2005;115:209-18.
+3. Hernandez-Gea V, Friedman SL. Pathogenesis of liver fibrosis. Annu
+Rev Pathol 2011;6:425-56.
+4. Poelstra K. Liver fibrosis in 2015: crucial steps towards an effective
+treatment. Nat Rev Gastroenterol Hepatol 2016;13:67-8.
+5. Bansal R, Prakash J, de Ruijter M, Beljaars L, Poelstra K. Peptide-modified
+albumin carrier explored as a novel strategy for a cell-specific delivery of
+interferon gamma to treat liver fibrosis. Mol Pharm 2011;8:1899-909.
+6. Bansal R, Prakash J, De Ruiter M, Poelstra K. Targeted recombinant fusion
+proteins of IFNgamma and mimetic IFNgamma with PDGFbetaR bicyclic
+peptide inhibits liver fibrogenesis in vivo. PLoS One 2014;9e89878.
+7. Bansal R, Prakash J, Post E, Beljaars L, Schuppan D, Poelstra K. Novel
+engineered targeted interferon-gamma blocks hepatic fibrogenesis in
+mice. Hepatology 2011;54:586-96.
+8. Fallowfield JA, Hayden AL, Snowdon VK, Aucott RL, Stutchfield BM,
+Mole DJ, et al. Relaxin modulates human and rat hepatic myofibroblast
+function and ameliorates portal hypertension in vivo. Hepatology
+2014;59:1492-504.
+9. Sasser JM. The emerging role of relaxin as a novel therapeutic pathway
+in the treatment of chronic kidney disease. Am J Physiol Regul Integr
+Comp Physiol 2013;305:R559-65.
+10. Feijoo-Bandin S, Aragon-Herrera A, Rodriguez-Penas D, Portoles M,
+Rosello-Lleti E, Rivera M, et al. Relaxin-2 in Cardiometabolic diseases:
+mechanisms of action and future perspectives. Front Physiol 2017;8:599.
+11. Bennett RG, Heimann DG, Singh S, Simpson RL, Tuma DJ. Relaxin
+decreases the severity of established hepatic fibrosis in mice. Liver Int
+2014;34:416-26.
+12. Hewitson TD, Mookerjee I, Masterson R, Zhao C, Tregear GW, Becker GJ,
+et al. Endogenous relaxin is a naturally occurring modulator of experimental
+renal tubulointerstitial fibrosis. Endocrinology 2007;148:660-9.
+13. Samuel CS, Lekgabe ED, Mookerjee I. The effects of relaxin on
+extracellular matrix remodeling in health and fibrotic disease. Adv Exp
+Med Biol 2007;612:88-103.
+14. Lekgabe ED, Kiriazis H, Zhao C, Xu Q, Moore XL, Su Y, et al. Relaxin
+reverses cardiac and renal fibrosis in spontaneously hypertensive rats.
+Hypertension 2005;46:412-8.
+B. Nagórniewicz et al / Nanomedicine: Nanotechnology, Biology, and Medicine 17 (2019) 106–118 117
+15. Du XJ, Xu Q, Lekgabe E, Gao XM, Kiriazis H, Moore XL, et al.
+Reversal of cardiac fibrosis and related dysfunction by relaxin. Ann N Y
+Acad Sci 2009;1160:278-84.
+16. Samuel CS, Zhao C, Yang Q, Wang H, Tian H, Tregear GW, et al.
+The relaxin gene knockout mouse: a model of progressive scleroderma.
+J Invest Dermatol 2005;125:692-9.
+17. Chen SA, Perlman AJ, Spanski N, Peterson CM, Sanders SW, Jaffe R, et al.
+The pharmacokinetics of recombinant human relaxin in nonpregnant
+women after intravenous, intravaginal, and intracervical administration.
+Pharm Res 1993;10:834-8.
+18. Chen SA, Reed B, Nguyen T, Gaylord N, Fuller GB, Mordenti J. The
+pharmacokinetics and absorption of recombinant human relaxin in
+nonpregnant rabbits and rhesus monkeys after intravenous and
+intravaginal administration. Pharm Res 1993;10:223-7.
+19. Debrah DO, Novak J, Matthews JE, Ramirez RJ, Shroff SG, Conrad KP.
+Relaxin is essential for systemic vasodilation and increased global arterial
+compliance during early pregnancy in conscious rats. Endocrinology
+2006;147:5126-31.
+20. Lin MM, Kim HH, Kim H, Dobson J, Kim DK. Surface activation and
+targeting strategies of superparamagnetic iron oxide nanoparticles in canceroriented diagnosis and therapy. Nanomedicine (Lond) 2010;5:109-33.
+21. Rosen JE, Chan L, Shieh DB, Gu FX. Iron oxide nanoparticles for targeted
+cancer imaging and diagnostics. Nanomedicine 2012;8:275-90.
+22. Tassa C, Shaw SY, Weissleder R. Dextran-coated iron oxide
+nanoparticles: a versatile platform for targeted molecular imaging,
+molecular diagnostics, and therapy. Acc Chem Res 2011;44:842-52.
+23. Frimpong RA, Hilt JZ. Magnetic nanoparticles in biomedicine: synthesis,
+functionalization and applications. Nanomedicine (Lond) 2010;5:1401-14.
+24. Issa B, Obaidat IM, Albiss BA, Haik Y. Magnetic nanoparticles: surface
+effects and properties related to biomedicine applications. Int J Mol Sci
+2013;14:21266-305.
+25. Tanimoto A, Kuribayashi S. Application of superparamagnetic iron oxide
+to imaging of hepatocellular carcinoma. Eur J Radiol 2006;58:200-16.
+26. McBride A, Hoy AM, Bamford MJ, Mossakowska DE, Ruediger MP,
+Griggs J, et al. In search of a small molecule agonist of the relaxin
+receptor RXFP1 for the treatment of liver fibrosis. Sci Rep 2017;710806.
+27. Friedman SL. Mechanisms of hepatic fibrogenesis. Gastroenterology
+2008;134:1655-69.
+28. Inagaki Y, Okazaki I. Emerging insights into transforming growth factor
+beta Smad signal in hepatic fibrogenesis. Gut 2007;56:284-92.
+29. Lemoinne S, Cadoret A, El Mourabit H, Thabut D, Housset C. Origins and
+functions of liver myofibroblasts. Biochim Biophys Acta 2013;1832:948-54.
+30. Samuel CS. Relaxin: antifibrotic properties and effects in models of
+disease. Clin Med Res 2005;3:241-9.
+31. Giannandrea M, Parks WC. Diverse functions of matrix metalloproteinases during fibrosis. Dis Model Mech 2014;7:193-203.
+32. Chaparro M, Sanz-Cameno P, Trapero-Marugan M, Garcia-Buey L,
+Moreno-Otero R. Mechanisms of angiogenesis in chronic inflammatory
+liver disease. Ann Hepatol 2007;6:208-13.
+33. Amarapurkar AD, Amarapurkar DN, Vibhav S, Patel ND. Angiogenesis
+in chronic liver disease. Ann Hepatol 2007;6:170-3.
+34. Hossain MA, Wade JD, Bathgate RA. Chimeric relaxin peptides
+highlight the role of the A-chain in the function of H2 relaxin. Peptides
+2012;35:102-6.
+35. Kauscher U, Ravoo BJ. Mannose-decorated cyclodextrin vesicles: the
+interplay of multivalency and surface density in lectin-carbohydrate
+recognition. Beilstein J Org Chem 2012;8:1543-51.
+36. Bansal R, Nagorniewicz B, Prakash J. Clinical advancements in the targeted
+therapies against liver fibrosis. Mediators Inflamm 2016;2016, 7629724.
+37. Yazdani S, Bansal R, Prakash J. Drug targeting to myofibroblasts:
+implications for fibrosis and cancer. Adv Drug Deliv Rev 2017;121:101-16.
+38. Bansal R, Prakash J, De Ruiter M, Poelstra K. Interferon gamma
+peptidomimetic targeted to hepatic stellate cells ameliorates acute and
+chronic liver fibrosis in vivo. J Control Release 2014;179:18-24.
+39. Chen CZ, Southall N, Xiao J, Marugan JJ, Ferrer M, Hu X, et al.
+Identification of small-molecule agonists of human relaxin family
+receptor 1 (RXFP1) by using a homogenous cell-based cAMP assay.
+J Biomol Screen 2013;18:670-7.
+40. Singh S, Simpson RL, Bennett RG. Relaxin activates peroxisome
+proliferator-activated receptor gamma (PPARgamma) through a pathway
+involving PPARgamma coactivator 1alpha (PGC1alpha). J Biol Chem
+2015;290:950-9.
+41. Xiao J, Chen CZ, Huang Z, Agoulnik IU, Ferrer M, Southall N, et al.
+Discovery, Optimization, and Biological Activity of the First Potent
+and Selective Small-Molecule Agonist Series of Human Relaxin Receptor
+1 (RXFP1). Bethesda (MD): Probe Reports from the NIH Molecular
+Libraries Program; 2010.
+42. Xiao J, Huang Z, Chen CZ, Agoulnik IU, Southall N, Hu X, et al.
+Identification and optimization of small-molecule agonists of the human
+relaxin hormone receptor RXFP1. Nat Commun 2013;4:1953.
+43. Bathgate RA, Lekgabe ED, McGuane JT, Su Y, Pham T, Ferraro T, et al.
+Adenovirus-mediated delivery of relaxin reverses cardiac fibrosis. Mol
+Cell Endocrinol 2008;280:30-8.
+44. Samuel CS, Hewitson TD, Unemori EN, Tang ML. Drugs of the future:
+the hormone relaxin. Cell Mol Life Sci 2007;64:1539-57.
+45. Xu Q, Lekgabe ED, Gao XM, Ming Z, Tregear GW, Dart AM, et al.
+Endogenous relaxin does not affect chronic pressure overload-induced
+cardiac hypertrophy and fibrosis. Endocrinology 2008;149:476-82.
+46. Du XJ, Bathgate RA, Samuel CS, Dart AM, Summers RJ. Cardiovascular effects of relaxin: from basic science to clinical therapy. Nat Rev
+Cardiol 2010;7:48-58.
+47. Samuel CS, Royce SG, Hewitson TD, Denton KM, Cooney TE, Bennett
+RG. Anti-fibrotic actions of relaxin. Br J Pharmacol 2017;174:962-76.
+48. Wang C, Kemp-Harper BK, Kocan M, Ang SY, Hewitson TD, Samuel
+CS. The anti-fibrotic actions of Relaxin are mediated through a NO-sGCcGMP-dependent pathway in renal Myofibroblasts in vitro and enhanced
+by the NO donor, Diethylamine NONOate. Front Pharmacol 2016;7:91.
+49. Bani D, Nistri S, Quattrone S, Bigazzi M, Bani Sacchi T. The vasorelaxant
+hormone relaxin induces changes in liver sinusoid microcirculation: a
+morphologic study in the rat. J Endocrinol 2001;171:541-9.
+50. Bani D, Nistri S, Quattrone S, Bigazzi M, Sacchi TB. Relaxin causes
+changes of the liver. In vivo studies in rats. Horm Metab Res
+2001;33:175-80.
+51. Bennett RG, Kharbanda KK, Tuma DJ. Inhibition of markers of hepatic
+stellate cell activation by the hormone relaxin. Biochem Pharmacol
+2003;66:867-74.
+52. Bennett RG, Dalton SR, Mahan KJ, Gentry-Nielsen MJ, Hamel FG,
+Tuma DJ. Relaxin receptors in hepatic stellate cells and cirrhotic liver.
+Biochem Pharmacol 2007;73:1033-40.
+53. Teerlink JR, Cotter G, Davison BA, Felker GM, Filippatos G, Greenberg
+BH, et al. Serelaxin, recombinant human relaxin-2, for treatment of acute
+heart failure (RELAX-AHF): a randomised, placebo-controlled trial.
+Lancet 2013;381:29-39.
+54. Talwalkar JA, Yin M, Fidler JL, Sanderson SO, Kamath PS, Ehman RL.
+Magnetic resonance imaging of hepatic fibrosis: emerging clinical
+applications. Hepatology 2008;47:332-42.
+55. Li Z, Sun J, Yang X. Recent advances in molecular magnetic resonance
+imaging of liver fibrosis. Biomed Res Int 2015;2015595467.

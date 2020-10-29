@@ -1,0 +1,407 @@
+Usefulness of Glycemic Control Using an Artificial Pancreas
+Apparatus for Cardiovascular Surgery
+HISASHI UEMURA, NAOSUMI SEKIYA, MASATAKA MITSUNO, MITSUHIRO YAMAMURA, HIROE TANAKA,
+MASAAKI RYOMOTO, AYAKA SATO, DAISUKE UEDA, AND YUJI MIYAMOTO
+Blood glucose management is important for cardiovascular
+surgery using cardiopulmonary bypass. The usefulness of an
+artificial pancreas apparatus (STG-55) to control blood glucose in patients undergoing cardiopulmonary bypass was
+investigated. Subjects comprised 44 patients using the artificial pancreas during cardiopulmonary bypass between June
+2016 and March 2017; 55 were initially enrolled, but 11 were
+excluded because of blood removal failure. Patients were
+divided into a monitoring group in which blood glucose levels
+were only monitored using the artificial pancreas (11 patients:
+six people with diabetes and 5 people without diabetes) and a
+management group with glycemic control by automatic insulin administration using the artificial pancreas (33 patients:
+people with diabetes and 21 people without diabetes). Mean
+maximum blood glucose levels and variation ranges significantly differed between the monitoring and management
+groups (p = 0.02). The variation range significantly differed
+between people with and without diabetes in the monitoring group (p = 0.008), but not in the management group. The
+artificial pancreas apparatus continuously and accurately
+reflected glycemic variations, facilitating strict and favorable
+control. ASAIO Journal 2019; 65:503–508.
+Key Words: artificial pancreas, cardiovascular surgery, glycemic control
+Perioperative blood glucose management is important for
+cardiovascular surgery using cardiopulmonary bypass. Glucose metabolism is normally maintained by insulin, glucagon,
+cortisol, growth hormone, and epinephrine; however, abnormalities are induced by surgery, cardiopulmonary bypass, and
+hypothermia.1–3 Although blood glucose levels (standard fasting glucose level: 80–110mg/dl) increase during extracorporeal circulation, insulin is not sufficiently secreted.4
+The artificial pancreas apparatus (STG-55, Nikkiso, Tokyo,
+Japan) is a closed-loop bedside device developed in Japan that
+is capable of continuously measuring blood glucose levels and
+automatically administering insulin and glucose to control blood
+glucose at a specified level.5
+ Introduction of an artificial pancreas
+apparatus was reported to reduce the incidence of surgical site
+infection (SSI) and postoperative infection, frequencies of blood
+sampling and safety confirmation, and incidence of events and
+hypoglycemia, decreasing the labor burden on intensive care
+unit (ICU) staff in the digestive surgery field.6,7 However, it has
+not yet been clinically applied in the cardiovascular surgery field.
+In the current study, we managed blood glucose levels with the
+artificial pancreas apparatus during open heart surgery with cardiopulmonary bypass and evaluated its usefulness.
+Subjects and Methods
+Study Population
+The artificial pancreas apparatus (STG-55, Nikkiso, Tokyo,
+Japan; Figure 1) is a closed-loop system device that continuously collects venous blood at 2ml/h through an intravenous
+indwelling needle, continuously measures blood glucose,
+and automatically injects insulin and glucose corresponding to the measured glucose level. Its design is presented in
+Figure 1. The external dimensions are 375×425×1,350mm
+and it weighs 36kg. Fifty-five patients underwent scheduled
+cardiovascular surgery using the artificial pancreas apparatus
+(STG-55, Nikkiso, Tokyo, Japan) at our hospital between June
+2016 and March 2017. In total, 55 consecutive patients scheduled for cardiovascular surgery who gave consent to the use
+of the artificial pancreas apparatus were selected as subjects
+in a nonrandomized manner. Eleven patients for whom blood
+glucose sampling was not possible because of blood removal
+failure were excluded, and, thus, 44 patients were examined.
+Among these patients, cardiovascular surgery was performed
+for valvular disease in 21, for a large blood vessel in 11, for the
+coronary artery in nine, and for others in three. Blood glucose
+levels were measured using the artificial pancreas apparatus
+in all patients. Patients were divided into 11 for whom insulin was appropriately administered following the sliding scale
+(monitoring group) and 33 for whom insulin was automatically
+administered using the artificial pancreas apparatus (management group). This study was approved by the ethics committees of Hyogo College of Medicine. Our institutional approval
+number of this study is 2309.
+Study Design
+Investigation items were age, height, body weight, sex, the
+presence or absence of diabetes, preoperative fasting blood
+glucose, preoperative HbA1c, intraoperative blood loss, the
+aortic cross-clamp time, cardiopulmonary bypass time, operative time, intraoperative balance, and postoperative drainage
+blood loss. Comparative investigation items were maximum
+and minimum blood glucose levels and the range of blood glucose level variations. In addition, the range of blood glucose
+From the Department of Cardiovascular Surgery, Hyogo College of
+Medicine, Nishinomiya City, Japan.
+Submitted for consideration February 2018; accepted for publication in revised form October 2018.
+Disclosure: The authors have no conflicts of interest to report.
+Correspondence: Yuji Miyamoto, Department of Cardiovascular Surgery, Hyogo College of Medicine, 1-1, Mukogawa-cho, Nishinomiya
+City, Hyogo, Japan. Email: y-miyamo@hyo-med.ac.jp.
+Usefulness of Glycemic Control Using an Artificial Pancreas
+Apparatus for Cardiovascular Surgery
+HISASHI UEMURA, NAOSUMI SEKIYA, MASATAKA MITSUNO, MITSUHIRO YAMAMURA, HIROE TANAKA,
+MASAAKI RYOMOTO, AYAKA SATO, DAISUKE UEDA, AND YUJI MIYAMOTO
+Copyright © 2018 by the ASAIO
+DOI: 10.1097/MAT.0000000000000913
+Clinical Cardiovascular
+Copyright © American Society of Artificial Internal Organs. Unauthorized reproduction of this article is prohibited.
+504 UEMURA ET AL.
+level variations was compared between five people without
+diabetes and six people with diabetes in the monitoring group
+and between 21 people without diabetes and 12 people with
+diabetes in the management group.
+Data Collection
+The blood removal route was connected to the patient simultaneously with the initiation of surgery, and the use of the
+artificial pancreas was initiated only with the blood glucose
+measurement mode in the monitoring group, in which blood
+glucose was managed by administering insulin when the blood
+glucose level was 200mg/dl or higher employing a sliding scale
+(defined as the conventional method). In addition, in the monitoring group, blood glucose was controlled using the method
+employed before initiation of this study, i.e., conventional management employing the sliding scale as performed for other
+patients treated by cardiovascular surgery, and only blood glucose was measured for monitoring using the artificial pancreas
+apparatus. In the management group, the use of the artificial
+pancreas was initiated with the treatment mode, setting the target blood glucose level at 80–180mg/dl. The use of the apparatus was completed after approximately 24 hours including its
+use in postoperative ICU in both groups. Regarding the blood
+removal route for sampling, a single forearm venous route or
+lower limb venous route was secured using a 20 G indwelling
+needle in all patients. In blood glucose management using the
+conventional method, blood glucose levels were measured continuously and checked every 30 minutes during surgery, 5 units
+of insulin (Humulin R) was administered when it was 200mg/dl
+or higher, and levels were then rechecked after 30 minutes. During cardiopulmonary bypass, blood glucose levels were measured immediately after the initiation of cardioplegia, 5 units of
+insulin (Humulin R) was administered when it was 200mg/dl or
+higher, and levels were then rechecked after 30 minutes. When
+blood glucose levels were lower than 80mg/dl, 20g of glucose
+was administered, followed by rechecking after 30 minutes. In
+postoperative ICU, insulin (Humulin R) was administered when
+blood glucose levels were 200mg/dl or higher following the
+sliding scale every 6 hours, and 20g of glucose was administered when levels were lower than 80mg/dl.
+Statistical Analysis
+Regarding blood glucose levels, the values automatically
+measured by the artificial pancreas were used. The maximum
+and minimum levels and variation range (maximum level–
+minimum level) were calculated from the values measured by
+the artificial pancreas in each patient, and the mean ± standard
+deviations were calculated in each group. Statistical analyses
+were performed using JMP 12.2.0 (SAS Institute Japan, Tokyo,
+Japan). The Student’s t-test (for continuous variables with a normal distribution), Mann–Whitney U test (for continuous variables with non-normal distribution), χ2
+ test, or Fisher’s exact
+test (nominal scale) was used for between-group comparison,
+and a p value less than 0.05 was considered to be significant.
+Results
+Patient backgrounds are shown in Table 1. No significant
+differences were observed in age, height, body weight, sex,
+the presence or absence of diabetes, preoperative fasting blood
+glucose, preoperative HbA1c, intraoperative blood loss, aortic
+cross-clamp time, extracorporeal circulation time, operative
+time, intraoperative balance, or postoperative drainage blood
+loss between the monitoring and management groups.
+Figure 1. The artificial pancreas apparatus (STG-55, Nikkiso, Tokyo, Japan).
+Copyright © American Society of Artificial Internal Organs. Unauthorized reproduction of this article is prohibited.
+ARTIFICIAL PANCREAS FOR CVS 505
+Maximum blood glucose levels during the use of the artificial pancreas were 218.4±51.0 and 178.2±27.4 mg/dl in
+the monitoring and management groups, respectively, with
+levels being significantly lower in the management group
+(p = 0.021; Figure 2A). Minimum blood glucose levels were
+106.0±19.4 and 97.0±15.9 mg/dl, respectively, showing no
+significant differences between the two groups (p = 0.228;
+Figure 2B). The ranges of blood glucose level variations
+were 114.2±40.2 and 81.2±22.8 mg/dl in the monitoring
+and management groups, respectively, with the variation
+range being significantly smaller in the management group
+(p = 0.018; Figure 2C). Infectious complications developed in
+two patients: a surgical site infection at the great saphenous
+vein in the crus and an infection of the superficial layer of
+the median chest wound, and both patients belonged to the
+monitoring group. The incidence of infectious complications
+was 18% (2/11) in the monitoring group and 0% (0/33) in the
+management group, and, thus, was significantly lower in the
+management group (p = 0.012).
+The ranges of blood glucose level variations in people
+without diabetes and people with diabetes in the monitoring group were 76.6±20.7 and 145.6±17.1 mg/dl, respectively, with the variation range being significantly larger in
+people with diabetes (p = 0.008). In contrast, no significant
+differences were noted in the management group (people
+without diabetes versus people with diabetes: 75.8±23.6
+vs. 90.8±18.6 mg/dl; p = 0.064; Figure 3), i.e., variations in
+blood glucose levels may be inhibited by blood glucose management using the artificial pancreas regardless of the presence or absence of diabetes.
+Table 1. Patient Characteristics
+Monitoring Group
+(n = 11)
+Management Group
+(n = 33) p
+Age (years) 69.0±7.5 70.9±10.7 NS
+Height (cm) 161.3±9.5 159.7±7.5 NS
+Body weight (kg) 63.5±8.9 56.4±13.0 NS
+Sex (male/female) 8/3 20/13 NS
+Diabetes (with/without) 6/5 12/21 NS
+Fasting blood glucose (mg/dl) 133±68 119±38 NS
+HbA1c (%) 6.4±1.2 5.9±0.8 NS
+Intraoperative blood loss (ml) 527±416 375±243 NS
+Aortic cross-clamp time (min) 94±37 116±59 NS
+Extracorporeal circulation time (min) 143±43 161±66 NS
+Operative time (min) 343±100 343±107 NS
+Intraoperative balance (ml) 4,714±2,009 4,130±2,351 NS
+Postoperative drainage blood loss (ml) 548±231 618±358 NS
+Mean ± standard deviation.
+NS, not significant.
+Figure 2. Comparisons between monitoring and management groups. A: Maximum blood glucose levels were significantly lower in the
+management group. B: No significant differences were observed in minimum blood glucose levels between the two groups. C: Variabilities
+in blood glucose levels were significantly lower in the management group. #
+Significant (p < 0.05) difference between groups. Values are
+expressed as the mean ± SD. NS, not significant; SD, standard deviation.
+Copyright © American Society of Artificial Internal Organs. Unauthorized reproduction of this article is prohibited.
+506 UEMURA ET AL.
+Discussion
+The effectiveness of continuous blood glucose monitoring
+and blood glucose management using an artificial pancreas
+apparatus has occasionally been reported in the digestive surgery, anesthesiology, and internal medical fields8–10; however,
+only changes in blood glucose levels in a patient9
+ and the
+investigation of a blood sampling method during the use of an
+artificial pancreas apparatus in patients during cardiopulmonary bypass11 have been described in the cardiovascular surgery field. Changes in blood glucose levels and blood glucose
+management during the perioperative period of cardiovascular surgery using an artificial pancreas apparatus have not yet
+been reported because the circuit readily becomes unusable
+because of blood removal failure caused by low perfusion in
+the peripheral circulation during cardiopulmonary bypass11
+and the high cost. In the current study, blood removal failure
+occurred in 11 (20%) of 55 patients during cardiopulmonary
+bypass, and, thus, has the potential to limit future use. Blood
+removal failure can be resolved by selecting a peripheral vein
+with a large diameter unlikely to collapse for the blood removal
+route, but it is difficult in many cases because of patient factors. Connection to the circuit prevents blood removal failure
+during cardiopulmonary bypass (CPB),11 but this method cannot be employed after completion of CPB. Therefore, a blood
+removal route has to be secured in the patient. Accordingly,
+there may be room for improvement regarding the indwelling needle for the blood removal route. The problem of blood
+removal failure should be continuously investigated for the use
+of the artificial pancreas apparatus.
+Regarding the cost, the price of this artificial pancreas apparatus is approximately $50,000 (USD) and that of the circuit
+exchanged every 24 hours is approximately $270. It became
+covered by national health insurance in 2016 in Japan and it
+costs approximately $316×2 for a 24 hour single use (the cost
+is doubled when use extends to the following day), resulting in
+approximately $632 in total. According to reports from other
+fields, reduction in the incidence of postoperative infection and
+duration of hospital stay can be expected, and reducing effects
+were noted compared with the cost (approximately $4,500)
+of standard care.6
+ Regarding the invasiveness and complications of attachment to this apparatus, no hypoglycemic attack
+occurred and only the peripheral route needs to be secured,
+being relatively low-invasive for patients. No study comparing
+the cost of postoperative complications has been reported and
+it remains to be investigated.
+Studies have been conducted on perioperative blood glucose
+management in digestive surgery. In the normoglycemia in intensive care evaluation and survival using glucose algorithm regulation (NICE-SUGAR) Study, the mortality rate was lower in the
+group with blood glucose levels controlled at 180mg/dl or lower
+than in the group with precise control at 81–108mg/dl.12 The
+Society of Thoracic Surgeons (STS) also reported in its proposal
+that it is better to control intraoperative blood glucose levels at
+180mg/dl or lower and continuous administration is superior to
+subcutaneous administration for the dosing of insulin in cardiac
+surgery field.13 In the ICU of our hospital, the upper limit of blood
+glucose control is set at 200mg/dl based on the proposal for perioperative blood glucose by the US centers for disease control
+and prevention (CDC) guidelines.14 Accordingly, the upper limit
+was set at 200mg/dl in the monitoring group, while the target
+level was set at 80–180mg/dl in the management group. The
+range (80–180mg/dl) of the target level was set in the management group because too precise Intensive Insulin Therapy in the
+perioperative period did not contribute to decreasing mortality
+rates in recent studies2,15–17 and studies opposing Intensive Insulin
+Therapy have occasionally been reported.8,12,18,19 On the other
+hand, the highest blood glucose level during cardiopulmonary
+bypass has been reported to be an independent risk factor for a
+high mortality rate and complications.20 The artificial pancreas
+Figure 3. Comparisons of variabilities in blood glucose levels between people with diabetes and without diabetes in each group. Variabilities in blood glucose levels were significantly higher in people with diabetes than in people without diabetes in the monitoring group, while
+no significant difference was noted in the management group. #
+Significant (p < 0.05) difference between groups. Values are expressed as the
+mean ± SD. DM, diabetes mellitus; NS, not significant; SD, standard deviation.
+Copyright © American Society of Artificial Internal Organs. Unauthorized reproduction of this article is prohibited.
+ARTIFICIAL PANCREAS FOR CVS 507
+may reduce the mortality rate with further study. Furthermore, the
+suppression of blood glucose level variations was shown to play
+an important role in blood glucose management.18,21,22 The use of
+the artificial pancreas significantly narrowed the range of blood
+glucose level variations, demonstrating its efficacy for blood glucose control. Reductions in blood glucose level variations were
+greater in the management group than those achieved by conventional management, even in comparisons of all patients in the
+presence or absence of diabetes, demonstrating that the artificial
+pancreas apparatus is effective in people without diabetes, but it
+is more effective in people with diabetes. As variation in blood
+glucose and a high blood glucose level can be prevented, and
+blood glucose can be strictly controlled using this device, it may
+be sufficiently used as auxiliary means to maintain blood glucose
+at a constant level. Regarding perioperative stress-induced hyperglycemia, a previous study reported that when patients were continuously exposed to perioperative hyperglycemia, the outcomes
+of people without diabetes were poorer than those of people
+with diabetes23; however, blood glucose management using the
+artificial pancreas may also be sufficiently effective for people
+without diabetes. The target glucose level differed between the
+groups. A study with a uniform target glucose level may be necessary. Although the target blood glucose level was different
+between the two groups, the blood glucose level was able to be
+controlled within the specified range using the artificial pancreas
+apparatus, suggesting that the range of variation and maximum
+level of blood glucose can be freely controlled. Therefore, the
+efficacy of blood glucose management using the artificial pancreas apparatus was demonstrated.
+A number of studies have investigated the relationship
+between perioperative blood glucose management and infectious complications. The risk of sepsis may be significantly
+reduced by Intensive Insulin Therapy.12,19,24 And a high blood
+glucose level was shown to promote and aggravate wound
+infection and sepsis,24,25 showing that a high postoperative
+blood glucose level needs to be prevented. However, no significant reductions in the incidence of infection were detected
+in a pooled analysis17 of literature on the development of
+wound infection, urinary tract infection, pneumonia, and combinations of these infections.15,16,26–29 In the current study, no
+infectious complications occurred in the management group,
+whereas their incidence was 18% in the monitoring group;
+however, these results may not be sufficient evidence because
+the number of patients was small and the incidence of infectious complications is low in the cardiovascular surgery field.
+Furthermore, problems, such as blood glucose control for more
+than 24 hours after surgery and use of the artificial pancreas
+apparatus and nutrition management, need to be addressed.
+It may be necessary to perform a study on the glucose level,
+insulin dose, dietary restriction, and factors concerning food
+intake after control by the artificial pancreas.
+The artificial pancreas apparatus is not yet extensively
+used in the cardiovascular surgery field and there are limitations, such as its cost and blood removal failure; however, it
+is minimally invasive and enables safe and continuous blood
+glucose measurements and management. It is superior to the
+conventional method for blood glucose management and
+may be very useful for people with diabetes. Further studies on its usefulness are warranted. Blood glucose control by
+the artificial pancreas apparatus may also be useful for not
+only teams engaged in perioperative blood glucose control
+(cardiovascular surgeons, anesthesiologists, cardiopulmonary
+bypass technologists, surgical nurses, ICU physicians, and
+ICU nurses) but also medical workers involved in blood glucose control in several fields (digestive surgery, gastroenterology, medical metabolism, and ICUs).
+In conclusion, variations in blood glucose levels were continuously measured in the perioperative period of cardiovascular surgery using the artificial pancreas apparatus and strict
+control was achieved. In addition, variations in blood glucose
+levels were reduced more, even in people with diabetes, than
+by the conventional method. The present results also demonstrated that infectious complications may be reduced.
+References
+1. Nagaoka H, Innami R, Watanabe M, Satoh M, Murayama F,
+Funakoshi N: Preservation of pancreatic beta cell function
+with pulsatile cardiopulmonary bypass. Ann Thorac Surg 48:
+798–802, 1989.
+2. Butterworth J, Wagenknecht LE, Legault C, et al: Attempted control of hyperglycemia during cardiopulmonary bypass fails to
+improve neurologic or neurobehavioral outcomes in patients
+without diabetes mellitus undergoing coronary artery bypass
+grafting. J Thorac Cardiovasc Surg 130: 1319, 2005.
+3. Kuntschen FR, Galletti PM, Hahn C: Glucose-insulin interactions
+during cardiopulmonary bypass. Hypothermia versus normothermia. J Thorac Cardiovasc Surg 91: 451–459, 1986.
+4. Landymore RW, Murphy DA, Longley WJ: Effect of cardiopulmonary bypass and hypothermia on pancreatic endocrine function
+and peripheral utilization of glucose. Can J Surg 22: 248–250,
+1979.
+5. Tsukamoto Y, Kinoshita Y, Kitagawa H, et al: Evaluation of a
+novel artificial pancreas: Closed loop glycemic control system
+with continuous blood glucose monitoring. Artif Organs 37:
+E67–E73, 2013.
+6. Okabayashi T, Nishimori I, Maeda H, Yamashita K, Yatabe T,
+Hanazaki K: Effect of intensive insulin therapy using a closedloop glycemic control system in hepatic resection patients:
+A prospective randomized clinical trial. Diabetes Care 32:
+1425–1427, 2009.
+7. Mibu K, Yatabe T, Hanazaki K: Blood glucose control using an
+artificial pancreas reduces the workload of ICU nurses. J Artif
+Organs 15: 71–76, 2012.
+8. Okada T, Kawahito S, Mita N, et al: Usefulness of continuous
+blood glucose monitoring and control for patients undergoing
+liver transplantation. J Med Invest 60: 205–212, 2013.
+9. Kawahito S, Kitahata H, Kitagawa T, Oshita S: Intensive insulin
+therapy during cardiovascular surgery. J Med Invest 57: 191–
+204, 2010.
+10. Tamborlane WV, Beck RW, Bode BW, et al: Continuous glucose
+monitoring and intensive treatment of type 1 diabetes. N Engl J
+Med 359: 1464–76, 2008.
+11. Kawahito S, Higuchi S, Mita N, Kitagawa T, Kitahata H: Novel
+blood sampling method of an artificial endocrine pancreas
+via the cardiopulmonary bypass circuit. J Artif Organs 16:
+508–509, 2013.
+12. Finfer S, Chittock DR, Su SY, et al: Intensive versus conventional
+glucose control in critically ill patients. N Engl J Med 360:
+1283–97, 2009.
+13. Lazar HL, McDonnell M, Chipkin SR, et al: The Society of Thoracic
+Surgeons practice guideline series: Blood glucose management
+during adult cardiac surgery. Ann Thorac Surg 87: 663–9, 2009.
+14. Berríos-Torres SI, Umscheid CA, Bratzler DW, et al; Healthcare
+Infection Control Practices Advisory Committee: Centers for
+Disease Control and Prevention Guideline for the prevention
+of surgical site infection, 2017. JAMA Surg 152: 784–791,
+2017.
+15. Gandhi GY, Nuttall GA, Abel MD, et al: Intensive intraoperative
+insulin therapy versus conventional glucose management during cardiac surgery: A randomized trial. Ann Intern Med 146:
+233–243, 2007.
+Copyright © American Society of Artificial Internal Organs. Unauthorized reproduction of this article is prohibited.
+508 UEMURA ET AL.
+16. Smith A, Grattan A, Harper M, Royston D, Riedel BJ: Coronary
+revascularization: A procedure in transition from on-pump to
+off-pump? The role of glucose-insulin-potassium revisited in
+a randomized, placebo-controlled study. J Cardiothorac Vasc
+Anesth 16: 413–420, 2002.
+17. Qaseem A, Humphrey LL, Chou R, Snow V, Shekelle P; Clinical
+Guidelines Committee of the American College of Physicians:
+Use of intensive insulin therapy for the management of glycemic control in hospitalized patients: A clinical practice guideline from the American College of Physicians. Ann Intern Med
+154: 260–267, 2011.
+18. Wiener RS, Wiener DC, Larson RJ: Benefits and risks of tight glucose control in critically ill adults: A meta-analysis. JAMA 300:
+933–944, 2008.
+19. Arabi YM, Dabbagh OC, Tamim HM, et al: Intensive versus conventional insulin therapy: A randomized controlled trial in
+medical and surgical critically ill patients. Crit Care Med 36:
+3190–3197, 2008.
+20. Doenst T, Wijeysundera D, Karkouti K, et al: Hyperglycemia
+during cardiopulmonary bypass is an independent risk factor
+for mortality in patients undergoing cardiac surgery. J Thorac
+Cardiovasc Surg 130: 1144, 2005.
+21. Egi M, Bellomo R, Stachowski E, French CJ, Hart G: Variability of
+blood glucose concentration and short-term mortality in critically ill patients. Anesthesiology 105: 244–252, 2006.
+22. Krinsley JS: Glycemic variability: A strong independent predictor
+of mortality in critically ill patients. Crit Care Med 36: 3008–
+3013, 2008.
+23. Kotagal M, Symons RG, Hirsch IB, et al; SCOAP-CERTAIN
+Collaborative: Perioperative hyperglycemia and risk of adverse
+events among patients with and without diabetes. Ann Surg
+261: 97–103, 2015.
+24. van den Berghe G, Wouters P, Weekers F, et al: Intensive insulin
+therapy in critically ill patients. N Engl J Med 345: 1359–1367,
+2001.
+25. Furnary AP, Zerr KJ, Grunkemeier GL, Starr A: Continuous intravenous insulin infusion reduces the incidence of deep sternal
+wound infection in diabetic patients after cardiac surgical procedures. Ann Thorac Surg 67: 352–360, 1999.
+26. Kirdemir P, Yildirim V, Kiris I, et al: Does continuous insulin therapy
+reduce postoperative supraventricular tachycardia incidence
+after coronary artery bypass operations in diabetic patients? J
+Cardiothorac Vasc Anesth 22: 383–387, 2008.
+27. Barcellos Cda S, Wender OC, Azambuja PC: Clinical and hemodynamic outcome following coronary artery bypass surgery in
+diabetic patients using glucose-insulin-potassium (GIK) solution: A randomized clinical trial. Rev Bras Cir Cardiovasc 22:
+275–284, 2007.
+28. Subramaniam B, Panzica PJ, Novack V, et al: Continuous perioperative insulin infusion decreases major cardiovascular events in
+patients undergoing vascular surgery: A prospective, randomized trial. Anesthesiology 110: 970–977, 2009.
+29. Li JY, Sun S, Wu SJ: Continuous insulin infusion improves postoperative glucose control in patients with diabetes mellitus
+undergoing coronary artery bypass surgery. Tex Heart Inst J 33:
+445–451, 2006.

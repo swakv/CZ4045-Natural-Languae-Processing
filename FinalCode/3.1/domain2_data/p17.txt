@@ -1,0 +1,559 @@
+MAI MULT A MINHA CU CEI MAI MULT MAIN HATI US010073424B2
+( 12 ) United States Patent
+Lin et al . ( 10 ) Patent No . : US 10 , 073 , 424 B2
+( 45 ) Date of Patent : Sep . 11 , 2018
+( 54 ) INTELLIGENT 3D PRINTING THROUGH
+OPTIMIZATION OF 3D PRINT
+PARAMETERS
+USPC . . . . . . . . . . . . . . . . . . 700 / 119
+See application file for complete search history .
+( 71 ) Applicant : Autodesk , Inc . , San Rafael , CA ( US ) ( 56 ) References Cited
+( 72 ) Inventors : Pierre Pascal Anatole Lin , London U . S . PATENT DOCUMENTS
+( GB ) ; Karl Willis , Millbrae , CA ( US ) ;
+Eric Jamesson Wilhelm , Oakland , CA
+( US ) ; Arian Aziz Aghababaie , London
+( GB )
+5 , 137 , 662 A
+9 , 120 , 270 B2
+9 , 205 , 601 B2 9 , 211 , 678 B2
+8 / 1992 Hull et al . 9 / 2015 Chen et al . 12 / 2015 DeSimone et al . 12 / 2015 DeSimone et al . ( Continued ) ( 73 ) Assignee : Autodesk , Inc . , San Rafael , CA ( US ) FOREIGN PATENT DOCUMENTS
+( * ) Notice : Subject to any disclaimer , the term of this
+patent is extended or adjusted under 35
+U . S . C . 154 ( b ) by 429 days . WOWO 2014 / 126830 8 / 2014
+OTHER PUBLICATIONS
+( 21 ) Appl . No . : 14 / 711 , 714
+( 22 ) Filed : May 13 , 2015
+Dendukuri et al . , “ Continuous - flow lithography for high - throughput microparticle synthesis , ” Nature Materials , vol . 5 , May 2006 , pp . 365 - 369 , © 2006 Nature Publishing Group . ( 65 ) Prior Publication Data ( Continued )
+US 2015 / 0331402 A1 Nov . 19 , 2015
+Related U . S . Application Data
+( 60 ) Provisional application No . 61 / 992 , 600 , filed on May 13 , 2014
+Primary Examiner — Christopher E Everett
+Assistant Examiner — Michael W Choi
+( 74 ) Attorney , Agent , or Firm — Fish & Richardson P . C .
+( 51 ) Int . Ci . G06F 17 / 50 ( 2006 . 01 )
+GO5B 15 / 02 ( 2006 . 01 )
+B33Y 50 / 02 ( 2015 . 01 )
+GO5B 19 / 4099 ( 2006 . 01 )
+U . S . CI . CPC . . . . . . . . . . . G05B 15 / 02 ( 2013 . 01 ) ; B33Y 50 / 02
+( 2014 . 12 ) ; G05B 19 / 4099 ( 2013 . 01 ) ; G06F
+17 / 5009 ( 2013 . 01 ) ; G05B 2219 / 45167
+( 2013 . 01 ) ; G05B 2219 / 49023 ( 2013 . 01 ) ( 58 ) Field of Classification Search
+CPC . . . . . . . . . . . . . . . GO5B 15 / 02 ; G05B 19 / 4099 ; G05B
+2219 / 45167 ; G05B 2219 / 49023 ; B33Y
+50 / 02
+( 57 ) ABSTRACT
+Methods , systems , and apparatus , including medium - en
+coded computer program products , for improving 3D print ing systems and techniques include , in one aspect , a system
+including : three dimensional ( 3D ) printer hardware ; and at
+least one computer communicatively coupled with the 3D
+printer hardware , the at least one computer programed to
+receive 3D print type inputs for an object to be 3D printed and create a 3D print profile including parameters for 3D
+printing the object using the 3D printer hardware by match
+ing the 3D print type inputs against a database .
+16 Claims , 5 Drawing Sheets
+r 200
+Inputs : 3D Geometry , 3D
+Printing Technique , Material and Application
+210
+Model Analytics
+212 unden Simulation Database
+Analysis
+Optimization contenen el
+nostre 220
+Outputs : 3D Print Profile of
+Optimized 3D Print le Parameters 
+US 10 , 073 , 424 B2
+Page 2
+( 56 ) References Cited 2015 / 0328839 A1
+2015 / 0360419 A1
+2016 / 0067921 A1
+11 / 2015 Willis et al . 12 / 2015 Willis et al . U . S . PATENT DOCUMENTS 3 / 2016 Willis et al .
+9 , 216 , 546 B2 12 / 2015 DeSimone et al . OTHER PUBLICATIONS 9 , 360 , 757 B2 6 / 2016 DeSimone et al . 2006 / 0156978 A1 * 7 / 2006 Lipson . . . . . . . . . . . . . . . . B29C67 / 0055
+118 / 708
+2007 / 0264481 A1 11 / 2007 DeSimone et al . 2010 / 0028994 A1 2 / 2010 DeSimone et al . 2011 / 0182805 Al 7 / 2011 DeSimone et al . 2012 / 0027285 A1 * 2 / 2012 Shlain . . . . . . . . . . . . . . . . . . GO6K 9 / 6256
+382 / 149
+2012 / 0113457 Al * 5 / 2012 Pettis . . . GOOF 3 / 12
+358 / 1 . 14
+2013 / 0252178 AL 9 / 2013 McLeod et al . 2013 / 0336884 Al 12 / 2013 DeSimone et al . 2014 / 0107925 A1 * 4 / 2014 Chang . . . . . . . . . . . . . . . . . . . GO6Q 90 / 00
+702 / 3
+2014 / 0228860 A1 * 8 / 2014 Steines . . . . . . . . . . . . . . A61F 2 / 30942
+606 / 130
+2014 / 0339741 Al 11 / 2014 Aghababaie et al . 2015 / 0036174 A1 * 2 / 2015 Pettis G06F 3 / 1288
+358 / 1 . 15
+2015 / 0057982 A1 * 2 / 2015 Erdman . . . . . . . . . . . . . . . . . . GO6F 17 / 50
+703 / 1
+2015 / 0072293 A1 3 / 2015 DeSimone et al . 2015 / 0079327 A1 * 3 / 2015 Kautz . . . . . . . . . . . . . . . B29C 67 / 0088
+428 / 64 . 1
+2015 / 0097315 A14 / 2015 DeSimone et al . 2015 / 0097316 A14 / 2015 DeSimone et al . 2015 / 0102532 A14 / 2015 DeSimone et al . 2015 / 0251356 A1 * 9 / 2015 Batchelder . . . . . . . . . B29C 67 / 0088
+700 / 98
+Lambert et al . , “ Design considerations for mask projection microstereolithography systems , ” ( Jun . 22 , 2016 ) [ online ] ( retrieved
+from http : / / sffsymposium . engr . utexas . edu / Manuscripts / 2013 / 2013
+09 - Lambert . pdf ) , 20 pages . Massey , " Permeability Properties of Plastics and Elastomers — A
+Guide to Packaging and Barrier Materials , ” Published Jan . 1 , 2003 . pp . 1 - 5 , 19 - 29 . Pan et al . , “ Rapid manufacturing in minutes : the development of a
+mask projection stereolithography process for high - speed fabrica
+tion , ” Proceedings of the ASME 2012 International Manufacturing Science and Engineering Conferences , Jun . 4 - 8 , 2012 , Notre Dame , Indiana , US , 10 pages . Pinnau and Toy , " Gas and vapor properties of amorphous perfluorinated copolymer membranes based on 2 , 2 - bistrifluoromethyl - 4 , 5 - difluoro
+1 , 3 - dioxole / tetrafluoroethylene , ” Journal of Membrane Science , 109 : 125 - 133 ( 1996 ) . Unknown author , “ TeflonTM AF amorphous fluoroplastic resins , "
+( Jun . 22 , 2016 ) [ online ] ( retrieved from https : / / www . chemours . com /
+Teflon _ Industrial / en _ US / assets / downloads / teflon - af - product information . pdf ) , 3 pages . Unknown author , “ DuPontTM Teflon® AF amorphous fluoroplastic resin , ” ( Jun . 22 , 2016 ) [ online ] ( retrieved from http : / / www2 . dupont . com / Teflon _ Industrial / en _ US / assets / downloads / h44587 . pdf ) , 4 pages . Zhang , “ Teflon AF composite materials in membrane separation and
+molecular recognition in fluorous media , ” Ph . D . dissertation , Uni
+versity of Pittsburgh , Nov . 2013 , 207 pages .
+* cited by examiner 
+Us . Patent atent Sep . 11 , 2018 Sheet lof 5 | US 10 , 073 , 424 B2
+120 100
+124
+Fault
+Analysis
+134 ) 130 " 44 140
+User Database
+122 722 M
+| - 142
+Model
+Analytics
+Software
+0
+16
+Onboard Feedback
+Computer
+Embedded
+Sensors
+3D Print
+Parameters
+3D Print 618
+Engine Hardware
+System
+FIG . 1 
+U . S . Paten atent Sep . 11 , 2018 Sheet 2 of 5 US 10 , 073 , 424 B2
+200
+Inputs : 3D Geometry , 3D
+Printing Technique , Material and Application
+s 210
+Model Analytics
+212
+Simulation = Database Analysis
+- 216
+Optimization
+- 220
+Outputs : 3D Print Profile of
+Optimized 3D Print
+Parameters
+FIG . 2 
+atent Sep . 11 , 2018 Sheet 3 of 5 US 10 , 073 , 424 B2 U . S . Patent supus un musume
+-
+300
+Simulation
+Finite
+Element
+Analysis
+.
+Computational
+Fluid
+Dynamics
+Support
+Generation
+3D Printing Technique
+Specific
+- 302 304 306 308
+FIG . 3
+410 r 420
+400
+- CET 440
+Controller System
+450
+Sensors
+FIG . 4 
+atent Sep . 11 , 2018 Sheet 4 of 5 US 10 , 073 , 424 B2
+r500 502
+Receive 3D print type inputs ( e . g . , 3D geometry inc . critical features , 3D technique + time & quality ,
+material + properties , and
+application ) for an object
+Match the 3D print type inputs against a database
+( e . g . , model analytics and
+simulation using shared
+data ) to create a 3D print profile ( e . g . , multiple sets )
+50?
+Monitor 3D print progress during the 3D printing 510 504
+Collect key indicators using
+sensor ( s ) ( e . g . , ambient
+temperatures , stresses ,
+visual & audible indicators )
+Output the 3D print profile
+for use in 3D printing the
+object using 3D printer
+512
+Process the key indicators
+to determine if a change is
+needed while 3D printing on
+the 3D hardware continues 520
+514
+Alter the parameters of the
+3D printing as needed ( e . g . ,
+switch b / w respective ones
+of different parameter sets )
+Provide success / failure
+input as feedback to fault
+analysis and model
+analytics ( e . g . , machine
+learning algorithm ( s ) used
+to analyze trends in data
+obtained from multiple
+users at multiple locations )
+518 5167
+No
+3D printing of object completed ?
+Yes Obtain user input regarding
+success or failure of the 3D
+printing on the 3D printer
+FIG . 5 
+atent Sep . 11 , 2018 Sheet 5 of 5 US 10 , 073 , 424 B2
+600
+Data Processing Apparatus
+Applications 604
+. . . . . . . . . . . . . . . . . .
+3D Print Analysis
+& Optimization
+Program 690
+Operating
+System . . . . . . . . - - - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+616 Hardware / Firmware
+612
+Computer
+Readable
+Medium D 44 680
+.
+Processor ( s ) 618 DO Comm . 614 Interface bu ,10 +Network
+Additional
+Device ( s ) 620
+User
+Interface
+Device ( s )
+AM Machine
+FIG . 6 
+US 10 , 073 , 424 B2
+INTELLIGENT 3D PRINTING THROUGH shear stress , bending stress and torsional stress ; visual
+OPTIMIZATION OF 3D PRINT indicators captured via one or more cameras ; and audible
+PARAMETERS indicators captured via one or more microphones . The creating can include performing model analytics to
+CROSS - REFERENCE TO RELATED 5 optimize the parameters in the 3D print profile using simu
+APPLICATIONS lation of the 3D printing and analysis of previous simulation
+data retrieved from a database for prior 3D prints having
+This application claims the benefit under 35 U . S . C . $ corresponding 3D print type inputs . The database can
+119 ( e ) of U . S . patent application Ser . No . 61 / 992 . 600 include both a local component and a remote component , entitled “ Intelligent 3D Printing Through Optimization of 10 and the method can include sharing data between the local
+3D Print Parameters ” , filed May 13 , 2014 , which is incor database component and the remote database component
+porated herein by reference in its entirety . across a network such that actions taken by an experienced
+user at one location can be used to improve the 3D print
+BACKGROUND profile generated for a different user at a different location . 15 Moreover , the creating can include performing database
+This specification relates to three dimensional ( 3D ) print analysis by cross referencing the 3D print type inputs in the
+ing systems and techniques , also known as , additive manu database , which contains previous 3D geometries , simula
+facturing tions , 3D print profiles and user feedback on the success or
+The selection of 3D print parameters across all 3D print - failure of previous 3D prints , such that the parameters for 3D
+ing techniques , for example extrusion temperature for Fused 20 printing are optimized based on historic data . Deposition Modelling ( FDM ) or exposure pattern for Ste The method can include selecting a type of the simulation
+reolithography ( SLA ) , is often critical to the success or based on the 3D print type inputs . The type of the simulation
+failure of a print . 3D print parameters are typically specific can be selected from a group including finite element
+to the 3D printing technique , 3D geometry , material and analysis , computational fluid dynamics , and support genera
+application and therefore can vary greatly from user to user . 25 tion . In addition , the method can include : performing model
+Nonoptimized 3D print parameters can lead to 3D prints analytics and fault analysis , where the fault analysis taking longer than necessary and producing lower quality employs one or more machine learning algorithms to ana
+parts than the 3D printer is capable of . In addition , it can lead lyze a database for trends that link outcomes of 3D prints to an increased instance of failures , machine downtime and with specific 3D geometries , 3D print profiles , materials or
+machine maintenance . This contributes to increased running 30 applications ; obtaining user input regarding success or fail
+costs through material wastage and extra maintenance hours ure of 3D printing and quality ; and using the user input and a reduction in throughput due to machine downtime and regarding success or failure as feedback to the fault analysis unproductive print hours . and the model analytics . One or more aspects of the subject matter described in this
+SUMMARY 35 specification can also be embodied in one or more systems
+that include : three dimensional ( 3D ) printer hardware ; and at
+This specification describes technologies relating to 3D least one computer communicatively coupled with the 3D
+printing systems and techniques , also known as , additive printer hardware , the at least one computer programed to
+manufacturing . receive 3D print type inputs for an object to be 3D printed In general , one or more aspects of the subject matter 40 and create a 3D print profile including parameters for 3D
+described in this specification can be embodied in one or printing the object using the 3D printer hardware by match
+more methods that include : receiving three dimensional ing the 3D print type inputs against a database . The 3D
+( 3D ) print type inputs for an object to be 3D printed ; creating printer hardware can include one or more embedded sensors
+a 3D print profile including parameters for 3D printing the and an onboard computer arranged in a closed - loop feed
+object using 3D printer hardware by matching the 3D print 45 back configuration with a 3D print engine to dynamically
+type inputs against a database ; and outputting the 3D print alter 3D print parameters to optimize a 3D print on the fly . profile for use in 3D printing the object using the 3D printer The at least one computer can be programed to perform
+hardware . The receiving can include receiving the 3D print model analytics to optimize the parameters in the 3D print type inputs including user selected critical features of a 3D profile using simulation of the 3D printing and analysis of
+model of the object and material properties of the object to 50 previous simulation data retrieved from a database for prior
+be 3D printed . 3D prints having corresponding 3D print type inputs . The
+The method can include dynamically altering the param 3D print type inputs can include 3D geometry , a 3D printing eters of the 3D print profile while 3D printing the object technique , a material of the 3D printing , and an application . using the 3D printer hardware responsive to data received Moreover , the at least one computer can be programed to
+from one or more sensors in the 3D printer hardware 55 perform database analysis by cross referencing the 3D print
+arranged in a closed - loop feedback configuration with a 3D type inputs in the database , which contains previous 3D
+print engine . The creating can include adding to the 3D print geometries , simulations , 3D print profiles and user feedback
+profile multiple different sets of two or more 3D print on the success or failure of previous 3D prints , such that the
+parameters , and the altering can include switching between parameters for 3D printing are optimized based on historic
+respective ones of the different sets of two or more 3D print 60 data . parameters during 3D printing of a single object using the The at least one computer can be programed to select a
+3D printer hardware . The method can include monitoring 3D type of the simulation based on the 3D print type inputs . The
+print progress during the 3D printing by collecting and type of the simulation can be selected from a group includ
+processing key indicators using the one or more sensors in ing finite element analysis , computational fluid dynamics , the 3D printer hardware . For example , the key indicators can 65 and support generation . The at least one computer can be
+include : ambient machine temperature , part temperature and programed to perform model analytics and fault analysis , raw material temperature ; compressive stress , tensile stress , where the fault analysis employs one or more machine 
+US 10 , 073 , 424 B2
+learning algorithms to analyze a database for trends that link 116 that operate in a closed - loop feedback configuration 118
+outcomes of 3D prints with specific 3D geometries , 3D print with the onboard computer 112 and a 3D print engine 114 . profiles , materials or applications , and where user feedback The embedded sensor ( s ) 116 in the 3D printer can monitor
+regarding success or failure of 3D printing and quality print progress and collect data on a number of key indica
+thereof are solicited and used as feedback to the fault 5 tors , such as ambient machine , part and raw material tem
+analysis and the model analytics . In addition , the at least one peratures , compressive , tensile , shear , bending and torsional
+computer can be an onboard computer of the 3D printer stresses , visual indicators captured via cameras and audible
+hardware . indicators captured via microphones . These indicators are
+Particular embodiments of the subject matter described in applicable to most , if not all , 3D printing techniques . On the
+this specification can be implemented to realize one or more 10 other hand , certain 3D printing techniques can have moni
+toring of key indicators specific to the respective 3D printing of the following advantages . The productive use of 3D techniques . For example , in stereolithography , oxygen con printers need not be restricted to users that have the expe tent in the photopolymer resin can be a key indicator . Such rience to select 3D print parameters , the resources to cope feedback from the embedded sensor ( s ) 116 can be provided with unscheduled maintenance and machine downtime , and 15 to the onboard computer 112 , which can in turn adjust 3D the patience in the face of repeated failure . This can facilitate print parameters that control the 3D print engine 114 , as it the adoption of 3D printing technology in consumer and prints a 3D object . Thus , the closed - loop feedback configu Small and Medium Enterprise ( SME ) markets where ration 118 can compare sensor output to the 3D print profile
+resources , experience and patience are limited . By address and dynamically alter the 3D print parameters to optimize ing the issue of selecting the optimized 3D print parameters 20 the 3D print on the fly . for the 3D printing technique , geometry , material and appli - The software 120 includes a model analytics component cation , the systems and techniques described herein can 122 that receives input 132 from a user 130 and creates a 3D
+result in increased print success rate by selection of correct print profile 150 containing optimized 3D print parameters 3D print parameters and detection of print failures , higher for the particular 3D printer hardware 110 being used . The
+quality and faster 3D prints by optimizing the 3D print 25 input 132 can include the 3D geometry of the object to be 3D
+parameters , reduction in machine downtime by detecting printed , a specified 3D printing technique corresponding to
+print failures before they become major maintenance events , the particular 3D printer hardware 110 , material being used
+and / or improved user experience by simplifying the 3D for the 3D print job , and an application . Inputs can include
+printing process . Moreover , by enabling the selection of user selection of one or more critical features of a model , optimized 3D print parameters without the traditional trial 30 such as mating features , threaded features , high detail fea
+and error approach , waste of the 3D printing materials and tures and high tolerance features , time required to 3D print
+also of the user ' s time can be reduced . the model , required surface quality , required material prop The details of one or more embodiments of the subject erties such as strength , stiffness , yield , elasticity , elongation , matter described in this specification are set forth in the electrical conductivity , thermal conductivity , etc . , and selec
+accompanying drawings and the description below . Other 35 tion of different material properties for different sections of
+features , aspects , and advantages of the invention will the part . Applications can range from aerospace , automotive , become apparent from the description , the drawings , and the medical , dental , jewelry , consumer , etc . Note that the sys
+claims . tems and techniques described herein are not limited to any
+one 3D printing technology or material . Moreover , data
+BRIEF DESCRIPTION OF THE DRAWINGS 40 formats can include surface meshes , solids , volumes , and
+slices . FIG . 1 shows an example of a 3D printing system to The model analytics component 122 can create the 3D
+perform intelligent 3D printing through optimization of 3D print profile 150 by exchanging print job data 142 with a
+print parameters . database 140 and communicating with a fault analysis FIG . 2 shows an overview of an example of a process to 45 component 124 of the software 120 . The fault analysis
+perform model analytics . component 124 can exchange information 134 with the user
+FIG . 3 shows an overview of simulation techniques that 130 , including fault notification ( s ) and failure modes infor
+can be selected for use in optimizing 3D print parameters . mation . The fault analysis component 124 can also exchange
+FIG . 4 shows an example of a closed - loop feedback print job data 144 with the database 140 and correlate print technique to dynamically alter a 3D print profile . 50 success or failure with the data stored in the database 140 to
+FIG . 5 shows an example of a method of intelligent 3D optimize the model analytics 122 and generation of the 3D
+printing through optimization of 3D print parameters . print profile 150 . The database can include 3D geometry
+FIG . 6 is a schematic diagram of a data processing system . data , 3D print profile data , embedded sensor output data 152 , and user input 134 of failure modes . In addition , the fault
+DETAILED DESCRIPTION 55 analysis component 124 can detect hardware failure and
+determine when the next scheduled maintenance is required . FIG . 1 shows an example of a 3D printing system 100 to FIG . 2 shows an overview of an example of a process to
+perform intelligent 3D printing through optimization of 3D perform model analytics . As noted above , model analytics print parameters . The 3D printing system 100 includes 3D software 210 can receive inputs 200 that include 3D geom
+printer hardware 110 and software 120 , which can be local 60 etry , 3D printing technique , material , and application . The
+to the 3D printer hardware 110 ( e . g . , the software 120 can model analytics software 210 can perform optimization 216
+run in an onboard computer 112 of the 3D printer hardware of output 220 , which includes a 3D print profile of optimized
+110 ) , remote from the 3D printer hardware 110 ( e . g . , the 3D print parameters , using simulation 212 and database
+software 120 can run on a computer that is in a different analysis 214 . The user inputs 200 of 3D geometry , 3D
+locale and be communicatively coupled with the 3D printer 65 printing technique , material and application can be used to
+hardware 110 through the Internet ) , or both . The 3D printer create a simulation 212 of the 3D print and to search a
+hardware 110 can include one or more embedded sensors preexisting database of previous simulations and 3D prints 
+US 10 , 073 , 424 B2
+5
+for similar inputs . The output 220 of the model analytics is model in order to minimize stresses experienced during the
+a 3D print profile containing the optimized 3D print param - printing process and the amount of support material
+eters for the specific 3D print . required . FIG . 3 shows an overview of simulation techniques that FIG . 4 shows an example of a closed - loop feedback
+can be selected for use in optimizing 3D print parameters . 5 technique to dynamically alter a 3D print profile . During a
+The simulation 300 of the 3D print is conducted to create a 3D print , a closed - loop feedback system can be used to
+3D print profile . The simulation 300 can occur on the 3D dynamically alter the 3D print profile 400 and print param printer itself , on a user ' s directly connected personal com eters in response to sensor input . This serves to increase the
+puter ( “ PC ” ) , on a local computer connected by a Local Area print success rate by reducing deviation for the optimized Network ( “ LAN ” ) or using cloud computing . The simula - print profile . A controller 420 causes a 3D printer system 430
+tion 300 performed can be selected from a group including to provide its output 440 for a 3D print , and this output 440 , finite element analysis 302 , computational fluid dynamics as well as the in - progress 3D print itself , can be monitored
+304 , support generation 306 , and one or more additional 3D by sensors 450 . Feedback from the sensors 450 can be
+printing technique specific simulations 308 . Note that more 15 combined 410 with the 3D print profile 400 to actively adjust
+than one of these different simulations 302 , 304 , 306 , 308 the operation of the controller 420 . can be used in the same simulation 300 of a 3D print . For example , a strain gauge embedded in a DLP SLA
+The contents of the 3D print profile can be specific to the system can measure the normal force exerted on a part 3D geometry , 3D printing technique , material and applica - during printing by adhesion to the window . If this normal
+tion . A typical 3D print profile consists of , but is not limited 20 force approaches the maximum allowable stress determined
+to , a force profile , a thermal profile , and a support profile . in the model analytics , the onboard controller can reduce the
+The 3D print profile can also contain profiles specific to the force by slowing the build speed . The controller 420 in the
+3D printing technique being used . The generation of a force closed - loop feedback can be a Proportional Integral Deriva
+profile can use Finite Element Analysis ( FEA ) 302 to tive ( PID ) controller . analyze the 3D geometry during a print to determine the 25 A variety of sensors 450 can be embedded within the
+maximum allowable stresses and after a print to determine system that measure print parameters . Sensors can include , the part strength . The generation of a thermal profile can use but are not limited to , temperature sensor ( s ) to measure
+Computational Fluid Dynamics ( CFD ) 304 to analyze the ambient and material temperatures , humidity sensor ( s ) ,
+3D geometry during a print to determine the thermal expan pressure sensor ( s ) , strain gauges to measure compressive ,
+sion and contraction rates . The generation of a support 30 rt 30 tensile , shear , bending and torsional stresses during print ,
+profile can use a Support Generation Algorithm ( SGA ) 306 imaging system ( s ) , video capture system ( s ) , and thermal
+to analyze the 3D geometry to determine features that imaging system ( s ) . Referring again to FIG . 1 , the database 140 can store require support material . every 3D geometry , 3D print profile , sensor output , and In addition , an example of a 3D printing technique 35 simu lecanque 35 simulation along with user input on success and failure and specific simulation 308 in Digital Light Processing Stereo failure modes of multiple 3D prints . As more data is received lithography ( DLP SLA ) can be a Layer Cure Model to over time by the database 140 , the fault analysis 124 can simulate curing conditions and eliminate through cure . continually improve the model analytics 122 and the result
+Another example can be the use of a Oxygen Content ing 3D print profiles 150 . Note that the database 140 can be
+Software Simulation to simulate the diffusion of oxygen 40 local , server based in the cloud or local . during the print to reduce adhesion forces . The results of The fault analysis component 124 can employ machine
+these simulations can result in the output of a series of 3D learning algorithms , which can be implemented on the
+print parameters . The 3D print parameters typically include onboard computer 112 , a local server or in the cloud . Such
+but are not limited to ambient conditions ( temperature , machine learning algorithms can analyze the database 140
+humidity , pressure ) , build speed , material conditions ( tem - 45 for trends that link the outcome of 3D prints with specific 3D
+perature , viscosity ) , layer thickness and power profiles . geometries , 3D print profiles , materials and / or applications . Referring again to FIG . 2 , for database analysis 214 , the User feedback on the success or failure of the print and the
+inputs of 3D geometry , 3D printing technique , material and quality of the part can be solicited and used in the feedback
+application can be cross referenced in a database that con - loop . Once trends are identified this information can be fed
+tains previous 3D geometries , simulations , 3D print profiles 50 back into the model analytics 122 to improve the analytical
+and user feedback on the success or failure of the print . The model . output 220 can be a series of 3D print parameters based on An example of implementation of machine learning in
+historic data . Note that the series of 3D print parameters can DLP SLA can be correlating time to print with support
+be more than one set of parameters created for the 3D print , geometry and print success for a given 3D geometry such as
+where the different sets of parameters are selectable for use 55 a ring . By examining the 3D geometries stored in the
+at different times of the 3D print and / or based on other database 140 and the user feedback on the success of prints criteria . For example , the system can be designed to switch and time to remove supports , the support generation algo from one set of parameters to another in the 3D print profile rithm can be optimized to minimize the support material
+based on active feedback from the embedded sensors . For generated . In addition , the knowhow of one or more expe
+any given 3D print , there can be multiple sets of 3D print 60 rienced users can be utilized to accelerate the optimization
+parameters in the one 3D print profile for that 3D print , process . For example , an experienced user often manually
+depending on the objectives of the user . creates support geometry to minimize the removal time . By An optimization process 216 can be carried out between selectively analyzing the prints of the experienced users , the
+the 3D print parameters generated by the simulation 212 and optimization of support geometry generation can be accel
+database analysis 214 to determine the optimal 3D print 65 erated . In some implementations , data can be shared across
+profile . For example , the FEA and support generation simu - a network ( e . g . , the Internet ) such that actions taken by an
+lations can work in tandem to optimize the orientation of the experienced user at one location can be used to improve the 
+US 10 , 073 , 424 B2
+3D print profile generated for a different user at a different ambient machine , part and raw material temperatures . The
+location that happens to be printing a similar 3D object . key indicators can include compressive , tensile , shear , bend
+In addition , another function of the fault analysis 124 is to ing and torsional stresses . In addition , the key indicators can
+detect trends that are systematic of a hardware fault by include visual indicators captured via one or more cameras
+analyzing the data stored in the database . When these trends 5 and audible indicators captured via one or more micro
+are detected the user can be notified 134 and a maintenance phones . Note that the types of monitored indicators can vary
+program can be suggested . with the 3D printing technique being used for 3D printing a
+FIG . 5 shows an example of a method of intelligent 3D given object . printing through optimization of 3D print parameters . At The key indicators of 3D print progress can be processed
+500 , 3D print type inputs for an object to be 3D printed are 10 at 512 to determine if a change is needed while the 3D
+received . This can involve presenting a user interface ( e . g . , printing on the 3D printer hardware continues . If a change
+on the 3D printer or a computing device communicatively is needed , the 3D printer parameters can be altered at 514 . coupled therewith ) through which the inputs can be entered , As noted above , this can be a dynamic alteration that occurs , or receiving the inputs from another program . The inputs can during 3D printing of the object using the 3D printer
+include 3D geometry for the object to be 3D printed , 15 hardware , responsive to data received from the one or more
+including potentially critical features of a 3D model of the sensors in the 3D printer hardware arranged in a closed - loop
+object , such as mating features , threaded features , high detail feedback configuration with a 3D print engine . In some
+features and high tolerance features . implementations , the altering involves switching between
+The inputs can also include the 3D printing technique to respective ones of the different sets of two or more 3D print be used , which can be determined previously based on the 20 parameters during 3D printing of a single object using the
+3D printer that is selected for the 3D printing . Note that in 3D printer hardware . Thus , the 3D print profile created for
+general , the print type inputs can include user inputs , auto - the 3D print job can include a series of different parameter matically generated inputs , or a combination of these . For sets that can be used as needed ( e . g . , moving ahead or back
+example , the types of materials that can be used in the in the series ) during the 3D printing , where the series has
+printing can be specified by the 3D printer to be used , but 25 been previously generated to handle different events that
+even so , the 3D printer can offer a range of possible may occur during the 3D printing . materials from which the user can select one or more specific check is made at 516 to see if the 3D printing has
+materials for the 3D print . In some implementations , the 3D completed . Once the 3D print is done , user input regarding
+print type inputs can include the time required to 3D print success or failure of the 3D print can be obtained at 518 . the model , required surface quality , required material prop - 30 This can be done through a user interface ( e . g . , on the 3D
+erties , such as strength , stiffness , yield , elasticity , elongation , printer or a computing device communicatively coupled electrical conductivity , thermal conductivity , etc . , or a com - therewith ) and can include either a Boolean input or more
+bination of these . Further , the 3D print type inputs can detailed input information ( e . g . , gradations of quality
+include the application for the object ( e . g . , aerospace , auto - between complete success and total failure and / or details of
+motive , medical , dental , jewelry , etc . ) which can in turn 35 points in time of the printing or locations on the object where
+provide further details for the 3D print type inputs . the 3D printing result was not adequate ) . In any case , this
+At 502 , the 3D print type inputs can be matched against success / failure input can be provided at 520 as feedback to
+a database to create a 3D print profile including parameters the fault analysis and the model analytics ( e . g . , using
+for 3D printing the object using 3D printer hardware . This machine learning algorithm ( s ) to analyze trends over many
+can include performing model analytics to optimize the 40 3D prints , e . g . , as performed by one user or multiples users ) . parameters in the 3D print profile using simulation of the 3D In some implementations , the fault analysis process can
+printing and analysis of previous simulation data retrieved employ one or more machine learning algorithms to analyze
+from a database for prior 3D prints for similar 3D print type the database for trends that link outcomes of 3D prints with
+inputs . For example , the 3D print type inputs can be cross specific 3D geometries , 3D print profiles , materials or appli
+referenced in the database , which contains previous 3D 45 cations , and this analysis can be used to improve future
+geometries , simulations , 3D print profiles and user feedback model analytic processes and 3D print profiles . on the success or failure of previous 3D prints . The simu - FIG . 6 is a schematic diagram of a data processing system lations can be selected , as described above , and the use of including a data processing apparatus 600 , which can be
+prior user feedback can provide historic data useable to programmed as a client or as a server . The data processing
+optimize the parameters for 3D printing . Note that this 50 apparatus 600 is connected with one or more computers 690
+historic data can include shared user feedback data revealing and an additive manufacturing ( AM ) machine 670 through
+the success or failure of 3D prints occurring on widely a network 680 . While the AM machine 670 is represented as
+distributed 3D printer hardware . Thus , the database can an FDM 3D printer , it will be appreciated that many different
+include both a local component and a remote component , types of 3D printers can be used . Moreover , while only one
+and the method can include sharing data between the local 55 computer is shown in FIG . 6 as the data processing appa
+database component and the remote database component ratus 600 , multiple computers can be used , and various
+across a network such that actions taken by an experienced levels of integration can be employed . For example , in some
+user at one location can be used to improve the 3D print implementations , the data processing apparatus 600 and the
+profile generated for a different user at a different location . AM machine 670 are integrated together in a single 3D
+Moreover , the 3D print profile can include multiple dif - 60 printer device ( e . g . , a desktop 3D printer device ) . As another
+ferent sets of two or more 3D print parameters , which are example , the AM machine 670 can be connected with a LAN
+added at 502 and can then be used during the 3D printing . 680 , which is further connected with the one or more
+At 504 , the 3D print profile is output for use in 3D printing computers 690 through the Internet , and multiple PCs 600
+the object using 3D printer hardware . During the 3D print - can be connected to the LAN 680 and have access to the AM
+ing , 3D print progress can be monitored at 508 . This can 65 machine 670 for 3D printing . involve , collecting key indicators using one or more sensors The data processing apparatus 600 includes various soft
+in the 3D printer at 510 . The key indicators can include ware modules , which can be distributed between an appli 
+US 10 , 073 , 424 B2
+10
+cations layer and an operating system . These can include form of programming language , including compiled or
+executable and / or interpretable software programs or librar - interpreted languages , declarative or procedural languages , ies , including tools and services of a 3D print analysis & and it can be deployed in any form , including as a stand
+optimization program 604 , such as described above . The alone program or as a module , component , subroutine , or
+number of software modules used can vary from one imple - 5 other unit suitable for use in a computing environment . A
+mentation to another . Moreover , the software modules can computer program does not necessarily correspond to a file
+be distributed on one or more data processing apparatus in a file system . A program can be stored in a portion of a
+connected by one or more computer networks or other file that holds other programs or data ( e . g . , one or more
+suitable communication networks . scripts stored in a markup language document ) , in a single The data processing apparatus 600 also includes hardware 10 file dedicated to the program in question , or in multiple
+or firmware devices including one or more processors 612 , coordinated files ( e . g . , files that store one or more modules , one or more additional devices 614 , a computer readable sub - programs , or portions of code ) . Acomputer program can
+medium 616 , a communication interface 618 , and one or be deployed to be executed on one computer or on multiple
+more user interface devices 620 . Each processor 612 is computers that are located at one site or distributed across
+capable of processing instructions for execution within the 15 multiple sites and interconnected by a communication net
+data processing apparatus 600 . In some implementations , the work . processor 612 is a single or multi - threaded processor . Each The processes and logic flows described in this specifi
+processor 612 is capable of processing instructions stored on cation can be performed by one or more programmable
+the computer readable medium 616 or on a storage device processors executing one or more computer programs to
+such as one of the additional devices 614 . The data process - 20 perform functions by operating on input data and generating
+ing apparatus 600 uses its communication interface 618 to output . The processes and logic flows can also be performed
+communicate with one or more computers 690 , for example , by , and apparatus can also be implemented as , special
+over a network 680 . Examples of user interface devices 620 purpose logic circuitry , e . g . , an FPGA ( field programmable include a display , a camera , a speaker , a microphone , a gate array ) or an ASIC ( application - specific integrated cir
+tactile feedback device , a keyboard , and a mouse . The data 25 cuit ) . processing apparatus 600 can store instructions that imple Processors suitable for the execution of a computer pro ment operations associated with the modules described gram include , by way of example , both general and special above , for example , on the computer readable medium 616 purpose microprocessors , and any one or more processors of
+or one or more additional devices 614 , for example , one or any kind of digital computer . Generally , a processor will
+more of a floppy disk device , a hard disk device , an optical 30 receive instructions and data from a read - only memory or a
+disk device , a tape device , and a solid state memory device . random access memory or both . The essential elements of a
+Embodiments of the subject matter and the functional computer are a processor for performing instructions and
+operations described in this specification can be imple - one or more memory devices for storing instructions and
+mented in digital electronic circuitry , or in computer soft - data . Generally , a computer will also include , or be opera
+ware , firmware , or hardware , including the structures dis - 35 tively coupled to receive data from or transfer data to , or
+closed in this specification and their structural equivalents , both , one or more mass storage devices for storing data , e . g . , or in combinations of one or more of them . Embodiments of magnetic , magneto - optical disks , or optical disks . However , the subject matter described in this specification can be a computer need not have such devices . Moreover , a com
+implemented using one or more modules of computer pro puter can be embedded in another device , e . g . , a mobile
+gram instructions encoded on a computer - readable medium 40 telephone , a personal digital assistant ( PDA ) , a mobile audio
+for execution by , or to control the operation of , data pro - or video player , a game console , a Global Positioning
+cessing apparatus . The computer - readable medium can be a System ( GPS ) receiver , or a portable storage device ( e . g . , a
+manufactured product , such as hard drive in a computer universal serial bus ( USB ) flash drive ) , to name just a few . system or an optical disc sold through retail channels , or an Devices suitable for storing computer program instructions
+embedded system . The computer - readable medium can be 45 and data include all forms of non - volatile memory , media
+acquired separately and later encoded with the one or more and memory devices , including by way of example semi
+modules of computer program instructions , such as by conductor memory devices , e . g . , EPROM ( Erasable Pro
+delivery of the one or more modules of computer program grammable Read - Only Memory ) , EEPROM ( Electrically instructions over a wired or wireless network . The com - Erasable Programmable Read - Only Memory ) , and flash
+puter - readable medium can be a machine - readable storage 50 memory devices ; magnetic disks , e . g . , internal hard disks or
+device , a machine - readable storage substrate , a memory removable disks ; magneto - optical disks ; and CD - ROM and
+device , or a combination of one or more of them . DVD - ROM disks . The processor and the memory can be
+The term “ data processing apparatus " encompasses all supplemented by , or incorporated in , special purpose logic
+apparatus , devices , and machines for processing data , circuitry . including by way of example a programmable processor , a 55 To provide for interaction with a user , embodiments of the
+computer , or multiple processors or computers . The appa subject matter described in this specification can be imple ratus can include , in addition to hardware , code that creates mented on a computer having a display device , e . g . , a CRT
+an execution environment for the computer program in ( cathode ray tube ) or LCD ( liquid crystal display ) monitor ,
+question , e . g . , code that constitutes processor firmware , a for displaying information to the user and a keyboard and a
+protocol stack , a database management system , an operating 60 pointing device , e . g . , a mouse or a trackball , by which the
+system , a runtime environment , or a combination of one or user can provide input to the computer . Other kinds of
+more of them . In addition , the apparatus can employ various devices can be used to provide for interaction with a user as
+different computing model infrastructures , such as web well ; for example , feedback provided to the user can be any services , distributed computing and grid computing infra - form of sensory feedback , e . g . , visual feedback , auditory
+structures . 65 feedback , or tactile feedback ; and input from the user can be
+Acomputer program ( also known as a program , software , received in any form , including acoustic , speech , or tactile
+software application , script , or code ) can be written in any input . 
+US 10 , 073 , 424 B2
+12
+The computing system can include clients and servers . A 3D print profile using simulation of the 3D printing and
+client and server are generally remote from each other and analysis of previous simulation data retrieved from the
+typically interact through a communication network . The database for prior 3D prints having corresponding 3D
+relationship of client and server arises by virtue of computer print type inputs , the at least one computer is pro
+programs running on the respective computers and having a 5 gramed to select a type of the simulation from a
+client - server relationship to each other . Embodiments of the plurality of simulations based on the 3D print type subject matter described in this specification can be imple inputs , the 3D print type inputs comprise 3D geometry , mented in a computing system that includes a back - end a 3D printing technique , a material of the 3D printing ,
+component , e . g . , as a data server , or that includes a middle and a specific industry application , and the parameters
+ware component , e . g . , an application server , or that includes 10 in the 3D print profile comprise ambient conditions , a front - end component , e . g . , a client computer having a build speed , material conditions , layer thickness and
+graphical user interface or a Web browser through which a power profiles ; and
+user can interact with an implementation of the subject wherein the at least one computer is programed to operate
+matter described is this specification , or any combination of the 3D printer using the optimized parameters in the 3D
+one or more such back - end , middleware , or front - end com - 15 print profile to increase 3D print success rate , 3D print
+ponents . The components of the system can be intercon quality , 3D print speed , or a combination thereof . nected by any form or medium of digital data communica 2 . The system of claim 1 , wherein the 3D printer hardware
+tion , e . g . , a communication network . Examples of comprises one or more embedded sensors and an onboard
+communication networks include a LAN and a wide area computer arranged in a closed - loop feedback configuration network ( “ WAN ” ) , an inter - network ( e . g . , the Internet ) , and 20 with a 3D print engine to dynamically alter 3D print param
+peer - to - peer networks ( e . g . , ad hoc peer - to - peer networks ) . eters to optimize a 3D print during 3D printing of the 3D
+While this specification contains many implementation print . details , these should not be construed as limitations on the 3 . The system of claim 1 , wherein the at least one
+scope of the invention or of what may be claimed , but rather computer is programed to perform database analysis by
+as descriptions of features specific to particular embodi - 25 cross referencing the 3D print type inputs in the database , ments of the invention . Certain features that are described in which contains previous 3D geometries , simulations , 3D
+this specification in the context of separate embodiments can print profiles and user feedback on the success or failure of
+also be implemented in combination in a single embodi previous 3D prints , such that the parameters for 3D printing
+ment . Conversely , various features that are described in the are optimized based on historic data . context of a single embodiment can also be implemented in 30 4 . The system of claim 1 , wherein the type of the
+multiple embodiments separately or in any suitable subcom - simulation is at least one selected from finite element
+bination . Moreover , although features may be described analysis , computational fluid dynamics , and support genera
+above as acting in certain combinations and even initially tion . claimed as such , one or more features from a claimed 5 . The system of claim 1 , wherein the at least one
+combination can in some cases be excised from the combi - 35 computer is programed to perform model analytics and fault
+nation , and the claimed combination may be directed to a analysis , wherein the fault analysis employs one or more
+subcombination or variation of a subcombination . machine learning algorithms to analyze a database for trends
+Similarly , while operations are depicted in the drawings in that link outcomes of 3D prints with specific 3D geometries ,
+a particular order , this should not be understood as requiring 3D print profiles , materials or specific industry applications , that such operations be performed in the particular order 40 and wherein user feedback regarding success or failure of
+shown or in sequential order , or that all illustrated operations 3D printing and quality thereof are solicited and used as
+be performed , to achieve desirable results . In certain cir - feedback to the fault analysis and the model analytics . cumstances , multitasking and parallel processing may be 6 . The system of claim 5 , wherein the at least one
+advantageous . Moreover , the separation of various system computer comprises an onboard computer of the 3D printer
+components in the embodiments described above should not 45 hardware . be understood as requiring such separation in all embodi - 7 . A method comprising :
+ments , and it should be understood that the described receiving three dimensional ( 3D ) print type inputs for an
+program components and systems can generally be inte object to be 3D printed ; grated together in a single software product or packaged into creating a 3D print profile comprising parameters for 3D
+multiple software products . 50 50 printing the object using 3D printer hardware by match
+Thus , particular embodiments of the invention have been ing the 3D print type inputs against a database ; and
+described . Other embodiments are within the scope of the outputting the 3D print profile and causing 3D printing of
+following claims . In addition , the actions recited in the the object using the 3D print profile with the 3D printer claims can be performed in a different order and still achieve hardware ;
+desirable results . 55 wherein the creating comprises performing model analyt
+What is claimed is : ics to optimize the parameters in the 3D print profile 1 . A system comprising : using simulation of the 3D printing and analysis of
+three dimensional ( 3D ) printer hardware ; and previous simulation data retrieved from the database
+at least one computer communicatively coupled with the for prior 3D prints having corresponding 3D print type 3D printer hardware , the at least one computer pro - 60 inputs , the method comprises selecting a type of the
+gramed to receive 3D print type inputs for an object to simulation from a plurality of simulations based on the
+be 3D printed and create a 3D print profile comprising 3D print type inputs , wherein the 3D print type inputs parameters for 3D printing the object using the 3D comprise 3D geometry , a 3D printing technique , a
+printer hardware by matching the 3D print type inputs material of the 3D printing , and a specific industry against a database ; 65 application , and the parameters in the 3D print profile wherein the at least one computer is programed to per comprise ambient conditions , build speed , material
+form model analytics to optimize the parameters in the conditions , layer thickness and power profiles . 
+US 10 , 073 , 424 B2
+13 14
+10
+8 . The method of claim 7 , wherein the receiving com method comprises sharing data between the local database prises receiving the 3D print type inputs including user component and the remote database component across a
+selected critical features of a 3D model of the object and network such that actions taken by an experienced user at material properties of the object to be 3D printed . one location are used to improve the 3D print profile 9 . The method of claim 7 , comprising dynamically alter - 5 generated for a different user at a different location .
+ing the parameters of the 3D print profile while 3D printing 14 . The method of claim 7 , wherein the creating com the object using the 3D printer hardware responsive to data prises performing database analysis by cross referencing the received from one or more sensors in the 3D printer hard 3D print type inputs in the database , which contains previous ware arranged in a closed - loop feedback configuration with 3D geometries , simulations , 3D print profiles and user a 3D print engine . 10 . The method of claim 9 , wherein the creating com feedback on the success or failure of previous 3D prints , prises adding to the 3D print profile multiple different sets of such that the parameters for 3D printing are optimized based
+two or more 3D print parameters , and the altering comprises on historic data . switching between respective ones of the different sets of 15 . The method of claim 7 , wherein the type of the
+two or more 3D print parameters during 3D printing of a 15 simulation is at least one selected from finite element
+single object using the 3D printer hardware . analysis , computational fluid dynamics , or support genera
+11 . The method of claim 9 , comprising monitoring 3D
+print progress during the 3D printing by collecting and 16 . The method of claim 7 , comprising :
+processing key indicators using the one or more sensors in performing model analytics and fault analysis , wherein
+the 3D printer hardware . the fault analysis employs one or more machine learn
+12 . The method of claim 11 , wherein the key indicators ing algorithms to analyze a database for trends that link
+comprise : outcomes of 3D prints with specific 3D geometries , 3D
+ambient machine , part and raw material temperatures ; print profiles , materials or specific industry applica
+tions ; compressive , tensile , shear , bending and torsional
+stresses ; obtaining user input regarding success or failure of 3D 25
+visual indicators captured via one or more cameras ; and printing and quality ; and
+audible indicators captured via one or more microphones . using the user input regarding success or failure as
+13 . The method of claim 7 , wherein the database includes feedback to the fault analysis and the model analytics . both a local component and a remote component , and the * * * * *
+tion .
+20
+?? 

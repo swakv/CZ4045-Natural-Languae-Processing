@@ -1,0 +1,1502 @@
+Study of the effects of dietary polyunsaturated fatty acids: Molecular mechanisms
+involved in intestinal inflammation
+By Bianca Knocha,b, Matthew P.G. Barnett a
+, Nicole C. Roya and Warren C. McNabba,*
+a Food, Metabolism & Microbiology Section, Food & Textiles Group, AgResearch Grasslands,
+Private Bag 11008, Tennent Drive, Palmerston North 4442, New Zealand b Institute of Food, Nutrition & Human Health, Massey University, Palmerston North 4442, New Zealand
+* Corresponding author: warren.mcnabb@agresearch.co.nz
+RESUMEN
+Estudio del efecto de los ácidos grasos poliinsaturados de la dieta: Mecanismos moleculares involucrados
+en la inflamación intestinal.
+El uso de técnicas «omic» en combinación con sistemas
+modelo y herramientas moleculares nos permiten entender
+como los alimentos y sus componentes actúan en las rutas
+metabólicas que regulan los procesos transcripcionales. Los
+ácidos grasos poliinsaturados tienen efectos nutricionales y
+metabólicos diferenciadores porque producen una elevación
+de los productos regulados por lípidos y afectan a la expresión de varios genes involucrados en la inflamación intestinal. La presente revisión se enfoca en los efectos moleculares de los ácidos grasos poliinsaturados de la dieta en la
+inflamación intestinal.
+PALABRAS CLAVE: Ácidos grasos poliinsaturados n-3 y
+n-6 de la dieta – Gen – Inflamación intestinal.
+SUMMARY
+Study of the effects of dietary polyunsaturated fatty
+acids: Molecular mechanisms involved in intestinal
+inflammation.
+The use of “omics” techniques in combination with model
+systems and molecular tools allows to understand how foods
+and food components act on metabolic pathways to regulate
+transcriptional processes. Polyunsaturated fatty acids have
+distinctive nutritional and metabolic effects because they give
+rise to lipid mediated products and affect the expression of
+various genes involved in intestinal inflammation. The present
+review focuses on the molecular effects of dietary
+polyunsaturated fatty acids on intestinal inflammation.
+KEY-WORDS: Dietary n-3 and n-6 polyunsaturated fatty
+acid – Gene – Intestinal inflammation.
+1. INTRODUCTION
+Traditional nutrition research has dealt with
+metabolic and physiological responses of the body
+to nutrients and has focussed on nutrient
+deficiencies in health and disease. Driven by the
+advances in molecular biology, biochemistry and
+genetics, nutrition research has more recently
+shifted its focus to genotype-based, personalised
+nutrition to maintain an individual’s health and
+prevent diet-related diseases (Kussmann et al.,
+2006). The research field of gene-nutrient
+interactions investigates molecular effects of foods
+and food components with the use of “omics”
+technologies. These have the potential to define
+how nutrition influences metabolic and homeostatic
+pathways, how diet regulates genes in diet-related
+diseases and to what extent an individual’s genetic
+background contributes to these diseases (Müller
+and Kersten, 2003; Bünger et al., 2007) or other
+phenotypes.
+Chronic intestinal inflammation is a hallmark of
+Inflammatory Bowel Diseases (Crohn’s Disease
+(CD) and Ulcerative Colitis (UC)), which together
+affect over 3.5 million people worldwide
+(Bassaganya-Riera and Hontecillas, 2006).
+Northern Europe and North America have reported
+the highest incidence rates and prevalence (Torres
+and Rios, 2008). CD is a condition for which genetic
+and dietary factors are known to predispose
+individuals (Podolsky et al., 2002), is
+immunologically mediated, and is characterized by
+destruction of the intestinal mucosa (BassaganyaRiera and Hontecillas, 2006). In New Zealand, 3075
+new CD cases (representing the total number in the
+small and/or large intestine, and cases of
+unspecified or regional enteritis) have been
+registered from the last half of 2002 to the
+beginning of 2006. CD in the large intestine was
+more common with an increase of 16% (246 cases
+in 2005/06) compared to the small intestine (180
+cases in 2005/06). CD identified in both small and
+large intestine remained constant from 2002 to
+2006, with approximately 140 new cases per year
+(New Zealand Health Information Service, 2007).
+The use of “omics” technologies, together with a
+range of simplified model systems and molecular
+tools, allow us to better understand the basic
+molecular mechanisms of how foods and food
+components may ameliorate or prevent a
+phenotype, e.g. disease (Müller and Kersten, 2003).
+Accumulating evidence in humans and in animal
+models shows a beneficial effect of long-chain
+polyunsaturated fatty acids (PUFA), particularly n-3
+PUFA, for a variety of inflammatory diseases
+(Stulnig, 2003), and these molecules may therefore
+prove to be of benefit for people with either UC or
+Study of the effects of dietary polyunsaturated fatty acids: Molecular mechanisms
+involved in intestinal inflammation
+By Bianca Knocha,b, Matthew P.G. Barnett a
+, Nicole C. Roya and Warren C. McNabba,*
+a Food, Metabolism & Microbiology Section, Food & Textiles Group, AgResearch Grasslands,
+Private Bag 11008, Tennent Drive, Palmerston North 4442, New Zealand b Institute of Food, Nutrition & Human Health, Massey University, Palmerston North 4442, New Zealand
+* Corresponding author: warren.mcnabb@agresearch.co.nz
+GRASAS Y ACEITES, 60 (1),
+ENERO-MARZO, 8-21, 2009,
+ISSN: 0017-3495
+DOI: 10.3989/gya.086508
+CD. n-3 PUFA have been shown to modulate the
+expression of genes that code for proteins involved
+in inflammation, lipid metabolism and energy
+utilization (Deckelbaum et al., 2006).
+This review will provide an overview of the
+current knowledge on the effects of the two major
+classes of PUFA, n-3 and n-6 PUFA, on intestinal
+inflammation as determined using animal models
+and human studies. The mechanisms whereby n-3
+and n-6 PUFA modulate gene expression involve
+multiple metabolic pathways and cross-talk
+between genes controlling lipid homeostasis, and
+the existing knowledge will be presented.
+2. POLYUNSATURATED FATTY ACIDS,
+INFLAMMATION AND IMMUNE RESPONSE
+PUFA modulate multiple processes including
+innate and acquired immunity, infectious
+pathologies due to bacteria and the course of
+chronic diseases such as inflammatory diseases
+(Calder, 2003; Mutch et al., 2005). The two major
+classes of PUFA, n-3 and n-6, are named after the
+first unsaturated carbon in the double bond. These
+two PUFA families, along with their precursors -
+linolenic acid (18:3n-3) and linoleic acid (18:2n-6),
+are essential and must be derived from the diet.
+Linoleic acid (n-6) is the major PUFA in
+Westernized diets, followed by -linolenic acid (n-3)
+(Schmitz and Ecker, 2008). The major sources of
+linoleic acid are vegetable oils such as corn,
+safflower, soybean and sunflower oil, whereas -
+linolenic acid can be mostly found in linseed oil,
+rapeseed, walnuts and blackcurrant oil, but also in
+dark green leafy plants (Dommels et al., 2002).
+Linoleic acid and -linolenic acid are
+metabolized in mammalian cells by desaturase and
+elongation enzymes (Figure 1). Linoleic acid is
+converted to -linolenic acid and dihomo- -
+linolenic acid to form arachidonic acid (AA; 20:4n-6)
+(Schmitz and Ecker, 2008). AA is the major n-6
+PUFA and dietary linoleic acid is the main source of
+tissue AA, although dietary AA is also found in lean
+meats and meat fat (Dommels et al., 2002). The n3 fatty acid -linolenic acid is converted to
+stearidonic acid and eicosatetraenoic acid, then
+further converted to eicosapentaenoic acid (EPA;
+20:5n-3) and docosahexaenoic acid (DHA, 22:6nGRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508 9
+STUDY OF THE EFFECTS OF DIETARY POLYUNSATURATED FATTY ACIDS: MOLECULAR MECHANISMS INVOLVED...
+∆6-desaturase
+elongase
+∆5-desaturase
+elongase
+elongase
+∆6-desaturase
+ß-oxidation
+n-6 family n-3 family
+Linoleicacid
+(LA; 18:2n-6)
+(GLA; 18:3n-6)
+Dihomo- -linolenic acid
+(DGLA; 20:3n-6)
+Arachidonicacid
+(AA; 20:4n-6)
+Adrenicacid
+(ADA; 22:4n-6)
+Tetracosatetraenoicacid
+(TTA; 24:4n-6)
+Tetracosapentaenoic acid
+(TPA; 24:5n-6)
+Docosapentaenoicacid
+(DPA; 22:5n-6)
+α-Linolenicacid
+(ALA; 18:3n-3)
+Stearidonic acid
+(STA; 18:4n-3)
+Eicosatetraenoic acid
+(ETA; 20:4n-3)
+Eicosapentaenoic acid
+(EPA; 20:5n-3)
+Docosapentaenoicacid
+(DPA; 22:5n-3)
+Tetracosapentaenoicacid
+(TPA; 24:5n-3)
+Tetracosahexaenoicacid
+(THA; 24:6n-3)
+Docosahexaenoicacid
+(DHA; 22:6n-3)
+Prostaglandins
+and
+Thromboxanes
+(2-series)
+Leukotrienes
+(4-series)
+Epoxyeicosatrienoic
+and
+Hydroxyleicosatertraenoic
+derivates
+Lipoxins
+COX
+L OX
+Prostaglandins
+and
+Thromboxanes
+(3-series)
+Leukotrienes
+(5-series)
+Resolvins
+COX LOX
+γ
+γ-Linolenicacid
+O Figure 1
+Metabolism of n-3 and n-6 PUFA (created from information in Mills et al., 2005 and Schmitz and Ecker, 2008).
+COX, cyclo-oxygenase; LOX, lipoxygenase.
+3). EPA and DHA are the major n-3 PUFA sources
+in marine fish such as salmon, tuna, herring,
+mackerel and anchovy (Dommels et al., 2002). AA
+and EPA can be further metabolized to more highly
+polyunsaturated fatty acids or activate a series of
+lipid mediators as shown in Figure 1 (Schmitz and
+Ecker, 2008).
+2.1. PUFA-derived mediators
+Inflammation and inflammatory responses are
+part of the normal, innate immune response as long
+as they occur in a controlled manner. Inappropriate
+inflammatory responses are characterized by upregulation of adhesion molecules and subsequent
+induction of leukocyte movement into sites of
+inflammation, production of inflammatory mediators
+and host tissue damage (Calder, 2006).
+Eicosanoids generated from 20-carbon PUFA (n-6)
+are the key link between PUFA and inflammation.
+Inflammatory cells usually contain high amounts of
+n-6 AA and low amounts of other 20-carbon PUFA
+such as EPA. High amounts of interleukins and the
+pro-inflammatory eicosanoids produced by AA
+metabolism (and released from membrane
+phospholipids) have an important role in the early
+phase of inflammatory activation (Simopoulos,
+2002; Calder, 2008). AA can be converted to series2 prostaglandins (PG) and thromboxanes (TX),
+series-4 leukotrienes (LT), to several hydroperoxyand hydroxy-eicosatetraenoic derivatives, and to
+lipoxins. Cyclo-oxygenases (COX) and
+lipoxygenases (LOX) are enzymes that catalyze
+these conversions (Figure 1). EPA is converted to
+series-3 PG and TX eicosanoids, series-5 LT, and
+to several hydroperoxy- and hydroxyeicosapentaenoic derivatives and resolvins.
+Overall, mediators derived from EPA and DHA have
+anti-inflammatory properties while mediators
+formed from AA exert mostly pro-inflammatory or
+other metabolic effects (Table 1). These lipid
+mediators have been and are still studied in order to
+understand their pro- or anti-inflammatory actions
+(Bannenberg et al., 2007).
+The theory that n-3 PUFA show antiinflammatory effects by competing with the
+incorporation of AA into membrane phospholipids,
+replacing it and thereby blocking the production of
+pro-inflammatory eicosanoids (especially PGE2 and
+LTB4), has long been established (Serhan and
+Chiang, 2008). The AA-derived PGE2 has anti- and
+pro-inflammatory modulation effects. It can induce
+COX2, and in this way induces its own synthesis
+and the production of the pro-inflammatory cytokine
+IL6 in macrophages. In contrast, PGE2 inhibits 5-
+lipoxygenase to decrease the production of proinflammatory 4-series leukotrienes and can induce
+15-lipoxygenase to form anti-inflammatory lipoxins
+(LX) (Schmitz and Ecker, 2008).
+Lipoxins belong to a new family of PUFA-derived
+lipid mediators, including AA-derived aspirintriggered lipoxins; EPA-derived resolvin E-series
+(RvEs); DHA-derived resolvin D-series (RvDs) and
+protectins, which serve as endogenous agonists
+controlling inflammation by stimulating resolution
+(Serhan and Chiang, 2008). Bannenberg (2007)
+defined resolution as an essential part of the acute
+inflammatory response including the formation of
+pro- and anti-inflammatory and pro-resolution lipid
+mediators. These mediators serve as ligands to
+activate specific receptors and thus play an
+important role in the progression of the normal
+inflammatory response (Bannenberg et al., 2007;
+Serhan and Chiang, 2008). Resolution of
+10 GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508
+BIANCA KNOCH, MATTHEW P.G. BARNETT, NICOLE C. ROY AND WARREN C. MCNABB
+Table 1
+n-3 and n-6 PUFA-derived lipid mediators and their metabolic effects
+AA (n-6)- EPA (n-3)-
+Mediator effects derived lipid derived lipid Mediator effects
+mediators mediators
+Anti-inflammatory PGD2 Prostaglandins PGD3 Less inflammatory
+Pro-inflammatory PGE2 PGE3 Anti-inflammatory
+Vasodilatation PGF2 PGF3
+PGI2 PGI3
+Pro-inflammatory TXA2 Thromboxanes TXA3 Less inflammatory
+Vasoconstriction TXB2 TXB3 Vasodilatation
+Platelet Weaker platelet
+aggregation aggregation
+Pro-inflammatory LTB4 Leukotrienes LTB5 Less inflammatory
+Chemotaxis LTC4 LTC5
+of phagocytes LTD4 LTD5
+LTE4 LTE5
+Anti-inflammatory LXA4 Lipoxins
+Pro-resolving LXB4
+Resolvins RvE1 Anti-inflammatory
+RvE2
+inflammation contributes to molecular events that
+remove inflammatory cells and restore tissue
+integrity (Bannenberg et al., 2007).
+LXA4 exerts potent anti-inflammatory effects
+mediated through the activation of a specific Gprotein coupled lipoxin receptor and activates
+receptor-mediated molecular pathways to counterregulate acute inflammation (Bannenberg et al.,
+2007). Resolvins are oxygenated products derived
+from EPA and DHA and were first identified during
+the resolution phase of acute inflammation. The
+EPA-derived resolvin E1, shows anti-inflammatory
+actions by binding to a G-protein coupled receptor
+to inhibit nuclear factor-B (NFB) activation and
+thus block the synthesis of pro-inflammatory
+cytokines and chemokines (Bannenberg et al.,
+2007, Schmitz and Ecker, 2008). RvE1 receptor
+is also expressed in gastrointestinal tissue
+(Bannenberg et al., 2007).
+2.2. Immunomodulatory mechanisms
+From early studies of patients with IBD a
+link between PUFA, the immune system and
+pathogenesis of CD was suggested. These studies
+reported decreased concentrations of n-3 PUFA in
+plasma phospholipids (Sheehan et al., 1992) and in
+adipose tissue (Geerling et al., 1999) and also
+decreased serum concentrations of total n-3 PUFA
+in IBD patients compared with control patients
+(Kuroki et al., 1997). The loss of n-3 PUFA
+increases the n-6:n-3 ratio, which implies the
+production of more pro-inflammatory eicosanoids.
+Several aspects of the immunomodulatory
+effects of PUFA in intestinal inflammation have
+recently been investigated, e.g. the role of PUFA
+in modulation of pro- and anti-inflammatory
+eicosanoids, membrane fluidity, signal transduction,
+antigen presentation, gene expression and
+gastrointestinal flora (Mills et al., 2005). Mills et al.,
+(2005) reviewed studies in humans and animals
+which reported that dietary n-3-rich fish oil
+supplementation decreased AA levels in the
+membrane as AA was replaced by n-3 PUFA. As
+a result of the competitive inhibition of AA
+metabolism, less pro-inflammatory eicosanoids
+are produced by AA. Immune cells, such as
+macrophages, are the main source of eicosanoids.
+Prostaglandins, for example, can suppress T
+lymphocyte proliferation, T cell-mediated toxicity,
+IL2 production and natural killer cell activity in vitro
+(Goodwin and Ceuppens, 1983). Thus eicosanoids
+act directly on immune cells and are modulated
+themselves by PUFA (Mills et al., 2005).
+PUFA have an important role in membrane
+structure. Incorporation of PUFA into membrane
+lipids increases membrane fluidity and affects the
+conformation of membrane protein complexes.
+Some membrane-bound enzymes and receptors
+are sensitive to the particular fatty acids that
+surround them (Mills et al., 2005). There are also
+membrane regions (the so-called lipid rafts)
+containing cholesterol, sphingolipids and signalling
+molecules, where signalling events can take place
+(Stulnig, 2003; Mills et al., 2005). Dietary n-3 PUFA
+are able to decrease the sphingomyelin content of
+lipid rafts in vivo. Displacement of acylated proteins
+from membrane lipid rafts is seen with EPA but to a
+lesser extent with AA and could be due to altered
+protein acylation after PUFA incorporation or
+changes in lipid raft composition (Stulnig, 2003).
+PUFA are involved in many intracellular signal
+transduction pathways in immune cells, specifically
+in T and B-lymphocytes. Long chain fatty acids
+can modulate signalling pathways and target
+gene expression by reciprocal modulation of the
+activation of Toll-like receptor 4 (TLR4) and its
+downstream signalling pathways. They suppress
+NFB activation and COX2 expression that are
+inducible by a TLR2 agonist in macrophages.
+Different types of fatty acids modulate different TLR
+molecules, suggesting a modulatory role for dietary
+fatty acids in immune and inflammatory responses
+by TLR activation in the intestine. Changes in
+dietary fat composition could modulate signalling
+pathways downstream of TLR molecules, as well as
+targeting gene expression and subsequent cellular
+responses (Mills et al., 2005).
+In vitro and in vivo experiments suggest that the
+immunomodulatory mechanism of n-3 PUFA might
+occur via modulation of antigen-presenting cell
+function. Fish oil supplementation to healthy
+volunteers decreased the expression of membranebound MHC II antigen-presenting molecules in
+peripheral blood monocytes. Furthermore, a role
+for PUFA in modulating antigen-presenting cell
+function is supported by the observation that the
+expression of adhesion molecules such as
+intercellular adhesion molecule 1 (ICAM1) is
+down-regulated by n-3 PUFA. Adhesion molecule
+expression enables the antigen bearing cells in
+circulation to reach lymphoid areas to present
+antigen to T lymphocytes and stimulate an immune
+response (Mills et al., 2005).
+Mucosal inflammation in IBD results from an
+inappropriate inflammatory response to microbiota
+in the intestine. TLR molecules are involved in the
+recognition of and the response to commensal
+microbiota or to pathogens, acting as pattern
+recognition receptors (Mills et al, 2005; Niess and
+Reinecker, 2006). It has been shown that intestinal
+microbiota play an important role in human colitis;
+reduced levels of Bifidobacteria have been
+observed in patients with CD (Favier et al., 1997).
+PUFA may affect the composition of the intestinal
+microbiota and thus alter the balance of
+inflammation in the intestine. It is suggested that
+dietary PUFA affect mucosal adhesion sites
+for gastrointestinal bacteria (e.g. Lactobacilli)
+(Kankaanpää et al., 2001) by altering the
+composition of the intestinal wall (Mills et al., 2005).
+This implies that dietary PUFA could enhance the
+functions of probiotic bacteria in the gastrointestinal
+tract, e.g. by stimulating adhesion (Mills et al., 2005;
+Torres and Ríos, 2008).
+GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508 11
+STUDY OF THE EFFECTS OF DIETARY POLYUNSATURATED FATTY ACIDS: MOLECULAR MECHANISMS INVOLVED...
+Immune responses in IBD patients are triggered
+by the presence of commensal intestinal bacteria
+(Ewaschuk and Dieleman, 2006). Most animal
+models of IBD (such as IL10 gene-deficient mice
+and HLA-B27 transgenic rats) fail to develop
+chronic intestinal inflammation when raised in
+germ-free conditions (Taurog et al., 1994; Sellon et
+al., 1998). Enterococcus faecalis is a commensal
+bacterium of the intestinal microbiota and has been
+used to induce colitis in IL10 gene-deficient mice,
+both as a single defined strain (Balish and Warner,
+2002) and in a combined inoculum with complex
+intestinal flora (Roy et al., 2007). It would therefore
+seem that the balance between beneficial and
+aggressive intestinal bacteria is an important factor
+which can influence the transition from mucosal
+homeostasis to chronic inflammation (Ewaschuk
+and Dieleman, 2006).
+3. POLYUNSATURATED FATTY ACID
+REGULATION OF GENE EXPRESSION
+IN IBD
+Long chain fatty acids have been known to
+contribute to enterocyte function and pathology
+(Heimerl et al., 2006). In particular, long chain n-3
+and n-6 PUFA are incorporated into biological
+membranes and regulate such processes as
+energy metabolism, eicosanoid production, signal
+transduction and regulation of gene expression
+(Mutch et al., 2005; Deckelbaum et al., 2006). N-3
+PUFA modulate the expression of genes that code
+for proteins involved in inflammation, lipid
+metabolism and energy utilization in several tissues
+and organs. They reduce inflammation and induce
+lipid oxidation for enhanced energy utilization
+(Deckelbaum et al., 2006). Long chain PUFA
+modulate inflammatory processes by altering fatty
+acid metabolism in the intestinal epithelial cells
+(Belluzzi, 2002). There are multiple mechanisms
+whereby long chain PUFA, especially n-3 PUFA,
+can affect transcription factor-dependent gene
+expression, the expression of nuclear hormone
+receptors and lipid second messengers. The latter
+activate other genes or other cellular events which
+affect gene expression, e.g. production of n-3
+metabolites and subsequent gene expression
+(Deckelbaum et al., 2006).
+3.1. Fatty acid metabolism
+It has been shown that the altered expression of
+genes involved in fatty acid metabolism in IBD may
+be a consequence of inflammation, but may also
+contribute to IBD pathophysiology. Genes involved in
+uptake and activation of fatty acids include fatty acid
+transport proteins (FATP, solute carrier family 27),
+fatty acid binding proteins (FABP) and long chain
+acyl-CoA synthases (ACSL) (Heimerl et al., 2006).
+The FATP transmembrane proteins in the
+intestinal membrane increase the uptake of long
+chain PUFA into cells and FATP gene expression
+levels directly correlate with long chain PUFA
+uptake. Six FATP proteins have been found in all
+fatty acid-metabolizing tissues of the human body
+(Stahl, 2004). High expression levels of FATP2 and
+FATP4 transporter genes have been found in ileum
+and colon tissues of healthy patients. In the colon of
+CD and UC patients, FATP4 gene expression was
+down-regulated compared to control tissues
+(Heimerl et al, 2006).
+Other types of proteins (CD36 molecule, FABP
+and ACSL) can facilitate the uptake of PUFA. It is
+suggested that long chain PUFA either bind directly
+to FATP complexes, or bind first to CD36 which then
+releases the PUFA to FATP. Considerable amounts
+of CD36 mRNA were observed in healthy intestinal
+biopsies (Heimerl, 2006). A study with CD36-
+deficient mice suggested only a minor role for CD36
+in the lipid absorption in enterocytes (Goudriaan et
+al., 2002).
+The cytoplasmic protein FABP binds PUFA
+inside the cell for further fatty acid metabolism. Only
+three of the seven FABP members described to
+date (FABP1, FABP2 and FABP6) have major roles
+in the intestinal tissue. High mRNA levels have been
+detected in ileum (FABP1, FABP2 and FABP6) and
+colon (FABP1 and FABP2) biopsies.The expression
+of FABP2 and FABP6 genes was down-regulated in
+colon of UC patients (Heimerl et al., 2006). FABP
+has also been considered as a plasma marker of
+intestinal injury in patients with UC, as the serum
+concentration of intestinal FABP was elevated in
+these patients and may indicate ileitis (WiercinskaDrapalo, 2008).
+For the next step in fatty acid metabolism,
+acetylation of long chain fatty acids by ACSL is
+required. ACSL are integral membrane proteins
+with active sites facing the cytosol. Five human
+ACSL genes and several isoforms have been
+identified (Heimerl et al., 2006; Soupene and
+Kuypers, 2008). mRNA levels of ACSL1 and ACSL4
+were found to be increased in ileum and colon of
+IBD patients. The ACSL1 and ACSL4 isoforms
+provide acyl-CoA for the synthesis of triacylglycerol
+and phospholipid; the latter of which might be
+incorporated into the intestinal membrane to
+maintain epithelial barrier function. Therefore, an
+up-regulation of some ACSL members by the fatty
+acids present in the enterocyte could support
+membrane integrity and decelerate the course of
+inflammation in IBD (Heimerl et al., 2006).
+Inside the cytoplasm, fatty acids can be
+elongated and desaturated by specific elongases
+and desaturases, -oxidized in mitochondria or
+peroxisomes for energy production, -oxidized in
+microsomes, peroxidized, involved in membrane
+phospholipid or eicosanoid (PG, LT and TX)
+synthesis (Dulpus et al., 2000). PUFA are able to
+down-regulate the expression of genes for enzymes
+involved in fatty acid synthesis, including acetylCoA carboxylase, fatty acid synthase and stearoylCoA desaturase (Salter and Tarling, 2007).
+12 GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508
+BIANCA KNOCH, MATTHEW P.G. BARNETT, NICOLE C. ROY AND WARREN C. MCNABB
+3.2. Transcription factors
+Dietary PUFA can also directly regulate gene
+expression by interaction with transcription factors
+to exert their effects on various metabolic states in
+health and disease (Salter and Tarling, 2007).
+Transcription factors play an important role in IBD
+(Heimerl et al., 2006; Sanderson et al., 2008),
+for example NFB in regulating production
+and activation of pro-inflammatory cytokines
+(Mitsuyama et al., 2001). Nuclear receptors, a
+family of ligand-activated transcription factors, are
+most relevant in mediating the effect of nutrients
+and their metabolites on gene transcription (De
+Vogel-van den Bosch, 2008) and can directly or
+indirectly regulate genes of lipid metabolism and
+inflammatory signalling (Schmitz and Ecker, 2008).
+Nuclear receptors that regulate PUFA-induced
+gene expression include peroxisome proliferatoractivated receptors (PPAR, NR1C), liver X receptor
+(LXR, NR1H), retinoid X receptor (RXR, NR2B),
+hepatocyte nuclear factor 4 (HNF4), farnesoid X
+receptor (FXR, NR1H) and pregnane X receptor
+(PXR, NR1I) (Heimerl et al., 2006; Salter and Tarling,
+2007; Sanderson et al., 2008). Transcriptional
+regulation by these nuclear receptors requires
+heterodimerization with RXR. Receptors that also
+mediate effects of dietary fatty acids on gene
+expression include the transcription factors SREBP1
+and NFB (Sanderson et al., 2008). The interaction
+of PUFA with all of these transcription factors in the
+regulation of fatty acid metabolism genes is still illdefined in vivo.
+PPAR can be activated by a range of natural
+and synthetic compounds, including fibrates,
+xenobiotics, and both saturated and unsaturated
+fatty acids (Salter and Tarling, 2007). PPAR
+isoforms, which belong to the steroid hormone
+nuclear receptor superfamily of ligand-activated
+transcription factors (which includes retinoic acid
+receptor (RAR), LXR and RXR), are particularly
+relevant to dietary fatty acid effects on gene
+expression. Three different isoforms of PPAR
+(PPAR (NR1C1), PPAR (also known as )
+(NR1C2), and PPAR (NR1C3)) have been
+characterized (Sampath and Ntambi, 2005; Bünger
+et al., 2007).
+N-3 and n-6 PUFA serve as endogenous ligands
+for all PPAR isoforms with varying affinity for the
+receptor subtypes (Salter and Tarling, 2007).
+Furthermore, transactivation and competitive
+binding assays have revealed that PUFA
+metabolites, such as the naturally occurring
+eicosanoids, can also activate PPAR isoforms with
+greater affinity than their parent compounds
+(Sampath and Ntambi, 2005). N-3 PUFA are more
+potent activators of PPAR than n-6 PUFA. After
+activation by a ligand, PPAR dimerize with RXR and
+the PPAR/RXR heterodimer binds to DNA response
+elements, called the PPAR response element, in
+the promoter of target genes (Sampath and Ntambi,
+2005; Salter and Tarling, 2007).
+PPAR is the main PPAR isoform involved in
+regulation of genes of lipid and carbohydrate
+metabolism in hepatocytes (Sampath and Ntambi,
+2005). PPAR has been shown to be highly
+expressed in the small intestine (Bünger et al.,
+2007). PPAR is also expressed in kidney, whereas
+PPAR (subforms 1, 2 and 3 arising from
+alternative splicing of one gene) is mainly
+expressed in adipose tissue and macrophages
+(Salter and Tarling, 2007). PPAR is ubiquitously
+expressed (Salter and Tarling, 2007). PPAR is
+associated with transcriptional up-regulation of the
+expression of genes involved in fatty acid oxidation
+and lipoprotein metabolism, including acyl-CoA
+oxidase, FATP, carnitine palmitoyl transferase 1,
+lipoprotein lipase and apolipoproteins AI and CIII.
+PPAR inhibits the expression of genes encoding
+for pro-inflammatory proteins, including vascular
+cell adhesion molecule 1 (a membrane protein that
+mediates leukocyte extravasion to sites of tissue
+inflammation (Wu, 2007)) and interleukin 6, in the
+vascular endothelium (Salter and Tarling, 2007).
+There is some evidence that PUFA inhibit lipogenic
+gene expression by repression of SREBP mRNA
+(Sampath and Ntambi, 2005).
+SREBP belong to the membrane-bound
+members of the basic helix–loop–helix leucine
+zipper family of transcription factors that were
+first characterized by binding to a sterol
+response element found on genes involved in
+cholesterolgenesis. Three isoforms of SREBP have
+been identified; SREBP1a and 1c, which regulate
+the expression of genes involved in fatty acid and
+cholesterol synthesis pathways, and SREBP2,
+which controls genes important for cholesterol
+homeostasis (Sampath and Ntambi, 2005; Salter
+and Tarling, 2007). The inactive precursor form of
+SREBP is located in the endoplasmic reticulum,
+linked to SREBP cleavage-activating protein
+(SCAP). With low sterol concentrations in the cell,
+SCAP moves with the SREBP to the Golgi
+apparatus where the active mature form of SREBP
+is released. The mature SREBP migrates to the
+nucleus and can bind to the sterol response
+element in the promoter region of target genes
+involved in cholesterol, triglyceride and fatty acid
+synthesis. When cellular sterol concentrations are
+high, sterol interacts with the protein Insig, an
+endoplasmic reticulum anchor protein, on the
+SREBP-SCAP complex and SREBP maturation is
+inhibited. As a consequence the transcription of
+target genes involved in lipid and lipoprotein
+metabolism is down-regulated (Sampath and
+Ntambi, 2005; Salter and Tarling, 2007).
+SREBP1 expression is mainly regulated at the
+level of gene transcription, whereas SREBP2
+expression is mainly regulated at a posttranslational level, through modulation of cleavage
+of its membrane-bound precursor to release the
+active nuclear form (Salter and Tarling, 2007). As
+reviewed by these authors, PUFA regulate SREBP
+expression partly through LXR. PUFA can inhibit
+GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508 13
+STUDY OF THE EFFECTS OF DIETARY POLYUNSATURATED FATTY ACIDS: MOLECULAR MECHANISMS INVOLVED...
+the interaction of oxysterol ligands with LXR and
+thus inhibit activation of SREBP1c gene
+transcription by LXR. Another possible mechanism
+is the inhibition of LXR transcriptional activity by
+PUFA activation of PPAR. Increased competition
+between PPAR and LXR for the connection with its
+transcriptional partner RXR has been reported
+(Salter and Tarling, 2007). The effect of dietary
+PUFA on cell lipid homeostasis is a result of
+complex, controlled interactions between SREBP,
+PPAR, LXR and RXR transcription factors
+(Sampath and Ntambi, 2005; Deckelbaum et al.,
+2006; Salter and Tarling, 2007). An overview of
+PUFA and its influence on transcription factors is
+presented in Figure 2.
+There is also evidence that n-3 PUFA affect
+HNF4 transcriptional activity and exert
+hypotriglyceridemic effects. The HNF4 gene is
+highly expressed in liver, but is also found in kidney,
+intestine and pancreas. This transcription factor is
+associated with the expression of genes involved
+in lipid and lipoprotein metabolism, such as
+apolipoproteins AII, AIV, CII and CIII, the microsomal
+triglyceride transfer protein, and cytochrome P450,
+family 7, subfamily A, polypeptide 1 (CYP7A1).
+HNF4 binds with high affinity to unsaturated longchain fatty acyl CoA which in turn inhibits HNF-4a
+transcriptional activity. HNF4 binds to direct repeat
+1 response elements as a homodimer and can
+compete with PPAR/RXR heterodimers for DNA
+binding (Salter and Tarling, 2007).
+Another mechanism of PUFA-mediated gene
+expression is the regulation of the transcription
+factor NFB. NFB and Inhibitor B (IB) are colocated in the cytoplasm of cells as an inactive
+heterodimer. When IB is phosphorylated, NFB
+separates from IB and translocates to the nucleus
+to influence the transcription of a variety of proinflammatory genes, such as COX2 and IL6. AA
+stimulates NFB translocation and thus induces
+NFB target gene transcription, whereas EPA
+inhibits translocation by PPAR-mediated
+activation, resulting in inhibition of the transcription
+of NFB target genes (Sampath and Ntambi, 2005).
+4. A MOLECULAR APPROACH TO STUDY
+POLYUNSATURATED FATTY
+ACID-REGULATED GENES IN INTESTINAL
+INFLAMMATION
+An approach to define the molecular
+mechanisms whereby dietary PUFA alter intestinal
+inflammation is to identify PUFA-regulated genes
+14 GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508
+BIANCA KNOCH, MATTHEW P.G. BARNETT, NICOLE C. ROY AND WARREN C. MCNABB
+PUFA
+Acyl-CoA
+RXR
+FXR
+LXR
++/-
+SREBP1
+NFκB
+κB
+L-FABP
+Fattyacid
+oxidation
+Thermogenesis
+Fattyacid,
+Cholesterol
+synthesis
+Inflammation
+HNF4
+RXR
+FXR
+LXR
+SREBP1
+NFκB
+L-FABP
+HNF4
+PPARα
+Figure 2
+Transcription factors influenced by PUFA. PUFA can activate (PPAR, RXR and FXR) or repress (SREBP1, LXR and NFB)
+various transcription factors. L-FABP as PPAR-binding protein can transport and deliver PUFA to PPAR. HNF4 transactivation
+is repressed by PUFA and activated by PUFA-CoA ester. RXR is the dimerization partner for PPAR, LXR and FXR and represents
+a PUFA-binding protein.
+PPAR, peroxisome proliferator-activated receptor ; RXR, retinoid X receptor; FXR, farnesoid X receptor; SREBP1, sterol regulatory
+element binding protein 1; LXR, liver X receptor; NFB, nuclear factor-B; L-FABP, liver fatty acid binding protein; HNF4, hepatic
+nuclear factor 4 (created from information in Schmitz and Ecker, 2008 and Dulpus et al., 2002).
+that are expressed at the onset of intestinal
+inflammation.
+Methods for gene expression analysis that
+require the pre-selection of single genes, such as
+Northern blotting and quantitative PCR, are biased.
+These methods have been and are still useful, but
+they miss important effects on biological processes,
+such as metabolic and signalling pathways and
+transcriptional networks across several pathways
+(Subramanian et al., 2005).
+DNA and oligonucleotide microarray
+technologies enable the analysis of genome-wide
+expression patterns (e.g. for particular diseases or
+physiological states) of organisms with a
+sequenced genome, allowing investigators to
+establish gene networks and identify new genes
+involved in the investigated trait. Gene expression
+profiling, or transcriptomics, is widely used in both
+biomedical (Subramanian et al., 2005) and nutrition
+(Müller and Kersten, 2003) research to characterize
+molecular- pathway and network data in a variety of
+tissues in laboratory animals (Langmann et al.,
+2004; Rivera et al., 2006; Dommels et al., 2007) and
+in response to dietary treatments to predict a
+phenotypic outcome (De Vogel-van den Bosch et
+al., 2008; Nones et al., 2008; Sanderson et al.,
+2008).
+However, extracting the biological significance of
+a large amount of gene data is still a challenge.
+Information about genes is organized in ontologies,
+such as Gene Ontology (Prüfer et al., 2007). There
+are several tools for gene ontology enrichment
+analysis (Ingenuity pathway analysis or IPA,
+FUNC and many others) available to help
+interpret the extensive gene lists generated using
+transcriptomics.
+IPA software has a manually created knowledge
+base and combines gene ontology enrichment with
+pathway enrichment analysis, network construction
+and comparison analysis. The biological interaction
+networks in IPA identify nodes (hub genes) that are
+central in connections between the differentially
+expressed genes. FUNC is also a useful tool to
+analyze large-scale gene expression data in the
+context of functional annotations (Prüfer et al.,
+2007). The disadvantage of the FUNC approach
+compared to that of IPA is that it does not
+incorporate a function or pathway analysis and
+lacks a disease focus.
+Hub genes are validated by quantitative realtime PCR to confirm their expression as seen in
+microarrays. More importantly, their function and
+possible target genes can be further investigated
+through cell-based transactivation assays.
+4.1. Animal models of IBD
+Several in vitro studies have been carried out to
+investigate the effect of essential fatty acids on
+various cell cultures (Grammatikos et al., 1994).
+The current in vitro models are useful for screening
+food components, but they are unable to mimic the
+complexity of the intestinal tract. Thus in vivo
+models of IBD are important for unravelling the
+complex interactions between food, intestinal
+bacteria and intestinal cells and thus elucidating the
+mechanisms of initiation and progression of
+intestinal inflammation.
+Many different animal models to study intestinal
+inflammation are available, including gene knockout
+or defect, transgenic, spontaneous colitis, inducible
+colitis and adoptive transfer models (Jurjus et al.,
+2004). These animal models display some of the
+key characteristics of intestinal inflammation (such
+as morphological changes, inflammation status and
+onset and progression of disease pathophysiology)
+and have a well-defined genetic background and
+immune system.
+The animal models that have been widely used,
+and which will be covered in this review, are inducible
+colitis (chemicals, pathogenic bacteria) and genetic
+rodent models. Chemicals that are used to induce
+acute intestinal colitis include dextran sodium
+sulphate (DSS) and 2,4,6-trinitrobenzene sulfonic
+acid (TNBS) (Jurjus et al., 2004). Two examples of
+pathogenic bacteria that can induce intestinal lesions
+are enteroinvasive Escherichia coli or Salmonella
+typhimurium (Gill et al., 2001). The parameters
+commonly monitored in chemically- and pathogenic
+bacteria-induced colitis models are histological
+lesions and biochemical parameters such as
+myeloperoxidase activity, glutathione concentration
+and cytokine profiles.
+Genetic mouse models with certain gene
+mutations and deficiencies such as the interleukin
+10 gene deficient (IL10-/-) mouse (Kühn et al., 1993;
+Roy et al., 2007) and the multidrug resistance gene
+deficient (mdr1a-/-) mouse (Dommels et al., 2007)
+show chronic and spontaneous intestinal
+inflammation. Some of these models which are
+commercially available have a single gene defect to
+induce a human IBD-like colitis. IL10 is an antiinflammatory cytokine and an IL10 gene defect
+causes an imbalance in the inflammatory
+responses. It has been reported that IL10-/- mice
+(C57BL/6J/129-Ola background) develop a Crohn’s
+disease-like colitis by 12 weeks of age when raised
+under conventional conditions (Berget et al., 1996).
+The level of inflammation seen in IL10-/- mice varies
+depending on the genetic background; intestinal
+lesions are least severe in the C57BL/6J strain
+(Berg et al., 1996). Thus, to induce a more
+consistent intestinal inflammation, IL10-/- mice can
+be inoculated with Enterococcus faecalis (Balish
+and Warner, 2002) or pure Enterococcus isolates
+(E. faecalis and E. faecium) combined with a mixed
+“complex intestinal flora” derived from healthy
+C57BL/6J mice raised under conventional
+conditions (Roy et al., 2007). The exact mechanism
+of IBD pathogenesis, both in animal models and in
+humans, is still unclear. An inappropriate T helper 1
+(Th1) response to antigens of the normal intestinal
+flora has been suggested due to the lack of IL10
+that normally down-regulates such T cell reactivity
+(Kühn et al., 1993; Berg et al., 1996).
+GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508 15
+STUDY OF THE EFFECTS OF DIETARY POLYUNSATURATED FATTY ACIDS: MOLECULAR MECHANISMS INVOLVED...
+Despite the IBD-like symptoms that develop in
+IL10-/- mice, IL10 gene variants have not
+consistently been found in IBD patients, whereas
+variants of the IL23 receptor have been, e.g., in the
+New Zealand population (Roberts et al., 2007). IL23
+has been shown to regulate T cell-mediated colitis
+in the IL10-/- mice (Yen et al., 2006). The most
+common human IBD susceptibility gene is NOD2
+(Ferguson et al., 2007, Torres and Ríos, 2008), and
+one common variant in this gene is a C insertion
+at position 3020, which leads to a truncated
+gene product (NOD233). The NOD233 mouse
+develops colon inflammation and ulceration in
+response to microbial invasion (Maeda et al, 2005),
+because of a failure to differentiate between existing
+intestinal flora and invading bacteria.
+4.2. Inflammatory lesions and mediator
+production
+In this section, results from studies using animal
+models of IBD fed diets supplemented with PUFA
+are discussed, with particular emphasis on
+inflammatory lesion development as evaluated by
+histology, immunohistochemistry, lipid and protein
+mediator profiles and changes in intestinal gene
+expression.
+Reviews of studies using dietary long chain
+PUFA (as fish oil) in IBD patients (Belluzzi, 2002;
+Calder, 2008) have concluded some benefits of fish
+oil including improvement of clinical score and gut
+mucosal histology and decreased relapse. Despite
+these beneficial effects of fish oil, there are also
+studies that report no effect on disease activity,
+higher rate of relapse or no effect on relapse with
+fish oil (Calder, 2008). Overall evidence of clinical
+benefits of n-3 PUFA in IBD is rather weak.
+Only a few animal (Hansen Petrik et al., 2000)
+and human (Shimizu et al., 2003) studies have
+investigated the effects of purified PUFA in
+intestinal inflammation. The study of Hansen Petrik
+et al., (2000) evaluated the effect of purified AA and
+EPA ethyl ester alone and in combination on
+colorectal cancer using the ApcMin/+ mouse model.
+EPA could reduce the number and size of tumors
+associated with decreased tissue AA and
+prostaglandin levels, whereas AA supplementation
+to the EPA diet reduced anti-tumorigenic effect of
+EPA. The study of Shimizu et al., (2003)
+investigated the impact of highly purified EPA ethyl
+ester given daily for 2 months to children with UC in
+relapse. LTB4 production from leukocytes and colon
+mucosa after 2 month of treatment was lower than
+before treatment. However, there was no control
+group without, so it is difficult to associate the
+absence of relapses for the study period with the
+EPA ethyl ester administration.
+The animal studies summarized here mainly
+involve chemically-induced colitis models. The
+effects of dietary PUFA supplementation on disease
+severity are related to the production of proinflammatory eicosanoids. Four studies have found
+decreased colon or ileum damage and
+inflammation compared to n-6 PUFA diet in a rat
+model of chemically-induced colitis (Vilaseca et al.,
+1990; Empey et al., 1991;Yuceyar et al., 1999; Nieto
+et al., 2002). Vilaseca et al., (1990) compared the
+effects of dietary supplementation with either
+sunflower (n-6) or cod liver (n-3) oil on the
+development of chronic granulomatous lesions in
+the colon of a TNBS rat model. Luminal eicosanoid
+levels increased after TNBS challenge in both
+groups. The eicosanoids PGE2 and LTB4 production
+declined after a few days, whereas the eicosanoid
+TXB2 continued to rise in the n-6 diet group. In the
+n-3 group the colon lesions were markedly reduced
+after 30 days and inflammation, as well as
+ulceration, were almost absent by 50 days. The
+study concluded that the fish oil diet prevented the
+TXB2 increase in the chronic stage of inflammation.
+Further evidence for protective effects of a fish oil
+(EPA)-enriched diet is shown by histological
+improvements in colon and ileum mucosa of rats
+challenged with 4% acetic acid to induce colitis
+(Empey et al., 1991).
+The therapeutic effects of n-3 PUFA on TNBSinduced colitis was also investigated in a rat model
+of CD (Shoda et al., 1995). The rats were fed a diet
+enriched with 2% n-3 PUFA-rich perilla oil and
+compared to a diet enriched with 2% n-6 PUFA-rich
+safflower oil. In rats from the n-3 PUFA group,
+plasma LTB4 concentrations and colon damage
+were reduced compared to those in the n-6
+PUFA group. This study also suggested that
+supplementation with 2% n-3 PUFA -linolenic acid,
+the precursor of EPA and DHA, may be more
+therapeutically efficient in controlling intestinal
+inflammation in experimental CD than either EPA or
+DHA.
+In a TNBS-induced rat colitis model, the
+protective role of fish oil (n-3 PUFA) (both as an
+enriched diet, or administered intrarectally) was
+investigated (Yuceyar et al., 1999). The n-3 PUFA
+enriched diet showed a protective effect by
+decreasing production of LTB4 and LTC4, and by
+decreasing activity of the myeloperoxidase, an
+enzyme which is stored in granules of
+polymorphonuclear neutrophils and macrophages
+and released into extracellular fluid in the setting of
+inflammatory processes. In a study by Campos et
+al., (2002), parenteral lipid emulsions enriched
+with n-3 PUFA reduced diarrhea, attenuated
+morphological changes and decreased colon
+concentrations of inflammatory mediators in a rat
+model of acetic acid-induced colitis.
+Nieto et al., (2002) studied biochemical and
+histological alterations in rats with TNBS-induced
+ulcerative colitis fed with mono- and/or
+polyunsaturated fatty acids (enriched with n-3 and
+n-6 PUFA). The fish oil group showed less colon
+damage, lower alkaline phosphatase and
+myeloperoxidase activities and PGE2 levels
+compared to the olive oil group.
+Another two studies have investigated the effect
+of n-3 PUFA diets on pro-inflammatory cytokine
+16 GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508
+BIANCA KNOCH, MATTHEW P.G. BARNETT, NICOLE C. ROY AND WARREN C. MCNABB
+production (Andoh et al., 2003; Whiting et al.,
+2005). In the former, the effects of n-3 and n-6
+PUFA-rich diets (fed for 12 days prior to the
+induction of enteritis by TNBS) on intestinal
+inflammation and modulation of early responses
+were evaluated in rats. Mucosal changes were more
+severe and serum IL6 levels higher in rats fed the n6 PUFA diet compared with those in the n-3 PUFA
+group, suggesting a possible suppression of
+mucosal inflammation by blockage of mucosal IL6
+secretion, but no difference was seen in the TNF
+levels between the diet groups. In the latter study
+(which used Severe Combined Immunodeficiency
+(SCID) mice fed n-3-enriched or control diet before
+colitis induction by transplantation of CD45RBhigh
+T cells), the transplanted n-3 PUFA fed animals
+showed reduced clinical colitis and colon
+immunopathology associated with decreasing proinflammatory cytokine synthesis (TNF, IL12,
+IL1). There was also reduced myeloid cell
+recruitment and activation, enhanced epithelial
+barrier function (epithelial ZO-1 protein, mucosal
+type I collagen) and induction of the mucosal wound
+healing mechanism (Whiting et al., 2005).
+As is the case in human clinical trials, there are
+also conflicting results from studies with fish oil or
+PUFA-enriched diets using animal models of IBD.
+Models of chemically-induced acute colitis have
+primarily been used in these studies and have
+generally shown anti-inflammatory effects of fish oil
+(Hegazi et al., 2006). However, preliminary data in a
+DSS-induced mouse model of colitis (Ramakers et
+al., 2008) have shown that an AA-enriched (ethyl
+ester oil) diet increased colon AA content, but did
+not result in more colon inflammation compared
+with the fish oil (EPA/DHA) and oleic acid
+(sunflower seed oil) diet groups. The AA-enriched
+diet even exerted protective effects in colitis
+(reduced weight loss and diarrhea scores) than
+observed in the other two groups.
+There are also conflicting data from studies
+using genetic models such as the IL10-/- mouse.
+IL10-/- mice represent a model for Th1-mediated
+IBD that spontaneously develop colitis (Kühn et al.,
+1993). One study with IL10-/- mice found that fish oil
+(n-3 PUFA-enriched) reduced colon inflammation
+compared to n-6 PUFA-rich corn oil (Chapkin et al.,
+2007). Another study reporting the effects of fish oil
+(n-3 PUFA) and olive oil (n-9 monounsaturated fatty
+acids) compared with control corn oil (n-6 PUFA) on
+the severity of chronic colitis in IL10-/- mice studied
+COX2 expression as a possible mediator of the
+immunomodulatory effects of dietary fatty acids on
+chronic colitis (Hegazi et al., 2006). The fish oil diet,
+however, increased chronic colitis in the colon,
+and had inhibitory effects on intestinal COX2
+expression. Inhibition of COX2 expression results
+in decreased production of anti-inflammatory
+eicosanoids, e.g. PGE2.
+The pathogenesis of chemically induced colitis
+may be different compared to genetically induced
+colitis. Furthermore, the development of colitis in
+IL10-/- mice is in some studies dependent on the
+presence of commensal luminal bacteria. In
+particular, inoculation with pure isolates of
+Enterococcus species, either in isolation (Balish
+and Warner, 2002), or combined with a mixed
+“complex intestinal flora” derived from healthy
+control mice (Roy et al., 2007) appears to play a
+critical role in establishing consistent inflammation
+in the intestinal mucosa. It may be that some of the
+conflicting data in genetic mouse models could be
+due to variations in bacterial colonization of the
+gastrointestinal tract. Additional studies are
+therefore warranted to investigate the mechanisms
+of PUFA on intestinal bacteria, e.g. PUFA can affect
+mucosal adhesion sites for intestinal bacteria,
+and better characterize the role of bacteria in
+inflammation using genetic animal models of colitis.
+The findings from previous rodent studies
+examining the effectiveness of n-3 and n-6 PUFA
+are inconsistent or conflicting. The discrepancy may
+be caused by confounding factors of the diet or
+PUFA supplements. Variation can arise from the
+study design, diets and feeding procedures,
+including impurity or unwanted oil components,
+flavour, sensitivity to oxidation, diet storage,
+duration of diet change etc., which can affect the n6/n-3 fatty acid ratio (Hudert et al., 2006).
+Furthermore, because of the disparity in results
+from both chemically induced and genetic models
+of colitis, it is clear that further studies are
+necessary to elucidate differential effects of fatty
+acids on the time-course of colitis development.
+4.3. Intestinal gene expression
+Molecular targets for the protective actions of n3 and/or n-6 PUFA on experimental IBD models are
+yet to be elucidated. Only a few studies have
+investigated intestinal gene expression changes
+after PUFA supplementation in animal models of
+IBD using single gene approaches. Studies of the
+molecular mechanism underlying the PUFA effect
+from human studies are also lacking.
+Caplan et al., (2001) found a reduction of
+necrotizing enterocolitis and intestinal inflammation
+in a neonatal rat model stressed with asphyxia
+(increases susceptibility to necrotizing enterocolitis)
+and fed with PUFA formula containing AA and DHA.
+This study also revealed that PUFA reduced the
+intestinal mRNA expression of the platelet activating
+factor (PAF)-synthesizing enzyme PLA2 and the PAF
+receptor, a marker of intestinal inflammation. In
+similar studies, PUFA supplementation reduced
+the incidence of necrotizing enterocolitis and also
+inhibited intestinal PAF receptor and TLR4 gene
+expression compared with the controls in a rat
+model.The rats were fed AA/DHA, egg phospholipids
+or DHA only. All PUFA supplementations downregulated PAF receptor expression in ileum and
+colon, suggesting an interaction between the PAF
+receptor and TLR signalling as a possible
+mechanism for the protective effect of PUFA on
+intestinal injury (Lu et al., 2007).
+GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508 17
+STUDY OF THE EFFECTS OF DIETARY POLYUNSATURATED FATTY ACIDS: MOLECULAR MECHANISMS INVOLVED...
+The effect of conjugated linoleic acid (CLA) and
+n-3 PUFA alone and in combination to prevent or
+ameliorate IBD in a pig model of DSS-induced colitis
+has been evaluated (Bassaganya-Riera and
+Hontecillas, 2006). Feeding CLA to the pigs delayed
+the onset of IBD, with less severe colitis and
+attenuated growth suppression which correlated with
+induction of colon PPAR, over-expression of
+PPAR-coactivator-1 and down-regulation of TNF.
+n-3 PUFA supplementation alone or in a mixture with
+CLA resulted in an early disease onset because
+of a marked induction of the PPAR-response
+gene uncoupling protein 3. CLA and n-3 PUFA
+synergistically up-regulated colon keratinocyte
+growth factor expression but n-3 PUFA blocked CLAinduced PPAR activation. In this pig study n-3 PUFA
+failed to protect from IBD but accelerated colon
+regeneration and clinical remission by activating
+PPAR.
+Another group has studied n-3 PUFA-derived
+lipid mediators in the fat-1 transgenic mouse with
+DSS-induced colitis (Hudert et al., 2006). These
+mice express the Caenorhabditis elegans fat-1
+gene encoding an n-3 fatty acid desaturase and
+thus are able to produce n-3 PUFA from n-6 PUFA.
+These mice had lower colon inflammation than wildtype mice, and this was associated with changes in
+n-3-derived anti-inflammatory mediators and a
+decrease in expression of genes involved in colon
+inflammation (NFB, TNF, inducible NO synthase
+and IL1). Increased mRNA levels for genes
+important to membrane integrity, such as trefoil
+factor 3, the intercellular tight junction protein
+zonula occludens 1 and Toll-interacting protein (an
+inhibitor of the Toll-like receptor pathway mediating
+inflammatory response) were also observed.
+5. CONCLUSIONS AND FUTURE
+PERSPECTIVES
+This review describes the complex interactions
+between dietary PUFA, inflammatory and immune
+responses and regulation of gene expression in
+order to provide an overview of the multi-factorial
+aetiology of IBD.
+Many studies have focused on the antiinflammatory effects of n-3 PUFA as indicated by
+reports of histological assessments, circulating PUFA
+concentrations or ex vivo production of inflammatory
+mediators. A range of animal models of acute
+chemically-induced colitis show primarily antiinflammatory effects of fish oil rich in n-3 PUFA. The
+increased colitis associated with dietary fish oil
+suggests that the pathogenesis of spontaneous colitis
+may be different to chemically-induced colitis. Most of
+the animal studies reviewed here provided higher fat
+diets (10% or more) compared to a normal laboratory
+rodent diet with 5% fat, and the use of fish oil means
+there was a mixture of various fatty acids present in
+these diets. Thus, any observed anti-inflammatory or
+immunomodulatory effects have been assigned to a
+fatty acid mix rather than pure PUFA.
+Few animal studies of IBD have applied
+genome-wide expression profiling to define the
+molecular mechanisms underlying the diseasephenotype when PUFA diets are fed. Genome-wide
+studies use modern technologies and knowledge
+derived from the human genome project to provide
+a more comprehensive understanding of the
+multiple pathways by which PUFA can regulate
+transcriptional and metabolic processes.
+A large part of the evidence regarding antiinflammatory and immunomodulatory effects of
+PUFA has arisen from cell culture studies where
+single fatty acids have been added. In order to
+define effects of dietary PUFA on IBD, animal model
+systems with diets of well defined fatty acid
+composition and purity would be advantageous.
+These studies should incorporate the “omics”
+tools (transcriptomics, proteomics, metabolomics)
+available to nutrition research. Translating these
+complex results represents a major challenge
+for nutrigenomics research. The genome-wide
+approach generates a huge amount of data with the
+potential to explore the biological importance of
+genes even beyond statistical significance. Once
+hub genes that are differentially expressed in
+response to PUFA have been identified by
+transcriptome analyses, other techniques (including
+chromatin immunoprecipitation and transactivation
+assays) can be applied in order to define direct
+targets of the PUFA-responding central genes.
+ACKNOWLEDGMENTS
+The authors would like to thank Dr Mark
+McCann (AgResearch) for proof-reading the
+manuscript.
+REFERENCES
+Andoh A, Tsujikawa T, Ishizuka I, Araki Y, Sasaki M,
+Koyama S, Fujiyama Y. 2003. N-3 fatty acid-rich diet
+prevents early response of interleukin-6 elevation in
+trinitrobenzene sulfonic acid-induced enteritis. Int. J.
+Mol. Med. 12, 721-725.
+Balish E, Warner T. 2002. Enterococcus faecalis induces
+inflammatory bowel disease in interleukin-10
+knockout mice. Am. J. Pathol. 160, 2253-2257.
+Bannenberg G, Arita M, Serhan CN. 2007. Endogenous
+receptor agonists: resolving inflammation. The
+Scientific World Journal 7, 1440-1462.
+Bassaganya-Riera, J, Hontecillas R. 2006. CLA and n-3
+PUFA differentially modulate clinical activity and
+colonic PPAR-responsive gene expression in a pig
+model of experimental IBD. Clin. Nutr. 25, 454-465.
+Belluzzi A. 2002. N-3 Fatty acids for the treatment of
+inflammatory bowel disease. Proc. Nutr. Soc. 61, 391-
+395.
+Berg DJ, Davidson N, Kühn R, Müller W, Menon S,
+Holland G, Thompson-Snipes L, Leach MW, Rennick
+D. 1996. Enterocolitis and colon cancer in interleukin10-deficient mice are associated with aberrant
+cytokine production and CD4+ TH1-like responses. J.
+Clin. Invest. 98, 1010-1020.
+18 GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508
+BIANCA KNOCH, MATTHEW P.G. BARNETT, NICOLE C. ROY AND WARREN C. MCNABB
+Bünger M, Van Den Bosch HM, Van Der Meijde J, Kersten
+S, Hooiveld G, Müller M. 2007. Genome-wide analysis
+of PPAR alpha activation in murine small intestine.
+Physiol. Genomics 30, 192-204.
+Calder PC. 2003. N-3 polyunsaturated fatty acids and
+inflammation: From molecular biology to the clinic.
+Lipids 38, 343-352.
+Calder PC. 2006. N-3 polyunsaturated fatty acids,
+inflammation, and inflammatory diseases. Am. J. Clin.
+Nutr. 83, 1505S-1519S.
+Calder PC. 2008. Polyunsaturated fatty acids,
+inflammatory processes and inflammatory bowel
+diseases. Mol. Nutr. Food Res. 52, 885-897.
+Campos FG, Waitzberg DL, Habr-Gama A, Logullo AF,
+Noronha IL, Jancar S, Torrinhas RSM, Furst P. 2002.
+Impact of parenteral n-3 fatty acids on experimental
+acute colitis. Brit. J. Nutr. 87, S83-S88.
+Caplan MS, Russell T, Xiao Y, Amer M, Kaup S, Jilling, T.
+2001. Effect of polyunsaturated fatty acid (PUFA)
+supplementation on intestinal inflammation and
+necrotizing enterocolitis (NEC) in a neonatal rat
+model. Pediatr. Res. 49, 647-652.
+Chapkin RS, Davidson LA, Ly L, Weeks BR, Lupton JR,
+McMurray DN. 2007. Immunomodulatory effects of (n3) fatty acids: Putative link to inflammation and colon
+cancer. J. Nutr. 137, 200S-204S.
+De Vogel-Van Den Bosch HM, Bünger M, De Groot PJ,
+Bosch-Vermeulen H, Hooiveld GJEJ, Müller M. 2008.
+PPARalpha-mediated effects of dietary lipids on
+intestinal barrier gene expression. BMC Genomics 9,
+231.
+Deckelbaum RJ, Worgall TS, Seo T. 2006. N-3 fatty acids
+and gene expression. Am. J. Clin. Nutr. 83, 1520S1525S.
+Dommels YEM, Alink GM, Van Bladeren PJ, Van Ommen
+B. 2002. Dietary n-6 and n-3 polyunsaturated fatty
+acids and colorectal carcinogenesis: results from
+cultured colon cells, animal models and human
+studies. Environ Toxicol Pharmacol. 12, 233-244.
+Dommels EM, Butts CA, Zhu S, Davy M, Martell S,
+Hedderley D, Barnett MPG, McNabb WC, Roy NC.
+2007. Characterization of intestinal inflammation and
+identification of related gene expression changes in
+mdr1a-/- mice. Genes Nutr. 2, 209-223.
+Dulpus E, Glorian M, Forest C. 2000. Fatty acid regulation
+of gene transcription. J. Biol. Chem. 275, 30749-
+30752.
+Empey LR, Jewell LD, Garg ML, Thomson AB, Clandidin
+MT, Fedorak RN. 1991. Fish-oil enriched diet is
+mucosal protective against acetic acid-induced colitis
+in rats Can. J. Physiol. Pharm. 69, 480-487.
+Ewaschuk JB, Dieleman LA. 2006. Probiotics and
+prebiotics in chronic inflammatory bowel diseases.
+World J. Gastroenterol. 12, 5941-5950.
+Favier C, Neut C, Mizon C, Cortot A, Colombel JF, Mizon
+J. 1997. Fecal beta-D-galactosidase production and
+Bifidobacteria are decreased in Crohn’s disease. Dig.
+Dis. Sci. 42, 817-822.
+Ferguson LR, Shelling AN, Browning BL, Huebner C,
+Petermann I. 2007. Genes, diet and inflammatory
+bowel disease. Mutat. Res. 622, 70-83.
+Geerling BJ, Van Houwelingen AC, Badart-Smook A,
+Stockbrugger RW, Brummer JM. 1999. Fat intake and
+fatty acid profile in plasma phospholipids and adipose
+tissue in patients with Crohn’s disease, compared
+with controls. Am. J. Gastroenterol. 94, 410-417.
+Gill HS, Shu Q, Lin H, Rutherfurd KJ, Cross ML. 2001.
+Protection against translocating Salmonella
+typhimurium infection in mice by feeding the immunoenhancing probiotic Lactobacillus rhamnosus strain
+HN001. Med. Microbiol. Immunol. 190, 97-104.
+Goodwin JS, Ceuppens J. 1983. Regulation of the
+immune-response by prostaglandins. J. Clin. Immunol
+3, 295-315.
+Goudriaan JR, Dahlmans VEH, Febbraio M, Teusink B,
+Romijn JA, Havekes LM, Voshol PJ. 2002. Intestinal
+lipid absorption is not affected in CD36 deficient mice.
+Mol. Cell. Biochem. 239, 199-202.
+Grammatikos SI, Subbaiah PV, Victor TA, Miller WM.
+1994. Diverse effects of essential (n-6 and n-3) fatty
+acids on cultured cells. Cytotechnology 15, 31-50.
+Hansen Petrik MB, McEntee MF, Chiu CH, Whelan J.
+2000. Antagonism of arachidonic acid is linked to the
+antitumorigenic effect of dietary eicosapentaenoic
+acid in ApcMin/+ mice. J. Nutr. 130, 1153-1158.
+Hegazi RAF, Saad RS, Mady H, Matarese LE, O’keefe S,
+Kandil HM. 2006. Dietary fatty acids modulate chronic
+colitis, colitis-associated colon neoplasia and COX-2
+expression in IL-10 knockout mice. Nutrition 22, 275-
+282.
+Heimerl S, Moehle C, Zahn A, Boettcher A, Stremmel W,
+Langmann T, Schmitz G. 2006. Alterations in intestinal
+fatty acid metabolism in inflammatory bowel disease.
+Biochim. Biophys. Acta-Mol. Basis Dis. 1762, 341-
+350.
+Hudert CA, Weylandt KH, Lu Y, Wang JD, Hong S,
+Dignass A, Serhan CN, Kang JX. 2006. Transgenic
+mice rich in endogenous omega-3 fatty acids are
+protected from colitis. Proc. Natl. Acad. Sci. U. S. A.
+103, 11276-11281.
+Jurjus AR, Khoury NH, Reimund JM. 2004. Animal
+models of inflammatory bowel disease. J. Pharmacol.
+Toxicol. Methods 50, 81-92.
+Kankaanpää PE, Salminen SJ, Isolauri E, Lee YK. 2001.
+The influence of polyunsaturated fatty acids on
+probiotic growth and adhesion. FEMS Microbiol. Lett.
+194, 149-153.
+Kühn R, Löhler J, Rennick D, Rajewsky K, Müller W.
+1993. Interleukin-10-deficient mice develop chronic
+enterocolitis. Cell 75, 263-274.
+Kuroki F, Iida M, Matsumoto T, Aoyagi K, Kanamoto K,
+Fujishima M. 1997. Serum n-3 polyunsaturated fatty
+acids are depleted in Crohn’s disease. Dig. Dis. Sci.
+42, 1137-1141.
+Kussmann M, Raymond F, Affolter M. 2006. OMICSdriven biomarker discovery in nutrition and health. J.
+Biotechnol. 124, 758-787.
+Langmann T, Moehle C, Mauerer R, Scharl M, Liebisch
+G, Zahn A, Stremmel W, Schmitz G. 2004. Loss of
+detoxification in inflammatory bowel disease:
+Dysregulation of pregnane X receptor target genes.
+Gastroenterol. 127, 26-40.
+Lu J, Jilling T, Li D, Caplan MS. 2007. Polyunsaturated
+fatty acid supplementation alters proinflammatory
+gene expression and reduces the incidence of
+necrotizing enterocolitis in a neonatal rat model.
+Pediatr. Res. 61, 427-432.
+Maeda S, Hsu LC, Liu H, Bankston LA, Iimura M, Kagnoff
+MF, Eckmann L, Karin M. 2005. Nod2 mutation in
+Crohn’s disease potentiates NF-kappaB activity and
+IL-1beta processing. Science 307, 734-738.
+Mills SC, Windsor AC, Knight SC. 2005. The potential
+interactions between polyunsaturated fatty acids and
+colonic inflammatory processes. Clin. Exp. Immunol
+142, 216-228.
+Mitsuyama K, Suzuki A, Tomiyasu N, Takaki K, Toyonaga
+A, Sata M. 2001. Transcription factor-targeted
+GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508 19
+STUDY OF THE EFFECTS OF DIETARY POLYUNSATURATED FATTY ACIDS: MOLECULAR MECHANISMS INVOLVED...
+therapies in inflammatory bowel disease. Digestion
+63, 68-72.
+Müller M, Kersten S. 2003. Nutrigenomics: goals and
+strategies. Nat. Rev. Genet 4, 315-322.
+Mutch DM, Grigorov M, Berger A, Fay LB, Roberts MA,
+Watkins SM, Williamson G, German JB. 2005. An
+integrative metabolism approach identifies stearoylCoA desaturase as a target for an arachidonateenriched diet. FASEB J. 19, 599-601.
+Niess JH, Reinecker HC. 2006. Dendritic cells: the
+commanders-in-chief of mucosal immune defenses.
+Curr. Opin. Gastroenterol. 22, 354-360.
+Nieto N, Torres MI, Rios A, Gil A. 2002. Dietary
+polyunsaturated fatty acids improve histological and
+biochemical alterations in rats with experimental
+ulcerative colitis. J. Nutr. 132, 11-19.
+Nones K, Dommels YEM, Martell S, Butts C, McNabb
+WC, Park ZA, Zhu S, Hedderley D, Barnett MPG, Roy
+NC. 2008. The effects of dietary curcumin and rutin on
+colonic inflammation and gene expression in multiple
+drug resistance gene-deficient (mdr1a-/-) mice, a
+model of inflammatory bowel diseases. Brit. J. Nutr.
+Sep2 (ahead of publication), 1-13.
+Podolsky DK. 2002. Inflammatory bowel disease. N. Engl.
+J. Med. 347, 417-429.
+Prüfer K, Muetzel B, Do HH, Weiss G, Khaitovich P, Rahm
+E, Pääbo S, Lachmann M, Enard W. 2007. FUNC: a
+package for detecting significant associations
+between gene sets and ontological annotations. BMC
+Bioinformatics 8, 41.
+Ramakers JD, Mensink RP, Verstege MI, Te Velde AA,
+Plat, J. 2008. An arachidonic acid-enriched diet does
+not result in more colonic inflammation as compared
+with fish oil- or oleic acid-enriched diets in mice with
+experimental colitis. Brit. J. Nutr. 100, 347-354.
+Rivera E, Flores I, Rivera E, Appleyard CB. 2006.
+Molecular profiling of a rat model of colitis: Validation
+of known inflammatory genes and identification of
+novel disease-associated targets. Inflamm. Bowel Dis.
+12, 950-966.
+Roberts RL, Gearry RB, Hollis-Moffatt JE, Miller AL, Reid
+J, Abkevich V, Timms KM, Gutin A, Lanchbury JS,
+Merriman TR, Barclay ML, Kennedy MA. 2007. IL23R
+R381Q and ATG16L1 T300A are strongly associated
+with Crohn’s disease in a study of New Zealand
+Caucasians with inflammatory bowel disease. Am. J.
+Gastroenterol. 102, 2754-61.
+Roy N, Barnett M, Knoch B, Dommels Y, McNabb W.
+2007. Nutrigenomics applied to an animal model of
+inflammatory bowel diseases: Transcriptomic analysis
+of the effects of eicosapentaenoic acid and
+arachidonic acid-enriched diets. Mutat. Res.: Fundam.
+Mol. Mech. Mutagen 622, 103-116.
+Salter A, Tarling E. 2007. Regulation of gene transcription
+by fatty acids. Animal 1, 1314–1320.
+Sampath H, Ntambi J. M. 2005. Polyunsaturated fatty acid
+regulation of genes of lipid metabolism. Annu. Rev.
+Nutr. 25, 317-340.
+Sanderson LM, De Groot PJ, Hooiveld GJEJ, Koppen A,
+Kalkhoven E, Müller M, Kersten S. 2008. Effect of
+synthetic dietary triglycerides: A novel research
+paradigm for nutrigenomics. PLoS ONE 3, e1681.
+Schmitz G, Ecker J. 2008. The opposing effects of n-3
+and n-6 fatty acids. Prog. Lipid Res. 47, 147-155.
+Sellon RK, Tonkonogy S, Schultz M, Dieleman LA,
+Grenther W, Balish E, Rennick DM, Sartor RB. 1998.
+Resident enteric bacteria are necessary for
+development of spontaneous colitis and immune
+system activation in interleukin-10-deficient mice.
+Infect. Immun. 66, 5224-5231.
+Serhan CN, Chiang N. 2008. Endogenous pro-resolving
+and anti-inflammatory lipid mediators: a new
+pharmacologic genus. Brit. J. Pharmacol. 153, S200-
+S215.
+Sheehan AL, Warren BF, Gear MWL, Shepherd NA.
+1992. Fat-wrapping in Crohn’s disease - Pathological
+basis and relevance to surgical practice. Brit. J. Surg.
+79, 955-958.
+Shimizu T, Fujii T, Suzuki R, Igarashi J, Ohtsuka Y, Nagata
+S, Yamashiro Y. 2003. Effects of highly purified
+eicosapentaenoic acid on erythrocyte fatty acid
+composition and leukocyte and colonic mucosa
+leukotriene B4 production in children with ulcerative
+colitis. J. Pediatr. Gastroenterol. Nutr. 37, 581-585.
+Shoda R, Matsueda K, Yamato S, Umeda N. 1995.
+Therapeutic Efficacy of n-3 polyunsaturated fatty-acid
+in experimental Crohn’s disease. J. Gastroenterol. 30,
+98-101.
+Simopoulos AP. 2002. Omega-3 fatty acids in
+inflammation and autoimmune diseases. J. Am. Coll.
+Nutr. 21, 495 - 505.
+Soupene E, Kuypers FA. 2008. Mammalian long-chain
+Acyl-CoA synthetases. Exp. Biol. Med. 233, 507-521.
+Stahl A. 2004. A current review of fatty acid transport
+proteins (SLC27). Pflueg. Arch. Eur. J. Physiol 447,
+722-727.
+Stulnig TM. 2003. Immunomodulation by polyunsaturated
+fatty acids: Mechanisms and effects. Int. Arch. Allergy
+Immunol. 132, 310-321.
+Subramanian A, Tamayo P, Mootha VK, Mukherjee S,
+Ebert BL, Gillette MA, Paulovich A, Pomeroy SL,
+Golub TR, Lander ES, Mesirov JP. 2005. Gene set
+enrichment analysis: A knowledge-based approach
+for interpreting genome-wide expression profiles.
+Proc. Natl. Acad. Sci. U. S. A 102, 15545-15550.
+Taurog JD, Richardson JA, Croft JT, Simmons WA, Zhou
+M, Fernandezsueiro JL, Balish E, Hammer RE. 1994.
+The germ-free state prevents development of gut and
+joint inflammatory disease in Hla-B27 transgenic rats.
+J. Exp. Med. 180, 2359-2364.
+Torres MI, Ríos A. 2008. Current view of the
+immunopathogenesis in inflammatory bowel disease
+and its implications for therapy. World J. Gastroenterol.
+14, 1972-1980.
+Vilaseca J, Salas A, Guarner F, Rodriguez R, Martinez M,
+Malagelada JR. 1990. Dietary fish oil reduces
+progression of chronic inflammatory lesions in a rat
+model of granulomatous colitis. Gut 31, 539-544.
+Whiting CV, Bland PW, Tarlton JE. 2005. Dietary n-3
+polyunsaturated fatty acids reduce disease and
+colonic proinflammatory cytokines in a mouse model
+of colitis. Inflamm. Bowel Dis. 11, 340-349.
+Wiercinska-Drapalo A, Jaroszewicz J, Siwak E,
+Pogorzelska J, Prokopowicz D. 2008. Intestinal fatty
+acid binding protein (I-FABP) as a possible biomarker
+of ileitis in patients with ulcerative colitis. Regul. Pept.
+147, 25-28.
+Wu TC. 2007. The role of vascular cell adhesion
+molecule-1 in tumor immune evasion. Cancer Res.
+67, 6003-6006.
+Yen D, Cheung J, Scheerens H, Poulet F, McClanahan T,
+Mckenzie B, Kleinschek MA, Owyang A, Mattson J,
+Blumenschein W, Murphy E, Sathe M, Cua DJ,
+Kastelein RA, Rennick D. 2006. IL-23 is essential for T
+cell-mediated colitis and promotes inflammation via
+IL-17 and IL-6. J. Clin. Invest. 116, 1310-1316.
+20 GRASAS Y ACEITES, 60 (1), ENERO-MARZO, 8-21, 2009, ISSN: 0017-3495, DOI: 10.3989/gya.086508
+BIANCA KNOCH, MATTHEW P.G. BARNETT, NICOLE C. ROY AND WARREN C. MCNABB
+Yuceyar H, Ozutemiz O, Huseyinov A, Saruc M, Alkanat M,
+Bor S, Coker I, Batur Y. 1999. Is administration of n-3
+fatty acids by mucosal enema protective against
+trinitrobenzene-induced colitis in rats? Prostaglandins
+Leukot. Essent. Fatty Acids 61, 339-345.

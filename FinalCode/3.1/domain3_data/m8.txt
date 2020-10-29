@@ -1,0 +1,176 @@
+Presence of Magnetic Fluids Leads to the Inhibition
+of Insulin Amyloid Aggregation
+Z. Gazovaa,∗
+, K. Siposovaa,b, M. Konerackaa
+, A. Antosovaa
+, V. Zavisovaa
+,
+M. Kubovcikovaa
+, D. Fedunovaa
+, J. Bagelovaa
+, N. Tomasovicovaa
+,
+Z. Daxnerovac and P. Kopcanskya
+a
+Institute of Experimental Physics, Slovak Academy of Sciences, Kosice, Slovakia
+bDepartment of Biochemistry, Faculty of Science, Safarik University, Kosice, Slovakia
+c
+Institute of Biology and Ecology, Faculty of Science, Safarik University, Kosice, Slovakia
+Insulin amyloid aggregation caused serious problems in the treatment of diabetes by insulin injection or by
+insulin pumps. In vitro formation of insulin amyloid brils was investigated in presence of several types of magnetic
+uids. Interaction of magnetic uids with insulin amyloid aggregates led to decrease of insulin brillization. The
+inhibiting activities are aected by coating layer of studied magnetic uids as well as by their physical properties
+(diameter, concentration of magnetic particles). The highest inhibiting eciencies were detected for sterically
+stabilized magnetic uids in saline solution (75%) and for magnetic uids modied by dextran (80%).
+PACS: 87.14.em, 47.65.Cb, 87.85.jj
+1. Introduction
+Amyloid aggregation of proteins is related to incurable
+human amyloidosis, such as Alzheimer's and Huntington's diseases, prion-related diseases and diabetes type II.
+The common feature of amyloid diseases is presence
+of amyloid deposits in various parts of body consisting
+mainly of aggregated poly/peptide typical for given disease [1]. The precise mechanisms by which the normally
+soluble proteins forms amyloid aggregates (oligomers,
+pores, ordered brils) is unknown, however, it is generally accepted that presence of amyloid deposits in different tissues has toxic consequence to various cell types
+leading to their dysfunction or death [2].
+In the past few years the inhibiting activity was detected for heat shock proteins, short peptides, antibodies, surfactants and small molecules [3, 4]. Several types
+of nanoparticles were identied as intensive inhibitors
+of amyloid aggregation. Recently, we have found that
+Fe3O4 based magnetic nanoparticles prevent lysozyme
+amyloid brillization [5].
+We concern our study to investigate the ability of four
+magnetic uids (MFs) to aect the insulin amyloid aggregation. We have found that studied magnetic uids
+inhibit insulin polymerization dierently in dependence
+on MF's properties.
+2. Experimental
+The magnetic particles were prepared by co-
+-precipitation using ferric and ferrous salts in ammonium
+∗ corresponding author; e-mail: gazova@saske.sk
+hydroxide. The magnetic nanoparticles were stabilized
+electrostatically with perchloric acid (MF1) or sterically
+with sodium oleate (MF2MF4) and dispersed in water
+(MF1, MF2 and MF3) or in physiological saline solution
+(MF4). Magnetic nanoparticles were functionalized by
+bovine serum albumin (BSA) (MF2) or dextran (MF3),
+which were added during stirring and then heating up to
+50 ◦C in the w/w ratio BSA/Fe3O4 = 0.35 and dextran/
+Fe3O4 = 0.5, respectively.
+Hydrodynamic diameter of the prepared magnetic uids, considering the magnetic core and the coating layer of
+BSA or dextran were determined by dynamic light scattering (DLS) using a Zetasizer Nano-ZS from Malvern
+Instrument. To characterize the morphology and microstructure of magnetic uids the scanning electron microscopy (SEM, JEOL 7000F microscope) was used.
+Insulin amyloid brils were prepared by incubation
+(120 min) of 58 µg/ml human insulin (10 µM) at 65 ◦C
+under constant stirring in 100 mM NaCl, pH 1.6 (for
+MF1 and MF2) and in 50 mM phosphate buer solution,
+pH 7.5 (for MF3 and MF4). The formation of insulin aggregates was monitored by Thioavin (ThT) uorescence
+assay and by transmission electron microscopy (TEM).
+ThT assay is sensitive to the binding of ThT to amyloid brils accompanied with signicant enhancement of
+ThT uorescence which is not observed for native protein. Fluorescence intensity was measured by spectrouorimeter Shimadzu RF-5000. The excitation was set at
+440 nm and the emission recorded at 485 nm. The TEM
+images were obtained by Tesla BS 500 operating at 60 kV.
+The eect of MFs on insulin brillization was investigated by adding the magnetic uid to the soluble insulin
+(10 µM) before starting the process of amyloid aggregation (described above). The inuence of MFs on the
+(1305)
+1306 Z. Gazova et al.
+insulin polymerization was observed at two w/w ratios
+of insulin (Ins) and magnetite component of MF, namely
+for ratios Ins:MF = 1:1 and 1:2. As a control, the protein
+was replaced with water to measure the uorescence of
+the nanoparticles.
+3. Results and discussion
+As a rst step of our study the basic characteristics of
+magnetic uids MF1MF4 were established. The average
+core diameter DTEM = 10 nm was determined by TEM.
+SEM image (Fig. 1, left, MF3 was chosen as representative image) indicates that particles in MFs have nearly
+spherical shape and the surface is primarily smooth. The
+hydrodynamic diameters DH of studied MFs were observed by DLS technique and data are summarized in
+Table. The adsorbed layer thickness was estimated from
+the dierence in size between naked and covered (with
+BSA (MF2) and dextran (MF3)) magnetic uid. The
+BSA and dextran coating thickness were found to be
+about 13 nm and 10 nm, respectively. The obtained MF
+hydrodynamic diameters suggest that all studied magnetic uids t the requirements for intravenous application (hydrodynamic diameter less than 150 nm).
+Fig. 1. SEM image of nanoparticles constituting magnetic uid MF3 (left) and TEM image of insulin amyloid
+brils (right).
+TABLE
+Hydrodynamic diameter DH, saturation magnetization
+Ms and concentration of magnetic particles cFe3O4
+.
+Sample DH [nm] Ms cFe3O4
+DLS [mT] [mg/ml]
+MF1 26 1.3 36
+MF2 63 6.3 85
+MF3 65 7.2 90
+MF4 80 13.7 175
+The magnetic properties of prepared MFs were characterized by SQUID magnetometer. The all samples exhibited a typical superparamagnetic behaviour without a
+hysteresis at room temperature (data not shown). The
+saturation magnetizations (Ms) of samples and magnetic
+particle concentrations (cFe3O4
+) calculated from magnetic
+measurements are given in Table.
+The human insulin was chosen as amyloidogenic protein, whose aggregation caused serious problems in the
+treatment of diabetes by insulin injection or by insulin
+pumps. Typical amyloid character of insulin aggregates
+was observed by ThT uorescence assay as increase of
+uorescence intensity (data not shown) and conrmed
+by TEM (Fig. 1, right).
+We have studied formation of insulin amyloid aggregates Iagg in the presence of magnetic uid at two w/w
+ratio of insulin (Ins) and magnetite component of MF
+(Ins:MF = 1:1 and 1:2) by ThT assay where lowering of
+uorescence values indicates decrease of insulin amyloid
+aggregation, i.e. inhibiting activity of MF. The uorescence intensities observed for MF alone or in the presence
+of ThT were negligible. Interaction of MF with insulin
+amyloid aggregation led to decrease of insulin brillization; however the extent of inhibiting activity was different as it is shown in Fig. 2 (the observed uorescence
+intensities were normalized to the uorescence signal detected for the insulin amyloid aggregates alone (Iagg)).
+For the ratio Ins:MF = 1:1 the MF1 and MF2 inhibit
+polymerization not very intensively, about 45% and 20%
+inhibiting activities were observed. The inhibition of
+about 70% was detected for both the MF3 and the MF4.
+Fig. 2. Inhibition of insulin amyloid brillization by
+magnetic uids MF1MF4 observed by ThT assay. The
+uorescence intensity signal was normalized to the signal detected for insulin amyloid aggregates formed without MFs (Iagg).
+For the ratio Ins:MF = 1:2 the trend of the MFs to affect insulin aggregation is similar to that observed for
+previous ratio. However, the eciencies of inhibition
+are higher. The magnetic uid MF2 prevents formation
+of aggregates less eectively (40% inhibition). In presence of MF1 there is about 65% decrease of the amount
+of insulin aggregates in comparison to untreated insulin
+brillization. The most eective inhibiting activities of
+about 80% and 75% were observed for magnetic uids
+MF3 and MF4.
+It can be concluded that interaction of MF with insulin amyloid aggregates led to decrease of insulin brillization, the best inhibiting activities were detected for
+Presence of Magnetic Fluids Leads to the Inhibition . . . 1307
+MF3 and MF4, respectively. We suggest that eciency
+of inhibitors depends on the physical parameters of studied MFs together with properties of the coating layer.
+This assumption is supported by the results observed for
+inhibiting abilities of MF2 and MF3. The physical parameters of MF2 and MF3 are nearly identical, however,
+the MF3 inhibits more eectively. We suggest that it is
+due to dierent properties of the coating layer. Interaction of the polysaccharide shell (in MF3) with insulin
+aggregates leads to higher inhibiting activity compared
+to protein modication in MF2.
+4. Conclusion
+The presence of magnetic uids (MF1MF4) caused
+inhibition of insulin amyloid aggregation. Results indicate that magnetite component of magnetic uids is important for inhibiting activity; however, the MF physical
+properties together with character of NP coating determine the extent of inhibition. The most signicant inhibiting activity was observed for two MFs characteristic
+magnetic nanoparticles stabilized by sodium oleate and
+dispersed in physiological saline solution (MF4) or in water and functionalized with dextran (MF3). We assume
+that present ndings make eective magnetic uids of
+potential interest for solution of the problems associated
+with insulin amyloid aggregation.
+Acknowledgments
+This work was supported within the projects Nos.
+26220220005, 2622012033 in the frame of Structural
+Funds of European Union, Centre of Excellence of SAS
+Nanouid, VEGA 2/0079/10, 2/0077/09, 2/0155/11,
+2/0041/12, and 2/0051/09, Slovak Research and Development Agency  contract No. APVV-0171-10, APVV-
+-0742-10, and SK-RO-0012-10 and project SAS-NSC Taiwan  Computational approaches to study structure,
+folding and interactions of biopolymers.
+References
+[1] J.D. Sipe, Amyloid Proteins, WileyVCH, Weinheim
+2005.
+[2] D.M. Walsh, D.J. Selkoe, Protein Pept. Lett. 11, 213
+(2004).
+[3] S.S.-S. Wang, K.-N. Liu, T.-C. Han, Biochim. Biophys. Acta Mol. Basis Dis. 1802, 519 (2010).
+[4] M. Kanapathipillai, S.H. Ku, K. Girigoswami,
+Ch.B. Park, Biochem. Biophys. Res. Com. 365, 808
+(2008).
+[5] A. Bellova, E. Bystrenova, M. Koneracka, P. Kopcansky, F. Valle, M. Timko, J. Bagelova, F. Biscarini,
+Z. Gazova, Nanotechnology 21, 065103 (2010).

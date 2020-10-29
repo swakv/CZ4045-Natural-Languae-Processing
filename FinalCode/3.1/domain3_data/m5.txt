@@ -1,0 +1,869 @@
+Visible light-induced crosslinking and physiological stabilization of
+diselenide-rich nanoparticles for redox-responsive drug release and
+combination chemotherapy
+Shaodong Zhai, Xianglong Hu*
+, Yongjun Hu, Baoyan Wu, Da Xing**
+MOE Key Laboratory of Laser Life Science & Institute of Laser Life Science, College of Biophotonics, South China Normal University, Guangzhou, 510631,
+China
+article info
+Article history:
+Received 29 October 2016
+Received in revised form
+1 January 2017
+Accepted 2 January 2017
+Available online 3 January 2017
+Keywords:
+Visible light
+Crosslinking
+Diselenide bonds
+Redox responsiveness
+Combination chemotherapy
+abstract
+Undesired physiological instability of nanocarriers and premature drug leakage during blood circulation
+result in compromised therapeutic efficacy and severe side effects, which have significantly impeded the
+development of nanomedicine. Facile crosslinking of drug-loaded nanocarriers while keeping the potency of site-specific degradation and drug release has emerged as a viable strategy to overcome these
+drawbacks. Additionally, combination therapy has already shown advantages in inhibiting advanced
+tumors and life extension than single drug therapy. Herein, three kinds of diselenide-rich polymers were
+fabricated with distinct hydrophobic side chains. The component effect was interrogated to screen out
+PEG-b-PBSe diblock copolymer due to its favorable self-assembly controllability and high drug loading of
+camptothecin (CPT) and doxorubicin (DOX) that had synergistic antitumor property. Facile visible lightinduced diselenide metathesis and regeneration was employed to crosslink nanocarriers for the first
+time. The dual drug-loaded crosslinked micelles (CPT/DOX-CCM) were stable in physiological conditions
+with minimal drug leakage, possessing extended blood circulation, whereas hand-in-hand dual drug
+release was significantly accelerated in tumor's redox microenvironments. In vitro cytotoxicity evaluation
+and in vivo tumor suppression with low dosage drugs further demonstrated the favorable potency of the
+redox-responsive nanoplatform in tumor combination chemotherapy.
+© 2017 Elsevier Ltd. All rights reserved.
+1. Introduction
+Biocompatible materials with size range from nanometers to
+micrometers have been frequently employed in biomedical applications (e.g. therapeutics, sensing and imaging), which are generally fabricated from lipids, proteins, carbohydrates as well as
+natural and synthetic polymers [1e5]. Among these, synthetic
+polymeric nanostructures tend to be more stable than low molecular weight surfactants, possessing tailorable components and ondemand functions to meet practical needs [6]. The morphological
+feature of polymeric nanoparticles containing hydrophobic core
+and hydrophilic shell makes them suitable for nanomedicine [7,8].
+In addition, it is well recognized that tumors have underdeveloped
+blood microvessels with many pores, which are permeable to
+nanoparticles, including polymeric nanoparticles, and that is socalled enhanced permeation and retention (EPR) effect [9]. In this
+context, polymeric nanocarriers with long blood circulation and
+enough physiological stability would be favorable to accumulate in
+tumors by passive targeting, and thus it is quite attractive to
+develop nanocarriers with these properties [10].
+Whereas some issues of polymeric nanocarriers are still unresolved, which significantly impede their advanced applications
+[11]. Particularly, the structural integrity and limited drug loading
+stability in physiological conditions have been extensively focused.
+Upon intravenous injection, drug-loaded polymeric nanoparticles
+subjected with high dilution and severe shear force are inclined to
+dissociate into polymer unimers, which is accompanied with undesirable drug leakage prior to accessing the targeted lesions.
+Moreover, when polymer unimers are frequently captured by other
+constituents in blood circulation (e.g. blood proteins, membranes
+and surfaces), the dissociation will accelerate due to the equilibrium shifting towards the unimer state. Thus, the nature of physical
+encapsulation of drugs within polymeric nanocarriers will
+* Corresponding author.
+** Corresponding author.
+E-mail addresses: xlhu@scnu.edu.cn (X. Hu), xingda@scnu.edu.cn (D. Xing).
+Contents lists available at ScienceDirect
+Biomaterials
+journal homepage: www.elsevier.com/locate/biomaterials
+http://dx.doi.org/10.1016/j.biomaterials.2017.01.002
+0142-9612/© 2017 Elsevier Ltd. All rights reserved.
+Biomaterials 121 (2017) 41e54
+unavoidably exhibit premature drug leakage and shorten the blood
+circulation life. To address the plight for drug-loaded nanocarriers,
+many covalently drug-modified delivery systems have been
+developed to alleviate these problems [12,13], but the advantages of
+covalently linked drug systems have been compromised by the
+sophisticated synthesis, limited scale-up production potency, high
+cost, unspecific drug release, and changed therapeutic activities
+[14].
+Hence, various innovative strategies have been developed to
+improve the stability of non-covalent drug-loaded polymeric
+nanocarriers. Thereinto, shell cross-linking and core cross-linking
+strategies were frequently employed to enhance the stability of
+drug-loaded polymeric nanoparticles, achieving efficient drug delivery even at low micellar concentrations [15e19]. Many crosslinking methods were presented, including addition of bifunctional
+reagents [20e24], direct reaction of pendent functionalities (eg.
+thiol groups, silxane groups, alkoxyamine groups and boronic
+ester) [25e31], or polymerization of double carbon bonds within
+nanoparticles [32]. However, some limitations may prevent the
+further application, such as unreacted reagents, possible side reactions and byproducts as well as damage to the payloads [7]. In
+view of these issues, the ideal crosslinking profile is supposed to be
+no extra reagents, and the process is mild and suitable for scale-up
+formulation [33]. In this respect, light undoubtedly possesses
+distinctive advantages such as facile operation, spatiotemporal and
+remote control, no external additives, and wavelength selection.
+Many conceptually advanced systems have been reported using UV
+light to crosslink and stabilize polymeric nanoparticles [17,34e36].
+But UV light was restricted for its low penetration depth and
+phototoxicity [37]. Recently, Xu and coworkers pioneered that mild
+visible light could induce dynamic cleavage and exchange of diselenide bonds (Se-Se) [38,39]. Park et al. reported in situ diselenidecrosslinked micelles for ROS-responsive drug delivery, which were
+spontaneously derived from selenol-bearing triblock copolymers to
+form the crosslinking shell, exhibiting excellent physiological stability [28]. Hence we envisage that visible light-sensitive dynamic
+diselenide bonds may be applicable in crosslinking chemistry for
+biomedicine using visible light as a mild and convenient method.
+On the other hand, various tumors exhibit heterogeneity of
+cellular environments. Thus plenty of stimuli-responsive polymeric
+nanoparticles have been extensively developed to accomplish
+controlled drug release at the target sites [40e44]. Notably, glutathione (GSH) tripeptide content in the cytosol and cell nucleus
+ranges from 2 to 10 mM, which is about ~1000-fold higher than that
+in body fluids and extracellular matrices (2e10 mM) [40,45],
+arousing the booming development of reduction-responsive drug
+delivery systems [46e50]. In addition, the overproduced reactive
+oxygen species (ROS) within tumor cells in disease state may
+disrupt cellular homeostasis, giving rise to pathological conditions,
+which is also a characteristic of tumors [51e53]. The ROS content in
+tumor cells is evaluated up to 100 mM, whereas the concentration of
+the most abundant and stable nonradical ROS, H2O2, is just around
+20 nM in normal tissues [54]. Thus ROS has been also utilized as a
+trigger to mediate intracellular ROS-responsive controlled drug
+release [55e58]. In addition, diselenide bonds were confirmed to
+be sensitive to both GSH and ROS, which can be both employed to
+mediate drug release within tumors, possessing remarkable advantages [59,60]. Therefore, diselenide bonds have gained much
+attention in nanomedicine during the past few years [61,62].
+Nevertheless, the reported redox-sensitive polymeric nanocarriers
+seldom resolved the matter of physiological instability and premature drug release.
+Moreover, because of the drug resistance in tumor therapy
+[63e65], especially in single drug therapy, combination therapy
+was proved to be quite effective when using antitumor drugs with
+different working mechanisms, thereby decreasing the developing
+likelihood of resistant cancer cells [66e69]. Among these, many
+efforts have been focused to demonstrate potent anticancer combinations with topoisomerase (top) I and II inhibitors as one of the
+most widely explored categories. Top I inhibitors hinder DNA
+replication and enhance the activity of top II, further sensitizing the
+cancer cells to top II inhibitors. Camptothecin (CPT, top I inhibitor)
+and doxorubicin (DOX, top II inhibitor) were demonstrated to
+inhibit cancer cells synergistically [70]. Additionally, each drug can
+be employed at its optimal dose in combination chemotherapy to
+minimize intolerable side effects [71]. Hence, polymeric nanocarriers could transport multiple drugs into tumor in an appropriate ratio to overcome limitations of single drug therapy [72e74].
+Multiple drug-loaded polymeric nanoparticles render an ideal
+platform for the co-delivery of different drugs for tumor combination chemotherapy.
+In this work, diselenide-rich amphiphilic diblock copolymers
+were fabricated to encapsulate two antitumor drugs with synergistic therapeutic effects, CPT and DOX, then visible light-induced
+dynamic exchange of diselenide bonds in the hydrophobic core
+promoted the formation of core crosslinking micelles, CPT/DOXCCM, in which the effect of polymer hydrophobic components
+was discussed in the self-assembly and drug formulation. This mild
+crosslinking strategy made the platform robust and stable with
+minimal drug leakage in physiological conditions, prolonging blood
+circulation of nanocarriers. Upon intravenous administration,
+hand-in-hand release of CPT and DOX was accelerated significantly
+in tumor's redox microenvironments. In vivo analysis demonstrated
+the substantial tumor suppressing potency of the nanocarriers
+using low dosage of combined drugs.
+2. Materials and methods
+2.1. Materials
+Sodium borohydride, selenium powder, 30% H2O2, dimethylformamide (DMF), dimethylsulfoxide (DMSO) and all other
+organic solvents used in this study were available from the
+Guangzhou Chemical Reagent Company. Camptothecin (CPT) was
+obtained from Pengzhou Maoyuan Biochemical Technology Co., Ltd
+and used as received. Indocyanine green (ICG), doxorubicin hydrochloride (DOX$HCl), 11-bromo-1-undecanol, 2-bromoethanol,
+and 4-bromobenzyl alcohol were available from Aladdin Industrial
+Corporation. Fetal bovine serum (FBS), penicillin, streptomycin and
+RPMI 1640 were purchased from GIBCO and used as received.
+Lysotracker Green was obtained from Thermo Fisher Scientific Inc.
+Water used in this study was deionized with a Milli-QSP reagent
+water system (Millipore) to a specific resistivity of 18.4 MU cm.
+PEG45-based RAFT agent [75] and three kinds of diselenide diols
+precursors, including di-(1-hydroxyethylene) diselenide [76], di-(1-
+hydroxyundecene) diselenide [59], and di-(4,1-hydroxybenzylene)
+diselenide [77] were synthesized according to reported literatures.
+2.2. Synthesis of diselenide-rich amphiphilic diblock copolymers
+Synthetic routes employed for the preparation of diseleniderich samples were shown in Scheme S1. Reversible additionfragmentation chain transfer (RAFT) polymerization technique
+and facile post-modification was employed. Typically, PEG-based
+RAFT agent (100 mg, 0.043 mmol), methacrylic acid (185 mg,
+2.15 mmol), and AIBN (1.4 mg, 0.008 mmol) were charged into a
+glass ampoule containing 2 mL isopropanol as solvents. The
+ampoule was then degassed via three freeze-pump-thaw cycles
+and flame-sealed under vacuum. The ampoule was then immersed
+into an oil bath thermostated at 70 C to start the polymerization.
+42 S. Zhai et al. / Biomaterials 121 (2017) 41e54
+After 2 h, the polymerization was quenched into liquid nitrogen.
+The mixture was precipitated into an excess of diethyl ether to
+generate residues, the residues were dissolved in dichloromethane
+and precipitated into diethyl ether, which was repeated for three
+times. The product was dried in a vacuum oven overnight at room
+temperature. The degree of polymerization for PMAA block was
+determined to be 30 based on 1
+H NMR analysis (Fig. S1). After that,
+PEG-b-PBSe was synthesized by mixing PEG-b-PMAA (132 mg,
+0.03 mmol), di-(4,1-hydroxybenzylene) diselenide (666 mg,
+1.8 mmol), EDC$HCl (258.8 mg, 1.35 mmol), DMAP (109.9 mg,
+0.9 mmol) and 10 ml dry DMF into a glass ampoule. The ampoule
+was then degassed via three freeze-pump-thaw cycles and flamesealed under vacuum. After stirring at room temperature for 24 h,
+the solution was precipitated into an excess of diethyl ether, and the
+above dissolution-precipitation cycle was repeated for three times.
+The final product was dried in a vacuum oven overnight at room
+temperature, and the composition was analyzed by 1
+H NMR. In
+addition, PEG-b-PESe and PEG-b-PUSe were prepared according to
+similar procedures.
+2.3. Fabrication and characterization of core cross-linked micelles
+PEG-b-PBSe (2 mg) was dissolved in DMSO (1 mL), then
+deionized water was added dropwise under vigorous stirring. After
+further stirring for 1 h, DMSO was removed by dialysis (cellulose
+membrane, MW cutoff: 3500 Da) against deionized water for 24 h
+to afford non-crosslinked micelles (NCM). The aqueous dispersion
+of NCM was irradiated by a 25 W incandescent light bulb without
+filter at room temperature at 182e184 Lux for 0.5 h to fabricate core
+crosslinked micelles (CCM) [39]. The obtained CCM dispersions
+were tested by dynamic light scattering (DLS, Malvern Zetasizer
+Nano-ZS 90, UK) and transmission electron microscopy (TEM, JEOL
+JEM-2100, Janapa).
+Both NCM and CCM samples were dissolved in DMF after freezedrying, then the change of light scattering intensity and size distribution was analyzed by DLS. The stability of CCM was investigated in 50% fetal bovine serum (FBS), or SDS (2.5 mg/mL) at 37 C,
+the change of scattering intensity was monitored as a function of
+incubation time using DLS.
+2.4. Preparation of combined drug-loaded CCM
+CPT and DOX dual drug-loaded micelles were prepared in selfassembly process. Briefly, PEG-b-PBSe (2 mg), DOX$HCl (0.5 mg),
+triethylamine (100 mL) and CPT (0.5 mg) were dissolved in DMSO
+for 1 h, then deionized water was added dropwise under vigorous
+stirring. After dialyzing against water, visible light irradiation was
+applied to fabricate the drug-loaded core crosslinked micelles (CPT/
+DOX-CCM). The drug loading content was measured by UVeVis
+spectroscopy. Firstly, calibration curves of CPT and DOX in DMSO
+were determined by values at 370 nm and 485 nm respectively
+using a UVevis spectrophotometer (Lambda 35, PerkinElmer, USA).
+Then, the aqueous dispersion of CPT/DOX-CCM was lyophilized and
+dissolved in DMSO. Finally, the absorption spectra were acquired to
+determine the drug concentration based on above calibration
+curves.
+2.5. Redox dual-responsive combined drug release
+The redox dual-responsive degradation was in situ monitored
+by DLS. Typically, micellar dispersions were treated with GSH (0,
+2 mM, 5 mM and 10 mM) or H2O2 (0, 100 mM, 3 mM and 30 mM) at
+37 C in 0.1 M PBS, respectively. The change of relative light scattering intensity was in situ recorded by DLS. In addition, in vitro
+accumulative drug release was evaluated, micellar dispersion was
+placed in a dialysis membrane bag containing different content of
+GSH (0, 2 mM, 5 mM and 10 mM) or H2O2 (0, 100 mM, 3 mM and
+30 mM), and dialyzed against the same media at 37 C respectively.
+At predetermined time intervals, the release medium was refreshed
+by transferring the tube to the fresh medium. The amount of drug
+release was determined according to the calibration curve.
+2.6. Cellular uptake and intracellular trafficking
+Human breast cancer cell line MCF-7 and mouse mammary
+tumor cell line EMT-6 were employed in this study. MCF-7 cells
+were cultured in DMEM (GIBCO) supplemented with 10% fetal
+bovine serum (FBS), EMT-6 cells were cultured in RPMI 1640
+(GIBCO) supplemented with 10% fetal bovine serum (FBS), penicillin (100 units/mL), and streptomycin (100 mg/mL) at 37 C in
+CO2/air (5:95) in a humidified incubator.
+Cellular internalization of CPT/DOX-CCM in cancer cells and
+intracellular drug release was evaluated by confocal laser scanning
+microscopy (Carl Zeiss LSM 510META system) using EMT-6 as
+model cells. The late endosome and lysosomes were stained with
+Lysotracker Green. EMT-6 cells were plated onto cell culture dishes
+(1  106 per well), then CPT/DOX-CCM were added, upon incubating for 2 h, 6 h and 10 h, cells were stained with Lysotracker
+Green for 30 min before imaging. DOX and Lysotracker Green were
+excited by 488 nm laser irradiation, and the emission detection
+channels were set to be LP560 nm and 505e530 nm, respectively.
+2.7. In vitro cytotoxicity evaluation
+The cytotoxicity was evaluated by MTT assay. MCF-7 cells or
+EMT-6 cells were seeded in 96-well plates (5  103 per well, 100 mL)
+and incubated overnight at 37 C in a humidified 5% CO2 atmosphere. The original medium was refreshed and added with DOX,
+CPT, CCM and CPT/DOX-CCM at predetermined content and incubated for 24 h. Then the medium in each well was replaced with
+fresh cell culture medium, and MTT reagent was added to each well
+and incubated for 6 h until purple precipitates were visible. Finally,
+DMSO (100 mL) was added to each well, and the plates were incubated at 37 C for 15 min or until all the crystals were dissolved. The
+absorbance intensity at 570 nm was recorded and the cytotoxicity
+was expressed as a percentage of the control.
+2.8. Cell apoptosis detection
+Quantification of apoptosis was detected as previous description
+[78]. Cells were seeded in six-well plates (1.0 mL of cell suspension
+per well) at 2  105 cells/mL and allowed to grow for 24 h. Drugfree CCM, DOX, CPT and CPT/DOX-CCM were added to each well
+and incubated with cells for 24 h. After the treatment, cells were
+collected and stained with Annexin V-FITC/PI. Each sample was
+analyzed by a flow cytometry (FACS Canto™ II, BD, USA).
+Compensation was used wherever necessary. Files were collected
+of 10,000 gated events and analyzed with FCS V3 software.
+2.9. In vivo blood circulation evaluation
+The fabrication of ICG-loaded micelles was similar to that of
+drug-loaded micelles. Blood circulation was measured by drawing
+25 mL blood from the tail vein of the EMT6 tumor bearing mice after
+intravenous injection of ICG, ICG-NCM and ICG-CCM (1 mg ICG/kg,
+200 mL) respectively. Each blood sample was dissolved in 175 mL of
+Lysis buffer (1% Sodium Dodecyl Sulfonate, 1% Triton X-100, 40 mM
+Tris-cetate) and the fluorescence intensities were recorded using
+ELASA (excitation wavelength: 785 nm, emission wavelength:
+805 nm, n ¼ 3) [79]. The blank blood samples were also detected to
+S. Zhai et al. / Biomaterials 121 (2017) 41e54 43
+subtract the auto-fluorescence of blood.
+2.10. Animal models
+For the tumor model of back transplantation, EMT-6 cells
+(1  106
+) in solution (100 mL) were injected into the flank region of
+female Balb/c mice, aged 4e5 weeks. Seven days after cell inoculation, the mice were used when tumors reached a size of
+approximately 60 mm3
+. All the animal experiments were performed following a protocol approved by the Institutional Animal
+Care and Use Committee (South China Normal University,
+Guangzhou, China).
+2.11. In vivo biodistribution of CCM
+After molting, EMT-6 tumor bearing mice were intravenously
+injected with ICG, ICG-NCM, ICG-CCM (ICG equivalent concentration at 1 mg ICG per kg, 200 mL) and imaged at different time points
+(0.5 h, 1 h, 3 h, 6 h, 24 h) with the infrared imaging system (Odyssey
+LI-COR, USA. lex ¼ 785 nm) [80]. To measure the distribution in
+tissue, at post-injection 24 h mice were sacrificed, and the major
+organs and tumors were collected and imaged.
+2.12. In vivo antitumor effect and systematic toxicity evaluation
+The biological effects of free drugs and dual drug loaded micelles were parallelly examined in EMT6 tumor bearing Balb/c female mice. The mice were randomly divided into five groups
+(n ¼ 10), and injected with PBS, DOX, CPT, CPT/DOX-NCM, and CPT/
+DOX-CCM at a dose of 1 mg CPT or DOX equivalent per kg every four
+days in 24 days respectively. The dimension of tumors was
+measured using a caliper every four days and calculated as
+Volume ¼ (tumor length  (tumor width)2
+)/2. Relative tumor
+volumes were calculated according to V/V0 (V0 was the tumor
+volume when the treatment was initiated). The body weight of
+mice was recorded during the whole administration process. Mice
+were finally euthanized, and the main organs were harvested for
+histology analysis by hematoxylin and eosin staining (H&E staining) [81].
+3. Results and discussion
+3.1. Characterization of visible light-induced core crosslinked
+micelles
+In this work, amphiphilic diblock copolymers with repeated
+diselenide bonds in different hydrophobic side chains were synthesized by reversible addition fragmentation chain transfer (RAFT)
+polymerization and facile post-modification (Scheme S1). Firstly,
+PEG-b-PMAA was synthesized by direct RAFT polymerization of
+methacrylic acid (MAA) in the presence of PEG45-based RAFT agent,
+then modified with three different diselenide-containing diols,
+including di-(1-hydroxyethylene) diselenide, di-(1-
+hydroxyundecene) diselenide, and di-(4,1-hydroxybenzylene) diselenide, respectively, affording three distinct amphiphilic diblock
+copolymers with diselenide bonds in the hydrophobic side chains,
+specifically, PEG-b-PESe, PEG-b-PUSe, and PEG-b-PBSe. The degree
+of polymerization (DP) of PMAA block was determined to be 30 by
+1
+H NMR analysis, and the post-modification efficiency was all >95%
+calculated by the proton integration of PEG and that of modified
+diols, approximately 29 repeating units were decorated in the side
+chain of each sample (Fig. S1, Table 1).
+Amphiphilic polymers would self-assemble into discrete nanostructures in water. As a comparison, solvent displacement method
+was employed parallelly for the aqueous self-assembly of three
+kinds of diselenide-rich polymers, which had different hydrophobic
+segments and identical hydrophilic PEG moieties. TEM analysis
+confirmed their self-assembled morphology and size distribution,
+in which the self-assembly controllability for both PEG-b-PESe and
+PEG-b-PUSe was relatively poor (Fig. 1a, b), while PEG-b-PBSe micelles exhibited quite uniform and spherical nanostructures
+(Fig. 1c). Typically, the hydrodynamic diameter of PEG-b-PBSe micelles was further determined to be ~129 nm by dynamic light
+scattering (DLS) analysis, and two other was ~583 nm and ~202 nm,
+respectively. Notably, PEG-b-PBSe micelles had the narrowest size
+distribution in dry state and water (Fig. 1c, d, Table 1). Furthermore,
+the storage stability was examined for three kinds of polymeric
+micelles in a duration of 28 days (Fig. 1e, f). The diameter and size
+distribution values of PEG-b-PBSe micelles showed the least
+change, possessing relatively good storage stability. PEG-b-PBSe has
+short alkyl chain and rigid phenyl groups in the hydrophobic
+segment, which is more likely to form compact p-p interaction
+among phenyl groups, thus exhibiting smaller particle size and low
+dispersity. On the contrary, the self-assembly of both PEG-b-PESe
+and PEG-b-PUSe no matter with short or long alkyl side chains was
+not ideal (Fig. 1).
+Inspired by the dynamic exchange of diselenide bonds triggered
+by visible light [38,39], we envisage that diselenide bonds may be
+applied in crosslinking chemistry using visible light as a mild way.
+Thus polymeric micelles of PEG-b-PBSe were further interrogated
+for the visible light-induced microstructural transformation. The
+micellar dispersion was irradiated with a 25 W incandescent light
+bulb without any addition of catalyst. As shown in Fig. 2a, DLS results showed no significant difference, and TEM analysis also
+demonstrated the persistent spherical nanostructure compared
+with non-irradiated one (Fig. 2a inset vs Fig. 1c).
+To further verify whether the visible light treatment has led to
+micellar crosslinking, the treated micellar dispersion was freezedried and then dispersed into a good solvent (DMF) for the whole
+polymer. As shown in Fig. 2b, the size distribution curve recorded
+for the visible light-treated micelles in DMF exhibited a monomodal distribution with an <Dh> of 863 nm and a dispersity index
+of 0.57, which demonstrated that crosslinking occured and the
+structural integrity of micelles was maintained in a swelling state in
+DMF; otherwise, non-crosslinked micelles would dissociate into
+unimers. Whereas for the non-irradiated micelles, it exhibited an
+<Dh> of 7.6 nm, indicating the disintegration of micelles into
+molecularly dissolved unimers. These results confirmed that visible
+light-induced dynamic exchange of diselenide bonds within the
+micellar core led to effective crosslinking, affording the resultant
+core crosslinked micelles (CCM). Compared with the pristine noncrosslinked micelles (NCM), the physical stability of micelles was
+greatly improved via visible light-induced core crosslinking. The
+crosslinking mechanism was tentatively proposed to result from
+visible light-induced diselenide metathesis and recombination of
+selenide radicals among different polymer chains, affording diselenide linkages as the crosslinking moieties in the resultant
+micellar core (Scheme 1). On the other hand, strong pep interactions between phenyl groups in the hydrophobic core were
+expected to make the micellar core much more compact and the
+crosslinking much more effective.
+Then, the stability of NCM and CCM was further evaluated by
+DLS analysis under simulated physiological conditions such as
+blood circulation [82]. Upon treating with 50% fetal bovine serum
+(FBS), the size of NCM increased slightly to 176 nm in the initial
+30 min incubation, then swelled significantly up to over 600 nm
+with broad distribution at 24 h, indicating the formation of large
+aggregates (Fig. 2c, d). However, CCM still kept comparable uniformity and narrow size distribution compared with the initial state
+during the whole process. Additionally, the stability of NCM and
+44 S. Zhai et al. / Biomaterials 121 (2017) 41e54
+CCM was examined in the presence of sodium dodecyl sulfate
+(SDS), a strong ionic surfactant, which is well-accepted to have
+strong micelle-disrupting potency and can disintegrate polymeric
+micelles efficiently [20]. Low content of SDS can accelerate the
+exchange rate between micelles and unimers, while high SDS level
+will destabilize polymeric micelles [83]. Both NCM and CCM
+aqueous dispersion was mixed with SDS (2.5 mg/mL), the size
+distribution was recorded at different time intervals (30 min and
+24 h). The size background of SDS dispersion was below the
+detection limit of DLS, thus the disappearance of the previous size
+distribution signal of NCM could reflect the dynamic associationdissociation of NCM, whereas the constant particle size of CCM
+under long-term SDS treatment indicated that CCM remained
+intact (Fig. 2e, f). In summary, visible light-induced core crosslinking of the diselenide-rich micelles were achieved, endowing
+the resultant core crosslinked micelles with excellent physiological
+stability and potential responsive linkages at the crosslinking
+points.
+3.2. Redox dual-responsive combined drug release
+Diselenide-rich amphiphilic diblock copolymers were employed
+to encapsulate two kinds of synergistic drugs, CPT and DOX, fabricating combination drug delivery systems. Upon aqueous selfTable 1
+Structural parameters of redox dual-responsive diselenide-rich diblock copolymers with three types of hydrophobic backbones, and the properties for the drug-loaded micelles fabricated from three polymeric samples.
+Sample DPa Mn, NMR/kDaa Mn, GPC/kDab Mw/Mn
+b DLC/%c <Dh>/nmd PDId Zeta potential/mVd
+CPT DOX
+PEG-b-PESe 29 11.5 12.6 1.36 4.9 3.2 583 0.68 6.43
+PEG-b-PUSe 29 18.8 19.7 1.23 5.8 5.2 202 0.15 6.48
+PEG-b-PBSe 29 15.1 16.2 1.24 15.6 12.2 129 0.08 7.40
+a Number-average molecular weights and degree of polymerization (DP) determined by 1
+H NMR. b Molecular weight and molecular weight distributions, Mw/Mn, were evaluated by GPC using DMF eluents. c Drug loading content (DLC) was calculated as the ratio of drug weight to the weight of drug-loaded micelles. d Intensity averaged hydrodynamic diameter, <Dh>, polydispersity indexes (PDI), and zeta potentials were determined by laser light scattering.
+Fig. 1. Aqueous self-assembly and stability evaluation of three types of polymeric micelles fabricated from diselenide-rich diblock copolymers with distinct hydrophobic units.
+Chemical structures and TEM images of the self-assembled nanostructures for (a) P1, PEG-b-PESe; (b) P2, PEG-b-PUSe; (c) P3, PEG-b-PBSe. (d) Hydrodynamic diameter distributions
+and the stability of the nanoparticles evaluated by DLS: (e) variation of polydispersity index, and (f) hydrodynamic diameter recorded as a function of storage time.
+S. Zhai et al. / Biomaterials 121 (2017) 41e54 45
+assembly of CPT, DOX, PEG-b-PBSe, and subsequent visible lightinduced crosslinking to fabricate CPT/DOX-CCM, the absorption
+peaks of CPT and DOX were observed in the spectrum of CPT/DOXCCM, indicating the successful formulation of both CPT and DOX
+within the resultant nanocarriers (Fig. 3a). Furthermore, compared
+with the absorption spectra of samples without visible light treatment, there was no detectable change to demonstrate possible drug
+degradation during the visible light-induced crosslinking process
+(Fig. S2).
+The drug loading capability of three kinds of polymers with
+different hydrophobic components were further interrogated, PEGb-PBSe had the highest loading content for both CPT and DOX,
+specifically 15.6 wt% and 12.2 wt% respectively, whereas the values
+for both PEG-b-PESe and PEG-b-PUSe were below 6 wt% (Table 1).
+The hydrophobic benzyl groups of PEG-b-PBSe were in favor of the
+interaction between drugs and hydrophobic matrix, which significantly facilitated the high encapsulation of combined drugs
+[84e86]. Then visible light was employed to crosslink CPT/DOXNCM, affording CPT/DOX-loaded core crosslinked micelles (CPT/
+DOX-CCM). The hydrodynamic diameter of CPT/DOX-CCM was
+determined to be ~116 nm, exhibiting slight decrease compared
+with that of CPT/DOX-NCM and maintaining persistent spherical
+nanostructures (Fig. 3b).
+As demonstrated before, diselenide bonds would be fractured
+and generate hydrophilic selenol in the presence of GSH, or hydrophilic selenic acid after reacting with ROS (Scheme 1) [87].
+Considering the redox dual-responsive feature of diselenide bonds
+in the crosslinking moieties, then the redox sensitivity of CCM was
+explored in the presence of GSH and H2O2, which were both highly
+expressed in tumors. The redox dual-responsiveness of CCM was
+interrogated by DLS and TEM analysis. The light scattering intensity
+of CCM was monitored upon incubation with different content of
+GSH and H2O2, indicating less than 5% decrease in PBS, which
+revealed favorable stability of CCM in physiological condition
+(Fig. S3aeb). In contrast, upon incubation with 10 mM GSH, the
+scattering intensity of micelles decreased to 39% at 120 min, and as
+low as 16% at 240 min. On the other hand, CCM can also be
+degraded in the presence of H2O2. TEM tests showed redox dualresponsive nanostructural transformation during above processes
+(Fig. S3cef). Upon incubating in redox conditions, CCM began to
+shrink and break down (Fig. S3c,e), and almost degraded
+completely after 200 min incubation (Fig. S3d,f). The hydrophobicto-hydrophilic transition of micellar core was proposed due to the
+cleavage of crosslinked diselenide bonds into hydrophilic selenol or
+selenic acid in redox conditions, thus leading to the disassembly of
+CCM in tumor-related redox microenvironments.
+Herein, the redox dual-responsive drug release was examined
+for CPT/DOX-CCM. In vitro DOX release was investigated in the
+presence of GSH or H2O2 respectively, exhibiting accumulative DOX
+release up to 99.7% upon 24 h incubation with 10 mM GSH,
+whereas, only ~29.2% drug leakage was observed for DOX in the
+presence of 2 mM GSH, which was corresponding with physiological
+conditions (Fig. 3c). Comparable results were obtained for DOX
+release upon treating with H2O2, displaying 42.5% DOX release for
+24 h in the presence of 100 mM H2O2 (Fig. 3d). In addition, slightly
+delayed CPT release was observed due to the solubility difference
+between CPT and DOX, exhibiting ~89.3% at 24 h, 10 mM GSH, and
+~36.6% for 100 mM H2O2 respectively (Fig. S4). Hence we envisaged
+that combined drugs of CPT and DOX were on-demand released in a
+nearly equal molar ratio. These results were also in good agreement
+with the proved redox responsiveness of CCM. Thus the diseleniderich crosslinking barrier in the hydrophobic core not only significantly improved the physiological stability of nanocarriers, but also
+effectively inhibited drug diffusion and leakage from the
+Fig. 2. Characterization of core crosslinked micelles. Hydrodynamic diameter distributions recorded for (a) non-crosslinked micelles (NCM) and core crosslinked micelles (CCM)
+fabricated from PEG-b-PBSe in water (Insert: TEM image of CCM, scale bar: 200 nm), (b) freeze-dried NCM and CCM dispersed in DMF. NCM and CCM upon treating with FBS 50% (v/
+v) at 37 C for (c) 30 min and (d) 24 h, or incubated with SDS 2.5 mg/mL for (e) 30 min and (f) 24 h, respectively.
+46 S. Zhai et al. / Biomaterials 121 (2017) 41e54
+nanocarriers, suggesting potential excellent blood retention property. Whereas in tumors, hand-in-hand drug release of CPT and
+DOX was achieved efficiently, which laid a solid foundation for
+tumor combination chemotherapy.
+3.3. Cellular uptake and in vitro cytotoxicity of CPT/DOX-CCM
+The cellular uptake and intracellular trafficking of CPT/DOXCCM were determined by flow cytometry and confocal laser scanning microscopy (CLSM). It was observed that CPT/DOX-CCM could
+be internalized effectively by EMT-6 cells, and the fluorescence of
+internalized DOX increased gradually as a function of incubation
+time up to 10 h determined by flow cytometry analysis (Fig. 4a, b).
+In addition, The kinetics of cellular uptake was further evaluated by
+the quantification from CLSM analysis (Fig. 4c). Meanwhile, the late
+endosomes and lysosomes were stained with Lysotracker Green for
+colocalization. Upon 2 h incubation, substantial cellular internalization into EMT-6 cells was observed, and CPT/DOX-CCM were
+mainly colocalized with Lysotracker Green, exhibiting merged
+yellow fluorescence, which suggested that drug-loaded micelles
+were mainly located in endolysosomes during the initial stage.
+Furthermore, upon 10 h treatment with CPT/DOX-CCM, the red
+fluorescence of DOX was found to be around nuclear membrane, or
+even within the nuclei. The punctuated distribution of DOX fluorescence in the cytoplasm and the nuclei indicated the remarkable
+endosomal escape capability of CPT/DOX-CCM, which accompanied
+with redox dual-responsive disassembly of micelles as well as
+controlled drug release, resulting in considerable nucleic accumulation of drugs [88,89].
+Subsequently, MTT assay was employed to evaluate the cytotoxicity of the combined drug delivery system. As shown in
+Fig. 5a,b, drug-free CCM of PEG-b-PBSe exhibited negligible cytotoxicity against both MCF-7 and EMT-6 cells, with >85% cell
+viability at a micellar content even up to 300 mg/mL, which suggested that diselenide-rich PEG-b-PBSe had good biocompatibility.
+Then the cytotoxicity of CPT/DOX-CCM was evaluated against two
+cell lines in the same profile, demonstrating remarkable decrease of
+cellular viability against two cell lines compared with either CPT or
+DOX alone (Fig. 5c, d).
+Furthermore, the cell apoptosis and necrosis after drug administration was analyzed by FACS with Annexin V-FITC/PI double
+staining (Fig. 5e). The results showed that CPT/DOX-CCM treatment
+Scheme 1. Schematic illustration for the self-assembly and visible light-induced core crosslinking of diselenide-rich nanoparticles fabricated from PEG-b-PBSe diblock copolymers,
+which were employed to encapsulate two kinds of chemotherapeutic drugs, affording dual drug-loaded core crosslinked micelles (CCM) for tumor intracellular redox dualresponsive drug delivery and effective combination chemotherapy.
+S. Zhai et al. / Biomaterials 121 (2017) 41e54 47
+induced cell late apoptosis/necrosis more significantly compared
+with CPT or DOX alone (Fig. 5f, g), which suggested that the synergistic therapeutic effect of CPT and DOX was responsible for the
+improved therapeutic efficiency of CPT/DOX-CCM. Thus the drug
+coformulation and redox dual-sensitive potency of nanocarriers
+conserved the potential activity of drug pairs and ensured simultaneous exposure within tumor cells, which was the premise to
+have excellent in vivo antitumor efficacy.
+3.4. In vivo blood circulation of ICG-CCM
+To further interrogate in vivo physiological stability of
+diselenide-rich crosslinked micelles, indocyanine green (ICG) was
+used as a NIR dye to be encapsulated within the CCM. The hydrodynamic size distribution and spherical morphological properties
+of ICG-loaded NCM (ICG-NCM) and ICG-loaded CCM (ICG-CCM)
+were similar with aforementioned drug-loaded micelles
+(Fig. S5aec). EMT-6 tumor bearing mice were intravenously injected with free ICG, ICG-NCM, and ICG-CCM respectively. As shown in
+Fig. 6a, for free ICG-treated mice, the fluorescence signals distributed extensively in liver tissue and less in tumor tissue after 1 h
+post-injection, and almost completely disappeared after 6 h. On the
+contrary, the fluorescence signals in tumor tissue strengthened
+with the increase of time interval, and reached a peak after 3 h
+post-injection of ICG-CCM. After 6 h, the signal in tumor tissue still
+could be detected in the ICG-CCM treated mice, which was much
+stronger than that of ICG-NCM. Furthermore, remarkable fluorescence was still observed at the tumor sites for the mice treated with
+ICG-CCM for 24 h, while it was undetectable for ICG-NCM. After
+24 h post-injection, the ex vivo fluorescence images of major organs
+and tumors were obtained (Fig. 6b,c). This result indicated that ICGCCM were successfully accumulated within tumor sites, and the
+potential drug release within tumor lasted even more than 24 h
+after drug administration [90]. While the mice treated with free ICG
+showed negligible fluorescence at the tumor site, which is due to
+much faster clearance of free ICG from body compared with polymeric nanocarriers. Furthermore, the half-life of ICG-CCM in blood
+circulation was determined to be ~3.82 h, which was remarkably
+longer than that of free ICG and ICG-NCM, ~0.13 h and ~1.19 h
+respectively (Fig. 6d), demonstrating that CCM could improve the
+blood retention time of encapsulated cargoes in blood circulation
+compared with both free drug and non-crosslinked nanocarriers. In
+short, both ICG-NCM and ICG-CCM were observed to accumulate at
+the tumor sites, but the tumor fluorescence regression for ICG-CCM
+was slowest compared with free ICG and ICG-NCM, which was
+consistent with the blood circulation and tumor retention properties. Thus the features of improved physiological stability and
+prolonged blood circulation contributed to selective accumulation
+and long-term retention of CCM at the tumor sites [90,91].
+Fig. 3. Redox dual-responsive drug release from CPT and DOX-loaded core crosslinked micelles of PEG-b-PBSe (CPT/DOX-CCM). (a) UVevis spectra obtained for CCM self-assembled
+from PEG-b-PBSe, and visible light irradiated DOX, CPT as well as CPT/DOX-CCM. (b) Hydrodynamic diameter distribution recorded for CPT/DOX-NCM and CPT/DOX-CCM (Insert:
+TEM image of CPT/DOX-CCM, scale bar: 200 nm). In vitro DOX release profiles recorded for CPT/DOX-CCM upon treating with (c) GSH and (d) H2O2 in PBS at 37 C.
+48 S. Zhai et al. / Biomaterials 121 (2017) 41e54
+3.5. In vivo antitumor efficacy evaluation
+The dual drug-loaded diselenide-rich crosslinked micelles, CPT/
+DOX-CCM, were determined be slightly negatively charged
+(Table 1), thus may be potent for intravenous tumor administration
+[92]. Therefore, the therapeutic effect was evaluated by intravenous
+Fig. 4. Cellular uptake and intracellular trafficking of CPT/DOX-CCM measured by (a) flow cytometer and (b) the statistical analysis. (c) Confocal images of EMT6 cells after
+incubating with CPT/DOX-CCM, the endolysosomes were stained with Lysotracker green (green). (For interpretation of the references to colour in this figure legend, the reader is
+referred to the web version of this article.)
+S. Zhai et al. / Biomaterials 121 (2017) 41e54 49
+treatment of mice bearing subcutaneous EMT-6 breast tumors. The
+mice were treated with PBS, CPT, DOX, CPT/DOX-NCM and CPT/
+DOX-CCM every four days in 24 days (Fig. 7a). Compared with
+single drug treatment by free DOX or CPT as well as pure PBS,
+combination therapy was found to significantly inhibit tumor
+growth. Moreover, CPT/DOX-CCM showed better tumor suppression effect than CPT/DOX-NCM group due to the prolonged blood
+circulation time of CCM and enhanced tumor accumulation (Fig. 7b,
+c and Fig. 6). Furthermore, H&E analysis revealed that CPT/DOXCCM treated tumors had much more pyknotic cells with highly
+condensed nuclei, which were considered to be apoptotic or dead
+cells (Fig. 7d). The high in vivo antitumor therapeutic efficacy most
+probably resulted from the integrated advantages of CPT/DOX-CCM,
+including high drug loading content, improved physiological stability, extended blood circulation, effective tumor accumulation,
+and combined drug release at tumor sites. The body weight of mice
+treated with CPT/DOX-CCM had no significant changes during the
+whole treatment process, suggesting unobvious systematic toxicity
+(Fig. S6). In addition, there was no obvious pathological changes of
+the main organs in CPT/DOX-CCM treated group, which further
+indicated that CPT/DOX-CCM had minimal in vivo toxicity (Fig. S7).
+The low dosage of combined drug treatment was beneficial for
+reducing side effects but not sacrificing the therapeutic efficacy
+[73], which further highlighted the comprehensive advantages of
+nanocarriers. Thus, in vitro and in vivo analysis demonstrated that it
+was highly promising to employ current diselenide-rich
+Fig. 5. In vitro cytotoxicity of drugs loaded micelles. (a), (b) Cell cytotoxicity of blank CCM fabricated from PEG-b-PBSe upon incubation for 24 h (c), (d) Cell viability of MCF-7 cells
+and EMT-6 cells after incubation with DOX, CPT and CPT/DOX-CCM for 24 h. (e) Cell apoptosis and necrosis analyzed by flow cytometer with Annexin V-FITC/PI double staining after
+different treatment. (f) and (g) Statistical analysis of flow cytometry data for two kinds of cell lines.
+50 S. Zhai et al. / Biomaterials 121 (2017) 41e54
+nanocarriers for multiple drug delivery in tumor combination
+chemotherapy.
+4. Conclusion
+In summary, three kinds of diselenide-rich amphiphilic diblock
+copolymers were fabricated with repeating diselenide bonds in
+distinct hydrophobic segments. Optimized hydrophobic composition with rigid phenyl groups within hydrophobic block was
+beneficial for the self-assembly controllability and high drug
+loading. Facile visible light-induced core crosslinking was demonstrated for the first time, in which diselenide linkages were located
+Fig. 6. In vivo biodistribution test. EMT-6 tumor bearing mice were injection with free ICG, ICG-loaded non-crosslinked micelles of PEG-b-PBSe (ICG-NCM), and the ICG-loaded core
+crosslinked micelles (ICG-CCM), respectively. (a) The fluorescence images of tumor bearing mice following i.v. injection at different time; (b) Fluorescence imaging of various organs
+and tumors after 24 h post injection; (c) Fluorescence intensity statistics of ICG in organs and tumors; (d) Quantification analysis of ICG in blood.
+S. Zhai et al. / Biomaterials 121 (2017) 41e54 51
+at the crosslinking moieties, exhibiting the feature of redox dualresponsive degradation. High content of CPT and DOX were
+encapsulated within the nanocarriers to afford dual drug-loaded
+core crosslinked micelles, CPT/DOX-CCM. Controlled combined
+drug release of CPT and DOX was demonstrated in tumor-related
+redox microenvironments. In vitro and in vivo results displayed
+the potency of tumor cell killing and significant suppression of
+tumor growth without any detectable side effects. The diseleniderich nanocarriers with multiple properties of high drug loading,
+visible light-induced in situ crosslinking, improved physiological
+stability, optimized pharmacokinetics, and tumor-specific combined drug release are promising in the delivery of multiple drugs,
+imaging agents as well as the inhibition of drug resistant tumors.
+Acknowledgment
+This work was supported by the Key Program of the National
+Natural Scientific Foundation of China (NSFC, 81630046), the NSFC
+Project of International Cooperation and Exchanges (61361160414),
+the NSFC Projects (21674040, 51403042, 81371646), the Natural
+Science Foundation for Distinguished Young Scholars of Guangdong Province (2016A030306013), the Guangdong Program for
+Support of Top-notch Young Professionals (2015TQ01R604), the
+Natural Science Foundation of Guangdong Province
+(2014A030310310), and the Scientific Research Projects of
+Guangzhou (201607010328).
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http://
+dx.doi.org/10.1016/j.biomaterials.2017.01.002.
+References
+[1] H. Tian, Z. Tang, X. Zhuang, X. Chen, X. Jing, Biodegradable synthetic polymers:
+preparation, functionalization and biomedical application, Prog. Polym. Sci. 37
+(2012) 237e280.
+[2] Y.Y. Cheng, L.B. Zhao, Y.W. Li, T.W. Xu, Design of biocompatible dendrimers for
+cancer diagnosis and therapy: current status and future perspectives, Chem.
+Soc. Rev. 40 (2011) 2673e2703.
+[3] Y.L. Colson, M.W. Grinstaff, Biologically responsive polymeric nanoparticles
+for drug delivery, Adv. Mat. 24 (2012) 3878e3886.
+[4] D. Ding, K. Li, B. Liu, B.Z. Tang, Bioprobes based on AIE fluorogens, Acc. Chem.
+Res. 46 (2013) 2441e2453.
+[5] H.L. Jiang, C.X. Xu, Y.K. Kim, R. Arote, D. Jere, H.T. Lim, et al., The suppression of
+lung tumorigenesis by aerosol-delivered folate-chitosan-graft-polyethylenimine/Akt1 shRNA complexes through the Akt signaling pathway,
+Biomaterials 30 (2009) 5844e5852.
+[6] H.X. Wang, H.Y. Xie, J.G. Wang, J.P. Wu, X.J. Ma, L.L. Li, et al., Self-assembling
+prodrugs by precise programming of molecular structures that contribute
+distinct stability, pharmacokinetics, and antitumor efficacy, Adv. Funct. Mater.
+25 (2015) 4956e4965.
+[7] C.F. van Nostrum, Covalently cross-linked amphiphilic block copolymer micelles, Soft Matter. 7 (2011) 3246e3259.
+[8] N. Kamaly, Z. Xiao, P.M. Valencia, A.F. Radovic-Moreno, O.C. Farokhzad, Targeted polymeric therapeutic nanoparticles: design, development and clinical
+translation, Chem. Soc. Rev. 41 (2012) 2971e3010.
+[9] Y. Wen, W.S. Meng, Recent in vivo evidences of particle-based delivery of
+small-interfering RNA (siRNA) into solid tumors, J. Pharm. Innov. 9 (2014)
+158e173.
+[10] N. Kamaly, B. Yameen, J. Wu, O.C. Farokhzad, Degradable controlled-release
+polymers and polymeric nanoparticles: mechanisms of controlling drug
+release, Chem. Rev. 116 (2016) 2602e2663.
+[11] Q.H. Sun, M. Radosz, Y.Q. Shen, Challenges in design of translational nanocarriers, J. Control Release 164 (2012) 156e169.
+[12] H.X. Wang, H.Y. Xie, J.P. Wu, X.Y. Wei, L. Zhou, X. Xu, et al., Structure-based
+rational design of prodrugs to enable their combination with polymeric
+nanoparticle delivery platforms for enhanced antitumor efficacy, Angew.
+Chem. Int. Ed. 53 (2014) 11532e11537.
+Fig. 7. In vivo anti-tumor effect of CPT/DOX-CCM on EMT-6 tumor bearing mice. (a) The experimental timeline and dosing schedule. (b) Representative images of the different group
+mice after six treatments. (c) The tumor volumes were normalized to their initial sizes. (d) Representative histological sections of the tumors stained with hematoxylin and eosin.
+52 S. Zhai et al. / Biomaterials 121 (2017) 41e54
+[13] X.L. Hu, S.Y. Liu, Recent advances towards the fabrication and biomedical
+applications of responsive polymeric assemblies and nanoparticle hybrid superstructures, Dalton Trans. 44 (2015) 3904e3922.
+[14] M.J. Webber, E.A. Appel, E.W. Meijer, R. Langer, Supramolecular biomaterials,
+Nat. Mater. 15 (2016) 13e26.
+[15] K.B. Thurmond, T. Kowalewski, K.L. Wooley, Water-soluble knedel-like
+structures: the preparation of shell-cross-linked small particles, J. Am.
+Chem. Soc. 118 (1996) 7239e7240.
+[16] R.K. O'Reilly, C.J. Hawker, K.L. Wooley, Cross-linked block copolymer micelles:
+functional nanostructures of great potential and versatility, Chem. Soc. Rev. 35
+(2006) 1068e1083.
+[17] J.F. Ding, G.J. Liu, Polystyrene block poly(2-cinnamoylethyl methacrylate)
+nanospheres with cross-linked shells, Macromolecules 31 (1998) 6554e6558.
+[18] T.Y. Chen, B.Y. Du, X.H. Zhang, Z.Q. Fan, Fabrication of polymer nanocapsules
+with controllable oligo(ethylene glycol) densities, permeation properties and
+robustly crosslinked walls, ACS Appl. Mater Inter. 5 (2013) 3748e3756.
+[19] E.S. Read, S.P. Armes, Recent advances in shell cross-linked micelles, Chem.
+Commun. (2007) 3021e3035.
+[20] A.N. Koo, H.J. Lee, S.E. Kim, J.H. Chang, C. Park, C. Kim, et al., Disulfide-crosslinked PEG-poly(amino acid)s copolymer micelles for glutathione-mediated
+intracellular drug delivery, Chem. Commun. (2008) 6570e6572.
+[21] A.N. Koo, K.H. Min, H.J. Lee, S.-U. Lee, K. Kim, I. Chan Kwon, et al., Tumor
+accumulation and antitumor efficacy of docetaxel-loaded core-shell-corona
+micelles with shell-specific redox-responsive cross-links, Biomaterials 33
+(2012) 1489e1499.
+[22] X. Hu, H. Li, S. Luo, T. Liu, Y. Jiang, S. Liu, Thiol and pH dual-responsive dynamic covalent shell cross-linked micelles for triggered release of chemotherapeutic drugs, Polym. Chem. 4 (2013) 695e706.
+[23] X. Hu, J. Tian, T. Liu, G. Zhang, S. Liu, Photo-triggered release of caged
+camptothecin prodrugs from dually responsive shell cross-linked micelles,
+Macromolecules 46 (2013) 6243e6256.
+[24] H. Wei, C.Y. Quan, C. Chang, X.Z. Zhang, R.X. Zhuo, Preparation of novel
+ferrocene-based shell cross-linked thermoresponsive hybrid micelles with
+antitumor efficacy, J. Phys. Chem. B 114 (2010) 5309e5314.
+[25] J.Z. Du, Y.M. Chen, Y.H. Zhang, C.C. Han, K. Fischer, M. Schmidt, Organic/
+inorganic hybrid vesicles based on a reactive block copolymer, J. Am. Chem.
+Soc. 125 (2003) 14710e14711.
+[26] J.Z. Du, Y.M. Chen, Organic-inorganic hybrid nanoparticles with a complex
+hollow structure, Angew. Chem. Int. Ed. 43 (2004) 5084e5087.
+[27] H. Wei, D.Q. Wu, Q. Li, C. Chang, J.P. Zhou, X.Z. Zhang, et al., Preparation of
+shell cross-linked thermoresponsive micelles as well as hollow spheres based
+on P(NIPAAm-co-HMAAm-co-MPMA)-b-PCL, J. Phys. Chem. C 112 (2008)
+15329e15334.
+[28] V.G. Deepagan, S. Kwon, D.G. You, V.Q. Nguyen, W. Um, H. Ko, et al., In situ
+diselenide-crosslinked polymeric micelles for ROS-mediated anticancer drug
+delivery, Biomaterials 103 (2016) 56e66.
+[29] Y. Amamoto, Y. Higaki, Y. Matsuda, H. Otsuka, A. Takahara, Programmed
+thermodynamic formation and structure analysis of star-like nanogels with
+core cross-linked by thermally exchangeable dynamic covalent bonds, J. Am.
+Chem. Soc. 129 (2007) 13298e13304.
+[30] Y. Higaki, H. Otsuka, A. Takahara, A thermodynamic polymer cross-linking
+system based on radically exchangeable covalent bonds, Macromolecules 39
+(2006) 2121e2125.
+[31] A.P. Bapat, D. Roy, J.G. Ray, D.A. Savin, B.S. Sumerlin, Dynamic-covalent
+macromolecular stars with boronic ester linkages, J. Am. Chem. Soc. 133
+(2011) 19832e19838.
+[32] Y. Chan, T. Wong, F. Byrne, M. Kavallaris, V. Bulmus, Acid-labile core crosslinked micelles for pH-triggered release of antitumor drugs, Biomacromolecules 9 (2008) 1826e1836.
+[33] Y. Anraku, A. Kishimura, M. Kamiya, S. Tanaka, T. Nomoto, K. Toh, et al.,
+Systemically injectable enzyme-loaded polyion complex vesicles as in vivo
+nanoreactors functioning in tumors, Angew. Chem. Int. Ed. 55 (2016)
+560e565.
+[34] X. Jiang, S. Luo, S.P. Armes, W. Shi, S. Liu, UV irradiation-induced shell crosslinked micelles with pH-responsive cores using ABC triblock copolymers,
+Macromolecules 39 (2006) 5987e5994.
+[35] L.M. Garcia-Con, M.J. Whitcombe, E.V. Piletska, S.A. Piletsky, A sulfur-sulfur
+cross-linked polymer synthesized from a polymerizable dithiocarbamate as a
+source of dormant radicals, Angew. Chem. Int. Ed. 49 (2010) 4075e4078.
+[36] M. Nishihara, K. Imato, A. Irie, T. Kanehara, A. Kano, A. Maruyama, et al.,
+Reversibly crosslinked polymeric micelles formed by autonomously
+exchangeable dynamic covalent bonds, Chem. Lett. 42 (2013) 377e379.
+[37] L. Xu, W.Y. Zhang, H.B. Cai, F. Liu, Y. Wang, Y. Gao, et al., Photocontrollable
+release and enhancement of photodynamic therapy based on host-guest supramolecular amphiphiles, J. Mater Chem. B 3 (2015) 7417e7426.
+[38] S.B. Ji, W. Cao, Y. Yu, H.P. Xu, Visible-light-induced self-healing diselenidecontaining polyurethane elastomer, Adv. Mat. 27 (2015) 7740e7745.
+[39] S.B. Ji, W. Cao, Y. Yu, H.P. Xu, Dynamic diselenide bonds: exchange reaction
+induced by visible light without catalysis, Angew. Chem. Int. Ed. 53 (2014)
+6781e6785.
+[40] R. Cheng, F.H. Meng, C. Deng, H.A. Klok, Z.Y. Zhong, Dual and multi-stimuli
+responsive polymeric nanoparticles for programmed site-specific drug delivery, Biomaterials 34 (2013) 3647e3657.
+[41] Z.S. Ge, S.Y. Liu, Functional block copolymer assemblies responsive to tumor
+and intracellular microenvironments for site-specific drug delivery and
+enhanced imaging performance, Chem. Soc. Rev. 42 (2013) 7289e7325.
+[42] X.W. Xu, J.D. Flores, C.L. McCormick, Reversible imine shell cross-linked micelles from aqueous raft-synthesized thermoresponsive triblock copolymers
+as potential nanocarriers for “pH-triggered” drug release, Macromolecules 44
+(2011) 1327e1334.
+[43] S. Mura, J. Nicolas, P. Couvreur, Stimuli-responsive nanocarriers for drug delivery, Nat. Mater. 12 (2013) 991e1003.
+[44] X.L. Hu, Y. Li, T. Liu, G.Y. Zhang, S.Y. Liu, Intracellular cascade FRET for temperature imaging of living cells with polymeric ratiometric fluorescent thermometers, ACS Appl. Mater Inter. 7 (2015) 15551e15560.
+[45] Y.T. Chiang, Y.W. Yen, C.L. Lo, Reactive oxygen species and glutathione dual
+redox-responsive micelles for selective cytotoxicity of cancer, Biomaterials 61
+(2015) 150e161.
+[46] J. Dai, S.D. Lin, D. Cheng, S.Y. Zou, X.T. Shuai, Interlayer-crosslinked micelle
+with partially hydrated core showing reduction and ph dual sensitivity for
+pinpointed intracellular drug release, Angew. Chem. Int. Ed. 50 (2011)
+9404e9408.
+[47] H.S. Han, K.Y. Choi, H. Ko, J. Jeon, G. Saravanakumar, Y.D. Suh, et al., Bioreducible core-crosslinked hyaluronic acid micelle for targeted cancer therapy, J. Control Release 200 (2015) 158e166.
+[48] Y. Chen, L.L. Rui, L.C. Liu, W.A. Zhang, Redox-responsive supramolecular amphiphiles based on a pillar[5]arene for enhanced photodynamic therapy,
+Polym. Chem. 7 (2016) 3268e3276.
+[49] X.L. Hu, J.M. Hu, J. Tian, Z.S. Ge, G.Y. Zhang, K.F. Luo, et al., Polyprodrug amphiphiles: hierarchical assemblies for shape-regulated cellular internalization,
+trafficking, and drug delivery, J. Am. Chem. Soc. 135 (2013) 17617e17629.
+[50] X.L. Hu, G.H. Liu, Y. Li, X.R. Wang, S.Y. Liu, Cell-penetrating hyperbranched
+polyprodrug amphiphiles for synergistic reductive milieu-triggered drug
+release and enhanced magnetic resonance signals, J. Am. Chem. Soc. 137
+(2015) 362e368.
+[51] M. Giorgio, M. Trinei, E. Migliaccio, P.G. Pelicci, Hydrogen peroxide: a metabolic by-product or a common mediator of ageing signals? Nat. Rev. Mol. Cell.
+Biol. 8 (2007) 722e728.
+[52] S.H. Lee, M.K. Gupta, J.B. Bang, H. Bae, H.J. Sung, Current progress in reactive
+oxygen species (ROS)-responsive materials for biomedical applications, Adv.
+Healthc. Mater. 2 (2013) 908e915.
+[53] G. Saravanakumar, J. Kim, W.J. Kim, Reactive-oxygen-species-responsive drug
+delivery systems: promises and challenges, Adv. Sci. (2016) 1600124.
+[54] M.P. Murphy, How mitochondria produce reactive oxygen species, Biochem. J.
+417 (2009) 1e13.
+[55] A. Napoli, M. Valentini, N. Tirelli, M. Muller, J.A. Hubbell, Oxidation-responsive
+polymeric vesicles, Nat. Mater. 3 (2004) 183e189.
+[56] K.E. Broaders, S. Grandhe, J.M.J. Frechet, A biocompatible oxidation-triggered
+carrier polymer with potential in therapeutics, J. Am. Chem. Soc. 133 (2011)
+756e758.
+[57] C.-C. Song, F.-S. Du, Z.-C. Li, Oxidation-responsive polymers for biomedical
+applications, J. Mater Chem. B 2 (2014) 3413e3426.
+[58] Y.Y. Yuan, J. Liu, B. Liu, Conjugated-polyelectrolyte-based polyprodrug: targeted and image-guided photodynamic and chemotherapy with on-demand
+drug release upon irradiation with a single light source, Angew. Chem. Int.
+Ed. 53 (2014) 7163e7168.
+[59] N. Ma, Y. Li, H.P. Xu, Z.Q. Wang, X. Zhang, Dual redox responsive assemblies
+formed from diselenide block copolymers, J. Am. Chem. Soc. 132 (2010)
+442e443.
+[60] P. Han, N. Ma, H.F. Ren, H.P. Xu, Z.B. Li, Z.Q. Wang, et al., Oxidation-responsive
+micelles based on a selenium-containing polymeric superamphiphile, Langmuir 26 (2010) 14414e14418.
+[61] T.B. Sun, Y. Jin, R. Qi, S.J. Peng, B.Z. Fan, Oxidation responsive mono-cleavable
+amphiphilic di-block polymer micelles labeled with a single diselenide,
+Polym. Chem. 4 (2013) 4017e4023.
+[62] L. Wang, W. Cao, Y. Yi, H.P. Xu, Dual redox responsive coassemblies of
+diselenide-containing block copolymers and polymer lipids, Langmuir 30
+(2014) 5628e5636.
+[63] H.J. Yu, Z.R. Cui, P.C. Yu, C.Y. Guo, B. Feng, T.Y. Jiang, et al., pH- and NIR lightresponsive micelles with hyperthermia-triggered tumor penetration and
+cytoplasm drug release to reverse doxorubicin resistance in breast cancer,
+Adv. Funct. Mater. 25 (2015) 2489e2500.
+[64] H. Gong, L. Cheng, J. Xiang, H. Xu, L. Feng, X. Shi, et al., Near-infrared absorbing
+polymeric nanoparticles as a versatile drug carrier for cancer combination
+therapy, Adv. Funct. Mater 23 (2013) 6059e6067.
+[65] L.Z. He, H.Q. Lai, T.F. Chen, Dual-function nanosystem for synergetic cancer
+chemo-/radiotherapy through ROS-mediated signaling pathways, Biomaterials 51 (2015) 30e42.
+[66] X. Duan, J. Xiao, Q. Yin, Z. Zhang, H. Yu, S. Mao, et al., Smart pH-sensitive and
+temporal-controlled polymeric micelles for effective combination therapy of
+doxorubicin and disulfiram, ACS Nano 7 (2013) 5858e5869.
+[67] T. Liu, Y.F. Zhang, S.Y. Liu, Drug and plasmid DNA co-delivery nanocarriers
+based on ABC type polypeptide hybrid miktoarm star copolymers, Chin. J.
+Polym. Sci. 31 (2013) 924e937.
+[68] T. Jiang, R. Mo, A. Bellotti, J. Zhou, Z. Gu, Geleliposome-mediated co-delivery
+of anticancer membrane-associated proteins and small-molecule drugs for
+enhanced therapeutic efficacy, Adv. Funct. Mater. 24 (2014) 2295e2304.
+[69] B. Singh, Y. Jang, S. Maharjan, H.J. Kim, A.Y. Lee, S. Kim, et al., Combination
+therapy with doxorubicin-loaded galactosylated poly(ethyleneglycol)-
+lithocholic acid to suppress the tumor growth in an orthotopic mouse
+S. Zhai et al. / Biomaterials 121 (2017) 41e54 53
+model of liver cancer, Biomaterials 116 (2016) 130e144.
+[70] Y. Chen, Y. Gao, H. Chen, D. Zeng, Y. Li, Y. Zheng, et al., Engineering inorganic
+nanoemulsions/nanoliposomes by fluoride-silica chemistry for efficient
+delivery/co-delivery of hydrophobic agents, Adv. Funct. Mater. 22 (2012)
+1586e1597.
+[71] L. Miao, S.T. Guo, J. Zhang, W.Y. Kim, L. Huang, Nanoparticles with precise
+ratiometric co-loading and co-delivery of gemcitabine monophosphate and
+cisplatin for treatment of bladder cancer, Adv. Funct. Mater. 24 (2014)
+6601e6611.
+[72] S. Aryal, C.M.J. Hu, L.F. Zhang, Polymeric nanoparticles with precise ratiometric control over drug loading for combination therapy, Mol. Pharm. 8
+(2011) 1401e1407.
+[73] K.M. Camacho, S. Kumar, S. Menegatti, D.R. Vogus, A.C. Anselmo, S. Mitragotri,
+Synergistic antitumor activity of camptothecin-doxorubicin combinations and
+their conjugates with hyaluronic acid, J. Control Release 210 (2015) 198e207.
+[74] K.M. Camacho, S. Menegatti, S. Mitragotri, Low-molecular-weight polymerdrug conjugates for synergistic anticancer activity of camptothecin and
+doxorubicin combinations, Nanomedicine 11 (2016) 1139e1151.
+[75] T. Liu, S.Y. Liu, Responsive polymers-based dual fluorescent chemosensors for
+Zn2þ ions and temperatures working in purely aqueous media, Anal. Chem. 83
+(2011) 2775e2785.
+[76] T.B. Sun, Y. Jin, R. Qi, S.J. Peng, B.Z. Fan, Post-assembly of oxidation-responsive
+amphiphilic triblock polymer containing a single diselenide, Macromol. Chem.
+Phys. 214 (2013) 2875e2881.
+[77] M.A. Rizvi, S. Guru, T. Naqvi, M. Kumar, N. Kumbhar, S. Akhoon, et al., An
+investigation of in vitro cytotoxicity and apoptotic potential of aromatic diselenides, Bioorg. Med. Chem. Lett. 24 (2014) 3440e3446.
+[78] Z. Zhang, L. Liu, X. Jiang, S. Zhai, D. Xing, The essential role of Drp1 and its
+regulation by S-nitrosylation of Parkin in dopaminergic neurodegeneration:
+implications for Parkinson's disease, Antioxid. Redox Signal. 25 (2016)
+609e622.
+[79] Z.H. Sheng, D.H. Hu, M.B. Zheng, P.F. Zhao, H.L. Liu, D.Y. Gao, et al., Smart
+human serum albumin-indocyanine green nanoparticles generated by programmed assembly for dual-modal imaging-guided cancer synergistic phototherapy, ACS Nano 8 (2014) 12310e12322.
+[80] L.J. Liu, Y.C. Wei, S.D. Zhai, Q. Chen, D. Xing, Dihydroartemisinin and transferrin dual-dressed nano-graphene oxide for a pH-triggered chemotherapy,
+Biomaterials 62 (2015) 35e46.
+[81] L.W. Wen, W.Z. Ding, S.H. Yang, D. Xing, Microwave pumped high-efficient
+thermoacoustic tumor therapy with single wall carbon nanotubes, Biomaterials 75 (2016) 163e173.
+[82] Y.P. Li, K. Xiao, J.T. Luo, W.W. Xiao, J.S. Lee, A.M. Gonik, et al., Well-defined,
+reversible disulfide cross-linked micelles for on-demand paclitaxel delivery,
+Biomaterials 32 (2011) 6633e6645.
+[83] N. Kang, M.E. Perron, R.E. Prud'homme, Y.B. Zhang, G. Gaucher, J.C. Leroux,
+Stereocomplex block copolymer micelles: core-shell nanostructures with
+enhanced stability, Nano Lett. 5 (2005) 315e319.
+[84] N. Kamaly, Z.Y. Xiao, P.M. Valencia, A.F. Radovic-Moreno, O.C. Farokhzad,
+Targeted polymeric therapeutic nanoparticles: design, development and
+clinical translation, Chem. Soc. Rev. 41 (2012) 2971e3010.
+[85] M.E. Gindy, A.Z. Panagiotopoulos, R.K. Prud'homme, Composite block copolymer stabilized nanoparticles: simultaneous encapsulation of organic actives
+and inorganic nanostructures, Langmuir 24 (2008) 83e90.
+[86] W.B. Liechty, D.R. Kryscio, B.V. Slaughter, N.A. Peppas, Polymers for drug delivery systems, Annu. Rev. Chem. Biomol. Eng. 1 (2010) 149e173.
+[87] H.P. Xu, W. Cao, X. Zhang, Selenium-containing polymers: promising biomaterials for controlled release and enzyme mimics, Acc. Chem. Res. 46
+(2013) 1647e1658.
+[88] A. Sorkin, M. von Zastrow, Signal transduction and endocytosis: close encounters of many kinds, Nat. Rev. Mol. Cell. Biol. 3 (2002) 600e614.
+[89] Y. Yuan, F.Q. Wang, W. Tang, Z.L. Ding, L. Wang, L.L. Liang, et al., Intracellular
+Self-assembly of cyclic D-luciferin nanoparticles for persistent bioluminescence imaging of fatty acid amide hydrolase, ACS Nano 10 (2016) 7147e7153.
+[90] P.A. Ma, H.H. Xiao, X.X. Li, C.X. Li, Y.L. Dai, Z.Y. Cheng, et al., Rational design of
+multifunctional upconversion nanocrystals/polymer nanocomposites for
+cisplatin (IV) delivery and biomedical imaging, Adv. Mat. 25 (2013)
+4898e4905.
+[91] D. Kokuryo, Y. Anraku, A. Kishimura, S. Tanaka, M.R. Kano, J. Kershaw, et al.,
+SPIO-PICsome: development of a highly sensitive and stealth-capable MRI
+nano-agent for tumor detection using SPIO-loaded unilamellar polyion complex vesicles (PICsomes), J. Control Release 169 (2013) 220e227.
+[92] Z.X. Zhou, X.P. Ma, C.J. Murphy, E.L. Jin, Q.H. Sun, Y.Q. Shen, et al., Molecularly
+precise dendrimer-drug conjugates with tunable drug release for cancer
+therapy, Angew. Chem. Int. Ed. 53 (2014) 10949e10955.

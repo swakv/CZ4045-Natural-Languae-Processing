@@ -1,0 +1,1004 @@
+GLK-IKK   signaling induces dimerization and
+translocation of the AhR-ROR t complex in IL-17A
+induction and autoimmune disease
+Huai-Chia Chuang1
+, Ching-Yi Tsai1
+, Chia-Hsin Hsueh1
+, Tse-Hua Tan1,2*
+Retinoic-acid-receptor-related orphan nuclear receptor  t (ROR t) controls the transcription of interleukin-17A
+(IL-17A), which plays critical roles in the pathogenesis of autoimmune diseases. Severity of several human autoimmune diseases is correlated with frequencies of germinal center kinase–like kinase (GLK) (also known as
+MAP4K3)–overexpressing T cells; however, the mechanism of GLK overexpression–induced autoimmunity remains
+unclear. We report the signal transduction converging on aryl hydrocarbon receptor (AhR)–ROR t interaction to
+activate transcription of the IL-17A gene in T cells. T cell–specific GLK transgenic mice spontaneously developed
+autoimmune diseases with selective induction of IL-17A in T cells. In GLK transgenic T cells, protein kinase C
+(PKC) phosphorylated AhR at Ser36 and induced AhR nuclear translocation. AhR also interacted with ROR t and
+transported ROR t into the nucleus. IKK   (inhibitor of nuclear factor  B kinase   )–mediated ROR t Ser489 phosphorylation induced the AhR-ROR t interaction. T cell receptor (TCR) signaling also induced the novel ROR t
+phosphorylation and subsequent AhR-ROR t interaction. Collectively, TCR signaling or GLK overexpression induces IL-17A transcription through the IKK  -mediated ROR t phosphorylation and the AhR-ROR t interaction in
+T cells. Our findings suggest that inhibitors of GLK or the AhR-ROR t complex could be used as IL-17A–blocking
+agents for IL-17A–mediated autoimmune diseases.
+INTRODUCTION
+Autoimmune diseases, which are chronic, debilitating, and lifethreatening, arise from immune system overactivation. T helper
+17 cells [TH17, interleukin-17A (IL-17A)–producing CD4+
+ T cells]
+and IL-17A play critical roles in the pathogenesis of autoimmune
+diseases (1, 2). Induction of IL-17A occurs in the synovial fluids
+from rheumatoid arthritis (RA) patients (3) and in the renal biopsies from systemic lupus erythematosus (SLE) patients (1). IL-17A
+facilitates differentiation of osteoclasts, which lead to arthritis (3).
+IL-17A also promotes B cell proliferation and class switch recombination, contributing to autoantibody production and autoimmune
+responses (4). Furthermore, IL-17A overexpression causes tissue
+damage by inducing infiltration of neutrophils and macrophages
+through multiple chemokines (1, 2, 5). IL-17A knockout (KO) or
+IL-17A blockade abolishes disease development in animal autoimmune models such as experimental autoimmune encephalomyelitis (EAE) and collagen-induced arthritis (CIA) (2). Thus,
+understanding the mechanism(s) controlling IL-17A transcription
+may lead to the discovery of novel therapeutic targets for autoimmune diseases.
+IL-1  , IL-6, IL-21, and IL-23 facilitate TH17 differentiation
+(1, 2, 6, 7). The TH17 lineage–specific transcription factor ROR t
+binds to the IL-17A promoter and controls IL-17A gene transcription (8, 9). Transforming growth factor–   (TGF-  )–induced Foxp3,
+a regulatory T cell (Treg) lineage–specific transcription factor,
+suppresses IL-17A expression by interacting with and inactivating
+ROR t (10, 11). Besides ROR t, several non–lineage-specific transcription factors play important roles in regulating IL-17A transcription. IL-6– or IL-23–stimulated signal transducer and activator
+of transcription 3 (STAT3) binds to the IL-17A promoter and
+enhances IL-17A transcription (12, 13). ROCK (Rho-associated,
+coiled-coil-containing protein kinase)–phosphorylated interferon
+(IFN) regulatory factor 4 (IRF4) also promotes IL-17A transcription upon TGF-   signaling (14). Basic leucine zipper ATF-like
+transcription factor (BATF) controls TH17 differentiation through
+binding to the intergenic elements between the IL-17A and IL-17F
+genes, as well as to the IL-21 or IL-22 promoters (15). Krüppel-like
+factor 4 (KLF4) binds to the IL-17A promoter and contributes to
+TH17 differentiation independent of ROR t expression (16). Aryl
+hydrocarbon receptor (AhR) promotes TH17 polarization by inducing IL-17A transcription (17, 18) and inhibiting the negative regulator
+STAT1 during TH17 differentiation (19). Conversely, T cell–specific
+AhR KO mice have impaired TH17 differentiation and are resistant
+to TH17-mediated experimental autoimmune arthritis (20). Various
+pathogenic TH17 subpopulations can be derived in vitro under different conditions (21). Nevertheless, the in vivo roles of these distinct
+TH17 subpopulations in the pathogenesis of autoimmune diseases
+remain unclear.
+MAP4K3 (also named GLK) is a mammalian Ste20-like serine/
+threonine kinase that was first identified as an upstream activator
+for the c-Jun N-terminal kinase pathway (22, 23). GLK plays an
+important role in T cell receptor (TCR) signaling by directly
+phosphorylating and activating PKC, leading to activation of
+IKK   [inhibitor of nuclear factor  B (NF- B) kinase   ] and NF- B
+in T cells (24). Moreover, clinical samples from patients with autoimmune diseases, such as SLE, RA, or adult-onset Still’s disease, show
+markedly increased GLK expression in T cells; the frequencies of
+GLK-expressing T cells are positively correlated with disease severity (24–26). Consistent with the correlation of high levels of
+GLK expression with autoimmune disease, GLK-deficient mice are
+resistant to TH17-mediated EAE induction or CIA induction and
+display lower TH17 responses (24, 26). Besides TH17, differentiation
+of TH1 and TH2 is also impaired in GLK-deficient T cells because of
+1
+Immunology Research Center, National Health Research Institutes, Zhunan 35053,
+Taiwan. 2
+Department of Pathology and Immunology, Baylor College of Medicine,
+Houston, TX 77030, USA.
+*Corresponding author. Email: ttan@nhri.org.tw
+Copyright © 2018
+The Authors, some
+rights reserved;
+exclusive licensee
+American Association
+for the Advancement
+of Science. No claim to
+original U.S. Government
+Works. Distributed
+under a Creative
+Commons Attribution
+License 4.0 (CC BY).
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+2 of 15
+impaired TCR signaling (24). However, it remains unclear how GLK
+overexpression contributes to multiple human autoimmune diseases.
+To understand the pathogenic mechanism of GLK overexpression–
+induced autoimmune diseases, we generated and characterized T cell–
+specific GLK transgenic (Lck-GLK Tg) mice. Here, we report that
+GLK signaling induces a novel interaction between AhR and phosphoROR t through PKC and IKK  , leading to IL-17A transcriptional
+activation and autoimmune responses.
+RESULTS
+Lck-GLK Tg mice develop autoimmune diseases
+through IL-17A
+To study the consequence of GLK overexpression in vivo, we
+generated Lck-GLK Tg mice (fig. S1, A and B). Lck-GLK Tg mice
+displayed normal development of T cells and B cells (fig. S1, C
+to H); however, the mice displayed paralysis of the hindlimb and
+tail, clouding of the eye, or symptoms of proctitis and dermatitis
+between 8 and 16 weeks of age (fig. S2A). Lck-GLK Tg mice also
+showed hepatosplenomegaly and enlargement of lymph nodes
+and kidneys (fig. S2B). Histology staining showed the induction
+of pneumonia, nephritis, and spleen abnormality in these mice
+(Fig. 1A). Induction of serum autoantibodies in Lck-GLK Tg mice
+(Fig. 1B) also suggests the development of autoimmune responses
+in these mice. To study which proinflammatory cytokines contribute to autoimmune diseases in Lck-GLK Tg mice, we determined serum cytokines via enzyme-linked immunosorbent assay
+(ELISA). Surprisingly, only IL-17A was selectively induced in the
+sera of 4-week-old Lck-GLK Tg mice (Fig. 1C), whereas the proinflammatory cytokines IFN-  and tumor necrosis factor– (TNF-)
+were not induced. Consistently, in vitro TH17 differentiation of
+Lck-GLK Tg T cells was increased compared to that of wild-type
+T cells (fig. S2C), whereas in vitro TH1 differentiation of Lck-GLK Tg
+T cells was unaffected (fig. S2C). Moreover, IL-17A production was
+induced in unstimulated T cells of Lck-GLK Tg mice compared
+to that of wild-type mice (fig. S2D). To rule out the potential
+position effect of the transgene, we also characterized the second
+Lck-GLK Tg mouse line (Lck-GLK #2) (fig. S1B). The second line
+of Lck-GLK Tg mice also displayed GLK overexpression in T cells
+(fig. S1B) and induction of serum IL-17A levels (fig. S2E). These
+data suggest that GLK overexpression in T cells induces IL-17A
+production in mice.
+To demonstrate the pathogenic role of IL-17A in Lck-GLK
+Tg mice, we bred Lck-GLK Tg mice with IL-17A–deficient mice.
+GLK-induced serum IL-17A levels were significantly decreased
+by IL-17A deficiency, while other inflammatory cytokine
+levels were unaffected (fig. S3A). Moreover, autoantibody levels
+were also significantly reduced in Lck-GLK Tg/IL-17A–deficient
+mice compared to those in Lck-GLK Tg mice (Fig. 1D). Lck-GLK
+Tg/IL-17A–deficient mice displayed a reduction of infiltrating inflammatory cells in the kidneys, the liver, and the lung, while showing normal distribution of white pulp and red pulp in the spleen,
+compared to those in Lck-GLK Tg mice (fig. S3B). The data suggest
+that IL-17A contributes to autoimmune responses in Lck-GLK
+Tg mice. To further demonstrate that the induction of IL-17A is due
+to GLK overexpression, we treated Lck-GLK T cells with GLK short
+hairpin RNA (shRNA). IL-17A overproduction was abolished by
+GLK shRNA knockdown in T cells purified from Lck-GLK Tg mice
+(Fig. 1E). These results demonstrate that GLK overexpression induces
+IL-17A overproduction and subsequent autoimmune phenotypes in mice.
+GLK induces IL-17A transcription by activating
+AhR and ROR t
+Next, we studied the mechanism of GLK-induced IL-17A in T cells.
+The levels of IL-23 receptor and phosphorylated STAT3 were
+not increased in T cells of Lck-GLK Tg mice (fig. S4, A and B),
+suggesting that IL-17A overexpression is not due to enhancement
+of IL-23 signaling or IL-6/STAT3 signaling. Consistent with the
+IL-17A protein levels, mRNA levels of IL-17A were significantly
+increased in the purified T cells of Lck-GLK Tg mice compared
+to those of wild-type mice (Fig. 2A). We studied whether IL-17A
+overexpression is due to transcriptional activation of the IL-17A
+promoter. IL-17A promoter activities in Jurkat T cells were enhanced by GLK overexpression but not by GLK kinase-dead (K45E)
+mutant (Fig. 2B). Next, we studied the bindings of individual
+IL-17A transcription factors to the IL-17A promoter (Fig. 2, C
+and D). ChIP analyses showed that bindings of AhR and ROR t
+(−877) to the IL-17A promoter were induced in T cells of Lck-GLK
+Tg mice (Fig. 2D), whereas bindings of STAT3, IRF4, KLF4, and
+BATF to the IL-17A promoter were not enhanced (Fig. 2D). The
+binding of ROR t to the −120 region of the IL-17A promoter
+was not significantly induced (Fig. 2D); others reported similar
+findings (27, 28). Consistent with ChIP data, mutation of the
+AhR-binding element or the ROR t-binding site (−877) abolished
+the GLK-enhanced IL-17A reporter activity, whereas mutation
+of the STAT3-binding site (Fig. 2E) or the ROR t-binding site
+(−120) did not affect the GLK-induced IL-17A reporter activity
+(fig. S4C). Notably, GLK overexpression induced AhR response
+element–driven reporter (XRE-Luc) activity (Fig. 2F), whereas
+ROR t (−877) or STAT3 response element–driven reporter (ROR tLuc or SIE-Luc) activity was unaffected (Fig. 2F). These results
+suggest that GLK signaling induces IL-17A transcription by activating AhR and maybe ROR t.
+GLK controls IL-17A production and autoimmune
+responses through AhR
+To further demonstrate the role of AhR in promoting IL-17A
+production in Lck-GLK Tg mice, we bred Lck-GLK Tg mice with
+T cell–specific AhR conditional KO (AhR cKO: AhRf/f;CD4-Cre)
+mice. Serum IL-17A levels were drastically reduced in Lck-GLK/
+AhR cKO (Lck-GLK;AhRf/f;CD4-Cre) mice, whereas serum
+TNF- and IFN-  levels were unaffected by AhR deficiency
+(Fig. 3A). Levels of ANA, anti-dsDNA antibody, and RF were
+also decreased in Lck-GLK/AhR cKO mice compared to those in
+Lck-GLK Tg mice (fig. S5A). Histology staining showed that AhR
+KO abolished induction of nephritis and spleen abnormality in LckGLK Tg mice (fig. S5B). AhR KO also suppressed infiltration of inflammatory immune cells in the liver of Lck-GLK Tg mice (fig. S5B).
+The data indicate that AhR plays a critical role in the IL-17A overproduction and autoimmune responses in Lck-GLK Tg mice.
+PKC phosphorylates AhR at Ser36 and induces
+AhR nuclear translocation
+Next, we studied the mechanism of GLK-induced AhR binding
+to the IL-17A promoter. The confocal images (using two different
+anti-AhR antibodies; Fig. 3B and fig. S5C) and subcellular fractionation experiments (Fig. 3C) showed that AhR nuclear translocation
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+3 of 15
+Fig. 1. Lck-GLK Tg mice display autoimmune phenotypes and selectively increased serum IL-17A levels. (A) Hematoxylin and eosin (H&E)–stained sections of the
+indicated organs from 16-week-old mice. Scale bars, 100 m. (B) Levels of serum autoantibodies from 20-week-old mice were determined by ELISAs. The levels are presented relative to the value from one of the wild-type (WT) mice. WT, n = 7; Lck-GLK, n = 8. (C) The serum levels of cytokines in 4-week-old mice were determined by ELISAs.
+WT, n = 20; Lck-GLK, n = 16. (D) The serum levels of autoantibodies in 20-week-old Lck-GLK and Lck-GLK/IL-17A KO mice were determined by ELISAs. The levels are presented relative to the value from one of the Lck-GLK mice. n = 6 per group. (E) IL-17A expression was attenuated by GLK shRNA. Murine primary splenic T cells were
+transfected with green fluorescent protein (GFP)–human GLK shRNA and a control GFP vector. The transfected T cells were stimulated with anti-mouse CD3 antibodies
+for 3 hours and then determined by flow cytometry at day 3 after transfection. Data show the events of IL-17A–producing T cells (GFP-gated). WT, wild-type littermate controls; Lck-GLK, T cell–specific GLK Tg mice; Lck-GLK/IL-17A KO, Lck-GLK;IL-17A–deficient mice; ANA, antinuclear antibody; –double-stranded DNA (dsDNA),
+anti-dsDNA antibody; RF, rheumatoid factor; APC, allophycocyanin. Data shown are representative of three independent experiments. *P < 0.05, **P < 0.01 (two-tailed
+Student’s t test).
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+4 of 15
+Fig. 2. GLK enhances IL-17A expression by inducing AhR and ROR t. (A) Murine IL-17A mRNA levels in peripheral blood T cells from mice were analyzed by real-time
+polymerase chain reaction (PCR). The expression levels of IL-17A were normalized to Mrpl32 levels. The fold changes are presented relative to the value of WT mice. Means ±
+SEM are shown. n = 4 per group. (B) Luciferase reporter activity of the IL-17A promoter. Jurkat T cells were cotransfected with the plasmid encoding GLK or GLK
+kinase-dead (GLK-K45E) mutant plus the IL-17A promoter (2 kb) construct. Means ± SEM are shown. (C) Schematic diagram of transcription factors on the IL-17A
+promoter. bp, base pair. (D) The binding of AhR, ROR t, STAT3, IRF4, KLF4, or BATF to the IL-17A promoter in T cells from mice was analyzed by chromatin immunoprecipitation (IP) (ChIP)–PCR using immunocomplexes from individual IP experiments. (E) Luciferase reporter activity of the IL-17A mutant promoters. Jurkat T cells were
+cotransfected with empty vector or GLK plasmid plus the IL-17A promoter construct containing a mutated binding element for AhR, ROR t (−877), or STAT3. (F) Luciferase
+reporter activity of AhR, ROR t (−877), and STAT3 response element (XRE-Luc, ROR t-Luc, and SIE-Luc) in Jurkat T cells cotransfected with empty vector or plasmid encoding GLK. XRE, xenobiotic response element; SIE, sis-inducible element. WT, wild-type littermate controls; Lck-GLK, T cell–specific GLK Tg mice. Data shown are representative
+of three independent experiments. Means ± SEM of three independent experiments are shown (B, E, and F). *P < 0.05, **P < 0.01 (two-tailed Student’s t test).
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+5 of 15
+Fig. 3. PKC phosphorylates AhR and induces its nuclear translocation. (A) The serum levels of cytokines from 4-week-old WT, Lck-GLK Tg, and Lck-GLK Tg/AhR cKO
+mice were determined by ELISAs. n = 8 per group. Means ± SEM are shown. WT, wild-type littermate controls; Lck-GLK, T cell–specific GLK Tg mice; Lck-GLK;AhRf/f;CD4-Cre,
+T cell–specific GLK Tg mice bred with AhR cKO mice. ***P < 0.001 (two-tailed Student’s t test). (B) Confocal microscopy analysis of subcellular localization of AhR in murine
+splenic T cells without stimulation. An anti-AhR antibody (clone RPT9, Abcam) was used. Original magnification, ×630; scale bars, 10 m. (C) Immunoblotting analyses of
+AhR, glyceraldehyde-3-phosphate dehydrogenase (GAPDH), and histone 3 in cytoplasmic and nuclear fractions of primary splenic T cells from WT and Lck-GLK Tg mice.
+(D) Immunoblotting analysis of p-AhR (Ser36), AhR, and GLK in primary splenic T cells of WT and Lck-GLK Tg mice. (E) Immunoblotting analysis of AhR phosphorylation
+and indicated kinases in in vitro kinase assays using Flag-GLK, Flag-PKC, Flag-IKK  , Flag-IKK, and hemagglutinin (HA)–AhR (as the substrate) isolated from individually
+transfected HEK293T cells. (F) Coimmunoprecipitation of endogenous AhR with PKC from lysates of primary splenic T cells from WT and Lck-GLK mice without
+stimulation. N.S., normal serum. (G) Proximity ligation assays (PLAs) of interaction between endogenous PKC and AhR in peripheral blood T cells from WT or Lck-GLK
+Tg mice. Each red dot represents a direct interaction. T cell nucleus was stained with 4′,6-diamidino-2-phenylindole (DAPI) (blue). Images were captured with ×400 original
+magnification by a Leica DM2500 fluorescence microscope. (H) In vitro kinase assays of purified HA-tagged AhR plus either Myc-tagged PKC WT or PKC kinase-dead
+(K409W) mutant proteins. (I) Immunoblotting analysis of phosphorylated AhR (Ser36), AhR, GLK, and PKC in primary splenic T cells of WT, Lck-GLK Tg, and Lck-GLK
+Tg mice bred with PKC KO mice. (J) Confocal microscopy analysis of subcellular localization of AhR and PKC in primary splenic T cells of indicated mice. Original magnification, ×630; scale bars, 10 m. WT, wild-type littermate controls; Lck-GLK, T cell–specific GLK Tg mice; Lck-GLK;PKC−/−, Lck-GLK Tg mice bred with PKC KO mice. Data
+shown are representative of three independent experiments.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+6 of 15
+was enhanced in T cells of Lck-GLK Tg mice. In addition, we examined whether GLK signaling induces AhR nuclear translocation by
+enhancing phosphorylation of AhR. There is only one commercial anti–phospho-AhR antibody that detects phospho-Ser36 AhR;
+however, the role of Ser36 phosphorylation in AhR nuclear translocation has not been demonstrated (29). Immunoblotting analyses
+using the anti–phospho-AhR antibody for AhR phosphorylation
+showed that AhR Ser36 phosphorylation was enhanced in T cells
+of Lck-GLK Tg mice, as well as in anti-CD3–stimulated T cells
+(Fig. 3D and fig. S5D). These data suggest that GLK overexpression
+(and TCR signaling) may induce AhR activity by enhancing AhR
+Ser36 phosphorylation and nuclear translocation in T cells.
+Next, we investigated which kinase is responsible for phosphorylation
+and nuclear translocation of AhR in T cells of GLK Tg mice. SGK1
+(serum/glucocorticoid-regulated kinase 1) can stabilize TH17 population (30). The basal or TCR-induced SGK1 activation was unchanged in Lck-GLK T cells (fig. S5D), suggesting that SGK1 is not
+involved in GLK-induced AhR phosphorylation. GLK signaling
+in T cells induces kinase activities of PKC, IKK, and IKK   (24).
+To determine which kinase phosphorylates AhR, we immunoprecipitated GLK, PKC, IKK, IKK  , and AhR each from individually transfected human embryonic kidney (HEK) 293T cells
+and subjected them to in vitro kinase assays. The data showed
+that AhR Ser36 phosphorylation was drastically induced by PKC
+in vitro (Fig. 3E). We confirmed the specificity of the antibody for
+AhR Ser36 phosphorylation using a wild-type AhR or an S36A
+mutant transfectant by immunoblotting (fig. S5E). Immunofluorescence and confocal imaging analyses showed that PKC overexpression enhanced AhR nuclear translocation in Jurkat T cells
+(fig. S5F) and HEK293T cells (fig. S5G), whereas AhR-S36A
+mutation stayed in the cytoplasm even in PKC-overexpressing
+cells (fig. S5, F and G). The data indicate that PKC-mediated Ser36
+phosphorylation of AhR stimulates AhR nuclear translocation.
+The interaction between PKC and AhR was induced in purified
+T cells of Lck-GLK Tg mice (Fig. 3F). Moreover, the proteinprotein interaction/ALPHA (amplified luminescent proximity
+homogeneous assay) technology assays showed an interaction
+(<200 nm) between PKC and AhR, but not between GLK and AhR
+(fig. S6A). Furthermore, the fluorescence resonance energy transfer
+(FRET) analysis showed a direct interaction (1 to 10 nm) between
+PKC and AhR in PKC/AhR-cotransfected Jurkat T cells (fig. S6B).
+To study the subcellular localization and protein interaction
+(<40 nm) in vivo, we performed in situ PLA using probes corresponding to PKC and AhR. The PLA data showed strong signals
+in the cytoplasm of T cells from Lck-GLK Tg mice (Fig. 3G and
+fig. S6C). In situ PLA using probes corresponding to Myc and
+Flag tags showed similar results in Myc-PKC– and Flag-AhR–
+overexpressing HEK293T cells (fig. S6D). In vitro binding assays
+with purified PKC and AhR proteins further confirmed this direct
+interaction (fig. S6E). Furthermore, purified PKC phosphorylated
+AhR at Ser36, whereas purified kinase-dead (K409W) mutant of
+PKC did not (Fig. 3H). These data demonstrate that PKC directly
+interacts with and phosphorylates AhR at Ser36, leading to AhR
+nuclear translocation.
+To verify the role of PKC in AhR nuclear translocation and its
+in vivo function, we generated PKC KO mice using transcription
+activator-like effector nuclease (TALEN) technology (fig. S7, A to C).
+We then bred Lck-GLK Tg mice with PKC KO mice to generate
+Lck-GLK;PKC−/− mice. As expected, PKC KO abolished GLKinduced AhR Ser36 phosphorylation in T cells (Fig. 3I). Immunofluorescence and confocal imaging analyses showed that AhR was
+detected abundantly in the nucleus of T cells from Lck-GLK Tg mice
+(Fig. 3J). In contrast, AhR expression was detected in the cytoplasm, but
+not in the nucleus, of T cells from wild-type and Lck-GLK Tg/PKC
+KO (Lck-GLK;PKC−/−) mice (Fig. 3J). The serum levels of IL-17A
+and autoantibodies were significantly decreased in Lck-GLK;PKC−/−
+mice compared to those in Lck-GLK Tg mice (fig. S7, D and E).
+Moreover, the inflammatory phenotypes were abolished in Lck-GLK
+Tg/PKC KO mice (fig. S7F). Together, these results indicate that
+GLK induces IL-17A production by activating PKC-AhR signaling
+in T cells.
+AhR interacts with ROR t and transports
+ROR t into the nucleus
+Paradoxically, both AhR- and ROR t-binding elements are required
+for the GLK-induced IL-17A reporter activity (Fig. 2E); however,
+GLK induced the activity of AhR, but not ROR t, response element
+(Fig. 2F). We suspected that AhR may facilitate induction of ROR t
+activity. We first studied whether GLK induces ROR t binding
+to the IL-17A promoter through AhR. ChIP data showed that
+the GLK-induced ROR t binding to the IL-17A promoter was
+abolished in AhR KO T cells (Fig. 4A). The data suggest that AhR
+facilitates the binding of ROR t to the IL-17A promoter. Next,
+we studied whether AhR interacts with ROR t. The interaction
+between endogenous AhR and ROR t was drastically enhanced in
+T cells of Lck-GLK Tg mice (Fig. 4B). Confocal imaging analysis
+showed colocalization of AhR and ROR t in the nucleus of T cells
+from Lck-GLK Tg mice (Fig. 4C). ChIP analysis using an antiROR t antibody also showed the binding of ROR t to the AhRbinding element of the IL-17A promoter in T cells of Lck-GLK mice
+(Fig. 4D), suggesting that ROR t binds to the AhR-binding element
+through the AhR-ROR t complex formation. Moreover, in situ
+PLA with probes corresponding to AhR and ROR t showed strong
+interaction signals in the nucleus of T cells from Lck-GLK Tg mice
+compared to those from wild-type mice (Fig. 4E). These data
+indicate direct interaction between AhR and ROR t in the nucleus
+of T cells from Lck-GLK Tg mice. In addition, similar to AhR nuclear translocation, GLK-induced ROR t nuclear translocation
+was abolished by PKC KO (Fig. 4C). The data support the idea
+that PKC-phosphorylated AhR recruits ROR t into the nucleus.
+AhR-mediated ROR t nuclear translocation is further confirmed
+by AhR KO; ROR t localized exclusively in the cytoplasm in T cells
+of Lck-GLK;AhRf/f;CD4-Cre mice even in the presence of functional
+PKC (Fig. 4C, bottom). Thus, this result rules out the possibility
+that PKC directly regulates ROR t nuclear translocation. Collectively, these results indicate that AhR directly interacts with and
+transports ROR t into the nucleus in GLK-overexpressing T cells.
+IKK  -mediated ROR t Ser489 phosphorylation induces
+AhR-ROR t interaction
+Surprisingly, in situ PLA showed an interaction between AhR and
+ROR t even in the cytoplasm of Lck-GLK;PKC−/− T cells (Fig. 4E).
+This result suggests that the interaction between AhR and ROR t
+is not regulated by AhR phosphorylation. Interaction between AhR
+and ROR t is still detectable in Lck-GLK;PKC−/− T cells (Fig. 4E);
+this result may be due to a compensatory signaling event in PKC
+KO mice. To identify the kinase that stimulates the interaction between AhR and ROR t, we initially tested the potential role of GLK,
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+7 of 15
+Fig. 4. GLK induces ROR t binding to the IL-17A promoter through AhR and ROR t interaction. (A) Binding of ROR t to the IL-17A promoter in T cells from indicated
+mice was analyzed by ChIP-PCR. (B) Coimmunoprecipitation of endogenous AhR with ROR t using lysates of primary splenic T cells from WT and Lck-GLK mice without
+any stimulation. IB, immunoblotting. (C) Confocal microscopy analysis of subcellular localization of AhR and ROR t in primary T cells of WT, Lck-GLK Tg, Lck-GLK;PKC−/−,
+and Lck-GLK;AhRf/f;CD4-Cre mice. Original magnification, ×630; scale bars, 10 m. (D) Binding of AhR and ROR t to the IL-17A promoter in T cells from mice was analyzed
+by ChIP-PCR using anti-ROR t immunocomplexes. (E) Confocal microscopy analysis of PLAs for the interaction between endogenous AhR and ROR t in peripheral
+blood T cells from WT, Lck-GLK Tg, and Lck-GLK;PKC−/− mice. Original magnification, ×630; scale bars, 10 m. (F) Coimmunoprecipitation experiments of HA-tagged
+AhR and Flag-tagged ROR t using lysates of HEK293T cells cotransfected with GLK–cyan fluorescent protein (CFP), PKC-Myc, IKK  -CFP, or IKK-Myc plasmid. (G) GST
+pulldown assays of purified Flag-tagged ROR t and GST-tagged AhR proteins. Flag-tagged ROR t proteins were eluted with Flag peptides using lysates of HEK293T cells
+cotransfected with Flag-ROR t plus either CFP-IKK   or vector. For PLA, each red dot represents a direct interaction. T cell nucleus was stained with DAPI (blue). Data
+shown are representative of three independent experiments.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+8 of 15
+IKK, or IKK   in the induction of AhR-ROR t interaction. We
+cotransfected the kinase GLK, PKC, IKK, or IKK   with AhR plus
+ROR t into HEK293T cells, followed by coimmunoprecipitation
+assays. The data showed that IKK   overexpression enhanced the
+interaction between AhR and ROR t, whereas overexpression of
+GLK, PKC, and IKK did not (Fig. 4F). Next, we tested whether IKK   stimulates ROR t phosphorylation, which then induces
+the interaction of ROR t with AhR. Flag-tagged ROR t was purified from HEK293T cells cotransfected with ROR t plus either
+IKK   or vector. Glutathione S-transferase (GST) pulldown assays
+showed that purified GST-tagged AhR recombinant proteins strongly
+interacted with the purified ROR t proteins from ROR t plus
+IKK  -cotransfected cells (Fig.  4G). The data suggest that IKK  
+stimulates a direct interaction between AhR and ROR t by inducing ROR t phosphorylation. Conversely, PLA data showed that
+IKK   KO abolished the GLK-induced interaction between AhR and
+ROR t in T cells of Lck-GLK Tg mice (Fig. 5A). In addition, confocal imaging analysis showed that IKK   KO specifically abolished
+nuclear translocation of ROR t, but not AhR, in GLK Tg T cells
+(Fig. 5B). Consistently, serum IL-17A levels were also decreased in
+Lck-GLK;IKK  f/f;CD4-Cre mice compared to those in Lck-GLK
+Tg mice (Fig. 5C). Next, we studied whether IKK   interacts directly
+with ROR t. GST and His pulldown assays using purified recombinant GST-tagged IKK   and His-tagged ROR t proteins showed
+a direct interaction between IKK   and ROR t (Fig. 5D).
+To probe whether IKK   phosphorylates ROR t, we individually
+immunoprecipitated Flag-tagged ROR t, IKK  , and IKK   kinasedead (K44M) mutant from HEK293T transfectants and then subjected them to in vitro kinase assays. The data showed that IKK  ,
+but not IKK  -K44M mutant, induced ROR t phosphorylation
+in vitro (Fig. 5E). To identify the IKK  -targeted ROR t phosphorylation site, we isolated in vitro phosphorylated Flag-tagged
+ROR t, followed by mass spectrometry (MS) analyses. Ser489 was
+identified as the ROR t phosphorylation site by IKK   (Fig. 5F).
+To demonstrate phosphorylation of the ROR t Ser489 site, we generated an anti–phospho-ROR t (Ser489) antibody, which specifically
+recognized ROR t wild type but not S489A mutant when cotransfected with IKK   (Fig. 5G). Immunoblotting using this phosphoantibody showed that ROR t Ser489 phosphorylation was induced in
+T cells of Lck-GLK Tg mice, and the phosphorylation was abolished
+by IKK   KO (Fig. 5H). Consistently, ROR t-S489A mutant failed to
+interact with AhR under IKK   overexpression (Fig. 5I). Together,
+in GLK-overexpressing T cells, IKK   phosphorylates ROR t at
+Ser489 and induces its interaction with AhR, which then transports
+ROR t into the nucleus and cooperates with ROR t to stimulate
+IL-17A transcription.
+Phosphorylated ROR t interacts with AhR in TCR-induced or
+murine autoimmune T cells
+Because both GLK and IKK   (24) activation and IL-17A production (31, 32) are inducible by TCR signaling, we asked whether
+phosphorylated ROR t-mediated AhR-ROR t interaction is also
+induced by TCR signaling. We found that, following IKK   activation, anti-CD3 stimulation induced ROR t Ser489 phosphorylation
+in murine T cells (Fig. 6A). Moreover, coimmunoprecipitation
+assays and PLA showed that TCR signaling induced the interaction between endogenous ROR t and AhR (Fig. 6B and fig. S8A).
+TCR signaling also stimulated the interaction between AhR and
+Ser489-phosphorylated ROR t (fig. S8B). Conversely, IKK   cKO
+abolished the TCR-induced ROR t Ser489 phosphorylation (Fig. 6C)
+and the AhR-ROR t interaction (Fig. 6D) in T cells. These data
+suggest that IKK  -mediated ROR t phosphorylation and subsequent AhR-ROR t interaction are induced during T cell activation.
+To investigate whether IKK  -mediated ROR t phosphorylation
+regulates IL-17A production after TCR stimulation, we determined secreted cytokines from anti-CD3–stimulated T cells by
+ELISA. Consistent with previous reports (31, 32), TCR signaling
+induced IL-17A production in T cells (Fig. 6, E and F). IKK   cKO
+abolished TCR-induced IL-17A production in T cells (Fig. 6E), supporting the notion that TCR-activated IKK   induces IL-17A production in normal T cells. As expected, TCR-induced levels of
+several IKK  /NF- B–mediated cytokines (IL-2, IFN- , IL-4,
+IL-6, and TNF-) (table S1) were also reduced in T cells of IKK  
+cKO mice (Fig. 6E). To further verify the IKK  –ROR t–IL-17A
+pathway, we used primary splenic T cells from T cell–specific
+ROR t cKO mice. Unlike IKK   cKO, ROR t cKO only abolished IL-17A production upon TCR stimulation (Fig. 6F). We
+verified the abolishment of ROR t expression in T cells of
+ROR t cKO mice by immunoblotting analysis (Fig. 6G). The
+data suggest that IKK  -ROR t activation mainly induces IL-17A
+production during TCR signaling, while IKK  –NF- B activation
+regulates the production of multiple cytokines, including IL-2,
+IFN- , IL-4, IL-6, and TNF- (Fig. 6H and fig. S9).
+DISCUSSION
+IL-17A is a major proinflammatory cytokine enhanced in the sera
+of patients with autoimmune diseases. Identification of upstream
+kinases and transcriptional mechanisms for IL-17A production
+should facilitate development of novel therapeutic approaches for
+IL-17A–mediated diseases. Here, we report that GLK, PKC, and
+IKK   are key kinases controlling IL-17A transcription through a
+bifurcate signaling cascade in pathogenic TH17 cells.
+A key finding of this report indicates that ROR t is a novel target
+of IKK  ; IKK   directly phosphorylates ROR t at Ser489, leading
+to IL-17A induction. To our knowledge, this IKK  -phosphorylated
+Ser489 is the first identified pathogenic phosphorylation site of ROR t.
+IL-17A induction is concomitant with increased ROR t mRNA levels
+under TH17 polarization conditions in vitro (28, 33, 34); however,
+ROR t mRNA levels are unchanged during TCR-induced IL-17A
+induction (32). Because of the strong induction of ROR t expression
+during in vitro TH17 differentiation (28, 33, 34), one might think
+that ROR t proteins are not expressed before TH17 differentiation.
+However, ROR t mRNA levels in murine TH0 cells are detectable,
+although very low (35, 36). Moreover, ROR t proteins in human
+TH0 cells (36) or murine naïve CD4+
+ T cells (37–39) are detectable
+by immunoblotting. The ROR t protein levels in naïve CD4+
+ T cells
+are one-fifth of those in TH17 cells (38). Furthermore, data using
+ROR t-GFP reporter mice and flow cytometry also show that some
+CD3+
+ T cells in the spleen, lymph nodes, bone marrow, lung, and
+skin express ROR t proteins (40), and less than 50% of these infiltrating ROR t
++
+ T cells express IL-17A (40). These data indicate that
+ROR t proteins are expressed in naïve T cells. Collectively, either
+overexpression or Ser489 phosphorylation of ROR t can lead to
+IL-17A transcriptional activation. Ser489-phosphorylated ROR t
+interacts with AhR and is transported into the nucleus by AhR.
+Notably, both TCR-stimulated or autoimmune T cells displayed
+induction of ROR t Ser489 phosphorylation and AhR-ROR t
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+9 of 15
+Fig. 5. IKK   phosphorylates ROR t Ser489, leading to ROR t binding to AhR. (A) Confocal microscopy analysis of PLAs for the interaction between endogenous AhR
+and ROR t in peripheral blood T cells from WT, Lck-GLK Tg, and Lck-GLK;IKK  f/f;CD4-Cre mice. (B) Confocal microscopy analysis of subcellular localization of AhR and
+ROR t in primary splenic T cells of WT, Lck-GLK Tg, and Lck-GLK;IKK  f/f;CD4-Cre mice. Original magnification, ×630; scale bars, 10 m. (C) The serum levels of cytokines in
+8-week-old mice were determined by ELISAs. IKK  f/f, n = 6; Lck-GLK, n = 6; Lck-GLK; IKK  f/f, n = 5. Means ± SEM are shown. *P < 0.05 (two-tailed Student’s t test). (D) Direct
+interaction between recombinant proteins of ROR t and IKK  . GST or His pulldown assays of purified His-tagged ROR t and GST-tagged IKK   proteins. (E) In vitro kinase
+assays of immunoprecipitated Flag-tagged ROR t and either IKK   or IKK   kinase-dead (K44M) mutant proteins from individual HEK293T transfectants. (F) Tandem
+MS (MS/MS) fragmentation spectra of the tryptic peptides of ROR t contain the phosphorylation of Ser489. m/z, mass/charge ratio. (G) Antibody specificity of anti–
+phospho-ROR t (Ser489) was demonstrated by immunoblotting using HEK293T cells cotransfected with CFP-tagged IKK   plus either Flag-tagged ROR t WT or ROR tS489A mutant. (H) Immunoblotting analyses of p-ROR t (Ser489), ROR t, p-IKK   (Ser180/181), and IKK   in primary splenic T cells of WT, Lck-GLK Tg, and Lck-GLK;IKK  f/f;
+CD4-Cre mice. (I) Coimmunoprecipitation experiments of HA-tagged AhR and either Flag-tagged ROR t WT or ROR t-S489A mutant using lysates of HEK293T cells
+cotransfected with vector or IKK  -CFP plasmid. WT, wild-type littermate controls; Lck-GLK, T cell–specific GLK Tg mice; Lck-GLK;IKK  f/f;CD4-Cre, T cell–specific GLK Tg mice
+bred with IKK   cKO mice. For PLA, each red dot represents a direct interaction. T cell nucleus was stained with DAPI (blue). Data shown (A, B, D, E, and G to I) are representative of three independent experiments.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+10 of 15
+Fig. 6. TCR signaling induces ROR t phosphorylation and subsequent AhR-ROR t interaction. (A) Immunoblotting analysis of p-ROR t (Ser489), ROR t, p-IKK  
+(Ser180/181), and IKK   in primary splenic T cells. T cells were stimulated with anti-CD3 antibodies plus streptavidin (3 g each per milliliter). (B) Coimmunoprecipitation of
+endogenous AhR with ROR t from lysates of murine primary splenic T cells stimulated with anti-CD3 antibodies plus streptavidin (3 g each per milliliter). (C) Immunoblotting analysis of p-ROR t (Ser489), ROR t, and IKK   in primary splenic T cells of IKK  f/f or CD4-Cre;IKK  f/f mice. T cells were stimulated with anti-CD3 antibodies plus
+streptavidin (3 g each per milliliter). (D) Confocal microscopy analysis of PLAs for the interaction between endogenous AhR and ROR t (left) or between AhR and
+Ser489-phosphorylated ROR t (right) in primary T cells of IKK  f/f or IKK  f/f;CD4-Cre mice. T cells were stimulated as in (C). Each red dot represents a direct interaction. T cell
+nucleus was stained with DAPI (blue). Original magnification, ×630; scale bars, 10 m. (E and F) ELISA of various cytokines in supernatants of primary splenic T cells from
+IKK  f/f or IKK  f/f;CD4-Cre mice (E), as well as ROR t
+f/f or ROR t
+f/f;CD4-Cre mice (F). T cells were stimulated with plate-bound anti-CD3 antibodies (2 g each per milliliter) for
+3 days. Means ± SD are shown. n = 3 per group. (G) Immunoblotting of ROR t and GAPDH proteins from primary splenic T cells of ROR t
+f/f or ROR t
+f/f;CD4-Cre mice. Data shown
+(A to G) are representative of three independent experiments. (H) Schematic model of IL-17A transcription induced by the AhR-ROR t complex in GLK-overexpressing or
+TCR-stimulated T cells. GLK overexpression in T cells of T cell–specific GLK Tg (Lck-GLK Tg) mice induces AhR Ser36 phosphorylation through PKC and also induces ROR t Ser489
+phosphorylation through IKK  . Once ROR t is phosphorylated, ROR t interacts directly with AhR. Phosphorylated AhR is responsible for transporting ROR t into cell nucleus.
+The AhR-ROR t complex binds to both the ROR t-binding element (−877 to −872) and the AhR-binding element (−254 to −249) of the IL-17A promoter, leading to induction of IL-17A transcription. In normal T cells, TCR stimulation also induces GLK kinase activity and downstream signaling, including IKK   activation, ROR t Ser489 phosphorylation, and the AhR-ROR t interaction. Besides NF- B, other critical transcription factors [such as nuclear factor of activated T cell 1 (NFAT1) or activator protein 1
+(AP-1)] are also required for the transcriptional activation of IL-2, IFN- , IL-4, IL-6, and TNF- in T cells. “Others” denotes other critical transcription factors (table S1). NF- B
+is required for TCR-induced production of multiple cytokines; however, the GLK–IKK  –NF- B cascade alone is not sufficient for the induction of multiple cytokines.
+Collectively, GLK overexpression or TCR signaling induces IL-17A transcription through AhR and ROR t in T cells.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+11 of 15
+interaction. These findings suggest that IKK  -mediated ROR t
+Ser489 phosphorylation is a common transcriptional activation
+mechanism of IL-17A induction in T cell activation or autoimmune
+diseases. Ubiquitination of ROR t at Lys446 negatively regulates
+IL-17A, but not IL-17F, production by blocking its interaction
+with the coactivator SRC1 (41). In contrast, ROR t K63-linked
+ubiquitination at Lys69 is required for IL-17A transcription (42).
+In addition, CD5 signaling may contribute to ROR t nuclear translocation in TH17 differentiation in vitro (43). IL-6 plus IL-23 stimulation also induces ROR t nuclear translocation in murine neutrophils
+in vitro (44). Thus, it is likely that ROR t Ser489 phosphorylation
+also cross-talks with or is involved in other signaling events.
+One of the exciting findings in this report is that AhR is responsible
+for nuclear translocation of ROR t. PKC directly activates AhR by
+phosphorylating AhR at Ser36 during TCR signaling and GLK signaling. Ser36 phosphorylation of AhR mediates the nuclear translocation of the AhR-ROR t complex, and both transcription factors then
+induce IL-17A transcription. Paradoxically, GLK overexpression
+only enhanced AhR (but not ROR t) response element–driven reporter activity. Nevertheless, the mutation of either AhR-binding
+site or ROR t-binding site within the IL-17A promoter blocked GLK
+signaling–induced IL-17A transcription. It is likely that, besides nuclear translocation of ROR t by AhR, the binding of AhR to the AhR
+response element or indirectly binding to other regions within the
+IL-17A promoter may also facilitate the binding of ROR t to the
+IL-17A promoter. The binding of AhR with its ligand triggers the nuclear translocation and DNA binding activity of AhR; distinct ligands stimulate different physiological functions of AhR in T cells
+(45, 46). AhR activation by a natural ligand results in enhanced TH17
+population and severe EAE symptoms in mice (45, 47). Besides TCR
+signaling, it is possible that AhR Ser36 phosphorylation may also
+regulate IL-17A production in ligand-induced or other unliganded
+signaling pathways.
+GLK is required for TCR signaling and production of several
+cytokines such as IFN- , IL-4, and IL-2 (24); however, Lck-GLK
+Tg mice showed selective overproduction of IL-17A, but not other
+NF- B–mediated cytokines. This dichotomy may be attributed to
+the fact that, besides NF- B, other transcription factors (such as
+NFAT1 or AP-1) are also required for the transcriptional activation
+of IL-2, IL-4, IFN- , IL-6, or TNF- during TCR signaling (table S1)
+(48, 49). Thus, activation of NF- B alone without activation of
+other critical transcription factors in T cell is not sufficient to
+induce the production of IL-2, IL-4, IFN- , IL-6, or TNF- (Fig. 6H).
+T cell–specific IKK   Tg mice do not display any significant induction of IL-2 or IFN-  in resting T cells, while basal levels of the T cell
+activation markers CD25 and CD69 are enhanced (50). Consistently, activated IKK   in GLK Tg T cells is not sufficient to induce
+NF- B–mediated cytokines. In addition, STAT3 activation is required for the transcription of IL-17F, IL-21, IL-22, and IL-23R
+in TH17 cells (39, 51–53); conversely, IL-6 or IL-21 induces STAT3
+activation in TH17 cells (39, 51, 53). It is likely that the reason for the
+lack of IL-17F/IL-21/IL-22 induction and IL-23R overexpression
+in GLK Tg T cells may be the lack of STAT3 activation. Besides
+IL-17A, IL-17F and IL-22 are also regulated by ROR t (53). However, the Lys466-ubiquitinated ROR t regulates the production of
+IL-17A, but not IL-17F (41). Our results in this study showed the
+binding of the AhR-ROR t complex to the −877, but not the −120,
+region of the IL-17A promoter. These findings suggest that the
+AhR-ROR t complex does not bind to the ROR t-binding elements
+that regulate the transcription of IL-17F and IL-22. Collectively,
+the GLK-IKK  -ROR t axis is not sufficient to induce multiple cytokines because of the lack of activation of other critical transcription
+factors or the lack of AhR-ROR t complex–binding elements.
+Last, it is also plausible that GLK overexpression may suppress
+the production of multiple cytokines through an unknown inhibitory mechanism.
+Our study reveals a critical pathogenic mechanism of GLKinduced IL-17A transcription in autoimmune diseases. In summary,
+GLK signaling induces Ser36 phosphorylation and nuclear translocation of AhR through PKC. AhR interacts with ROR t and transports ROR t into the nucleus of T cells. The GLK-PKC-AhR
+axis is responsible for the nuclear translocation of ROR t, but not
+for the interaction of ROR t with AhR. On the other hand, the
+interaction between ROR t and AhR is controlled by IKK  , which
+phosphorylates ROR t at Ser489. Similarly, TCR signaling also induces phosphorylation of AhR and ROR t, as well as the interaction
+and nuclear translocation of the AhR-ROR t complex. Thus, TCR or
+GLK signaling induces IL-17A transcription through the novel ROR t
+Ser489 phosphorylation and subsequent AhR-ROR t interaction/
+nuclear translocation. Collectively, the GLK-PKC/IKK  -AhR/ROR t
+pathway plays a critical role in the pathogenesis of IL-17A–mediated
+autoimmune diseases (Fig. 6H and fig. S9). This pathway may also
+be involved in other IL-17A–mediated inflammatory diseases that
+are induced by other IL-17A+
+ cell types (for example, group 3 innate lymphoid cells). Thus, inhibitors of GLK or the AhR-ROR t
+complex could be used as IL-17A–blocking agents for the treatment
+of IL-17A–mediated diseases. Furthermore, since GLK overexpression is also correlated with cancer recurrence (54, 55), studying the
+potential involvement of GLK-IL-17A signaling in cancer recurrence/
+metastasis may help future development of cancer therapy.
+METHODS
+Mice
+All animal experiments were performed in the Association for Assessment and Accreditation of Laboratory Animal Care International
+(AAALAC)–accredited animal housing facilities at the National Health
+Research Institutes (NHRI). All mice were used according to the protocols and guidelines approved by the Institutional Animal Care and
+Use Committee of NHRI. Floxed AhR mice (JAX 006203), IL-17A–
+deficient mice (JAX 016879), floxed ROR t mice (JAX 008771), and
+floxed IKK   mice (EMMA 001921) were purchased from the Jackson
+Laboratory (JAX) or the European Mouse Mutant Archive (EMMA).
+The three aforementioned mouse lines were backcrossed for 10 generations onto the C57BL/6 background. The data presented in this
+study were performed on sex-matched, 4- to 26-week-old littermates.
+For T cell development analyses, 5-week-old, sex-matched mice were
+used. All mice used in this study were maintained in temperaturecontrolled and pathogen-free cages.
+Generation of Lck-GLK Tg mice and PKC KO mice
+A full-length human GLK coding sequence was placed downstream
+of the proximal Lck promoter (fig. S1A). Lck-GLK Tg mice in C57BL/6
+background were generated using pronuclear microinjection by
+NHRI Transgenic Mouse Core. Two independent Lck-GLK Tg mouse
+lines were used. Lck-GLK Tg mouse line #1 was used in all the Lck-GLK
+Tg experiments, except for the studies in figs. S1B and S2E, in which
+Lck-GLK Tg mouse line #2 was used. PKC KO mice were generated
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+12 of 15
+by TALEN-mediated gene targeting (fig. S7, A to C); the nucleotides
+5′-GGTGGAACACTAAAAATAATATGTCTTAGAGCCCCATACATACAGTGTTTGTCTTTTGTCATTTTTCTAGGGAACAACCATGTCACCGTTTC-3′ of the PKC intron 1 and exon 2
+were deleted in the mutated allele. For TALEN-mediated gene targeting in mice, embryo microinjection of TALEN mRNA was performed by NHRI Transgenic Mouse Core.
+Cells
+Human Jurkat T leukemia cells [American Type Culture Collection
+(ATCC), TIB-152] were cultured in RPMI 1640 (Invitrogen) containing 10% fetal calf serum (FCS; Invitrogen) plus penicillin (10 U/ml)
+and streptomycin (10 mg/ml) (Invitrogen). HEK293T cells (ATCC,
+CRL-11268) were cultured in Dulbecco’s modified Eagle’s medium
+(Invitrogen) containing 10% FCS plus penicillin (10 U/ml) and streptomycin (10 mg/ml). All cell lines used were tested and confirmed to
+be negative for mycoplasma. Primary murine T cells were negatively
+selected from the spleen, lymph nodes, or peripheral bloods of mice
+using magnetically coupled antibodies against CD11b, B220, CD49b,
+CD235, and TER-119 [magnetic cell separation kit (Miltenyi Biotec)].
+To induce IL-17A production of 3-day–cultured T cells (Fig. 1E), the
+primary T cells were stimulated with biotin-conjugated anti-CD3
+antibodies (3 g/ml) plus streptavidin (3 g/ml) for 3 hours at 37°C.
+Reagents and antibodies
+GLK antibody (–GLK-N) was generated by immunization of rabbits
+with peptides (murine GLK epitope: 4
+GFDLSRRNPQEDFELI19; identical to human GLK protein sequences 4 to 19) and was used for Figs. 2E,
+3 (D and E), and 4F. Anti-GLK monoclonal antibody (clone C3) was
+generated by immunization of mice with peptides (murine GLK epitope: 514EQRGTNLSRKEKKDVPKPI533) and was used for Fig. 3 (F and I)
+and fig. S5D. The antibody for phosphorylated ROR t Ser489 was generated by immunization of a rabbit with phosphopeptides (murine
+ROR t epitope: 483FSTDVE[pS]PEGLSK495). Anti-Myc (clone 9E10),
+anti-Flag (clone M2), and anti-HA (clone 12CA5) antibodies were purchased from Sigma-Aldrich. Anti–p-AhR (Ser36; #A0765) antibody was
+purchased from Assay Biotechnology. Anti-AhR (clone RPT9), anti–
+p-IKK   (Ser180/181; #ab55341), and anti-GAPDH (clone mAbcam 9484,
+catalog #ab9482) antibodies were purchased from Abcam. Anti-PKC
+(#3551-1) and anti-actin (clone E184) antibodies were purchased from
+Epitomics. Anti–p-PKC (Thr538; #ab63365), anti–p-STAT3 (Tyr705;
+clone D3A7), anti-IKK (#2682), anti-IKK   (#2678), anti–p-SGK1
+(Thr256; #2939), anti-SGK1 (clone D27C11), anti-histone 3 (#9715S),
+anti-IRF4 (#4964S), and anti-BATF (#8638S) antibodies were purchased
+from Cell Signaling Technology. Anti-STAT3 (#06-596) and antiROR t (clone 6F3.1) antibodies were purchased from Millipore. AntiKLF4 (#AF3158) and anti–IL-23 receptor (#bs-1460) antibodies were
+purchased from R&D Systems and Bioss Antibodies, respectively.
+Plasmids and recombinant proteins
+The expression plasmids for GLK and GLK kinase-dead mutant
+(GLK-K45E) were reported previously (22). CFP-tagged PKC,
+yellow fluorescent protein (YFP)–tagged AhR, Myc-tagged PKC,
+HA-tagged AhR, and Flag-tagged PKC plasmids were constructed
+by subcloning individual complementary DNAs into pCMV6-
+AC-CFP, pCMV6-AC-YFP, pCMV6-AC-Myc, pCMV6-AC-HA,
+or pCMV6-AC-Flag vector (OriGene Technologies). HA-tagged
+AhR-S36A mutant and Myc-tagged PKC-K409W (kinase-dead)
+mutant plasmids were generated by site-directed mutagenesis. GSTtagged PKC and GST-tagged PKC-K409W plasmids were also
+individually constructed by subcloning into pGEX-4T vector. The
+human GLK shRNA (5′-GTGCCACTTAGAATGTTTGAAA-3′)
+was obtained from the National RNAi Core Facility (Taiwan) and
+subcloned into pSUPER-GFP vector (Oligoengine). The IL-17A
+reporter plasmid was a gift from W. Strober (Addgene plasmid
+#20124) (28). The IL-17A promoter constructs containing a mutated
+binding element for AhR, ROR t (−877), ROR t (−120), or STAT3
+were generated by site-directed mutagenesis using Fusion DNA
+polymerase (Thermo Fisher Scientific) according to the manufacturer’s protocol. The following primers were used for mutagenesis
+(mutated binding elements are underlined and italicized; mutated
+nucleotides are shown in bold font): AhR-binding site (18), 5′-ATGTCCATACATACATGATACTGAATCACAGC-3′; ROR t-binding
+site (−887) (28), 5′-CTCAAAGACATAAAGGCAACCGTGATCTCATGGAGAGGAGAG-3′; ROR t-binding site (−120), 5′-GGTTCTGTGCTGCAATCATTTGAGG-3′ (11); and STAT3-binding site
+(56), 5′-AGACAGATGTTGCCTGTCATAAAGGGGTGGTT-3′.
+The mutant constructs were verified by DNA sequencing. The
+plasmids pGL4.43-Luc2P-XRE (AhR-response XRE-Luc), pGL4.47-
+Luc2P-SIE (STAT3-responsive SIE-Luc), pGL4.32–Luc2P–NF- B–
+RE–Hygro, and pGL4 luciferase reporter vector were purchased from
+Promega. The plasmid for the ROR t (−877) response element–driven
+reporter was constructed by cloning four copies of the ROR t (−877)
+response element into the pGL4.43 luciferase reporter vector. For in vitro
+binding assays, purified AhR proteins were isolated from HA-AhR–
+transfected HEK293T cells, followed by HA-peptide elution. Purified
+recombinant GST-PKC and GST-IKK   proteins were purchased from
+SignalChem. Purified recombinant 6×His-ROR  proteins were purchased from MyBioSource. Recombinant proteins of GST-tagged PKC
+K409W proteins were isolated from Escherichia coli (BL21) and then
+purified by GST pulldown assays. Purified Flag-tagged ROR t protein was immunoprecipitated and then eluted with Flag peptides
+from lysates of HEK293T cells that were cotransfected with FlagROR t plus either CFP-IKK   or vector. Purified recombinant protein of GST-tagged AhR was purchased from Abnova.
+Luciferase reporter assays
+The 2-kb IL-17A promoter–driven firefly luciferase reporter plasmid
+and a Renilla luciferase control plasmid (pRL-TK) were cotransfected
+into Jurkat T cells. After 24 hours, 1 × 106
+ cells were harvested,
+washed with phosphate-buffered saline, and resuspended in 60 l of
+RPMI 1640 plus 60 l of lysis buffer. Data represent the mean of the
+ratios of the firefly luciferase activity to the Renilla luciferase activity.
+Enzyme-linked immunosorbent assays
+Serum levels of IL-1  , IL-4, IL-6, IL-12, IL-17F, IL-21, IL-22, IL-23,
+IFN- , TNF-, and TGF-   were analyzed by individual ELISA kits
+purchased from eBioscience. The IL-17A levels were determined
+using an ELISA kit from BioLegend. The serum levels of ANAs,
+anti-dsDNA antibody, and RF were analyzed by ELISA kits purchased from Alpha Diagnostic International.
+ALPHA technology
+ALPHA technology/protein-protein interaction assays were performed
+according to the manufacturer’s protocol from PerkinElmer Life Sciences, as described in a previous publication (57). When the proteindonor pair was within 200 nm, a luminescent signal was detected by an
+EnVision 2104 Multilabel Plate Reader (PerkinElmer Life Sciences).
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+13 of 15
+FRET assays
+FRET signal in live cells was detected by an EnVision 2104 Multilabel
+Plate Reader (PerkinElmer Life Sciences). The reaction was excited by
+light passing through a 430-nm filter (with 8 nm bandwidth), and the
+intensity of emitted fluorescence passing through a 530-nm filter (with
+8 nm bandwidth) was recorded. If the protein-protein pair was in close
+proximity (1 to 10 nm), a 530-nm signal would be detected. The FRET
+efficiency was calculated by a formula, efficiency = (1 − FDA/FD) ×
+100% (where FDA is the relative fluorescence intensities of the donor
+in the presence of the acceptor and FD is the relative fluorescence
+intensities of the donor in the absence of the acceptor).
+In situ PLA
+PLAs were performed using the Duolink In Situ Red Starter kit
+(Sigma-Aldrich) according to the manufacturer’s instructions.
+Briefly, cells were incubated with rabbit or mouse primary antibodies for each molecule pair (AhR plus PKC, AhR plus ROR t,
+or Flag plus Myc), followed by species-specific secondary antibodies conjugated with oligonucleotides (PLA probes). After
+ligation and amplification reactions, the PLA signals from each
+pair of PLA probes in close proximity (<40 nm) were visualized as
+individual red dots by a fluorescence microscope (Leica DM2500)
+or a confocal microscope (Leica TCS SP5 II). Each red dot represents
+a direct interaction.
+ChIP assays
+Peripheral blood T cells of mice were cross-linked with 1% formaldehyde for 10 min at room temperature. The lysates were sonicated
+(3 × 9 s) on ice to generate 200– to 1000–base pair DNA fragments.
+The cell extracts were immunoprecipitated with 5 g of anti-ROR t,
+anti-AhR, or anti-STAT3 antibodies plus protein G Dynabeads
+(Invitrogen) for 4 hours at 4°C on a rotating wheel. After washing
+three times, immunocomplexes were incubated at 94°C for 15 min
+for reverse cross-linking and then treated with protease K. The
+DNA fragments were purified using a PCR purification kit (GE
+Healthcare) and subjected to PCR for 35 cycles. The primers for the
+IL-17A promoter containing the ROR t-binding sites (−877 to
+−872) (28) and (−120 to −115) (11), AhR-binding site (−254 to
+−249) (18), STAT3-binding site (−150 to −145) (56), IRF4-binding
+site (−429 to −421) (14), KLF4-binding site (−1097 to −1083)
+(16), or BATF (−243 to −176) (15) were as follows: ROR t (−877
+to −872), 5′-CTGAAGAGCTGGGACCTAATG-3′ (forward)
+and 5′-GACTACTAACAGGAGGAGATG-3′ (reverse); ROR t
+(−120 to −115), 5′-GGTTCTGTGCTGACCTCATTTGAG-3′
+(forward) and 5′-CACAGATGAAGCTCTCCCTGG-3′ (reverse);
+AhR, 5′-GAGACTCACAAACCATTACTATG-3′ (forward)
+and 5′-CACAGATGAAGCTCTCCCTGG-3′ (reverse); STAT3,
+5′-GAGACTCACAAACCATTACTATG-3′ (forward) and
+5′-CACAGATGAAGCTCTCCCTGG-3′ (reverse); IRF4, 5′-GGGCAAGGGATGCTCTCTAG-3′ (forward) and 5′-CTGAAGCTGCTGCAGAGCTG-3′ (reverse); KLF4, 5′-GGGTATTATCCCAAGGGTATCC-3′ (forward) and 5′-ATGCAGCATGAGGTGGACCGAT-3′
+(reverse); BATF, 5′-GAACTTCTGCCCTTCCCATCT-3′ (forward)
+and 5′-CAGCACAGAACCACCCCTTT-3′ (reverse).
+Immunoprecipitation, GST/His pulldown, and
+immunoblotting analyses
+Immunoprecipitation was performed by preincubation of 0.5 to
+1 mg of protein lysates with 1 g of antibody for 1 hour at 4°C, followed by the addition of 20 l of protein A/G Sepharose beads for
+3 hours. For GST and His pulldown assays, GST- and His-tagged proteins plus their interacting proteins were incubated for 3 hours with
+glutathione Sepharose beads (GE Healthcare) and Ni Sepharose beads
+(GE Healthcare), respectively. The immunocomplexes or GST/His
+pulldown complexes were washed with lysis buffer (1.5 mM MgCl2,
+0.2% NP-40, 125 mM NaCl, 5% glycerol, 25 mM NaF, 50 mM trisHCl, and 1 mM Na3VO4) three times at 4°C, followed by boiling in
+5× loading buffer at 95°C for 3 min. The immunoblotting analyses
+were performed as described previously (57).
+Cell transfections, T cell stimulation, in vitro kinase assays
+for PKC or IKK  , and flow cytometric analyses
+These experiments were performed as described previously (24).
+Immunofluorescence and confocal imaging
+Cells were fixed in cold methanol for 2 min. After permeation with
+0.25% Triton X-100 for 1 hour, the cells were blocked with 5%
+bovine serum albumin for 2 hours. The cells were incubated with
+primary antibodies (1:200 dilution) for 24 hours and then with
+secondary antibodies (1:500 dilution) for 2 hours. The secondary
+antibodies donkey anti-rabbit immunoglobulin G (IgG)–Alexa Fluor
+568 and goat anti-mouse IgG–Alexa Fluor 488 were purchased from
+Abcam and Life Technologies, respectively. The cover slides were
+mounted in Fluoroshield with DAPI (GeneTex) and analyzed using
+a Leica TCS SP5 confocal microscope.
+In vitro T cell differentiation assays
+CD4+
+ splenic T cells were purified from mice. Cells (5 × 105
+) were
+cultured in 1 ml of RPMI 1640 in 48-well plates coated with antiCD3 (2 g/ml) and anti-CD28 (3 g/ml) antibodies. For TH17 differentiation, splenic CD4+
+ cells were cultured in the medium containing
+IL-23 recombinant proteins (50 ng/ml; R&D Systems), IL-6 recombinant proteins (20 ng/ml; R&D Systems), TGF-   recombinant proteins (5 ng/ml; R&D Systems), and anti–IL-4 (5 g/ml; BioLegend)
+and anti–IFN-  (5 g/ml; BioLegend) antibodies. For TH1 differentiation, CD4+
+ splenic cells were cultured in the medium containing
+IL-12 recombinant proteins (5 ng/ml; R&D Systems) and anti–IL-4
+antibodies (1 g/ml; BioLegend).
+Liquid chromatography–MS
+After in vitro kinase assays, protein bands of Flag-tagged ROR t were
+collected from InstantBlue (GeneMark)–stained SDS–polyacrylamide
+gel electrophoresis gels. Proteins were digested with trypsin and subjected to liquid chromatography–MS/MS analyses by an LTQ Orbitrap
+Elite hybrid mass spectrometer as described previously (57).
+Statistical analyses
+All experiments were repeated at least three times. Data are means ±
+SEM. The statistical significance between two unpaired groups was
+analyzed using two-tailed Student’s t test. P values of less than 0.05
+were considered statistically significant.
+SUPPLEMENTARY MATERIALS
+Supplementary material for this article is available at http://advances.sciencemag.org/cgi/
+content/full/4/9/eaat5401/DC1
+Fig. S1. Normal T cell and B cell development in Lck-GLK Tg mice.
+Fig. S2. Inflammatory phenotypes and enhanced TH17 differentiation in Lck-GLK Tg mice.
+Fig. S3. Autoimmune responses in Lck-GLK Tg mice are abolished by IL-17A deficiency.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+14 of 15
+Fig. S4. GLK transgene does not regulate IL-23 receptor expression, STAT3 phosphorylation,
+and ROR t-binding element at the −120 region of the IL-17A promoter.
+Fig. S5. PKC controls Ser36 phosphorylation–mediated AhR nuclear translocation and
+AhR-mediated autoimmune responses.
+Fig. S6. PKC directly interacts with AhR in the cytoplasm of Lck-GLK T cells.
+Fig. S7. Autoimmune responses in Lck-GLK Tg mice are reduced by PKC KO.
+Fig. S8. TCR signaling induces in vivo interaction between AhR and ROR t.
+Fig. S9. Schematic model of AhR/ROR t-mediated IL-17A transcription in T cells of Lck-GLK Tg
+mice with different gene-KO backgrounds.
+Table S1. Transcription factors of NF- B–mediated cytokines.
+References (58, 59)
+REFERENCES AND NOTES
+1. D. D. Patel, V. K. Kuchroo, Th17 cell pathway in human immunity: Lessons from genetics
+and therapeutic interventions. Immunity 43, 1040–1051 (2015).
+2. S. L. Gaffen, R. Jain, A. V. Garg, D. J. Cua, The IL-23–IL-17 immune axis: From mechanisms
+to therapeutic testing. Nat. Rev. Immunol. 14, 585–600 (2014).
+3. S. Kotake, N. Udagawa, N. Takahashi, K. Matsuzaki, K. Itoh, S. Ishiyama, S. Saito, K. Inoue,
+N. Kamatani, M. T. Gillespie, T. J. Martin, T. Suda, IL-17 in synovial fluids from patients with
+rheumatoid arthritis is a potent stimulator of osteoclastogenesis. J. Clin. Invest. 103,
+1345–1352 (1999).
+4. M. Mitsdoerffer, Y. Lee, A. Jäger, H.-J. Kim, T. Korn, J. K. Kolls, H. Cantor, E. Bettelli,
+V. K. Kuchroo, Proinflammatory T helper type 17 cells are effective B-cell helpers.
+Proc. Natl. Acad. Sci. U.S.A. 107, 14292–14297 (2010).
+5. H. Park, Z. Li, X. O. Yang, S. H. Chang, R. Nurieva, Y.-H. Wang, Y. Wang, L. Hood, Z. Zhu,
+Q. Tian, C. Dong, A distinct lineage of CD4 T cells regulates tissue inflammation by
+producing interleukin 17. Nat. Immunol. 6, 1133–1141 (2005).
+6. I. I. Ivanov, L. Zhou, D. R. Littman, Transcriptional regulation of Th17 cell differentiation.
+Semin. Immunol. 19, 409–417 (2007).
+7. C. Dong, TH17 cells in development: An updated view of their molecular identity and
+genetic programming. Nat. Rev. Immunol. 8, 337–348 (2008).
+8. X. O. Yang, R. Nurieva, G. J. Martinez, H. S. Kang, Y. Chung, B. P. Pappu, B. Shah,
+S. H. Chang, K. S. Schluns, S. S. Watowich, X.-H. Feng, A. M. Jetten, C. Dong, Molecular
+antagonism and plasticity of regulatory and inflammatory T cell programs. Immunity 29,
+44–56 (2008).
+9. I. I. Ivanov, B. S. McKenzie, L. Zhou, C. E. Tadokoro, A. Lepelley, J. J. Lafaille, D. J. Cua,
+D. R. Littman, The orphan nuclear receptor ROR t directs the differentiation program of
+proinflammatory IL-17+
+ T helper cells. Cell 126, 1121–1133 (2006).
+10. L. Zhou, J. E. Lopes, M. M. W. Chong, I. I. Ivanov, R. Min, G. D. Victora, Y. Shen, J. Du,
+Y. P. Rubtsov, A. Y. Rudensky, S. F. Ziegler, D. R. Littman, TGF-  -induced Foxp3 inhibits
+TH17 cell differentiation by antagonizing ROR t function. Nature 453, 236–240 (2008).
+11. K. Ichiyama, H. Yoshida, Y. Wakabayashi, T. Chinen, K. Saeki, M. Nakaya, G. Takaesu,
+S. Hori, A. Yoshimura, T. Kobayashi, Foxp3 inhibits ROR t-mediated IL-17A mRNA
+transcription through direct interaction with ROR t. J. Biol. Chem. 283, 17003–17008
+(2008).
+12. Z. Chen, A. Laurence, Y. Kanno, M. Pacher-Zavisin, B.-M. Zhu, C. Tato, A. Yoshimura,
+L. Hennighausen, J. J. O’Shea, Selective regulatory function of Socs3 in the formation of
+IL-17-secreting T cells. Proc. Natl. Acad. Sci. U.S.A. 103, 8137–8142 (2006).
+13. D. M. Floss, S. Mrotzek, T. Klöcker, J. Schröder, J. Grötzinger, S. Rose-John, J. Scheller,
+Identification of canonical tyrosine-dependent and non-canonical tyrosine-independent
+STAT3 activation sites in the intracellular domain of the interleukin 23 receptor.
+J. Biol. Chem. 288, 19386–19400 (2013).
+14. P. S. Biswas, S. Gupta, E. Chang, L. Song, R. A. Stirzaker, J. K. Liao, G. Bhagat, A. B. Pernis,
+Phosphorylation of IRF4 by ROCK2 regulates IL-17 and IL-21 production and the
+development of autoimmunity in mice. J. Clin. Invest. 120, 3280–3295 (2010).
+15. B. U. Schraml, K. Hildner, W. Ise, W.-L. Lee, W. A.-E. Smith, B. Solomon, G. Sahota, J. Sim,
+R. Mukasa, S. Cemerski, R. D. Hatton, G. D. Stormo, C. T. Weaver, J. H. Russell, T. L. Murphy,
+K. M. Murphy, The AP-1 transcription factor Batf controls TH17 differentiation. Nature 460,
+405–409 (2009).
+16. L. Lebson, A. Gocke, J. Rosenzweig, J. Alder, C. Civin, P. A. Calabresi, K. A. Whartenby,
+Cutting edge: The transcription factor Kruppel-like factor 4 regulates the differentiation
+of Th17 cells independently of ROR t. J. Immunol. 185, 7161–7164 (2010).
+17. M. Veldhoen, K. Hirota, A. M. Westendorf, J. Buer, L. Dumoutier, J.-C. Renauld,
+B. Stockinger, The aryl hydrocarbon receptor links TH17-cell-mediated autoimmunity to
+environmental toxins. Nature 453, 106–109 (2008).
+18. G. Cui, X. Qin, L. Wu, Y. Zhang, X. Sheng, Q. Yu, H. Sheng, B. Xi, J. Z. Zhang, Y. Q. Zang,
+Liver X receptor (LXR) mediates negative regulation of mouse and human Th17
+differentiation. J. Clin. Invest. 121, 658–670 (2011).
+19. A. Kimura, T. Naka, K. Nohara, Y. Fujii-Kuriyama, T. Kishimoto, Aryl hydrocarbon receptor
+regulates Stat1 activation and participates in the development of Th17 cells. Proc. Natl.
+Acad. Sci. U.S.A. 105, 9721–9726 (2008).
+20. W. Niedbala, J. C. Alves-Filho, S. Y. Fukada, S. M. Vieira, A. Mitani, F. Sonego,
+A. Mirchandani, D. C. Nascimento, F. Q. Cunha, F. Y. Liew, Regulation of type 17 helper
+T-cell function by nitric oxide during inflammation. Proc. Natl. Acad. Sci. U.S.A. 108,
+9220–9225 (2011).
+21. J. Geginat, M. Paroni, S. Maglie, J. S. Alfen, I. Kastirr, P. Gruarin, M. De Simone,
+M. Pagani, S. Abrignani, Plasticity of human CD4 T cell subsets. Front. Immunol. 5, 630
+(2014).
+22. K. Diener, X. S. Wang, C. Chen, C. F. Meyer, G. Keesler, M. Zukowski, T.-H. Tan, Z. Yao,
+Activation of the c-Jun N-terminal kinase pathway by a novel protein kinase related to
+human germinal center kinase. Proc. Natl. Acad. Sci. U.S.A. 94, 9687–9692 (1997).
+23. H.-C. Chuang, X. Wang, T.-H. Tan, MAP4K family kinases in immunity and inflammation.
+Adv. Immunol. 129, 277–314 (2016).
+24. H.-C. Chuang, J.-L. Lan, D.-Y. Chen, C.-Y. Yang, Y.-M. Chen, J.-P. Li, C.-Y. Huang, P.-E. Liu,
+X. Wang, T.-H. Tan, The kinase GLK controls autoimmunity and NF- B signaling by
+activating the kinase PKC- in T cells. Nat. Immunol. 12, 1113–1118 (2011).
+25. D.-Y. Chen, H.-C. Chuang, J.-L. Lan, Y.-M. Chen, W.-T. Hung, K.-L. Lai, T.-H. Tan, Germinal
+center kinase-like kinase (GLK/MAP4K3) expression is increased in adult-onset Still’s
+disease and may act as an activity marker. BMC Med. 10, 84 (2012).
+26. Y.-M. Chen, H.-C. Chuang, W.-C. Lin, C.-Y. Tsai, C.-W. Wu, N.-R. Gong, W.-T. Hung, T.-H. Lan,
+J.-L. Lan, T.-H. Tan, D.-Y. Chen, Germinal center kinase-like kinase overexpression in
+T cells as a novel biomarker in rheumatoid arthritis. Arthritis Rheum. 65, 2573–2582
+(2013).
+27. R. Jain, Y. Chen, Y. Kanno, B. Joyce-Shaikh, G. Vahedi, K. Hirahara, W. M. Blumenschein,
+S. Sukumar, C. J. Haines, S. Sadekova, T. K. McClanahan, M. J. McGeachy, J. J. O’Shea,
+D. J. Cua, Interleukin-23-induced transcription factor blimp-1 promotes pathogenicity of
+T helper 17 cells. Immunity 44, 131–142 (2016).
+28. F. Zhang, G. Meng, W. Strober, Interactions among the transcription factors Runx1, ROR t
+and Foxp3 regulate the differentiation of interleukin 17-producing T cells. Nat. Immunol.
+9, 1297–1306 (2008).
+29. T. Ikuta, Y. Kobayashi, K. Kawajiri, Phosphorylation of nuclear localization signal inhibits
+the ligand-dependent nuclear import of aryl hydrocarbon receptor. Biochem. Biophys.
+Res. Commun. 317, 545–550 (2004).
+30. C. Wu, N. Yosef, T. Thalhamer, C. Zhu, S. Xiao, Y. Kishi, A. Regev, V. K. Kuchroo, Induction
+of pathogenic TH17 cells by inducible salt-sensing kinase SGK1. Nature 496, 513–517
+(2013).
+31. X. K. Liu, J. L. Clements, S. L. Gaffen, Signaling through the murine T cell receptor induces
+IL-17 production in the absence of costimulation, IL-23 or dendritic cells. Mol. Cells 20,
+339–347 (2005).
+32. J. Gomez-Rodriguez, N. Sahu, R. Handon, T. S. Davidson, S. M. Anderson, M. R. Kirby,
+A. August, P. L. Schwartzberg, Differential expression of IL-17A and IL-17F is coupled to
+TCR signaling via Itk-mediated regulation of NFATc1. Immunity 31, 587–597 (2009).
+33. N. Manel, D. Unutmaz, D. R. Littman, The differentiation of human TH-17 cells requires
+transforming growth factor-   and induction of the nuclear receptor ROR t. Nat. Immunol.
+9, 641–649 (2008).
+34. N. Yosef, A. K. Shalek, J. T. Gaublomme, H. Jin, Y. Lee, A. Awasthi, C. Wu, K. Karwacz,
+S. Xiao, M. Jorgolli, D. Gennert, R. Satija, A. Shakya, D. Y. Lu, J. J. Trombetta, M. R. Pillai,
+P. J. Ratcliffe, M. L. Coleman, M. Bix, D. Tantin, H. Park, V. K. Kuchroo, A. Regev,
+Dynamic regulatory network controlling TH17 cell differentiation. Nature 496,
+461–468 (2013).
+35. Q. Ruan, V. Kameswaran, Y. Zhang, S. Zheng, J. Sun, J. Wang, J. DeVirgiliis, H.-C. Liou,
+A. A. Beg, Y. H. Chen, The Th17 immune response is controlled by the Rel–ROR –ROR T
+transcriptional axis. J. Exp. Med. 208, 2321–2333 (2011).
+36. J. Yang, P. Xu, L. Han, Z. Guo, X. Wang, Z. Chen, J. Nie, S. Yin, M. Piccioni, A. Tsun, L. Lv,
+S. Ge, B. Li, Cutting edge: Ubiquitin-specific protease 4 promotes Th17 cell function
+under inflammation by deubiquitinating and stabilizing ROR t. J. Immunol. 194,
+4094–4097 (2015).
+37. E. Zhu, X. Wang, B. Zheng, Q. Wang, J. Hao, S. Chen, Q. Zhao, L. Zhao, Z. Wu, Z. Yin,
+miR-20b suppresses Th17 differentiation and the pathogenesis of experimental
+autoimmune encephalomyelitis by targeting ROR t and STAT3. J. Immunol. 192,
+5599–5609 (2014).
+38. Q. Wu, J. Nie, Y. Gao, P. Xu, Q. Sun, J. Yang, L. Han, Z. Chen, X. Wang, L. Lv, A. Tsun, J. Shen,
+B. Li, Reciprocal regulation of ROR t acetylation and function by p300 and HDAC1.
+Sci. Rep. 5, 16355 (2015).
+39. A. Yeste, I. D. Mascanfroni, M. Nadeau, E. J. Burns, A.-M. Tukpah, A. Santiago, C. Wu,
+B. Patel, D. Kumar, F. J. Quintana, IL-21 induces IL-22 production in CD4+
+ T cells.
+Nat. Commun. 5, 3753 (2014).
+40. M. Lochner, L. Peduto, M. Cherrier, S. Sawa, F. Langa, R. Varona, D. Riethmacher,
+M. Si-Tahar, J. P. Di Santo, G. Eberl, In vivo equilibrium of proinflammatory IL-17+
+ and
+regulatory IL-10+
+ Foxp3+
+ ROR t
++
+ T cells. J. Exp. Med. 205, 1381–1393 (2008).
+41. Z. He, F. Wang, J. Ma, S. Sen, J. Zhang, Y. Gwack, Y. Zhou, Z. Sun, Ubiquitination of ROR t
+at lysine 446 limits Th17 differentiation by controlling coactivator recruitment.
+J. Immunol. 197, 1148–1158 (2016).
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chuang et al., Sci. Adv. 2018; 4 : eaat5401 12 September 2018
+SCIENCE ADVANCES | RESEARCH ARTICLE
+15 of 15
+42. Z. He, J. Ma, R. Wang, J. Zhang, Z. Huang, F. Wang, S. Sen, E. V. Rothenberg, Z. Sun,
+A two-amino-acid substitution in the transcription factor ROR t disrupts its function in TH17
+differentiation but not in thymocyte development. Nat. Immunol. 18, 1128–1138 (2017).
+43. D. J. McGuire, A. L. Rowse, H. Li, B. J. Peng, C. M. Sestero, K. S. Cashman, P. De Sarno,
+C. Raman, CD5 enhances Th17-cell differentiation by regulating IFN-  response and
+ROR t localization. Eur. J. Immunol. 44, 1137–1142 (2014).
+44. P. R. Taylor, S. Roy, S. M. Leal Jr., Y. Sun, S. J. Howell, B. A. Cobb, X. Li, E. Pearlman,
+Activation of neutrophils by autocrine IL-17A–IL-17RC interactions during fungal infection
+is regulated by IL-6, IL-23, ROR t and dectin-2. Nat. Immunol. 15, 143–151 (2014).
+45. F. J. Quintana, A. S. Basso, A. H. Iglesias, T. Korn, M. F. Farez, E. Bettelli, M. Caccamo,
+M. Oukka, H. L. Weiner, Control of Treg and TH17 cell differentiation by the aryl
+hydrocarbon receptor. Nature 453, 65–71 (2008).
+46. P. P. Ho, L. Steinman, The aryl hydrocarbon receptor: A regulator of Th17 and Treg cell
+development in disease. Cell Res. 18, 605–608 (2008).
+47. M. Veldhoen, K. Hirota, J. Christensen, A. O’Garra, B. Stockinger, Natural agonists for aryl
+hydrocarbon receptor in culture medium are essential for optimal differentiation of Th17
+T cells. J. Exp. Med. 206, 43–49 (2009).
+48. N. Hermann-Kleiter, G. Baier, NFAT pulls the strings during CD4+
+ T helper cell effector
+functions. Blood 115, 2989–2997 (2010).
+49. A. Schmidt, N. Oberle, P. H. Krammer, Molecular mechanisms of Treg-mediated T cell
+suppression. Front. Immunol. 3, 51 (2012).
+50. S. Krishna, D. Xie, B. Gorentla, J. Shin, J. Gao, X.-P. Zhong, Chronic activation of the kinase
+IKK   impairs T cell function and survival. J. Immunol. 189, 1209–1219 (2012).
+51. I. Backert, S. B. Koralov, S. Wirtz, V. Kitowski, U. Billmeier, E. Martini, K. Hofmann, K. Hildner,
+N. Wittkopf, K. Brecht, M. Waldner, K. Rajewsky, M. F. Neurath, C. Becker, C. Neufert, STAT3
+activation in Th17 and Th22 cells controls IL-22-mediated epithelial host defense during
+infectious colitis. J. Immunol. 193, 3779–3791 (2014).
+52. L. Wei, A. Laurence, K. M. Elias, J. J. O’Shea, IL-21 is produced by Th17 cells and drives
+IL-17 production in a STAT3-dependent manner. J. Biol. Chem. 282, 34605–34610 (2007).
+53. R. Nurieva, X. O. Yang, G. Martinez, Y. Zhang, A. D. Panopoulos, L. Ma, K. Schluns, Q. Tian,
+S. S. Watowich, A. M. Jetten, C. Dong, Essential autocrine regulation by IL-21 in the
+generation of inflammatory T cells. Nature 448, 480–483 (2007).
+54. C. P. Hsu, H. C. Chuang, M. C. Lee, H. H. Tsou, L. W. Lee, J. P. Li, T. H. Tan, GLK/MAP4K3
+overexpression associates with recurrence risk for non-small cell lung cancer. Oncotarget
+7, 41748–41757 (2016).
+55. C. H. Ho, H. C. Chuang, I. C. Wu, H. W. Tsai, Y. J. Lin, H. Y. Sun, K. C. Young, Y. C. Chiu,
+P. N. Cheng, W. C. Liu, T. H. Tan, T. T. Chang, Prediction of early hepatocellular carcinoma
+recurrence using germinal center kinase-like kinase. Oncotarget 7, 49765–49776 (2016).
+56. R. M. Thomas, H. Sai, A. D. Wells, Conserved intergenic elements and DNA methylation
+cooperate to regulate transcription at the il17 locus. J. Biol. Chem. 287, 25049–25059 (2012).
+57. H.-C. Chuang, W. H.-H. Sheu, Y.-T. Lin, C.-Y. Tsai, C.-Y. Yang, Y.-J. Cheng, P.-Y. Huang,
+J.-P. Li, L.-L. Chiu, X. Wang, M. Xie, M. D. Schneider, T.-H. Tan, HGK/MAP4K4 deficiency
+induces TRAF2 stabilization and Th17 differentiation leading to insulin resistance.
+Nat. Commun. 5, 4602 (2014).
+58. E. Serfling, F. Berberich-Siebelt, S. Chuvpilo, E. Jankevics, S. Klein-Hessling, T. Twardzik,
+A. Avots, The role of NF-AT transcription factors in T cell activation and differentiation.
+Biochim. Biophys. Acta 1498, 1–18 (2000).
+59. S. J. Szabo, S. T. Kim, G. L. Costa, X. Zhang, C. G. Fathman, L. H. Glimcher, A novel
+transcription factor, T-bet, directs Th1 lineage commitment. Cell 100, 655–669 (2000).
+Acknowledgments: We thank the Transgenic Mouse Core (NHRI, Taiwan) for generation of Tg
+and KO mice. We thank the core facilities of NHRI (Taiwan) for tissue sectioning/H&E staining
+and confocal microscopy. We thank the Laboratory Animal Center (AAALAC-accredited) of
+NHRI for mouse housing. We thank the Institute of Biological Chemistry of Academia Sinica for
+MS. Funding: This work was supported by grants from NHRI, Taiwan (IM-105-PP-01 and
+IM-105-SP-01 to T.-H.T.) and the Ministry of Science and Technology, Taiwan (MOST-106-
+2321-B-400-013 to T.-H.T.). T.-H.T. is a Taiwan Bio-Development Foundation Chair in
+Biotechnology. Author contributions: H.-C.C. designed and performed experiments, analyzed
+and interpreted data, and wrote the manuscript. C.-Y.T. and C.-H.H. performed experiments
+and assisted in data interpretation. T.-H.T. conceived the study, supervised experiments, and
+wrote the manuscript. Competing interests: A provisional patent related to this work has
+been filed by NHRI with U.S. Patent Office, application no. 62719416. H.-C.C. and T.-H.T. are
+inventors of this application. The authors declare that they have no other competing interests.
+Data and materials availability: Correspondence and requests for materials should be
+addressed to T.-H.T. (ttan@nhri.org.tw). All data needed to evaluate the conclusions in the
+paper are present in the paper and/or the Supplementary Materials. Additional data related to
+this paper may be requested from the authors.

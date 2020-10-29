@@ -1,0 +1,882 @@
+Detoxifying effects of ultrafiltration fractions of
+Dendrobium aphyllum peptides on chemical and
+AAPH-induced oxidative stress†
+Huifan Liu, Juanjuan Ma and Hui Wu *
+Antioxidative peptides were extracted from Dendrobium aphyllum. The Lactobacillus strain was identified as
+Lactobacillus amylolyticus L6. Analysis of amino acid composition and HPLC-MS/MS analysis indicated
+a high antioxidative potential of the low molecular weight DA-P fractions which contained 21 different
+types of polypeptides. DA-P exhibited antioxidative abilities and the DA-P fraction with a size less than 1
+kDa displayed optimal activity, as determined through DPPH and ABTS free radical scavenging assays and
+the reducing power assay. Human erythrocytes subjected to an 2,20
+-azobis[2-methylpropionamidine]
+dihydrochloride (AAPH)-induced hemolysis assay using the DA-P fraction with the size below 1 kDa
+quenched the intracellular antioxidant system by inhibiting the generation of reactive oxygen species and
+malondialdehyde and regulating the activity of cellular antioxidative enzymes, including superoxide
+dismutase, catalase, and glutathione peroxidase. These results provide valuable information for the use
+of Dendrobium aphyllum as a functional food for Lactobacillus sp.
+1 Introduction
+Peptides are specic small, inactive protein fragments that have
+the same sequences as their functional proteins.1 In general,
+peptides comprise 2–20 amino acids and have biological activities that depend on their chain length, amino acid composition, and sequence.2 The favorable biological activities of
+peptides include antioxidant, anti-hypertensive, anti-obesity,
+anticancer, and angiotensin-converting inhibitor activities.3 It
+has been reported that the proportion of hydrophobic groups
+and aromatic residues in peptides are correlated with their
+antioxidant activity.4,5 For example, the side-chain groups of
+amino acids such as imidazole in histidine, indolic groups in
+tryptophan, and phenolic groups in tyrosine have been reported
+to contribute to the antioxidant activity of peptides.2
+Reactive oxygen species (ROS) are constantly generated
+during normal physiological reactions, e.g., defending against
+infections.6 Under conditions of excess ROS or dysfunctions in
+intrinsic defenses, oxidative stress occurs, leading to protein
+malformation, DNA damage, membrane phospholipid peroxidation, low-density lipoprotein modication, and aging-related
+problems, among other issues.7,8 Inherent cellular defense
+systems consist of enzymatic and non-enzymatic antioxidants
+that maintain the balance between ROS production and
+destruction.6 Peptides acting as antioxidants can mediate
+oxidation, including serving as free radical scavengers to
+directly quench singlet oxygen, chelating metals, synergistic
+interactions with primary antioxidants, and serving as antioxidative secondary compounds produced by peptides that
+react with oxidized lipids.9 Currently, synthetic antioxidants are
+effective but exhibit potential health risks following long-term
+use.10 However, natural antioxidants derived from bioactive
+peptides are easily absorbed because of their low molecular
+weight; these molecules also show high activity, are inexpensive, and are considered safe.11 Methods such as in vitro
+gastrointestinal chemical digestion, enzymatic hydrolysis, and
+microbial fermentation can be used to release bioactive
+peptides from proteins. Compared to digestion and hydrolysis,
+fermentation is less costly and more eco-friendly and thus is
+widely used.12 In addition, during fermentation, microorganisms can metabolize large molecules in protein sources into
+smaller ones to elevate the concentration of bioactive components to reduce antinutritional factors and benet health.
+Traditional assays for measuring antioxidant capacity are based
+on chemical reactions that cannot assess toxicity, bioavailability,
+and antioxidant component metabolites. In vitro measurement
+does not consider in vivo situations, such as stability and tissue
+storage.13,14 The use of cell models is a newly developed approach
+for quantifying the antioxidant capability of bioactive compounds
+in cell culture, while an AAPH-induced erythrocyte hemolysis assay
+is used to evaluate AAPH activity as a free radical.15 Erythrocytes,
+which lack a nucleus, produce necessary cofactors through
+a metabolic network containing 39 metabolites and involving 32
+College of Food Science and Engineering, South China University of Technology,
+Department of Food Science and Engineering, Wushan Road 381, Guangzhou,
+Guangdong, 510640, China. E-mail: fehwu@scut.edu.cn; Fax: +86-20-87112532;
+Tel: +86-20-87112853
+† Electronic supplementary information (ESI) available. See DOI:
+10.1039/c7ra08957k
+Cite this: RSC Adv., 2017, 7, 48913
+Received 13th August 2017
+Accepted 18th September 2017
+DOI: 10.1039/c7ra08957k
+rsc.li/rsc-advances
+This journal is © The Royal Society of Chemistry 2017 RSC Adv., 2017, 7, 48913–48924 | 48913
+RSC Advances
+PAPER
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online View Journal | View Issue
+internal metabolic reactions to defend against oxidative stress and
+maintain osmotic balance.16,17 Under oxidative stress, loss of
+erythrocyte membrane integrity is caused by lipid peroxidation
+with peroxyl radicals.18 The characteristics of the peptide-mediated
+detoxication during AAPH-induced erythrocyte hemolysis can be
+studied by determining the activities of enzymes such as superoxide dismutase (SOD), glutathione peroxidase (GPx), and catalase
+(CAT) in an enzymatic system, as well as ROS levels, including
+monodialdehyde (MDA), glutathione (GSH), and glutathione
+disulde (GSSG), in a non-enzymatic system.15
+Plants of the genus Dendrobium, the second largest genus in
+the Orchidaceae family, are mainly found in tropical and
+subtropical Asia, Australia, and the Pacic islands and have been
+used as a source of food and medicine for thousands of years.19
+Members of this genus contain polysaccharides, proteins, and
+alkaloids, which have been reported to display anti-cancer,
+antidiabetic, immunostimulatory, and antioxidative effects.20,21
+Dendrobium aphyllum is widely cultivated in China, particularly
+the Yunnan province, because of its low land demand and
+remarkable commercial value as a functional food source.
+However, few studies have examined its bioactive compounds.
+In this study, we evaluated the presence of antioxidative
+peptides derived from D. aphyllum, veried their antioxidative
+properties, and explored the underlying mechanism through
+chemical assays and an AAPH-induced human erythrocyte
+hemolysis assay.
+2 Materials and methods
+2.1 Materials
+Dendrobium aphyllum samples were collected from the GAP
+farm located in Xishuangbanna, Yunnan province, China.
+These samples were authenticated by experts from the Department of Life Science, South China Agricultural University. Eight
+strains of Lactobacillus namely Lactobacillus harbinensis (m1),
+Lactobacillus mucosae 1 (m2), Lactobacillus fermentum 1 (m4),
+Lactobacillus casei (m8), Lactobacillus rhamnosus (C1), Lactobacillus amylolyticus 5 (L5), Lactobacillus amylolyticus 6 (L6), and
+Lactobacillus acidophilus (mfm) were obtained from the laboratory of Food Science and Engineering, South China University of
+Technology. Ultraltration cassettes with 1, 3, and 5 kDa
+molecular weight cut-off sizes were obtained from Millipore
+Corp (Billerica, MA, USA). Human blood samples were collected
+from three healthy adult volunteers. Casein, Folin reagent, trichloroacetic acid (TCA), vitamin C (VC), AAPH, DPPH, and ABTS
+were purchased from Sigma Aldrich (St. Louis, MO, USA).
+Phosphate-buffered saline (PBS; pH 7.4) was purchased from
+Gibco Life Technologies (Grand Island, NY, USA). Kits to
+determine the activity of SOD, GSH-peroxidase (GSH-PX), CAT,
+ROS, MDA, GSSG, and GSH were purchased from Beyotime
+Institute of Biotechnology (Shanghai, China). Other reagents
+used were of analytical grade.
+2.2 Sample preparation
+The dried stems of D. aphyllum were crushed into a powder with
+a tissue triturator and passed through a 60-mesh screen. Ten
+grams of collected sample powder was decolorized and watersoluble impurities were removed using 200 mL 80% ethanol
+by rotating distillation for 4 h, followed by washing with 100 mL
+95% ethanol, 100 mL anhydrous ethanol, and 50 mL anhydrous
+acetone individually by suction ltration with double lter
+papers. The D. aphyllum powder was dried at 60 C and stored at
+20 C until further use.
+2.2.1 Selection of Lactobacillus for D. aphyllum solid-state
+fermentation. A total of 8 Lactobacillus strains were evaluated
+during solid-state fermentation. Ten grams of dried D. aphyllum
+powder was wetted with ultrapure water to maintain 50%
+moisture content and sterilization at 121 C for 20 min in an
+autoclave. The sterile sample was inoculated (10% inoculum
+size) and placed in an incubator at 37 C for 48 h. Aer
+fermentation, the sample was dried at 60 C in an oven and
+stored at 20 C. The detailed process of D. aphyllum peptide
+(DA-P) extraction is described in 2.2.4. Peptide content was
+measured using Lowry's method.22 DA-P yield helped determine
+whether fermentation by the Lactobacillus strain was satisfactory. The peptide extracted without microbial fermentation was
+used as a control. Each sample was evaluated in triplicate.
+2.2.2 Determination of protease activity during solid-state
+fermentation. Protease activity was evaluated to determine the
+dynamic growth pattern of Lactobacillus during fermentation,
+using the Folin-phenol method of Chinese Standard GB/T
+23527-2009 with casein as a substrate. The pH values of acid
+proteinase, neutral proteinase, and alkaline proteinase buffer
+solutions were 3.6, 7.5, and 11, respectively. The reaction was
+carried out with 1 mL enzyme diluent and 1 mL 2% casein for
+10 min at 40 C and then 2 mL 0.4 M TCA was added to
+terminate the reaction for 20 min. Aer centrifugation (1000 
+g, 10 min), a reaction system containing 1 mL supernatant, 5 mL
+0.4 M Na2CO3, and 1 mL Folin reagent was prepared and the
+absorbance was determined at 680 nm. One unit of enzyme
+activity was dened as the enzyme content in 1 mL enzyme
+solution, which produced 1 mg tyrosine by hydrolyzing casein
+for 1 min at 40 C. Each sample was evaluated in triplicate.
+2.2.3 Optimization of D. aphyllum fermentation conditions by RSM. Single-factor experiments were designed to
+determine critical factors affecting the extraction yield of DA-P
+aer Lactobacillus solid-state fermentation from D. aphyllum.
+Four parameters were analyzed, namely fermentation temperature, fermentation time, moisture content, and Lactobacillus
+inoculum size. Based on the results of single-factor experiments, three critical factors were selected for the design of the
+response surface experiment, using statistical soware. A Box–
+Behnken design with three factorial points, three levels, and
+three central points, leading to 15 sets of experiments, was
+implemented to determine the optimal fermentation conditions for DA-P.23 The detailed fermented process is described in
+2.2.1 and the detailed extraction process of DA-P is described in
+2.2.4. Each sample was evaluated in triplicate.
+2.2.4 Exaction of DA-P aer fermentation optimization.
+Based on the results of the response surface experiment, 10 g D.
+aphyllum powder was fermented by following the procedure
+under optimized conditions and 1 g of well-fermented sample
+was then weighed accurately. DA-P was extracted under the
+48914 | RSC Adv., 2017, 7, 48913–48924 This journal is © The Royal Society of Chemistry 2017
+RSC Advances Paper
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+following conditions: ratio of material to solvent, 1 : 20;
+extraction temperature, 37 C; extraction time, 1 h. The peptide
+sample was then lyophilized and stored at 20 C until further
+use.
+2.3 SDS-PAG
+SDS-PAGE was conducted as described by Abeyrathne24 with
+minor modications. The DA-P sample with or without
+fermentation was mixed with sample buffer containing b-mercaptoethanol (ratio of material to solvent, 1 : 1). The sample was
+heated at 95 C in a water bath for 5 min and the supernatant
+was obtained aer centrifugation (1000  g for 10 min).
+Discontinuous vertical plate gel electrophoresis was conducted
+using a 12% resolving gel and 5% stacking gel. Further, 20 mL
+supernatant sample solution and standard proteins were added
+to the corresponding wells in the stacking gel. For the sample in
+the stacking gel, a constant voltage of 80 V was used; resolving
+gel, 120 V. Aer electrophoresis, Coomassie Blue G-250 was
+used to stain the gel for 2 h and methyl acetate was used for
+destaining.
+2.4 Ultraltration of DA-P
+For further purication, DA-P solution was ltered using an
+ultraltration apparatus as described by Kimatu25 with minor
+modications. Using 3 different membranes of different sizes,
+DA-P was separated into four fractions with molecular weights
+of <1, 1–3, 3–5, and >5 kDa. The four ultraltered fractions (UF)
+were then lyophilized and stored at 20 C until further use.
+The peptide content of UF was evaluated as described in 2.2.1
+and the yield of UF was calculated as following:
+UF yield ð%Þ ¼ Peptide weight in UF
+Peptide weight before ultration  100%
+2.5 Amino acid composition analysis
+The amino acid composition of DA-P peptide and its fractions of
+different molecular weight were determined using an A300 auto
+amino acid analyzer (Membra Pure, Bodenheim, Germany) in
+accordance with the method of You et al.26 with minor modi-
+cation. Total amino acids composition was determined aer the
+hydrolysis at 110 C for 24 h with 6 M HCl and derivatization
+with ninhydrin. Free amino acids compositions were determined on the basis of the free amino acids in the supernatant
+generated through centrifugation (10 000 rpm at 4 C for 10
+min) of the precipitate from the mixture (mixing time 1 h) of
+15% sulfosalicylic acid (1 mL) and test samples (4 mL). Appropriate dilutions of the obtained supernatant and ltration
+(through 0.22 mm lter membrane) were required prior to total
+and free amino acid analysis. Seventeen amino acid standards
+were used as external standards.
+2.6 HPLC-MS/MS analysis
+Ultra high-pressure liquid chromatography combined with
+high-resolution mass spectrometry (Agilent 1290/Brucker maXis
+impact) was used to characterize the peptides structures in <1
+kDa DA-P fraction. The chromatography column was an Agilent
+SB-C18 RRHD column (1.8 mm, 2.1  50 mm) with a ow rate of
+0.2 mL min1 at room temperature. The mobile phase of A was
+acetonitrile and B was 0.1% formic acid water and the scanning
+wavelength was 220 nm. In terms of acquisition parameter, the
+source type was ESI with positive ion polarity, the dry heater was
+set at 180 C. Initially during scanning, end plate offset was
+500 V with 50 m/z and 4.01 min1 of dry gas. At the end of
+scanning, charging voltage was 2000 V with 1000 m/z. The
+injection volume of the sample was 20 mL.
+2.7 Determination of antioxidant properties
+2.7.1 Estimation of DPPH radical scavenging activity.
+DPPH radical scavenging activity (DRSA) was assessed as
+described by Kimatu25 with minor modications. Briey, 1 mL
+of each of the four fractions (0–0.5 mg mL1
+) was mixed with
+4 mL DPPH (0.12 mM). The reaction was carried out at 37 C for
+30 min in the dark. The DPPH solution without any sample was
+considered the control and with VC being the positive control.
+Optical density was determined at 517 nm. DRSA was calculated
+as follows:
+DRSA% ¼ AC  AS
+AC
+ 100
+where Ac and As are the absorbance values of the control and
+sample groups, respectively. The DRSA% of the four fractions
+was analyzed by comparing the concentration of samples that
+caused a 50% reduction in DPPH radical.
+Each sample was analyzed in triplicate.
+2.7.2 Estimation of ABTS radical scavenging activity. ABTS
+radical scavenging activity was determined as described by
+Luo27 with minor modications. The working solution
+comprised 7.4 mM ABTS stock solution with an equal volume of
+2.6 mM potassium persulfate, and the reaction was carried out
+for 12 h in the dark. The absorbance of diluted ABTS working
+solution in PBS was 0.7  0.02 at 734 nm. Further, 0.2 mL of the
+four fractions (0–0.5 mg mL1
+) and distilled water were added
+to 2 mL diluted ABTS working solution as the sample and
+control, respectively. The reaction was carried out for 6 min at
+room temperature in the dark and optical density was determined at 734 nm. ABTS radical scavenging activity was calculated as follows:
+ABTS radical scavenging activity% ¼ AC  AS
+AC
+ 100
+where Ac and As are the absorbance values of the control and
+sample groups, respectively. All experiments were conducted in
+triplicate and compared with the unfermented sample.
+2.7.3 Estimation of FRAP. The reducing power of DA-P was
+assessed as described by Moktan10 with minor modications.
+One milliliter of the four fractions (0–0.5 mg mL1
+) was diluted
+with 2.5 mL 0.2 M phosphate buffer. The diluted samples were
+mixed with 2.5 mL 1% potassium ferricyanide and incubated at
+50 C. Aer 20 min, 2.5 mL 10% TCA was added for 10 min to
+terminate the reaction. The reaction solution was mixed with
+2.5 mL distilled water and 1.0 mL 0.1% FeCl3 for 10 min at room
+This journal is © The Royal Society of Chemistry 2017 RSC Adv., 2017, 7, 48913–48924 | 48915
+Paper RSC Advances
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+temperature. Aer centrifugation for 10 min at 1000  g, the
+optical density of the supernatant was determined at 700 nm.
+VC was used as the positive control. All experiments were conducted in triplicate and compared with the unfermented
+sample.
+2.8 Determination of erythrocyte hemolysis induced by
+AAPH
+2.8.1 Erythrocyte hemolysis assay. Erythrocyte oxidative
+hemolysis protection of Mw < 1 kDa fraction reduced by AAPH
+was analyzed as described by Zhang17 with minor modications.
+All experiments were performed in compliance with “China
+food safety standards GB151935-2014”, and approved by the
+ethics committee at South China University of Technology.
+Informed consents were obtained from human participants of
+this study. Erythrocytes were obtained aer three washes with
+PBS (pH 7.4) and centrifugation (1200  g, 10 min, 4 C) of
+blood samples. Erythrocyte suspensions were diluted with 4-
+fold PBS (pH 7.4) and then 200 mL erythrocyte suspensions were
+added to 200 mL PBS or Mw < 1 kDa fraction solutions (0–1.5 mg
+mL1
+). The mixture was incubated for 30 min at 37 C and then
+400 mL 0.2 mM AAPH was added, followed by incubation for 2 h
+with gentle shaking. This mixture was diluted with 3.2 mL PBS
+(pH 7.4) and centrifuged (1200  g, 10 min, 4 C). The optical
+density of the supernatant was determined at 540 nm for the
+treated group. Ultrapure water was added to the above
+suspension to achieve 100% hemolysis. The hemolysis inhibition rate was calculated as follows:
+Hemolysis inhibition rate% ¼
+1  OD540 of sample treated group
+OD540 of 100% hemolysis  100
+Three independently replicated determinations were
+analyzed for each sample.
+2.8.2 Scanning electron microscopy (SEM) analysis. Before
+scanning electron microscopy (SEM) (model 1530VP, LEO,
+Oberkochen, Germany), the control, AAPH, and AAPH with Mw <
+1 kDa DA-P fraction samples were prepared as described by
+Liao.28
+2.8.3 Estimation of intracellular ROS level. The erythrocytes were obtained as described by Zhang17 with minor modi-
+cations, but the supernatant was discarded aer 3 washes with
+PBS (pH 7.4) and erythrocytes were resuspended aer dilution
+in a 5-fold volume of PBS (pH 7.4). Further, 100 mL of the
+erythrocyte resuspension was used to determine the intracellular ROS levels. Aer centrifugation (1200  g, 10 min, 4 C),
+200 mL of 10 mM DCFH-DA was added, followed by incubation
+for 25 min at 37 C in the dark. The solution was washed and
+resuspended in 600 mL PBS (pH 7.4). The uorescence intensity
+of erythrocytes was measured with a Fluoroskan Ascent microplate uorometer (ex/em, 488/525 nm) (Thermo Scientic).
+2.8.4 Determination of MDA, GPX, SOD, CAT, GSSG, and
+GSH. The erythrocytes were obtained as described by Zhang17
+with minor modications, but the supernatant was discarded
+aer 3 washes with PBS (pH 7.4) and erythrocytes were added to
+double ultrapure water in an ice-water bath for 10 min and then
+centrifuged (1200  g, 10 min, 4 C) to obtain the cell lysis
+buffer. The content of protein, GSH, GSSG, and MDA were
+determined using bicinchoninic acid, GSH, and microscale
+MDA kits, respectively. A cellular glutathione peroxidase kit,
+total superoxide dismutase assay kit, and catalase assay kit were
+used to determine the activities of GSH-Px, SOD, and CAT,
+respectively.
+2.9 Statistical analysis
+Data are expressed as the mean  standard deviation (SD) of
+three replicates. Signicant differences between the means of
+parameters were calculated using Duncan's multiple-range test
+using SPSS 17.0 soware (SPSS, Inc., Chicago, IL, USA). A Pvalue less than 0.05 was considered statistically signicant.
+3 Results and discussion
+3.1 Strain determination of Lactobacillus on solid-state
+fermentation
+In this study, 8 species of Lactobacillus, which are known to be
+safe strains, were used in fermentation of D. aphyllum and the
+peptide levels aer fermentation and those extracted under the
+same conditions are shown in Fig. 1A. Compared to the control
+group (7.82  0.57%), all strains fermented showed increased
+peptide content, with L. amylolyticus L6 showing the best results
+(17.85  0.54%). L. amylolyticus is widely used in foods processing. L. amylolyticus L6, which has been evaluated by 16S
+rDNA and 23S rDNA sequencing, was isolated from spontaneously acidied tofu and was found to be non-toxic and nonhyper-susceptible, indicating that it can increase the antioxidant activities of fermented food sources.29 Owing to its superior capability to increase peptide contents and its safety and
+health benets, L. amylolyticus L6 was determined as a good
+microbial source for D. aphyllum solid-state fermentation.
+3.2 Analysis of protease activity
+As shown in Fig. 1B, the activity of total, acid, neutral, and
+alkaline proteases were evaluated at different fermentation
+times. For the initial 48 h fermentation, all protease activities
+increased, aer which time all protease activities decreased to
+different degrees. The activity of alkaline protease continuously
+increased until 60 h of fermentation and then steadily
+decreased. Therefore, the time point for optimum fermentation
+was approximately 48 h. The dynamic regulation of protease
+activities was in accordance with the content variation of
+peptides, as shown in Fig. 1C; the highest yield of peptides was
+achieved at approximately 48 h, indicating that peptide quantity
+inuences protease activity. Moreover, throughout fermentation, the activity of neutral protease was nearly 2 times (p < 0.05)
+that of alkaline and acid enzyme activity, indicating that neutral
+protease signicantly contributes to the production of peptides
+during fermentation. Importantly, alkaline and acidic enzyme
+activities were also high at above 200 U g1
+, demonstrating the
+synergic effects of using three types of proteases to generate
+peptides during fermentation.
+48916 | RSC Adv., 2017, 7, 48913–48924 This journal is © The Royal Society of Chemistry 2017
+RSC Advances Paper
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+3.3 Fermentative optimization
+Single-factor experiments showed that the ratio of material to
+solvent, inoculum size, and fermentation time signicantly
+inuenced peptide yield during fermentation (results not
+shown). A Box–Behnken design of RSM was developed to optimize the fermentation conditions of DA-P from D. aphyllum and
+the nal predictive equation was obtained by eliminating
+insignicant factors as shown below:
+R1 ¼ 14.96 + 1.38A + 2.01B + 0.83C + 1.66AB  1.41AC
+1.39BC  2.05A2
+where A was the ratio of material to solvent (g mL1
+); B was
+inoculum size (%); C was fermentation time (h).
+The optimum fermentation conditions for DA-P from
+D. aphyllum were a material-to-solvent ratio of 1 : 4.775, inoculum size of 21.88%, and fermentation time of 46.02 h, with
+a predicted result of 18.89%. A ratio of material to solvent of
+1 : 4 (w/v), inoculum size of 21%, and time 46 h were selected to
+validate the RSM model. The yield of extracting DA-P aer
+fermentation was 18.23  0.046%, which agreed with the predicted result.
+3.4 SDS-PAGE
+The molecular weight (Mw) distributions of polypeptides before
+and aer solid-state fermentation with L. amylolyticus L6 were
+determined through SDS-PAGE. As shown in Fig. 2, the standard Mw bonds are labeled as the M-band. Comparison of
+before (C-band) and aer (F-band) fermentation revealed that
+the C-band mainly consisted of molecules sized approximately
+31 kDa and higher, indicating that high-Mw polypeptides were
+present before fermentation, particularly major protein bands
+at approximately 80, 68, 48, and 37 kDa. The intensity of highMw bands was reduced and the major Mw bands were below 31
+kDa and primarily below 20 kDa, indicating that small molecules were successfully generated during fermentation.25
+3.5 Concentration and identication of the peptide in DA-P
+fractions
+The DA-P peptide subjected to the ultraltration processes had
+a peptide content of 83.91  1.71%. Aer ultraltration
+processes, the peptide percentage yields of its <1 kDa fraction
+was 45.84  1.37%, 1–3 kDa fraction was 32.44  2.78%, 3–5
+kDa fraction was 3.22  0.81% and >5 kDa fraction was 2.70 
+0.45%. These data suggest that mainly low molecular weight
+peptides existed in DA-P fractions.
+Amino acid composition was one of the factors inuencing
+the antioxidant activity of peptides.30 Data on the total and free
+amino acid composition of DA-P before ultraltration and its
+four ultraltration fractions is shown in Table 1. The percentage
+of total amino acids in DA-P peptide sample was the highest,
+followed by the <1 kDa fraction. The sum of amino acids in the
+other 3 fractions was higher than 40 g/100 g. In addition, the
+percentage of free amino acid in <1 kDa DA-P fraction were as
+high as 26.22  3.79. Since quantitative of antioxidative free
+amino acid existed in that fraction, we inferred that <1 kDa DA-P
+Fig. 1 (A) Extraction yield of DA-P after 8 Lactobacillus stains were used in solid-state fermentation from D. aphyllum. The 8 strains of
+Lactobacillus were Lactobacillus harbinensis (m1), Lactobacillus mucosae 1 (m2), Lactobacillus fermentum 1 (m4), Lactobacillus casei (m8),
+Lactobacillus rhamnosus (C1), Lactobacillus amylolyticus 5 (L5), Lactobacillus amylolyticus 6 (L6), and Lactobacillus acidophilus (mfm). The
+unfermented group was used as the control. (B) Activities of total protease, acid proteinase, neutral proteinase, and alkaline proteinase in fermented cultures containing DA-P at different times during L. amylolyticus L6 solid-state fermentation from D. aphyllum. The extracted yield of
+DA-P at different fermented times (C) during L. amylolyticus L6 solid-state fermentation from D. aphyllum. Data are the mean  standard
+deviations of three independent experiments.
+Fig. 2 SDS-PAGE of DA-P in Lactobacillus amylolyticus L6 solid-state
+fermentation from D. aphyllum. M – protein marker; C – prior to
+fermentation; F – after fermentation.
+This journal is © The Royal Society of Chemistry 2017 RSC Adv., 2017, 7, 48913–48924 | 48917
+Paper RSC Advances
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+Table 1 Total amino acid and free amino acid composition of DA-P and its ultrafiltration fractions. Mean
+ standard deviation(n ¼ 3)a
+Amino acid
+DA-P (g/100 g) <1 kDa fraction (g/100 g) 1–3 kDa fraction (g/100 g) 3–5 kDa fraction (g/100 g) >5 kDa fraction (g/100 g)
+Total Free Total Free Total Free Total Free Total Free
+a HAA-hydrophobic amino acids; NCAA-negatively charged amino acids; AAA-aromatic amino acids; Sum-total amino acids.
+48918 | RSC Adv., 2017, 7, 48913–48924 This journal is © The Royal Society of Chemistry 2017
+RSC Advances Paper
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+fraction may have had optimal antioxidant activity. Hydrophobic amino acids (HAAs), including Ala, Val, Ile, Leu, Tyr,
+Phe, Try, Pro, Met, and Cys, were reported to increase the
+solubility of peptides in lipids, resulting in the entry into target
+organs through hydrophobic associations or promoting relevant interaction with free radicals.31 In our study, the <1 kDa
+and 1–3 kDa fractions had high amino acid levels, indicating
+that those fractions may have high antioxidant activity in the
+DPPH free radical scavenging assay, which is more suited for
+samples with lipophilic antioxidants or those with a high lipid
+content.32 Furthermore, the <1 kDa and 1–3 kDa fractions
+contained higher levels of terms of negatively charged amino
+acids (NCAAs) and aromatic amino acids (AAAs), than the large
+molecular weight fractions. These amino acids have been
+proved to enhance the potency of radical scavenging activities
+owing to the abundance of their electrons that can stabilize
+electron-decient radicals and then quench free radicals.33
+Therefore, low molecular weight DA-P fractions are able to
+donate abundant protons than large molecular weight fractions, thereby leading to high free radical scavenging capability.
+In general, the high level of essential amino acids in all samples
+indicated that the DA-P peptide and its four fractions have high
+nutritional quality and optimal antioxidant activity.
+High resolution mass spectrometer, that is able to low the
+errors availably, is one of the effective instrument to characterize the sequences of polypeptides especially peptide in
+complex matrix. Under ESI-MS/MS conditions, normally the
+polypeptide will be protonated and the fragmentation will start
+at the amide bonds. Ions of b and y are the major fragment ions
+when the collision energy is below 200 eV due to the slight
+effects of low energy on breaking the chemical bonds in side
+chains.34 In terms of peptide identication, the ions of a, b, c, x,
+y, z and a, b, c/x, y, z-17/18(–NH3/–H2O) are the meaningful MS/
+MS data to determine the peptide characterization through
+processing the de novo sequencing by the Biolynx peptide
+sequencer.35,36 In our study, HPLC-MS/MS was carried out to
+determine the sequences of peptides in <1 kDa fraction and the
+results were performed in Table 2. In general, 21 types of
+peptide were identied in DA-P <1 kDa fractions, which
+molecular mass were all in the range from 300 to 600 Da. The
+small molecular peptides contained various antioxidative
+amino acids including NCAAs, AAAs and HAAs.
+3.6 Free radical scavenging ability of DA-P fractions
+Assays for assessing antioxidant capability are classied into
+two methods based on the different types of chemical reactions
+used. One method is based on hydrogen atom transfer, such as
+total radical trapping antioxidant parameters and oxygen
+radical absorbance capacity. The other method is based on
+electron transfer and includes FRAP, ABTS, and DPPH radicalscavenging assays.3 Hydrogen atom transfer-based reactions
+are related to radical chain-breaking antioxidant capability;
+hence, electron transfer-based assays are typically used to
+evaluate the antioxidant capability of peptides, which act as
+probes for monitoring reactions and indicate reaction
+endpoints.37 In our study, three traditional electron transferTable 2 Peptides identified by HPLC/MSMS in <1 kDa DA-P fractions
+Fig. 3 Ability of DA-P of different molecular weight fractions (I–IV are <1, 1–3, 3–5, and >5 kDa, respectively) to scavenge free radicals of (A)
+DPPH radical scavenging activity and (B) ABTS radical scavenging activity and (C) the ferric ion reducing antioxidative power. Unfermented and
+VC groups were the control and positive control groups, respectively. Data are mean  standard deviations of three independent experiments.
+This journal is © The Royal Society of Chemistry 2017 RSC Adv., 2017, 7, 48913–48924 | 48919
+Paper RSC Advances
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+based assays were performed for DA-P before and aer
+fermentation, as well as fractions with different ranges of
+molecular weights including <1, 1–3, 3–5, and >5 kDa aer
+ultraltration; the results are shown in Fig. 3. For all sample
+concentrations, antioxidant activity changed in a dosedependent manner. The scavenging rate of most concentrations was higher in the fermented groups than in the unfermented groups, indicating that during L. amylolyticus L6
+fermentation, proteolytic enzymes produced by the microbial
+populations efficiently hydrolyzed the protein into strong antioxidant peptides and free amino acids.12 Additionally, the
+scavenging rate of the before-ultraltration groups was generally higher than that of the aer-ultraltration fractions with
+molecular weights of 1–3, 3–5, and >5 kDa. These results indicate that maybe the constituent peptides in these molecular
+weight groups were mostly negatively charged and had synergistic effects.38
+In DPPH free radical scavenging assay, a stable centered
+nitrogen lipophilic free radical existed in DPPH. In the presence
+of a hydrogen-donating antioxidant, the reduction of DPPH free
+radicals would occur by inducing non-radical formation with
+DPPH binding hydrogen atoms.39,40 The mechanism of ABTS
+free radical scavenging assay is similar to that of DPPH radical
+scavenging assay, both based on single electron transfer.41 As
+shown in Fig. 3A and B, the scavenging rate of the <1 kDa
+fraction was higher than those of the parent proteins and
+before-ultraltration peptides, possibly because released lowmolecular weight peptides and amino acids served as extra
+sources of electrons and protons.42 Yang et al. reported that
+steric structure and molecular weight of the peptides, rather
+than their antioxidant amino acid content, might play an
+important role in scavenging DPPH radicals, which was
+consistent with our ndings.43 In terms of reducing power
+assay, the reduction of Fe3+ or ferricyanide complex to Fe2+ is
+carried out in the presence of a reductant, when evaluating
+which compounds in the extract samples are electron donors to
+reduce the oxidized intermediates of lipid peroxidation, and act
+as primary and secondary antioxidants.10 It was previously reported that different activities of peptides fractions were mainly
+because of different amino acid side-chain groups, since
+electron-dense areas are exposed as hydrolysis progresses, and
+electron donors convert free radicals into more stable products
+that terminate the radical chain reaction.10,44 Therefore, we can
+infer that the ferric reducing power depends on fermentation
+patterns and DA-P sizes. A greater ability to donate electrons
+was observed for fraction <1 kDa, which is concurrent with
+pervious results.42
+3.7 Attenuation of erythrocyte hemolysis by DA-P
+The <1 kDa DA-P fraction displayed the strongest chemical
+antioxidant ability was thus was further analyzed through
+AAPH-induced oxidative stress assays to evaluate human
+erythrocyte hemolysis. The hemolysis inhibition rate was
+related to the type and concentration of the sample, as shown in
+Fig. 4A. The inhibition rate of the control group on human
+erythrocyte hemolysis was the highest at 96.89  0.11; thus,
+erythrocytes existed in the absence of antioxidative stress, in
+which the corresponding red cell membrane showed a normal
+biconcave discoid morphology, according to SEM analysis
+(Fig. 5A). The inhibition rate following treatment with the <1
+kDa DA-P fraction was similar to that of the control, indicating
+that the peptide was nontoxic and did not inuence erythrocyte
+hemolysis. When treated with AAPH, oxidative stress on erythrocyte led to hemolysis with the lowest inhibition rate (28.4 
+0.68%); the normal prole was lost and spiny structures formed
+on the surface, as shown in Fig. 5B. During erythrocyte hemolysis at 37 C, alkyl radicals are generated through decomposition by AAPH; through the contribution of oxygen, peroxyl
+radicals form and cause lipid peroxidation and the loss of
+membrane integrity.17 Pretreatment with a gradient concentration of Mw < 1 kDa DA-P fraction showed greater inhibition of
+hemolysis of AAPH-induced erythrocytes in a dose-response
+manner. The protective effect of Mw < 1 kDa DA-P fraction on
+AAPH-induced morphological improvement in human
+Fig. 4 (A) Protective effects of DA-P fraction (molecular weight <1
+kDa) on AAPH-induced erythrocyte hemolysis activity. (B) Inhibitory
+activity of DA-P fraction (molecular weight <1 kDa, concentration of
+0–1.5 mg mL1
+) on AAPH-induced ROS overexpression in human
+erythrocytes. AAPH alone (200 mM) was used as the positive control
+group. Data are mean  standard deviations of three independent
+experiments.
+48920 | RSC Adv., 2017, 7, 48913–48924 This journal is © The Royal Society of Chemistry 2017
+RSC Advances Paper
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+erythrocytes was conrmed through SEM imaging, with
+membrane damage signicantly reduced in cells pretreated
+with 1.5 mg mL1 of the <1 kDa DA-P fraction before the
+addition of AAPH (Fig. 5C).
+Antioxidants can directly act as free radical scavengers or
+improve antioxidant systems. In this study, both antioxidative
+mechanisms were evaluated, including non-enzymatic and
+enzymatic antioxidant systems.
+DCFH-DA, a uorescein-labeled dye, is non-uorescent and
+can cross the plasma membrane into the cytoplasm and
+become hydrolyzed to form DCF, a highly uorescent
+compound, by nonspecic esterases.15 Therefore, under oxidative stress, uorescence increases. In our study, by evaluating
+the intensity of DCF uorescence, erythrocyte intracellular ROS
+generation was prevented by Mw < 1 kDa DA-P fraction antioxidative protective effects, as shown in Fig. 4B. Without treatment, DCF uorescence in the control group showed the lowest
+value of 224  5.11, while following AAPH treatment, DCF
+uorescence was very high at 480  10.68, indicating that AAPH
+increased oxidative stress. However, following pretreatment
+with different concentrations of the <1 kDa DA-P fraction, the
+intensity decreased in a dose-dependent manner. Particularly,
+a peptide concentration of 1.5 mg mL1 yielded the best antioxidative protection by reducing intracellular ROS generation.
+Because no signicant difference in DCF uorescence was
+observed for erythrocytes treated with the <1 kDa fraction alone
+compared with that in the control, the <1 kDa fraction was
+unable to generate ROS in erythrocytes. In summary, the free
+Fig. 5 SEM micrographs of normal samples (A), AAPH-treated erythrocyte samples (B) and erythrocytes pre-incubated with DA-P fraction
+(molecular weight <1 kDa) prior to AAPH treatment (C).
+Fig. 6 Changes in CAT (A) and MDA (B) content and enzyme activities of SOD (C), GSH-Px (D), GSSG (E), and GSH (F) in human erythrocytes.
+Erythrocytes were pretreated with DA-P fraction (molecular weight <1 kDa, concentration of 0–1.5 mg mL1
+) for 30 min prior to AAPH (200 mM)
+treatment for 2 h; the positive group was treated with 200 mM AAPH alone and control group was treated with 1.5 mg mL1 DA-P alone. Data are
+mean  standard deviations of three independent experiments.
+This journal is © The Royal Society of Chemistry 2017 RSC Adv., 2017, 7, 48913–48924 | 48921
+Paper RSC Advances
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+radical scavenger <1 kDa DA-P fraction inhibited intracellular
+AAPH-induced ROS generation in erythrocytes in a dosedependent manner.
+Excess ROS generation can cause lipid peroxidation, which
+directly increases MDA levels. Excess MDA negatively affects
+tumor promotion, cellular metabolism disruption, and cell
+membrane dysfunction. In our study, the MDA level is shown in
+Fig. 6B. The lowest level of MDA was 0.548  0.011 nm mg1
+protein in the control group without peptide or AAPH treatment, whereas under AAPH-induced oxidative stress, the MDA
+level was 1.831  0.068 nm mg1 protein. It is not surprising
+that Mw < 1 kDa DA-P fraction decreased the MDA level in
+a dose-dependent manner and was similar to the MDA level in
+the control group when the concentration of Mw < 1 kDa fraction
+was 1.5 mg mL1
+. Additionally, the MDA level in the Mw < 1 kDa
+fraction alone group (0.563  0.02 nm mg1 protein), which was
+similar to that in the control, indicated that Mw < 1 kDa fraction
+alone did not increase MDA levels. In general, Mw < 1 kDa DA-P
+fraction can prevent AAPH-induced MDA accumulation by
+decreasing ROS generation.
+To determine whether the enzymatic antioxidative system is
+present in erythrocytes, the activities of antioxidant enzymes
+including SOD, CAT, and GPx were evaluated. As shown in
+Fig. 6, the groups treated with AAPH alone showed very high
+enzyme activities, which were 368.02  10.68 U mg1 protein for
+CAT, 18.31  0.68 U mg1 protein for SOD, and 18.31  0.16 U
+mg1 protein or GPx, while the activities of CAT (Fig. 6A), SOD
+(Fig. 6C), and GPx (Fig. 6D) decreased steadily with increasing
+concentrations of <1 kDa DA-P fraction in a dose-dependent
+manner. Enzyme activities in the control groups were the
+lowest, with values of 96.05  5.11 U mg1 protein for CAT, 6.89
+ 0.11 U mg1 protein for SOD, and 5.48  0.12 U mg1 protein
+for GPx. In addition, enzyme activity levels in the group pretreated with Mw < 1 kDa fraction alone were similar to those of
+the control, indicating that the <1 kDa DA-P fraction itself did
+not increase oxidative-related enzyme activities. In conclusion,
+Mw < 1 kDa DA-P fraction modulated intracellular antioxidant
+enzyme activity, particularly at high concentrations.
+In the erythrocyte intracellular enzyme system, CAT converts
+hydrogen peroxide into oxygen and water.6 SOD catalyzes the
+conversion of highly reactive superoxide anion to less reactive
+oxygen and hydrogen peroxide through dismutation. Excess
+hydrogen peroxide can be reduced by CAT and GPx to prevent
+hydrogen peroxide from being converted into more active
+species such as hydroxyl radicals, which promote cell death.16,17
+Moreover, GPx catalyzes the conversion of glutathione from the
+reduced form GSH to the oxidized form GSSH. Circulating GPx
+can protect erythrocytes from oxidative damage by increasing
+GSH levels (Fig. 6E) and decreasing GSSG levels (Fig. 6F) aer
+pretreatment of erythrocytes with the >150 mg mL1 < 1 kDa DAP fraction.
+There are two mechanisms involved in maintaining antioxidative effects during erythrocyte hemolysis. First, antioxidants form a protective membrane with an electronegative
+outer surface around erythrocytes without promoting antioxidase and gene expression, preventing contact between free
+radicals and the plasma membrane to inhibit ROS generation.17
+Second, antioxidants directly quench the cellular antioxidant
+system.6 Since DA-P was puried to low-molecular weight
+peptide fractions <1 kDa via ultraltration, which functioned as
+a free radical scavenger in chemical oxidative reactions, we infer
+that the low-weight DA-P peptide fraction passed through the
+erythrocyte membrane and directly inhibited ROS generation
+and MDA formation induced by AAPH and also regulated
+Fig. 7 Possible intracellular antioxidant-detoxifying mechanisms of DA-P1 attenuating AAPH-induced oxidative stress by inhibiting ROS
+generation.
+48922 | RSC Adv., 2017, 7, 48913–48924 This journal is © The Royal Society of Chemistry 2017
+RSC Advances Paper
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+intracellular antioxidant enzyme activity. The details of the
+protective effects of <1 kDa DA-P fractions during oxidative
+erythrocyte hemolysis induced by AAPH are shown in Fig. 7.
+4 Conclusions
+In this study, antioxidative peptides were extracted from D.
+aphyllum aer optimizing Lactobacillus solid-state fermentation. Aer identifying the optimum strain for fermentation as L.
+amylolyticus L6, an RSM model was used to optimize fermentation conditions, which were a material-to-solvent ratio of 1 : 4
+(w/v), inoculum size of 21%, and fermentation time of 46 h. DAP yield obtained under the optimized fermentation conditions
+was 18.23  0.046%. Analysis of amino acid composition indicated high antioxidative potential of the low molecular weight
+DA-P fractions and HPLC-MS/MS analysis proved that 21
+different types of polypeptides existed in the <1 kDa DA-P
+fraction. Through the ET-based assay, the <1 kDa DA-P fraction showed satisfactory antioxidative abilities in chemicalbased antioxidative assays, including DPPH and ABTS free
+radical scavenging assays and the reducing power assay, in
+which that fraction could scavenge free radicals to prevent
+oxidation. Changing the concentration of DA-P altered antioxidative capabilities because of the increasing antioxidative
+peptide content, with the <1 kDa DA-P fraction yielding the best
+results. According to the results of the human erythrocyte
+AAPH-induced hemolysis assay, the <1 kDa DA-P fraction
+quenched the intracellular antioxidant system by inhibiting
+ROS generation, preventing MDA formation, and regulating
+cellular antioxidative enzyme activity, including SOD, CAT, and
+GPx. Additionally, GPx increased GSH content and decreased
+GSSG content. Therefore, the novel antioxidative <1 kDa fraction isolated from D. aphyllum aer L. amylolyticus L6-solidstate optimized fermentation may be useful in functional
+foods and complementary medicine. This study provides
+a foundation for the further investigation on peptides of Dendrobium, particularly D. aphyllum.
+Conflicts of interest
+There are no conicts to declare.
+Acknowledgements
+This study was nancially supported by the Open Project
+Program of Science and 429 Technology Planning Project of
+Guangdong Province (Grant No. 2016A040402020430 and No.
+2016B010121014).
+References
+1 A. Sila and A. Bougatef, Antioxidant peptides from marine
+by-products: isolation, identication and application in
+food systems. A review, J. Funct. Foods, 2016, 21, 10–26.
+2 S. Sanjukta and A. K. Rai, Production of bioactive peptides
+during soybean fermentation and their potential health
+benets, Trends Food Sci. Technol., 2016, 50, 1–10.
+3 B. H. Sarmadi and A. Ismail, Antioxidative peptides from
+food proteins: a review, Peptides, 2010, 31, 1949–1956.
+4 J. Dziuba, P. Minkiewicz and D. Nał˛ecz, Biologically active
+peptides from plant and animal proteins, Pol. J. Food Nutr.
+Sci., 1999, 8/49, 3–16.
+5 N. Rajapakse, E. Mendis, W. K. Jung, J. Y. Je and S. K. Kim,
+Purication of a radical scavenging peptide from
+fermented mussel sauce and its antioxidant properties,
+Food Res. Int., 2005, 38, 175–182.
+6 W. Liao, Z. Ning, L. Chen, Q. Wei, E. Yuan, J. Yang and J. Ren,
+Intracellular antioxidant detoxifying effects of diosmetin on
+2,2-azobis(2-amidinopropane)dihydrochloride (AAPH)-
+induced oxidative stress through inhibition of reactive
+oxygen species generation, J. Agric. Food Chem., 2014, 62,
+8648.
+7 M. Alaiz, M. Beppu, K. Ohishi and K. Kikugawa, Modication
+of delipidated apoprotein B of low density lipoprotein by
+lipid oxidation products in relation to macrophage
+scavenger receptor binding, Biol. Pharm. Bull., 1994, 17, 51.
+8 J. Lee, N. Koo and D. B. Min, Reactive Oxygen Species, Aging,
+and Antioxidative Nutraceuticals, Compr. Rev. Food Sci. Food
+Saf., 2004, 3, 21–33.
+9 H.-S. Hwang and J. K. Winkler-Moser, Antioxidant activity of
+amino acids in soybean oil at frying temperature: structural
+effects and synergism with tocopherols, Food Chem., 2017,
+221, 1168–1177.
+10 B. Moktan, J. Saha and P. K. Sarkar, Antioxidant activities of
+soybean as affected by Bacillus-fermentation to kinema,
+Food Res. Int., 2008, 41, 586–593.
+11 C. Hu, C. Hsiao, S. Huang, S. Fu, C. Lai, T. Hong,
+A. Hweihsien Chen and F. J. Lu, Antioxidant Activity of
+Fermented Soybean Extract, J. Agric. Food Chem., 2004, 52,
+5735.
+12 S. Ranamukhaarachchi, L. Meissner and C. Moresoli,
+Production of antioxidant soy protein hydrolysates by
+sequential ultraltration and nanoltration, J. Membr. Sci.,
+2013, 429, 81–87.
+13 D. Huang, B. Ou and R. L. Prior, The chemistry behind
+antioxidant capacity assays, J. Agric. Food Chem., 2005, 53,
+1841.
+14 L. K. Macdonaldwicks, L. G. Wood and M. L. Garg,
+Methodology for the determination of biological
+antioxidant capacity in vitro: a review, J. Sci. Food Agric.,
+2006, 86, 2046–2056.
+15 G. Wang, Z. Lei, Q. Zhong, W. Wu, H. Zhang, T. Min, H. Wu
+and F. Lai, Enrichment of caffeic acid in peanut sprouts and
+evaluation of its in vitro effectiveness against oxidative
+stress-induced erythrocyte hemolysis, Food Chem., 2017,
+217, 332–341.
+16 J. Wang, B. Sun, Y. Cao and Y. Tian, Protection of wheat bran
+feruloyl oligosaccharides against free radical-induced
+oxidative damage in normal human erythrocytes, Food
+Chem. Toxicol., 2009, 47, 1591–1599.
+17 M. Zhang, Z. Hong, H. Li, F. Lai, X. F. Li, Y. Tang, M. Tian
+and W. Hui, Antioxidant Mechanism of Betaine without
+Free Radicals Scavenging Ability, J. Agric. Food Chem., 2016,
+64, 7921–7930.
+This journal is © The Royal Society of Chemistry 2017 RSC Adv., 2017, 7, 48913–48924 | 48923
+Paper RSC Advances
+Open Access Article. Published on 17 October 2017. Downloaded on 9/18/2020 10:51:00 AM. This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence. View Article Online
+18 C. G. Zou, N. S. Agar and G. L. Jones, Oxidative insult to
+human red blood cells induced by free radical initiator
+AAPH and its inhibition by a commercial antioxidant
+mixture, Life Sci., 2001, 69, 75–86.
+19 T. B. Ng, J. Liu, J. H. Wong, X. Ye, S. C. W. Sze, T. Yao and
+K. Y. Zhang, Review of research on Dendrobium, a prized
+folk medicine, Appl. Microbiol. Biotechnol., 2012, 93, 1795–
+1803.
+20 X. Zhang, J. Xu, J. Wang, N. Wang, H. Kurihara, S. Kitanaka
+and X. Yao, Bioactive Bibenzyl Derivatives and Fluorenones
+from Dendrobium nobile, J. Nat. Prod., 2007, 70, 24.
+21 Y. Fan, X. J. He, S. Zhou, A. Luo, T. He and Z. Chun,
+Composition analysis and antioxidant activity of
+polysaccharide from Dendrobium denneanum, Int. J. Biol.
+Macromol., 2009, 45, 169.
+22 Y. Cui, J. K¨onig, I. Leier, U. Buchholz and D. Keppler,
+Hepatic uptake of bilirubin and its conjugates by the
+human organic anion-transporting polypeptide 2 (symbol
+SLC21A6), J. Biol. Chem., 2001, 276, 9626–9630.
+23 C. Wang, Q. Wang and J. Tian, Optimization of enzymatic
+production of oligopeptides from apricot almonds meal
+with neutrase and N120P, Int. J. Mol. Sci., 2010, 11, 4952–
+4961.
+24 E. D. N. S. Abeyrathne, H. Y. Lee, C. Jo, J. W. Suh and
+D. U. Ahn, Enzymatic hydrolysis of ovomucin and the
+functional and structural characteristics of peptides in the
+hydrolysates, Food Chem., 2016, 192, 107.
+25 B. M. Kimatu, L. Zhao, B. Yuan, G. Ma, W. Yang, P. Fei and
+Q. Hu, Antioxidant potential of edible mushroom (Agaricus
+bisporus) protein hydrolysates and their ultraltration
+fractions, Food Chem., 2017, 230, 58–67.
+26 L. You, J. Ren, B. Yang, J. Regenstein and M. Zhao,
+Antifatigue activities of loach protein hydrolysates with
+different antioxidant activities, J. Agric. Food Chem., 2012,
+60, 12324–12331.
+27 Q. L. Luo, Z. H. Tang, X. F. Zhang, Y. H. Zhong, S. Z. Yao,
+L. S. Wang, C. W. Lin and X. Luo, Chemical properties and
+antioxidant activity of a water-soluble polysaccharide from
+Dendrobium officinale, Int. J. Biol. Macromol., 2016, 89, 219.
+28 W. Liao, Y. Lu, J. Fu, Z. Ning, J. Yang and J. Ren, Preparation
+and Characterization of Dictyophora indusiata
+Polysaccharide-Zinc Complex and Its Augmented
+Antiproliferative Activity on Human Cancer Cells, J. Agric.
+Food Chem., 2015, 63, 6525.
+29 Y. Fei, L. Liu, D. Liu, L. Chen, B. Tan, L. Fu and L. Li,
+Investigation on the safety of Lactobacillus amylolyticus L6
+and its fermentation properties of tofu whey, LWT–Food
+Sci. Technol., 2017, 84, 314–322.
+30 J. O. Onuh, A. T. Girgih, R. E. Aluko and M. Aliani, In vitro
+antioxidant properties of chicken skin enzymatic protein
+hydrolysates and membrane fractions, Food Chem., 2014,
+150, 366.
+31 Q. Zhao, H. Xiong, C. Selomulya, X. D. Chen, H. Zhong,
+S. Wang, W. Sun and Q. Zhou, Enzymatic hydrolysis of rice
+dreg protein: effects of enzyme type on the functional
+properties and antioxidant activities of recovered proteins,
+Food Chem., 2012, 134, 1360–1367.
+32 R. N. R. T. J. Mustafa Ozgen, Modied 2,2-Azino-bis-3-
+ethylbenzothiazoline-6-sulfonic Acid (ABTS) Method to
+Measure Antioxidant Capacity of Selected Small Fruits and
+Comparison to Ferric Reducing Antioxidant Power (FRAP)
+and 2,20
+-Diphenyl-1-picrylhydrazyl (DPPH) Methods, J.
+Agric. Food Chem., 2006, 54, 1151–1157.
+33 B. H. Sarmadi and A. Ismail, Antioxidative peptides from
+food proteins: a review, Peptides, 2010, 31, 1949.
+34 B. Hern´andez-Ledesma, A. D´avalos, B. Bartolom´e and
+L. Amigo, Preparation of antioxidant enzymatic
+hydrolysates from alpha-lactalbumin and betalactoglobulin. Identication of active peptides by HPLCMS/MS, J. Agric. Food Chem., 2005, 53, 588–593.
+35 B. Ma, K. Zhang, C. Hendrie, C. Liang, M. Li, A. Dohertykirby
+and G. Lajoie, PEAKS: powerful soware for peptide de novo
+sequencing by tandem mass spectrometry, Rapid Commun.
+Mass Spectrom., 2003, 17, 2337.
+36 L. J. Hohmann, J. K. Eng, A. Gemmill, J. Klimek, O. Vitek,
+G. E. Reid and D. B. Martin, Quantication of the
+compositional information provided by immonium ions
+on a quadrupole-time-of-ight mass spectrometer, Anal.
+Chem., 2008, 80, 5596–5606.
+37 Z. Ana, E. Mariaj and F. Ana, ORAC and TEAC assays
+comparison to measure the antioxidant capacity of food
+products, Food Chem., 2009, 114, 310–316.
+38 W.-D. Chiang, M.-J. Tsou, Z.-Y. Tsai and T.-C. Tsai,
+Angiotensin I-converting enzyme inhibitor derived from
+soy protein hydrolysate and produced by using membrane
+reactor, Food Chem., 2006, 98, 725–732.
+39 B. Yang, M. M. Zhao, J. Shi, N. Yang and Y. M. Jiang, Effect of
+ultrasonic treatment on the recovery and DPPH radical
+scavenging activity of polysaccharides from longan fruit
+pericarp, Food Chem., 2008, 106, 685–690.
+40 J. H. Cummings and G. T. Macfarlane, The control and
+consequences of bacterial fermentation in the human
+colon, J. Appl. Bacteriol., 1991, 70, 443.
+41 P. Wongputtisin, C. Khanongnuch, P. Pongpiachan and
+S. Lumyong, Antioxidant activity improvement of soybean
+meal by microbial fermentation, Res. J. Microbiol., 2007, 2,
+577–583.
+42 P. Liu, M. Zhao, Y. Cao, Y. Lu, M. Liang, Z. Huang and J. Ren,
+Purication and identication of antioxidant soybean
+peptides by consecutive chromatography and electrospray
+ionization-mass spectrometry, Rejuvenation Res., 2014, 17,
+209–211.
+43 B. Yang, H. Yang, J. Li, Z. Li and Y. Jiang, Amino acid
+composition, molecular weight distribution and
+antioxidant activity of protein hydrolysates of soy sauce
+lees, Food Chem., 2011, 124, 551–555.
+44 X. Wang, H. Chen, X. Fu, S. Li and J. Wei, A novel antioxidant
+and ACE inhibitory peptide from rice bran protein:
+biochemical characterization and molecular docking study,
+LWT–Food Sci. Technol., 2017, 75, 93–99.

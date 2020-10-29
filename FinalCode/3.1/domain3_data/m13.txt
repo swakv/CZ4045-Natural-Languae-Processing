@@ -1,0 +1,208 @@
+Urinary glicosaminoglycans levels in women with urinary
+tract infection and non urinary tract infection
+H P Pasaribu1*
+, A Hanifa, R Z Tala1
+, E Ardiansyah1
+, R Y Simanjuntak1
+ and I H
+Effendy1
+1Department of Obstetrics and Gynecology, Haji Adam Malik General Hospital,
+Faculty of Medicine, Universitas Sumatera Utara, Medan, Indonesia
+*Corresponding author: partogipasaribu@yahoo.com
+Abstract. UTI is an infection that occurs in the urinary tract due to the proliferation of a
+microorganism. Female is fourteen times more vulnerable to UTI than male, because their
+urethra is shorter. Bladder epithelium is coated with a thin layer of glycosaminoglycans which
+act as a non-specific anti-adherence factor and nonspecific defense mechanisms against
+infection and can be found in the urine. An analytic study with cross sectional approach was
+conducted in 46 patients (23 with UTI and 23 non UTI) from June 2016 to determine
+differences in levels of urinary glycosaminoglycans between two groups. Urine samples were
+taken and tested for UTI and non UTI strips test. Laboratory examination of urine GAGs levels
+using ELISA kit for Human Glycosaminoglycans, then tabulated and analyzed using SPSS.
+The result showed no significant differences in the characteristics of women between two
+groups. There are significant differences in the mean levels of urinary GAGs in women with
+UTI compared with Non-UTI (69.74 ± 21.34; 21.39 ± 2.61 mg/l; p <0.001). There was no
+significant relationship between the sexual status and UTI incidence, with low odds ratio
+values and no significant difference in the mean of urinary glicosaminoglycans level based on
+sexual status.
+1. Introduction
+Urinary Tract Infection (UTI) is an infectious disease commonly found in all age groups. But, some
+groups of people are more prone to UTIs than others. UTI is broadly defined as an inflammatory
+response against bacterial invasion of the urothelium, which usually associated with bacteriuria and
+pyuria. Bacteriuria is the presence of bacteria in the urine. UTI can happen anywhere along the urinary
+tract. Women are fourteen times more prone to suffer from UTI than men. UTIs are more common in
+women who are sexually active and after menopause.[1,2]
+Strong evidence was found that among infectious diseases in the urinary tract such as UTI, cystitis
+and painful bladder syndrome, interstitial cystitis that pathophysiology associated with the early stages
+of the disease lose the mucus layer of glycosaminoglycans (GAGs), which is the beginning of the
+inflammatory process. Bladder epithelium is coated with a thin layer of GAGs that act as non-specific
+anti-adherence factors and non-specific defense mechanism against infection and can be found in the
+urine. Injured and not healed GAGs layers can cause bladder epithelial damage and chronic
+neurogenic inflammation.[3]
+2
+1234567890
+ICTROMI IOP Publishing
+IOP Conf. Series: Earth and Environmental Science 125 (2018) 012046 doi :10.1088/1755-1315/125/1/012046
+2. Materials and Methods
+2.1. Location, time and population
+This was a cross-sectional study to know the difference of GAGs in patients with Urinary Tract
+Infections (UTI) and non-Urinary Tract Infection (Non-UTI). The research was conducted in RSUP H.
+Adam Malik,and RSU Pirngadi Medan from June 2016 until the number of samples was fulfilled.The
+populations were all inpatient and outpatient women in RSUP Dr. H. Adam Malik and RSU Pirngadi
+Medan, with Urinary Tract Infection as a diagnosis or complaint.The samples were part of the
+population whom GAGs levels were measured. Samples were chosen by using a randomized sampling
+technique based on the inclusion and exclusion criteria.
+2.2. Data collection
+After having anexplanation of the research purpose, benefits, procedures, and signed agreement to
+participate, interviews were conducted by using questionnaires to determine the researcher required
+data. As much as 20cc mid-stream urine was taken from theparticipant for urine test strips UTI and
+non-UTI, then levels of GAGs were measured by using ELISA kit for Human Glycosaminoglycan
+(GAGs), which will be examined in the laboratory. Data were collected and analyzed statistically.
+2.3. Ethics
+Ethical clearance was approved by Ethical Committee of Medical Faculty, Universitas Sumatera
+Utara. Informed consents were obtained from all test participants.
+2.4. Data analysis
+Data analysis and statistical tests were computerized. The results of the research will be presented in
+frequency distribution table. To analyze the differences in the levels of GAGs, astatistical testwas
+conducted with unpaired t-test for normal distribution data. If the data were not normally distributed,
+Mann-Whitney test would be conducted with a confidence level of 95% (α = 0.05).
+3. Results
+Based on table 1, the characteristics of research subjects based on age in the UTI women group were
+mostly at the age of 26-30 years (56.5%) whereas in the Non-UTI group,mostwere at the age of 20-25
+years (56.5%). By education level, UTI women group were mostly low-educated (56.5%) as well as in
+Non-UTI group (52.2%). Based on sexual status, the UTI women group were most sexually active
+(73.9%) as well as in Non-UTI group (60.9%). Based on employment, the samples in UTI women
+group are mostly employed (52.2%) whereas in the Non-UTI group,most are unemployed (65.2%).
+Based on the statistical test by Chi-Square test, there were no significant differences between the UTI
+women characteristics with non-UTI women characteristics (p>0.05).
+Table 1. Characteristics of research subjects by age, education, sexual status, and employment.
+Characteristic Cases (UTI) Control
+Sexual Status 0.345
+ICTROMI IOP Publishing
+IOP Conf. Series: Earth and Environmental Science 125 (2018) 012046 doi 
+aChi-Square test
+From table 2, it was found that the level of urine glycosaminoglycans was not normally distributed,
+so that the Mann-Whitney test was conducted to determine the differences between the mean of urine
+glycosaminoglycanslevel on women with UTI and Non-UTI. The mean of urine glycosaminoglycans
+level on women with UTI was 69.74 ± 21.34 mg/l the mean of urine glycosaminoglycans level on
+women with non-UTI was 21.39 ± 2.61 mg/l. Statistically, there was a significant difference on the
+mean of urine glycosaminoglycans level on women with UTI and Non-UTI. The hypothesis of this
+research, which stated that there were significant differences in urine glycosaminoglycans level on
+women with Urinary Tract Infection and Non-Urinary Tract Infection, is accepted.
+Table 2. The differences in urine glycosaminoglycans level of women with urinary tract
+ infection and non urinary tract infection.
+Research
+Group
+Glicosaminoglycans level (mg/l) P
+a
+n Mean SD Median Value
+UTI 23 69.74 21.34 67.8
+Non-UTI 23 21.39 2.61 21.3 0.001
+Sum 46
+Mann- Whitney Test
+As shown in table 3, Chi-square test was conducted to determine the relationship between sexual
+statuses with UTI incidence. Based on statistical analysis by chi-square test, there was no significant
+relationship between sexual statuses with UTI incidence (p<0.345). From the table, it was known that
+the odds ratio value was 1,821. It meant that a patient with sexually active status has the possibility to
+suffer UTI by 1.8 times.
+Table 3. The relationship between sexual statuses with UTI incidence.
+Sexual
+Status
+Case
+(UTI)
+Control
+(Non-UTI) P
+Value OR
+n % n %
+Active 17 73.9 14 60.9 0.345 1.821 Inactive 6 26.1 9 39.1
+Table 4 indicates that according to the sexual status, sexually active women group has higher
+urinary glycosaminoglycans level as 74.2588 ± 20.62071 mg/l compared with sexually inactive with
+urinary glycosaminoglycans level 56.9500 ± 19.44580 mg/l. But statistically, there was no significant
+difference on the mean of women urinary glycosaminoglycans who suffered UTI based on sexual
+activity.
+Table 4. The differences of mean of glycosaminoglycansurine level on women UTI based
+ on sexual statuses.
+Sexual
+Activities
+Glicosaminoglycans level (mg/l) P
+N Mean SD Median Value
+Active 17 74,2588 20,62071 74,30 0,123
+4
+1234567890
+ICTROMI IOP Publishing
+IOP Conf. Series: Earth and Environmental Science 125 (2018) 012046 doi :10.1088/1755-1315/125/1/012046
+Inactive 6 56,9500 19,44580 49,85
+4. Discussion
+The results of this research found no significant difference between the UTI women characteristics
+with non-UTI women characteristics (p>0.05). This explains that characteristics of age, education
+level, sex, and employment status have no influence on levels of GAGs. The literature states that UTIs
+are more often found in women who are sexually active and after menopause. In this research, the
+women were still in theproductive and premenopausal state.
+Protective factors that counter UTI in women is the estrogen-dependent mucous membranes
+formation of GAGs in the bladder. This mucus has a function as an antimicrobial. During menopause,
+estrogen levels decline, and this protection system disappeared so that women who had experienced
+menopause will be prone to UTI. Protection against UTI isformed by the urine nature which is acidic
+and then acts as an antibacterial. Bladder epithelial layer also serves as adefense mechanism against
+infection. This layer also specifically regulate bladder function and contribute to the pathogenesis of
+various bladder diseases.[3,4,5]
+Results of laboratory analysis of the urinary GAGs levels showed that the mean GAGs level of
+women with UTI group was 69.74 ± 21.34 mg/l. It was higher than the mean GAGs level in women
+with Non-UTI group (21.39 ± 2.61 mg/l). Statistical test showed a significant difference between the
+mean levels of GAGs in women with UTI and non-UTI groups. This explains the GAGs level was
+significantly increased in the urine of women with urinary tract infections.
+The bladder has avariety of natural defense mechanism against infection. Bacteria are taken out by
+the bladder through the urine. Low urine pH inhibits the bacteria growth. Urothelium also maintains
+bladder from infection by recognizing and preventing bacteria adhesion. GAGs layer, umbrella cells,
+tight junctions, which covers the top layer of the urothelium, form the highly impermeable epithelial
+surface. GAGs have a role in the immune system stimulation by triggering the activation and
+leukocytes movement to inflammatory tissue. GAGs also act as chemokines carrier and growth
+factors.[6,7]
+GAGs layer also known as the mucosal layer, is an important factor in cellular permeability. It is
+composed of GAGs layer and proteoglycans which cover thesurface of the lumen urothelium. Damage
+to this layer causes urothelial cells exposure which is located in the base and may cause bladder
+dysfunction.[6]
+The same research results reported by George Gray, who conducted research on 662 samples and
+found increased levels of GAGs in 14 samples.[9]
+In the Le PhucThuy and colleagues research, thenormal value of total urinary GAGs in adults is 1.8
+± 0.6 g / mol creatinine with 16 people samples.[10]
+David C. Wei conducted research for measurement of GAGs in 20 normal individuals and 25
+patients with UTI, then found the levels of GAGs in normal individuals is 19.9 ± 2.5, and the GAGs
+levels in patients with UTI is 30.4 ± 5.1.[11]
+While Gousse A et al., who conducted research on 14 patients with UTI and 4 normal individuals,
+found GAGs levels in normal individuals are 39.5 ± 11.2 μg/mg Cr, while the GAGs levels in apatient
+with UTI are 75 ± 15.4 μg/mg Cr. Yara et al. conducted a measurement of GAGs in 25 normal
+individuals where they found the levels of GAGs are 20.16 – 22.50 mg/L.[12]
+5. Conclusion
+Statistically, there was no significant difference found between UTI women characteristics and nonUTI women characteristics (p>0.05). The difference in mean levels of urinary glycosaminoglycans
+was statistically significant in UTI women than in non-UTI women.
+5
+1234567890
+ICTROMI IOP Publishing
+IOP Conf. Series: Earth and Environmental Science 125 (2018) 012046 doi :10.1088/1755-1315/125/1/012046
+There was no significant relationship between the sexual status and UTI incidence (p>0.05), with
+low odds ratio values and no significant difference in the mean of urinary glycosaminoglycans level
+based on sexual status.
+References
+[1] Rahima F 2015 A review on urinary tract infection in pregnancy Int. J. Pharma. Res. Rev. 4(2)
+26-33
+[2] Mehnert S A 2005 Diagnosis and management of uncomplicated urinary tract infections
+(University of Oklahoma College of Medicine) Am. Fam. Physic.72(3)
+[3] Damianorocco 2011 The role of sodium hyaluronate and sodium chondroitin sulphate in the
+management of bladder disease Ther. Adv. Urol. 3(5) 223-32
+[4] Schnarr J and Smaill F Asymptomatic bacteriuria and symptomatic urinary tract infections in
+pregnancy Eur. J. Clin. Invest. 38
+[5] Sukandar E 2009 Infeksi saluran kemih Buku ajar ilmu penyakit dalam edisi V vol 2, ed A W
+Sudoyo, et al. (Jakarta: Internal Publishing) pp 1008-14
+[6] Ablove T 2013 Prevention of recurrent urinary tract infection by intravesical administration of
+heparin: a pilot study Ther. Adv. Urol. 5(6) 303-9
+[7] Francisca C M 2012 Glycosaminoglycan storage disorders: a review Hindawi Publishing
+Corporation Biochem. Res. Int. 2012 Article ID 471325
+[8] Cervigni M 2014 Glycosaminoglycan-replenishment therapy: rationale for use and current
+evidence Eur. Med. J. Urol.
+[9] Sajjad R M 2013 Overactive bladder syndrome and the potential role of prostaglandins and
+phospodiesterases: an introduction Nephro. Urol. Monthly 5(4) 934-44
+[10] Phucthuy L 1992 A new quantitative assay for glicosaminoglycans Clinica Chimica Acta 212
+17-26
+[11] David C W 2000 The association of elevated urinary total to sulfated glicosaminoglycan ratio
+and high molecular mass hyaluronic acid with interstitial cystitis J. Urol. 163(5) 1577–83
+[12] Yara M M 1989 Urinary excretion of glycosaminoglycan in normal and stone forming subjects
+Kidney Int. 36 1022–8

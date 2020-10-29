@@ -1,0 +1,738 @@
+THIR UTTU US009950465B2 MUUTTAMALLITTUR
+( 12 ) United States Patent
+Linnell et al . ( 10 ) Patent No . : US 9 , 950 , 465 B2
+( 45 ) Date of Patent : Apr . 24 , 2018
+( 54 ) VOXEL 3D PRINTER ( 56 ) References Cited
+( 71 ) Applicant : X Development LLC , Mountain View , CA ( US )
+U . S . PATENT DOCUMENTS
+8 , 326 , 024 B2
+8 , 666 , 142 B2
+12 / 2012 Shkolnik et al . 3 / 2014 Shkolnik et al .
+( Continued ) ( 72 ) Inventors : Jeff Linnell , Woodside , CA ( US ) ; Brandon Kruysman , San Francisco , CA ( US ) ; Jonathan Proto , San
+Francisco , CA ( US ) FOREIGN PATENT DOCUMENTS
+@ ( 73 ) Assignee : X Development LLC , Mountain View , CA ( US )
+DE
+EP
+19957370 3 / 2002
+2218571 8 / 2010
+( Continued )
+( * ) Notice : Subject to any disclaimer , the term of this
+patent is extended or adjusted under 35
+U . S . C . 154 ( b ) by 0 days . OTHER PUBLICATIONS
+( 21 ) Appl . No . : 15 / 814 , 061
+International Preliminary Report on Patentability issued in Interna
+tional Application No . PCT / US2015 / 067386 , dated Jul . 13 , 2017 , 11
+pages .
+( 22 ) Filed : Nov . 15 , 2017 ( Continued )
+Primary Examiner — Timothy Kennedy
+( 74 ) Attorney , Agent , or Firm — Fish & Richardson P . C . ( 65 ) Prior Publication Data
+US 2018 / 0071982 A1 Mar . 15 , 2018
+Related U . S . Application Data
+( 63 ) Continuation of application No . 14 / 588 , 039 , filed on
+Dec . 31 , 2014 , now Pat . No . 9 , 840 , 045 .
+( 51 ) Int . CI .B29C 67 / 00 ( 2017 . 01 ) B29C 64 / 245 ( 2017 . 01 )
+( Continued )
+( 52 ) U . S . CI . CPC . . . . . . . . . B29C 64 / 245 ( 2017 . 08 ) ; B29C 64 / 129
+( 2017 . 08 ) ; B29C 64 / 20 ( 2017 . 08 ) ;
+( Continued )
+( 58 ) Field of Classification Search
+CPC . . . B29C 64 / 129 ; B29C 64 / 245 ; B29C 64 / 277 ;
+| B29C 64 / 286 ; B29C 64 / 386 ; B29C
+64 / 393
+See application file for complete search history .
+( 57 ) ABSTRACT
+An example system includes : ( i ) a resin container defining a
+cavity ; ( ii ) a plurality of rods extending from an inner base
+surface of the resin container and into the cavity ; ( iii ) a
+plurality of light sources arranged to emit radiation into the
+plurality of rods , such that when the cavity contains liquid resin , radiation passing through a given one of the rods cures
+liquid resin that surrounds the given rod ; and ( iv ) a control
+system configured to : ( a ) receive data specifying a three
+dimensional structure ; ( b ) determine a shape for a layer of a
+plurality of layers that collectively form the three - dimen
+sional structure ; and ( c ) determine one or more of the light
+sources that correspond to the shape of the layer ; and ( d ) form the layer by operating the one or more determined light
+sources that correspond to the shape of the layer .
+20 Claims , 10 Drawing Sheets
+200
+106
+108 V 102
+??????????????? TILWIWIWIT Vilniuwww . ????????????????????? .
+1 .
+| US 9 , 950 , 465 B2
+Page 2
+( 51 ) | Int . CI . B20C64 / 386 ( 2017 . 01 )
+B20C64 / 20 ( 2017 . 01 )
+B33Y 3000 ( 2015 . 01 )
+B33Y10 / 00 ( 2015 . 01 )
+B33V 5002 ( 2015 . 01 )
+B29C 64 / 129 ( 2017 . 01 )
+B29L 31 / 60 ( 2006 . 01 )
+( 52 ) U . S . CI . CPC . . … . … . . . . B20C64 / 386 ( 2017 . 08 ) ; B33 10 / 00
+( 2014 . 12 ) ; B33Y 30 / 00 ( 2014 . 12 ) ; B33Y 50 / 02
+( 2014 . 12 ) ; B29L 2031 / 608 ( 2013 . 01 )
+( 56 ) References Cited
+U . S . PATENT DOCUMENTS
+8 , 801 , 418 B2
+2014 / 0277661 Al
+8 / 2014 E1 - Siblani et al . 9 / 2014 Amadio et al .
+FOREIGN PATENT DOCUMENTS
+S63312129
+H0433835
+WOWO 2011098609
+P
+12 / 1988
+2 / 1992
+8 / 2011
+OTHER PUBLICATIONS
+International Search Report and Written Opinion issued in Interna
+[ tional Application No . PCT / US2015 / 067386 , dated Jul . 7 , 2016 , 13
+pages . 
+U . S . Patent Apr . 24 , 2018 Sheet 1 of 10 US 9 , 950 , 465 B2
+- 110
+CONTROL SYSTEM
+102 -
+???????? ???? ????? ?????? ??? ? ????? ???? ??????? ????? ????? ????? ??????????? ?????? ??? ? 49?
+RAY .COM????? ???? ?? ??
+105 T | | | | | | | | | | | | | | |
+106 -iiiiiiiii 106 iiiiiiiiif
+* _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ FIG .1AELLETICLEL
+108 |? ! ! ! ! ! ! ! ! !
+/ lllllll ?? / 103
+?????? ????? ????? ???? ?????? ???? ?????? ????? ?????? ???? 100 /FOL ?? ????
+ke??? ? 52 ????? ???? ????? ??? ???? 
+FIG .18
+US 9 , 950 , 465 B2
+5 ? 4 & % b??x?
+» 225?s???aasaah???????
+???? %# 4 ???? % b1 % ? ???????yyi?????
+?xx??
+??? % 8??Y???y?? ?????
+????????????
+# y?????? ? ©??????? ??????
+?? # # # ?????yyze?????
+# # #
+?
+?
+?
+/
+??????? ? ?55 ??????
+¥£ \ ??????e?xx?? ??fkK6b2b4 % ?Y?rbe ???? ?¥¥¥¥£95?? ? e > # ?? % 85 % ???????455x?
+???? $ 4 % 455 45?
+?????????? % 958???
+14 ? % ???¥???????
+?
+?¢ ? ???? ## ? % 95??k?3??
+? ? ??¥‰?? ?? % ????xx??
+??gkx » t???y¥??Y?x? ?
+? » ??
+# # % ??
+????¥ & > # * # y?? % 95 % ?e¥ ?¢ > # * ## 4 # % ) ? * ?????x
+?
+??? % 89 # * # ?yy????FX?? epi?Y??? % 95 % 993?x?
+? ??? ??¥¥???? ???? %
+????¥ ???????? % 8b¥?? ??? % 95 & ???x???
+?fb4 ??f????????????? % > ?? ???eyyyy??
+?4 : 48?? ??yyY??ytics ? * * * ©??M?????????e???ye?
+?? % 84 % bb???ok?????€ $ 55 # % 9xx?
+* * * ?? * ( 2x + Ye????y?¢?x????
+s? ??babke????ie????? ??¢ % b??? $ $ 5????kkk
+?? ? ? ? % b5 % eyyi?????
+44 & 54 bxx? ?
+?????? % # 4t????t % 9xx??
+??4 % b5 % b?????????????e > # # ?????y ( ????
+?¢ > # * # 4 # * ? % 95 4455x??
+?¢??? % D8 4 4 55 * ? ? ? # # # # # # # 5 # ?v?x? ?
+{ { ??i??? ' Ye?ys ???????i??y y¥???????
+??3 : 5¥¥?? % x?x?
+????¢? # * # 4? ?? % 95 % ???
+?
+: 5 ‹ ‹ e
+* * # & * * * # 4 % ) ? ie??? * * * # # ??? 48 : 51
+* * * # # ????? )?589 ???????ie?? % e
+' * * © * *
+* * % ? ??6 * * ?b5 % 95 % e??? % Misc b4 ¢? e3?????? % bb ?** * % ©??A??gexc????? b2 A45 ?? ?
+?e????????? ??????????? ? ???????? % 95 % e % 95??? ???x???? & # 5 # * # % ?y?? % E4 % ?????? ** * ??yyee
+???? * # 4 # ? ??? ? ? ???x??
+?t????? ) 4 : 4911? ?
+% 8A8 % DYit?? * * ??ys? ?
+?? * * * ? * * * * ????????
+??????? » ¥¥? % 95 * 4 % AFe? ????¥ % 85 # * # * # ???x
+????e??? * & % $ 5 ftyxx? ? ????? ??????? ???k??
+??????? * # 4 % 55 * # * * ? ?
+? % 5 exc $ ???8 % 95 % e?y??
+?? *? ?4? % eyyi???ve
+?
+?ce??¥?b???? % ??? % 95 % e?
+????¢??????????? ? % b5 % e??????? ????? % ? ??? % bh??
+Me > ¥¥£85
+?? A %25 > # * ? #?????????????i??? ??? ??
+?e % b2 % ????? se?????? ??????????? ?¢•??? ???y??? ( ??????? ??
+A % AE % a?
+??????????????eaki??? 2
+kkkkf ??????ies? ? ?? * * % bk * * * * d ©? % ? ¥y??????e? # * # # ???e????e 3244551 ? 15 * . * * * ?5 $5 ???????he??????
+? ???d????????deo????? ? ????? ¥???????ea?? % ??Ye?? * * * % 935€??? * bxten????y??????? ? 40xyz??? ? ? % # # ????y ??? €3????e???be > # # # #
+??i??? ??¥¥£?? ?????????? ????i?y?? »? * & * ??? ??? # #* # ©??Y? % ?ft ? ????? % 5¥¥¢?? ? * * * ?? * % A6 % b2 * * ©???e? .
+???? ht ? ?????8855€ % ??Ye?? ?kyyy?? ' * * % $ 955e9??? 54?y ¢?????eb? ???
+Sheet 2 of 10
+.
+?????? » ?????? * # 43 #* ? ??
+??? % ? b5 ? * * ©???x?????????e % bxx¢???????
+???????????c %# * # % b?? ? kk % 2 ? 91cf???e > # # ??y ?y *
+?eft % » * * * ?t???? ? ?? ??? ? * * A???243? % ???A ?? A % ???4 ? 43 ) ?k? ? . ????????ye???????? Megah?? 5 ? % A6 %9F % ??????? # ? ??e %????????ic? * * * % b3f8 % br? ? ¢????? )
+. ? ? ???????ax? ?zexe?? % ????? ? * ?syyys5qqd ? 2????? ' ' 4 ???y5€????? % 95?x bxx???? ?????? t??be???? } ?? ? ???294x42???
+# # # ?k % b6 %% ??itky D??88 % by?y??? ' ?? ? < ???
+» # * # & 5 # * # ???yxge?? ?? * * ¢ % ??? * e?? ??????€
+? % 88 % b5 % bxxe? «
+???
+?e?????? ???y?????e ? ??ces?? ??? > # % ?? ??55?? ???ye55€????A
+?A4 % 9b % ???? ? ixek ' ?? . ?????? ' ye Aw????¢¥???? ??????? ) 2 ???ayy??????? ( x??? ??x * ?????
+? ???? ?? 2x??c??4?ie???? keb??????e # # * # * # * # * ??????????? % ??????95 : ?xx¢?? ( « ? * * * ?e??¥ }
+E52E4???????? % 9E % ???????
+Apr . 24 , 2018
+?YExe????¢?????x?x ?t??????? ** * ©?ys€ $ 94944
+?f? { ??? bytxy?r??? .???????ex?Y?E?????? “ [ ?????? * * * * )
+? ? * *
+???¢sv?? ? ?en???????xc # # # # » ?? * * ??????? ? * ??? ?????? ? ????????
+??? ??? { s53ge?????? ????xe?? ???????eo )
+Oo
+* * * * ?? * ????M * ???Ne??? ¥£????tyle??ties ??? ? * ? * ???es ) )
+?systyreet?55€???? syxx? :3 ‹ ¢???Me?? ????
+x?x % 55?? 3A4 % B???????????? ??????????? .
+? % b?????ew¥¥§¥?? ???????????????zera ??oy?
+????
+- 102
+??f????? ? * ? * & e??? % $ ????? ? ? ?????s????y????? ??????????? ?? ???????xy ? ?? ‹ ?? ) * * * % b5 * 663 ? 5 ? ?????
+55 %
+b8b ????y??? .
+????????8???????i????? ?? ????e 4 $ » ? # * Ad » % ?????e e % > # ?? Ke????e > # # ? % % 95 95?? % 8 % ? 9x???
+??? ???????¥???? * ????
+???????¢??t?t????? ) 4 : 51?????? ??? ??? ??
+4 % ) * ¢?? ???
+??????????? ??????? :
+????94 * * * % D? * * €514 % ??f e?????? c??? €????€955d # ?¢????? 5 93?i
+??????? * * * % b?? ??¥¥??? ?? * * % bb % 51? ? » ?? % b?
+? * * ??? * * 05????? ???
+* * * * # * * * * * £££ % # # # # ??
+?? ????????????
+¥??????????? ? ?????M? ?
+???????? ??h????????¢ ????????????? ? ?? ? ????? ????????????? *
+??? ?
+???????????? ? # * % ?? * * ?? * ?ikx @ ?? ? ? ? % ??
+???xe????? > # * # 43 #* # ??
+??he?????d % e??¥??????
+???be?????? $ $ % 554 %) * * * % D? * * €514 * # ? & ?Y¥ » ? ??? 55
+??????? ?????????he¥¥???46 * * * ) ???? % b1 % a?? % 8 > # * # ? % b?
+?ie??? ? ??? ? %
+?? # * # ?????????????
+???????a???? ??????? ????????? - ????????
+?????oh¢???¢ # * # 4 % ?
+t? % b4 % %
+?????????be ?????? ep?? ? c ? 3 # * # 4 % b?
+??????M¢ # # # # # ????
+U . S . Patent
+???
+% 94 % ? $ { ? % b2 % ?????
+?????????? * * est? ?
+????? ?% 8 : 5 # * # 43 ## ??
+?h? » ?M¢????? ?????
+* *
+????????? 8b¥¥? ??? » ????¥ > ¥???? ????????e > ¥¥ b66 ???? $ 3?? * * * ??44 ?? >
+# 4??????? xey¥¥??
+??????14 % 8b¥¥? » ???????pi? ? » # ??
+??????????¢??? % b4?? ????a??ee¥§¥ %85 % ?????
+???????4 % # # # ???•8?? ????? * ? + % > > ???? ?????
+??be???? $ 4 444 ?????M¢??? % b4 % < 4
+?????? 4 * 44?f c % D?????
+* * ??? % ???? » # * # ? % b?
+??????? * * €¥s¥‰¥ { ??
+& % ? ???? ?? % 8 % b5
+* ?fest2445
+?????e??k *
+??????? * *
+????? ?¢142 % 35????
+????? * ( * # * # & ?????? ??? ??? $ $ ????? % b? ????? ?M ? ?
+?? * * * % b44 : 53? ? ? ???? 
+U . S . Patent Apr . 24 , 2018 Sheet 3 of 10 US 9 , 950 , 465 B2
+} 200 ? ?? | huriiiiiiiii E ????
+w / AAAAAA
+FIG . A
+iiiiiiiiiiiiii |! ????????? ????????????? ?
+MiniMiur .+ ver +
+-
+??
+FIG . 2B 
+U . S . Patent Apr . 24 , 2018 Sheet 4 of 10 US 9 , 950 , 465 B2
+105
+ZOL24 LEIE AAAAAAF : RYTMITT : PRINTING
+FIG . 2C
+230
+1106
+OXXXXXXXXXXXXXXXXXXXXXXXX
+AUSSURE iiiiiiiiiiii 72102 MMMMMM CUM . TIMI
+DOLOR
+wangwwww
+FIG . 2D 
+U . S . Patent Apr . 24 , 2018 Sheet 5 of 10 US 9 , 950 , 465 B2
+~
+~ -
+??? ) 102
+???????????????
+FIG . 2E
+250
+| TL®
+??????????????? ???????????? 102
+???? .
+103
+FIG . 2F 
+atent Apr . 24 , 2018 Sheet 6 of 10 US 9 , 950 , 465 B2
+106
+A / 102
+iiiiiii in 7
+FIG . 3A
+106
+A / 102
+104
+| Es "
+.
+.
+Finni .
+- ' ' ' ' ' Puiiiiiiiii
+FIG . 3B 
+atent Apr . 24 , 2018 Sheet 7 of 10 US 9 , 950 , 465 B2
+320 } 90
+: : : : : : : : : 102
+108
+L
+12 .
+01
+' '
+? iiii ?????????????? .iii - TIMTIMOLOTO if
+FIG . 30
+???
+? ???????????????????????????? ????????????????????????????? ???????????????????????????? "
+"
+??? ,
+FIG . 3D 
+3D Modeling Application 450
+3D Modeling GUI 452
+U . S . Patent
+3D ModelModel Prcessing Module 454
+Segmented - 3DModel
+Robot Control Module 456
+Apr . 24 , 2018
+monnnnnnnnnn
+wwwwwwww w
+mwRobot Control Signalsammanston
+TRITID
+Robot Control Signals
+Image Coordination Module 458
+como
+Signals .Control Image
+Sheet 8 of 10
+Image Control Signals
+3D Printing GUI 460
+US 9 , 950 , 465 B2
+FIG .4
+U . S . Patent Apr . 24 , 2018 Sheet 9 of 10 US 9 , 950 , 465 B2
+500
+502
+RECEIVE DATA SPECIFYING A THREE - DIMENSIONAL OBJECT
+DETERMINE A SHAPE FOR EACH OF A
+PLURALITY OF LAYERS BASED ON THE RECEIVED DATA
+506
+DETERMINE LIGHT SOURCES
+TO OPERATE BASED ON DETERMINED SHAPE OF THE LAYER
+OPERATE DETERMINED LIGHT SOURCES
+TO CURE A LAYER OF THE THREE - DIMENSIONAL OBJECT
+510
+LIFT BASE PLATE UPWARD UNTIL LOWER SURFACE
+OF THE CURED LAYER IS POSITIONED AT THE TOP ENDS OF THE RODS
+FIG . 5 
+U . S . Patent Apr . 24 , 2018 Sheet 10 of 10 US 9 , 950 , 465 B2
+600
+602
+RECEIVE DATA SPECIFYING A THREE - DIMENSIONAL OBJECT
+604
+DETERMINE A SHAPE FOR EACH OF A
+PLURALITY OF LAYERS BASED ON THE RECEIVED DATA
+DETERMINE LIGHT SOURCES
+TO OPERATE BASED ON DETERMINED SHAPE OF THE LAYER
+608
+OPERATE DETERMINED LIGHT SOURCES
+TO CURE A LAYER OF THE THREE - DIMENSIONAL OBJECT
+610
+LIFT BASE PLATE UPWARD UNTIL LOWER ENDS
+OF THE RODS ARE POSITIONED AT TOP SURFACE OF THE CURED LAYER
+FIG . 6 
+US 9 , 950 , 465 B2
+VOXEL 3D PRINTER configured to cure a hexagonal voxel , such that " honey comb ” layers of various shapes may be formed . CROSS - REFERENCE TO RELATED In one aspect , a system includes : ( i ) a resin container
+APPLICATIONS defining a cavity , wherein the cavity is defined in part by an
+5 inner base surface of the resin container ; ( ii ) a plurality of
+This application is a continuation application of U . S . rods extending from the inner base surface and into the
+application Ser . No . 14 / 588 , 039 , filed on Dec . 31 , 2014 , cavity ; ( iii ) a plurality of light sources arranged to emit
+which is incorporated herein by reference . radiation into the plurality of rods , such that when the cavity
+contains liquid resin , radiation passing through a given one
+BACKGROUND 10 of the rods cures liquid resin that surrounds the given rod ;
+and ( iv ) a control system configured to : ( a ) receive data
+Three - Dimensional ( “ 3D ” ) printing is an additive manu - specifying a three - dimensional structure ; ( b ) determine a
+facturing process in which successive layers of material are first and a second shape for a first and a second layer , laid down on top of each other to form a solid 3D object . respectively , from a plurality of layers that collectively form
+Over time , various types of 3D printing process have been 15 the three - dimensional structure ; ( c ) determine one or more
+developed , including extrusion - based 3D printing ( e . g . , of the light sources that correspond to the first shape ; ( d )
+fused deposition modeling ( FDM ) ) , and processes based on form the first layer by operating the one or more determined
+light polymerization , such as stereolithography ( SLA ) and light sources that correspond to the first shape to cure liquid digital light processing ( DLP ) , among others . resin in the first shape ; ( e ) determine one or more of the light In stereolithography processes , a 3D structure is built up 20 sources that correspond to the second shape ; and ( f ) form the
+one layer at a time , with each layer being formed by second layer onto a surface of the first layer by operating the
+exposing a photo - reactive resin to an ultraviolet ( UV ) light one or more light sources that correspond to the second
+source that cures the resin . Note that stereolithography may shape to cure liquid resin in the second shape .
+also be referred to as optical fabrication , photo - solidifica - In another aspect , a system includes : ( i ) a resin container
+tion , and / or solid free - form fabrication and solid imaging . 25 defining a cavity , wherein the cavity is defined in part by an
+More specifically , in a typical stereolithography process , inner base surface of the resin container ; ( ii ) a plurality of
+a digital 3D model of an object is created by a user via the rods extending from a surface of the base plate and into the
+software interface of a 3D printing application . The 3D cavity ; ( iii ) a plurality of light sources arranged to emit
+printing application then slices the 3D model with a set of radiation into the plurality of rods , such that when the cavity
+horizontal planes . Each slice of the 3D model can then be 30 contains liquid resin , radiation passing through a given one
+converted to a two - dimensional mask image , such that the of the rods cures liquid resin that surrounds the given rod ;
+3D model is represented as a sequence of two - dimensional ( iv ) a base plate suspended from above the resin container
+mask images , which each outline the shape of the corre - and configured to adhere to cured resin ; and ( v ) a control
+sponding layer from the 3D model . The mask images system configured to : ( a ) receive data specifying a three
+sequentially projected onto a photo - curable liquid or pow - 35 dimensional structure ; ( b ) determine a first and a second
+ders resin surface while light is projected onto the resin to shape for a first and a second layer , respectively , from a
+cure it in the shape of the layer . Alternatively , instead of plurality of layers that collectively form the three - dimen
+using masks , each slice of the 3D model may be representing sional structure ; ( c ) determine one or more of the light
+by a two - dimensional image in the shape of the slice , so that sources that correspond to the first shape ; ( d ) form the first
+a projector can project a sequence of such two - dimensional 40 layer by operating the one or more determined light sources
+images onto the resin surface to form an object correspond that correspond to the first shape to cure liquid resin in the
+ing to the digital 3D model . first shape ; ( e ) determine one or more of the light sources
+that correspond to the second shape ; and ( f ) form the second
+SUMMARY layer onto a surface of the first layer by operating the one or
+45 more light sources that correspond to the second shape to
+Example embodiments relate to three - dimensional ( 3D ) cure liquid resin in the second shape . printing systems and methods . 3D printing using stereo These as well as other aspects , advantages , and alterna
+lithography can be a time - consuming process . More specifi - tives will become apparent to those of ordinary skill in the
+cally , in a typical stereolithography process , a considerable art by reading the following detailed description with ref
+amount of time is spent directing a concentrated light source 50 erence where appropriate to the accompanying drawings . across along a path to cure each layer of a 3D object . Further , it should be understood that the description pro Example embodiments may allow for more rapid curing of vided in this summary section and elsewhere in this docu
+each layer of a 3D object by providing rods through which ment is intended to illustrate the claimed subject matter by light is passed through to cure resin surrounding the lumi - way of example and not by way of limitation . nous rods . 55
+For instance , in an example embodiment , a 3D printer BRIEF DESCRIPTION OF THE DRAWINGS
+may use stereolithography to form each layer by selectively
+curing the specific voxels that form the layer ' s shape . To do FIG . 1A shows a side view of a three - dimensional printer
+so , the 3D printer may include multiple light sources , with system , according to an example embodiment . each light source being arranged to project light through a 60 FIG . 1B shows a top - down view of a three - dimensional
+corresponding rod that extends into a vat of curable liquid printer system , according to an example embodiment . resin . The rods may be arranged in a grid such that light that FIGS . 2A to 2F illustrate example operations of a three
+is emitted from each rod can cure a voxel of a pre - dimensional printer system , according to an example determined shape around the rod . Further , the grid of rods embodiment . may be arranged such that neighboring rods will cure voxels 65 FIGS . 3A to 3D illustrate example operations of a three
+that abut one another , so that the cured voxels connect and dimensional printer system , according to another example collectively form a layer . For instance , each rod may be embodiment . 
+US 9 , 950 , 465 B2
+FIG . 4 shows example program logic modules for inter Anoy Aother example 3D printer may be configured with a
+facing with and controlling a three - dimensional printer resin - filled container and a base plate . However , in this
+system . example embodiment , the rods may extend downwards from
+FIG . 5 is a flowchart illustrating a three - dimensional the base plate into the resin . Initially , the base plate may be
+printing method , according to an example embodiment . 5 submerged into the resin such that the rods are in contact
+FIG . 6 is a flowchart illustrating a three - dimensional with the bottom of the container . The control system may printing method , according to another example embodiment . cure voxels to form a layer of a 3D object in a similar
+manner as described above , which , after curing , may be
+DETAILED DESCRIPTION separated from the rods and rests at the bottom of the
+10 container within the resin . The base plate may then be lifted
+The following detailed description describes various fea upwards until the lower ends of the rods are positioned at the
+tures and functions of the disclosure with reference to the top of the initially cured layer of resin . The process may then
+accompanying Figures . In the Figures , similar symbols be repeated , forming subsequent layers that adhere to the
+typically identify similar components , unless context dic - layers beneath it to form the 3D object within the resin . tates otherwise . The illustrative apparatuses described herein 15 By providing a two or more of light - emitting rods within
+are not meant to be limiting . It will be readily understood the resin , the example 3D printers described above may
+that certain aspects of the disclosure can be arranged and allow for more rapid formation of 3D objects ; e . g . , as
+combined in a wide variety of different configurations , all of compared to a process where solid layers . Forming a layer which are contemplated herein . from voxels as described above may require considerably
+20 less time compared to traditional methods that cure layers of
+I . OVERVIEW resin using concentrated light sources . For instance , because
+the cured voxels are partially hollow , a smaller volume of
+Example embodiments relate to three - dimensional print resin may be required to form each layer , thus allowing for
+ing systems and methods . In particular , an example 3D a shorter curing time . In addition , depending on the sizes of
+printer may include a robotic arm or another robotic device 25 the rods , each layer formed may be thick ( i . e . tall ) , allowing that suspends a base plate above a container filled with a for quick formation of large 3D objects . Further , because
+photo - reactive resin . The container may include rods multiple voxels are formed simultaneously , each layer may extending upwards from the base of the container . In some be formed in a fraction of the time compared to the time
+implementations , the rods are arranged adjacent to each required to direct a concentrated light source along the shape
+other to form a grid or a lattice . Light sources operated by 30 of the layer .
+a control system may distribute electromagnetic radiation It should be understood that the possible benefits
+through the rods , which causes resin surrounding the rods to described above and elsewhere herein are not required . cure . Further , other benefits are possible . The control system may receive data that represents a 3D
+structure . The control system may divide the three - dimen - 35 II . ILLUSTRATIVE 3D PRINTER SYSTEMS
+sional structure into layers , which when stacked , form the
+3D structure . Each layer may then be divided into and / or FIG . 1A shows a 3D printer system 100 according to an
+approximated as voxels . A “ voxel ” may be understood as a example embodiment . The 3D printer system 100 includes a
+three - dimensional space having a pre - defined shape and resin container 102 and light sources , such as light source
+volume . As such , each layer may be formed from voxels that 40 104 , coupled to rods , such as rod 103 , which extend from the
+are within the same plane and collectively form the desired base of the resin container . The light sources are operable to
+shape of that layer . emit electromagnetic radiation , which passes through the
+More specifically , to form an initial layer ( e . g . a first rods and into the resin 105 . The radiation may cure a portion layer ) of a 3D object , the base plate of a 3D printer may be of the resin 105 surrounding the rods through which the
+lowered into the resin , such that the base plate contacts the 45 radiation is passing . Further , the 3D printer system 100
+tops of the rods . The control system may then operate one or includes a robotic arm 106 having the base plate 108
+more ultraviolet ( UV ) light sources to emit radiation into attached thereto . their corresponding rods . The UV radiation from each The robotic arm 106 may be operable to position the base
+source passes through each corresponding rod and into the plate 108 above the resin container 102 , and to move the
+surrounding resin , which cures the surrounding resin to form 50 base plate 108 with respect to the resin container 102 with
+a voxel around the rod . The voxels that are cured around at least one degree of freedom ( upwards and downwards ) . In
+multiple rods collectively make up the first layer of the 3D some implementations , the robotic arm may be able to
+object . Specifically , the layer may include adjacent voxels - operate in at least three degrees of freedom to allow for
+which may be formed as a continuous segment of cured lateral movement of the base plate 108 parallel to the base
+resin and / or individual voxels . When cured , the voxels 55 of the resin container 102 , in addition to upwards movement
+may adhere to the base plate , and the base plate may be away from resin container 102 and downwards movement
+moved upward so that the next layer of voxels may be towards the resin container 102 . In some implementations , formed on the lower surface of the first layer . the control system may be able to set the orientation of the
+In particular , the base plate and the adhered layer of cured base plate and / or the translation of the base plate . Other
+resin may be moved upwards until the bottom of the cured 60 implementations may allow for additional degrees of free
+layer is positioned at the tops of the rods . The control system dom as well . may then operate the 3D printer to cure one or more voxels Note that a 3D printer system can mount a base plate to
+to form a subsequent layer ( e . g . a second layer ) of the 3D various types of robotic devices , and is not limited to robotic
+structure , which is adhered to the preceding layer above it . arms . For example , the base plate could be mounted to a
+The process of lifting a cured layer from the rods and curing 65 two - axis head unit , or an articulated robotic arm having four
+subsequent layers may then be repeated for each layer to degrees of freedom . Other example robotic devices are also
+form the 3D structure below the previously - cured layer . possible . 
+US 9 , 950 , 465 B2
+The base plate 108 may be implemented as an end effector ing mechanism such as a vibration motor may be attached to
+on the robotic arm 106 . Other gripping and / or clasping the resin container or to the rods to shake loose the cured
+robotic mechanisms may also be implemented to hold one or resin from the rods . As another example , cooling elements , more of the layers of cured resin and lift them from the resin such as heat pumps , may be coupled to the rods which , in
+105 . Further , the robotic arm 106 may be programmable , 5 response to being cooled , causes the rods to thermally
+such that a set of control instructions can be generated to contract and separate from the cured resin . Other tempera
+move the robotic arm 106 in a manner that results in a ture - changing elements may also be coupled to the rods to
+creation of a particular object on the base plate 108 . heat and / or cool the rods . As yet another example , gas
+A base plate 108 may vary in size and / or shape , depending outlets may be positioned around the rods at the base of the
+upon the particular embodiment . Further , the base plate 108 10 container 102 that aid in separating the cured resin from the
+may be formed from various materials or combinations of rods by discharging gas into the resin . In some implemen
+materials , depending upon the particular embodiment . Gen - tations , the base of the resin container 102 may allow the
+erally , the surface of the base plate 108 may be formed from rods to be rotated in place or to be retracted into the base of
+any material to which a base layer of resin will adhere when the resin container 102 . Further , the rods may be at least
+cured . Further , since the base plate holds the object being 15 partially coated in a non - stick coating , such as polytetra
+printed from above , the size , the weight distribution , the fluoroethylene ( PTFE ) or another low - friction coating or
+shape , and / or the adhesive properties of the base plate ' s lubricant . surface that faces the resin container , may be designed so as The rods may be made of one or more materials that allow
+to provide support for certain loads ( e . g . , so that the base light emitted from the light sources to pass through . The rods
+plate can hold objects up to a certain weight , shape , and / or 20 may be configured to diffuse the light to evenly distribute
+size ) . light passing through them . In some implementations , the
+The resin container 102 may be of various sizes and / or rods may be made of a transparent or translucent material , shapes , depending upon the particular embodiment . In some such as glass or a semi - transparent plastic . The rods may be
+cases , the resin container 102 may be large enough to allow sanded , etched , coated in a substance , or any combination
+the 3D printing system to form an entire 3D object within the 25 thereof to diffuse the light passing through them . The rods
+resin 105 . may be solid or partially hollow . The rods may also be of any
+The light sources may be any controllable light source size and / or , depending on the particular embodiment . that emits electromagnetic waves from the appropriate The rods may take on a variety of shapes . FIG . 1B depicts region of the electromagnetic spectrum for curing the resin a top - down view 120 of the 3D printer system 100 , accord
+105 . In some embodiments , the light sources may be con - 30 ing to a particular embodiment . In this embodiment , the
+trollable to emit ultraviolet ( UV ) light . The brightness of rods , such as rod 103 , are shaped as hexagonal columns . The
+each light source may also be varied individually , either in rods shown in FIG . 1B are arranged as a two - dimensional
+a continuous analog fashion or using digital techniques , such lattice ( more specifically , as a chamfered hexagonal tiling ) .
+as pulse - width modulation . When forming a given layer , the During operation , radiation passing through a given rod
+intensity of the light passing through each rod may be 35 cures the resin in the channel surrounding that rod to form
+individually controlled . Note that the “ brightness ” may refer a voxel . Thus , the thickness of the voxels corresponds to the
+to the luminous intensity of the light . The light sources may space within the channels surrounding the rods . be embedded within the rods , positioned above or below the Any number of rods may be present within a particular 3D
+rods ( depending on the particular embodiment ) , or may be printer system . The rods may be shaped as cylindrical tubes , provided from a remote location and directed into the rods 40 triangular columns , rectangular prisms , or octagonal col
+using an optical fiber or other waveguide . Some example umns . Other rod shapes are also possible . The arrangement light sources include light - emitting diodes ( LEDs ) , gas of the rods may vary depending on the particular rod shape
+discharge lamps , lasers , or incandescent bulbs covered in a and / or embodiment . For instance , the rods may be arranged
+UV filter . Other light sources may also be used . as a two - dimensional grid . Other arrangements are also
+Note that a light source that is emitting radiation is 45 possible . Further , one or more of the rods may be omitted
+represented in the figures as a thick arrow pointing outwards from the lattice or grid , depending upon the particular from the light source . For example , in FIG . 2A , every light implementation . Other examples are possible . source depicted is emitting light . In FIG . 2B , none of the The build volume of an example system , such as 3D
+light sources depicted are emitting radiation . As another printer system 100 , may be defined at least in part by the
+example , some of the light sources depicted in FIG . 2C are 50 range of movement and / or the reach of the robotic device to
+emitting radiation . While the light emitted is represented as which the base plate is mounted . For example , in FIG . 1 , the
+an arrow , light or other electromagnetic radiation emitted build volume may be defined by the range of movement of
+from the light sources may not necessarily be directional . In the robotic arm 106 . Other examples are possible . some instances , the radiation is diffused ( i . e . the light source Further , example embodiments , such as the 3D printer " glows " ) so that it is not directed to any particular location 55 system 100 , may allow for the creation of objects that are
+or direction . The radiation diffusion may be achieved by much larger than those that can be created in a 3D printer using a wide - angle light source or by coating , sanding , where the build volume is defined by the dimensions the pan
+and / or etching the light source itself . Additionally or alter - ( e . g . , the surface area of resin container 102 ) and / or by the
+natively , the rod may be etched , sanded , coated , or otherwise surface area of the base plate . configured to diffuse the radiation from the light source . Any 60 In some example embodiments , the robotic arm 106 may
+combination of finishing processes and / or other diffusion be operable to move laterally to offset the position of one or
+techniques may be performed in order to diffuse radiation more voxels in a particular layer . FIGS . 2E and 2F , which are
+emitted by the light source and passing through the rods into discussed in more detail below , depict an example lateral
+the resin surrounding the rods . offset between layers . Mechanisms or devices may be coupled to the base of the 65 In another embodiment , the rods may extend downwards
+resin container 102 or to the rods themselves to assist in from the base plate 108 . A 3D printing system according to
+separating cured resin from the rods . For instance , a vibrat - this embodiment may form voxels in a similar manner as 
+US 9 , 950 , 465 B2
+describe above by curing resin surround the rods by passing sources are operated to cure the voxels that form the
+light emitted from light sources through them . The voxels subsequent layer . As a result of the lateral offset , each voxel
+may then be separated using at least one of the techniques in the subsequent layer may adhere to portions of multiple
+described above . In some cases , the initial layer may adhere voxels of the initial layer . In this manner , more fine - grained to the base of the container or a separate platform placed at 5 differences ( i . e . “ sub - voxel ” divisions ) between layers may
+the bottom of the container . be formed . In other embodiments , the rods may be position at an FIG . 2F depicts a lifting operation 250 that separates the
+angle within a resin container . Alternatively , the rods may be laterally - offset voxels of the subsequent layer from the rods . positioned along a side of the resin container 102 . Other rod The lifting operation may be similar to the lifting operations
+placements may also be possible . 10 210 and 230 . The operations of FIGS . 2E and 2F may be repeated , III . OPERATIONS OF AN EXAMPLE 3D using different amounts of lateral offset for each offset . Note
+PRINTER SYSTEM that , while the offset depicted in FIGS . 2E and 2F are shown
+in one dimension , the lateral offset may be a two - dimen
+FIGS . 2A to 2F illustrate example operations of a 3D 15 sional offset . printer system , according to an example embodiment . More The lateral offset operations shown in FIGS . 2E and 2F
+specifically , FIGS . 2A to 2D illustrate a sequence in which may be performed multiple times for a particular layer
+two layers of a 3D object are formed according to an ( which may be referred to herein as “ multi - phase offset " or
+example method , such as method 500 . FIGS . 2E and 2F “ multi - phase alignment ' ) to form offsets within the particu illustrate an example operation involving a lateral offset 20 lar layer . In some cases , the shape of a layer may be more
+between formed layers . accurately formed if voxel offsets are incorporated within
+FIG . 2A depicts a 3D printer 200 during a curing opera that layer . Inter - layer offsets described herein may allow for
+tion for an initial layer . The base plate 108 is positioned such a 3D printing system to simulate printing at resolutions that
+that it is in contact with the rods . In the curing operation , are higher than would otherwise be allowed for with a grid
+each of the light sources can selectively emit radiation that 25 or lattice of rods . cures resin surrounding each of rods to form voxels . For As an example operation , a subset of light sources may
+example , voxel 202 may be cured around rod 103 . An initially be operated to cure one or more voxels that repre additional voxel ( not labeled ) can be selectively cured sent a portion of the layer ' s shape . The rods corresponding around each of the other rods shown in FIG . 2A . Voxel 202 to the initially - operated light sources may then retract into
+and other voxels that are cured parallel to voxel 202 may 30 the base of the resin container , separating the cured voxels
+collectively form an initial layer , which adheres to the base from the rods and allowing the base plate to move without
+plate 108 . breaking off the cured voxels adhered thereto or damaging FIG . 2B depicts the 3D printer 200 during a lifting the rods . Then , the base plate is shifted laterally by a
+operation that separates the voxels of the initial layer from prescribed amount . After positioning the base plate , another
+the rods . Prior to beginning the lifting operation , the light 35 subset of light sources may be operated to cure one or more
+sources are turned off to prevent undue curing during the voxels that represent the other portion of the layer ' s shape . lifting operation . As shown in FIG . 2B , the voxels of the Collectively , the two portions may comprise the layer . The
+initial layer are adhered to the base plate 108 , which is lifted base plate may then be lifted , removing the cured voxels
+upwards , separating the formed voxels from the rods around from the rods and completing the formation of the layer . which they formed . The 3D printer 200 may maneuver the 40 Alternatively , subsequent portions of the same layer may be
+base plate 108 such that the bottom of the initial layer is performed by retracted rods and shifting the base plate as
+positioned at the top ends of the rods . In some cases , this described above . distance is predetermined based on a known fixed height of Other rod arrangements allowing for inter - layer offsets
+the rods . may be possible . For instance , the rods may be controllable
+FIG . 2C depicts a 3D printer 200 during a curing opera - 45 to move about within a predefined . As one example , each rod
+tion for a subsequent layer . After the lifting operation is may be individually operated to move along a track , so that
+completed , some of the light sources are turned on and emit a particular spacing between each of rods may be designated
+radiation to cure resin , forming subsequent layer . The voxels for a given layer . Other rod arrangements that allow for
+of the subsequent layer , such as voxel 204 , may adhere to inter - layer offsets may also be possible .
+voxels of the previously - formed initial layer during the 50 Note that the voxels depicted in FIGS . 2A to 2F , as well
+curing operation . Note that , during the curing operation as those shown in FIGS . 3A to 3D , are shown to have a
+shown in FIG . 2C , the base plate 108 is no longer submerged particular shape and thickness . In other example operations , within the resin 105 . the shape and thickness of voxels may vary . Additionally , the
+FIG . 2D depicts a 3D printer 200 during a lifting opera - voxels are shown to include at least 3 sides , forming from
+tion that separates the voxels of the subsequent layer from 55 resin surrounding the sides and top of the rods . The voxels
+the rods . The lifting operation shown in FIG . 2D is per - are shown in this manner for explanatory reasons . In some
+formed similarly to the lifting operation shown in FIG . 2B . implementations , radiation may pass through the sides of the
+The operations depicted in FIGS . 2A to 2D may be rods , but are prevented from being passed through the top repeated any number of times in order to form any number end of the rods . In such implementations , the voxels would
+of layers of voxels . 60 form around the rods , but not above or below the rods , such
+FIG . 2E depicts a 3D printer 200 during a curing opera - that the voxels formed are columns having a hollow center . tion for a subsequent layer involving a lateral offset . The FIGS . 3A to 3D illustrate example operations of a 3D
+curing operation shown in FIG . 2E is similar to the curing printer system , according to another example embodiment . operation shown in FIG . 2C , except that prior to operating Operations depicted in FIGS . 3A to 3D are similar to
+the light sources , the base plate 108 laterally moves to form 65 operations depicted in FIGS . 2A to 2D , respectively . How
+an offset between the initial layer and the rods . After the ever , the rods of 3D printer system shown in FIGS . 3A to 3D
+lateral alignment of base plate 108 is completed , the light extend downwards from the base plate into the resin . The 3D 
+US 9 , 950 , 465 B2
+printer system shown in FIGS . 3A to 3D may also include ing module 454 may use digital techniques to upscale or
+various mechanisms and devices as described above . The downscale the 3D model so that the resolution of the each
+various techniques that may be used to separate the cured layer matches the capabilities of the given 3D printer voxels from the rods may also be incorporated onto the base system . Other examples are also possible . plate 108 . Additional overlapping description is omitted ; 5 The segmented 3D model may then be passed to both : ( i )
+however it should be understood that the operations a robot - control module 456 , which may generate robot
+described above may be applied to this example embodi control signals , and ( ii ) an image coordination module 458 , ment . which may generate image control signals signal for 3D
+It should be understood that FIGS . 2A to 2F and FIGS . 3A printing , including image files and light - source control sig to 3D are provided for explanatory purposes and are not 10 nals , in order to print a 3D object based on the 3D model . intended to be limiting . Other 3D printing systems that form Further , note that the robot control module 456 , the image
+voxels are also possible . Further , it should be understood coordination module 458 , and / or other program logic mod
+that any combination of components may be arranged in a u les may coordinate the timing of the robot control signals variety of ways for a particular 3D printing system , and that with the timing of the image control signals , so that the 3D
+they may operate the same as or similarly to the operations 15 printing process is properly carried out . described with respect to FIGS . 2A to 2F and FIGS . 3A to
+3D , without departing from the scope of the invention . V . ILLUSTRATIVE METHODS
+IV . CONTROL OF AN EXAMPLE 3D PRINTER FIG . 5 is a flowchart illustrating a 3D printing method 500
+SYSTEM 20 according to an example embodiment . Method 500 may be
+implemented by a 3D printer configured in the same or a
+Referring again to FIG . 1A , a 3D printer system 100 may similar manner as 3D printer 100 shown in FIG . 1 ( e . g . , by also include or be communicatively coupled to a control the control system 110 of 3D printer 100 ) . Of course , it
+system 110 . A control system 110 may take the form of or should be understood that method 500 may be implemented
+include executable program logic , which may be provided as 25 by other types of 3D printers and / or by control systems for
+part of or in conjunction with a 3D printer system 100 . Such other types of 3D printers .
+program logic may be executable to , e . g . , generate control As shown by block 502 , the method 500 involves receiv
+signals for a 3D printer system 100 . For example , a number ing data specifying a three - dimensional object . For example , of program - logic modules may be included as part of a block 502 may involve the control system receiving a file
+control system , such as control system 110 . 30 that describes an object for purposes of 3D printing , such as
+In an example embodiment , the control system 110 may a Standard Tessellation Language ( STL ) file , an Object
+be operable to ( a ) receive data specifying a 3D structure , ( b ) ( OBJ ) file , or a Polygon ( PLY ) file , among other possibili determine a shape for each of a two or more of layers that ties . The control system may then determine a sequence of
+collectively form the 3D structure , and ( c ) form each of the two - dimensional ( e . g . , cross - sectional ) shapes representa
+two or more of layers by ( i ) determining one or more of the 35 tive of a two or more of layers of the three - dimensional
+light sources that correspond to the determined shape of the object , as shown by block 504 . For instance , at block 504 , layer and ( ii ) operating the one or more determined light a software - or firmware - based program may process the 3D
+sources to cure a layer of liquid resin having the determined model file to generate a sequence of layers and output a file
+shape . The control system 110 may also operate the robotic with instructions for the particular 3D printer ( e . g . , a G - code
+arm 106 , after curing the layer of liquid resin , to move the 40 file ) . base plate upwards , such that the bottom surface of the cured As shown by block 504 , the method 500 involves deter
+layer is positioned at the top ends of the rods . The control mining a shape for each of a two or more of layers based at
+system may repeat these operations to cure multiple layers least in part on the received data . The shape of each layer
+of resin to form the 3D structure in a layer - by - layer manner . may be represented by a series of voxels representing FIG . 4 shows example program logic modules for inter - 45 discrete positions on that layer that make up the 3D object . facing with and controlling a 3D printer system . In particu - In some implementations , the layers are represented by lar , a 3D - modeling application 450 and corresponding GUI bitmaps , where each bit corresponds to a particular light
+452 may allow for 3D model generation . Further , to prepare source and indicates whether or not to operate that particular the 3D model for printing , a model - processing module 454 light source , as shown in block 506 . The voxels may also
+may apply a slicing process to the 3D model . For example , 50 include offset information that indicates more precisely the
+various techniques may be used to define a set of voxels for location of the voxel . In some cases , the shape for each layer the 3D model that represent the solid portions of the 3D is represented as vector graphics or is at a resolution higher
+model . The each voxel may be associated with a three - than the 3D printer system is capable of printing . In these
+dimensional position . Layers of the 3D models may be cases , the method 500 involves rasterizing the received data
+defined by the voxels that lie within a particular plane ( for 55 to generate a discrete set of voxel values that represent the
+example , voxels having different width or depth locations , 3D object at a resolution compatible with the particular 3D
+but are at the same height ) . printer system . Then , at block 506 , the control system In some cases , the 3D model may be represented as operates the light sources corresponding to the voxel values
+continuous lines and / or curves ( e . g . vector graphics ) . The representing the shape of the layer of the 3D object . model processing module 454 may rasterize the vector - 60 As shown by block 508 , the method 500 involves oper
+based 3D model to generate the set of discrete voxels that ating the determined light sources to cure a layer of the
+represents the 3D model at a particular resolution . The three - dimensional object . The control system may operate resolution may depend from the number of rods in a given the light source and the base plate ( e . g . , by controlling the
+3D printer system . mechanical features to which the base plate is attached ) to
+In other cases , the 3D model may be represented as a 65 sequentially form the two or more of layers of the three
+discrete set of voxels at a certain resolution that is incom - dimensional object . After forming a given layer , the control
+patible with a given 3D printer system . The model process system may operate the base plate to lift the cured voxels 
+US 9 , 950 , 465 B2
+12
+from the rods , as shown in block 510 . The control system each extend into a resin container , a subset of the light
+may then operate one or more light sources to cure voxels sources that correspond to the layer of the three
+forming the following layer of the 3D object . A portion of dimensional structure ; and
+the layer may adhere to a portion of the previously - formed activating , by the 3D printer , the light sources of the
+layer . The operations of block 506 to 510 may be repeated 5 selected subset of light sources that correspond to the
+to form the 3D object layer - by - layer . layer of the three - dimensional structure , thereby caus
+FIG . 6 is a flowchart illustrating a 3D printing method 600 ing cured resin to be formed around the hollow molds
+according to another example embodiment . Method 600 that are associated with the light sources of the selected
+may be implemented by a 3D printer configured in the same subset ; and
+or a similar manner as 3D printer 100 shown in FIG . 1 ( e . g . , 10 lifting , by the 3D printer , the cured resin that is formed
+by the control system 110 of 3D printer 100 ) . Of course , it around the hollow molds that are associated with the
+should be understood that method 600 may be implemented light sources of the selected subset . by other types of 3D printers and / or by control systems for 2 . The method of claim 1 , wherein the arrangement of
+other types of 3D printers . hollow molds extends into the resin container from the
+Blocks 602 and 604 involve determining the shape of 15 bottom of the resin container , and wherein the light sources
+each layer of a 3D object . The operations of 602 and 604 are positioned beneath the resin container . may be the same as or similar to the operations of blocks 502 3 . The method of claim 1 , wherein the arrangement of
+and 504 . hollow molds extends into the resin container from a move
+At block 606 , the method 600 may involve determining , able base plate that is associated with the 3D printer , and
+for a particular layer , light sources to operate in order to 20 wherein the light sources are positioned within the base
+form the voxels that comprise the particular layer . The plate . operations of block 606 may be similar to the operations of 4 . The method of claim 1 , comprising :
+block 506 . In the embodiments associated with method 600 , receiving , by the three - dimensional ( 3D ) printer , data
+however , the order in which the layers are formed may be specifying a second layer of the three - dimensional ( 3D )
+reversed . 25 structure that is to be printed ;
+At block 608 , the method 600 involves operating the light selecting , by the 3D printer and from among the multiple
+sources to cure a particular layer of the 3D object . The light sources that are each associated with a respective operations of block 608 may be same as or similar to the hollow mold of an arrangement of hollow molds that
+operations of block 508 . each extend into a resin container , a second subset of
+At block 610 , the method 600 involves lifting the base 30 the light sources that correspond to the second layer of
+plate upwards until the lower ends of the rods are position the three - dimensional structure ; and
+at the top surface of the cured layer . The proximity of the activating , by the 3D printer , the light sources of the
+lower ends of the rods to the previously - cured layer may be selected second subset of light sources that correspond
+such that operating the light sources causes the resin to cure to the second layer of the three - dimensional structure , against the previously - cured layer and adhere to that layer . 35 thereby causing cured resin to be formed around the
+The “ top surface ” of the cured layer referred to in block 610 hollow molds that are associated with the light sources
+describes the topmost portion of the cured layer that was of the selected subset , and to adhere to the lifted , cured
+formed . It should be understood that a layer may be formed resin that formed around the hollow molds that were
+from voxels that are hollow ( i . e . shells ) , and the " surface " associated with the light sources of the selected subset ;
+described refers the top end of the hollow voxel . In an 40 and
+example operation , if the same light source is operated for lifting , by the 3D printer , the cured resin that formed
+two consecutive layers , the vertically - aligned voxels may around the hollow molds that are associated with the
+adhere to each other to form a continuous hollow voxel . light sources of the selected subset , and that adhere to
+Generally , it should be understood that the voxel printing the lifted , cured resin that formed around the hollow
+processes described herein may be applicable , in whole or in 45 molds that were associated with the light sources of the
+part , to other types of 3D printers . Further , those skilled in selected subset . the art will understand that aspects of the voxel printing 5 . The method of claim 1 , wherein the subset of the light
+processes may be inverted or arranged in a variety of ways . sources comprises fewer than all of the light sources . Other examples are possible . 6 . The method of claim 1 , comprising dynamically adjust
+50 ing an extent to which the hollow molds of the arrangement VI . CONCLUSION extend into the resin container . 7 . The method of claim 1 , wherein the cured resin is lifted
+While various aspects of the disclosure have been dis - using an articulated robotic arm . closed herein , other aspects and embodiments will be appar - 8 . The method of claim 1 , wherein the arrangement
+ent to those skilled in the art . Accordingly , the embodiments 55 comprises a honeycomb pattern or grid pattern of hollow
+disclosed herein are for purposes of illustration , and are not molds that are spaced apart from each other . intended to be limiting , with the true scope and spirit of the 9 . A non - transitory computer readable storage medium
+disclosure being indicated by the following claims . encoded with a computer program , the program comprising
+instructions that when executed by data processing appara
+What is claimed is : 60 tus cause the data processing apparatus to perform opera 1 . A computer - implemented method comprising : tions comprising :
+receiving , by a three - dimensional ( 3D ) printer , data speci receiving , by a three - dimensional ( 3D ) printer , data speci fying a layer of a three - dimensional ( 3D ) structure that fying a layer of a three - dimensional ( 3D ) structure that
+is to be printed ; is to be printed ; selecting , by the 3D printer and from among multiple light 65 selecting , by the 3D printer and from among multiple light
+sources that are each associated with a respective sources that are each associated with a respective hollow mold of an arrangement of hollow molds that hollow mold of an arrangement of hollow molds that 
+13
+US 9 , 950 , 465 B2
+14
+each extend into a resin container , a subset of the light 17 . A system comprising :
+sources that correspond to the layer of the three one or more computers and one or more storage devices
+dimensional structure ; and storing instructions that are operable , when executed by
+activating , by the 3D printer , the light sources of the the one or more computers , to cause the one or more
+selected subset of light sources that correspond to the 5 computers to perform operations comprising :
+layer of the three - dimensional structure , thereby caus receiving , by a three - dimensional ( 3D ) printer , data speci
+fying a layer of a three - dimensional ( 3D ) structure that ing cured resin to be formed around the hollow molds is to be printed ; that are associated with the light sources of the selected selecting , by the 3D printer and from among multiple light subset ; and sources that are each associated with a respective lifting , by the 3D printer , the cured resin that is formed 0 hollow mold of an arrangement of hollow molds that
+around the hollow molds that are associated with the each extend into a resin container , a subset of the light
+light sources of the selected subset . sources that correspond to the layer of the three
+10 . The medium of claim 9 , wherein the arrangement of dimensional structure ; and
+hollow molds extends into the resin container from the 15 activating , by the 3D printer , the light sources of the
+bottom of the resin container , and wherein the light sources selected subset of light sources that correspond to the
+layer of the three - dimensional structure , thereby caus are positioned beneath the resin container .
+11 . The medium of claim 9 , wherein the arrangement of ing cured resin to be formed around the hollow molds
+hollow molds extends into the resin container from a move that are associated with the light sources of the selected
+able base plate that is associated with the 3D printer , and 30 subset ; and
+wherein the light sources are positioned within the base lifting , by the 3D printer , the cured resin that is formed
+plate . around the hollow molds that are associated with the
+12 . The medium of claim 9 , wherein the operations light sources of the selected subset .
+comprise : 18 . The system of claim 17 , wherein the arrangement of
+receiving , by the three - dimensional ( 3D ) printer , data hollow molds extends into the resin container from the
+specifying a second layer of the three - dimensional ( 3D ) 25 bottom of the resin container , and wherein the light sources
+structure that is to be printed ; are positioned beneath the resin container . selecting , by the 3D printer and from among the multiple 19 . The system of claim 17 , wherein the arrangement of
+light sources that are each associated with a respective hollow molds extends into the resin container from a move
+hollow mold of an arrangement of hollow molds that 30 able base plate that is associated with the 3D printer , and
+each extend into a resin container , a second subset of wherein the light sources are positioned within the base
+the light sources that correspond to the second layer of plate .
+the three - dimensional structure ; and 20 . The system of claim 17 , wherein the operations
+activating , by the 3D printer , the light sources of the comprise :
+selected second subset of light sources that correspond 35 receiving , by the three - dimensional ( 3D ) printer , data
+to the second layer of the three - dimensional structure , specifying a second layer of the three - dimensional ( 3D )
+thereby causing cured resin to be formed around the structure that is to be printed ;
+hollow molds that are associated with the light sources selecting , by the 3D printer and from among the multiple
+of the selected subset , and to adhere to the lifted , cured light sources that are each associated with a respective
+hollow mold of an arrangement of hollow molds that resin that formed around the hollow molds that were in
+associated with the light sources of the selected subset ; each extend into a resin container , a second subset of
+and the light sources that correspond to the second layer of
+lifting , by the 3D printer , the cured resin that formed the three - dimensional structure ; and
+around the hollow molds that are associated with the activating , by the 3D printer , the light sources of the
+light sources of the selected subset , and that adhere to 45 selected second subset of light sources that correspond
+the lifted , cured resin that formed around the hollow to the second layer of the three - dimensional structure , molds that were associated with the light sources of the thereby causing cured resin to be formed around the
+selected subset . hollow molds that are associated with the light sources
+13 . The medium of claim 9 , wherein the subset of the light of the selected subset , and to adhere to the lifted , cured
+sources comprises fewer than all of the light sources . resin that formed around the hollow molds that were
+14 . The medium of claim 9 , wherein the operations associated with the light sources of the selected subset ;
+comprise dynamically adjusting an extent to which the and
+hollow molds of the arrangement extend into the resin lifting , by the 3D printer , the cured resin that formed
+container . around the hollow molds that are associated with the
+15 . The medium of claim 9 , wherein the cured resin is 55 . light sources of the selected subset , and that adhere to
+lifted using an articulated robotic arm . the lifted , cured resin that formed around the hollow
+16 . The medium of claim 9 , wherein the arrangement molds that were associated with the light sources of the
+comprises a honeycomb pattern or grid pattern of hollow selected subset .
+molds that are spaced apart from each other . * * * *
+50 

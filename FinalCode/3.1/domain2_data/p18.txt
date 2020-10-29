@@ -1,0 +1,828 @@
+US010730232B2
+United States Patent
+Guillemette et al . ( 10 ) Patent No .: US 10,730,232 B2
+( 45 ) Date of Patent : Aug. 4 , 2020
+( 54 ) COEXTRUDED , MULTILAYER AND ( 56 ) References Cited
+MULTICOMPONENT 3D PRINTING INPUTS U.S. PATENT DOCUMENTS
+( 71 ) Applicant : Guill Tool & Engineering Co. , Inc. , West Warwick , RI ( US ) 3,558,411 A * 1/1971 Beelien B44C 3/00
+156/167
+HO1G 9/008
+361/303 3,806,769 A * 4/1974 Derrick ( 72 ) Inventors : Richard Guillemette , West Warwick , RI ( US ) ; Robert Peters , West Warwick , RI ( US ) ( Continued )
+FOREIGN PATENT DOCUMENTS ( 73 ) Assignee : Guill Tool & Engineering Co , Inc. , West Warwick , RI ( US ) DE
+EP
+19624412 A1 1/1998
+0921217 A1 6/1999
+( * ) Notice : Subject to any disclaimer , the term of this ( Continued ) patent is extended or adjusted under 35
+U.S.C. 154 ( b ) by 0 days . OTHER PUBLICATIONS
+( 21 ) Appl . No .: 15 / 005,383 Supplementary European Search Report , Application No. EP14863574 , dated May 29 , 2017 , 9 pages .
+( Continued ) ( 22 ) Filed : Jan. 25 , 2016
+( 65 ) Prior Publication Data
+US 2016/0136887 A1
+US 2017/0252967 A9 May 19 , 2016
+Sep. 7 , 2017 Primary Examiner Scott R. Walshon
+( 74 ) Attorney , Agent , or Firm - Ziegler IP Law Group
+LLC . Related U.S. Application Data
+( 63 ) Continuation of application
+PCT / US2014 / 066252 , filed on Nov. 19 , 2014 . ( Continued )
+No. ( 57 ) ABSTRACT
+( 51 ) Int . Ci . B29C 64/118 ( 2017.01 )
+B29C 69/00 ( 2006.01 )
+( Continued )
+( 52 ) U.S. Ci . CPC B29C 64/118 ( 2017.08 ) ; B29C 64/106
+( 2017.08 ) ; B29C 69/001 ( 2013.01 ) ;
+( Continued )
+( 58 ) Field of Classification Search
+CPC B29C 67/0051 ; B29C 67/0081 ; B29C
+67/0055 ; B29C 69/001 ; B29K 2101/12 ;
+( Continued )
+A 3D printer input includes filaments comprising separated layers or sections . These inputs particularly including fila
+ments may be prepared by coextrusion , microlayer coextru
+sion or multicomponent / fractal coextrusion . These inputs and specifically filaments enable layering or combining different materials simultaneously through one or more
+nozzles during the so - called 3D printing process . These
+techniques facilitate smaller layer sizes ( milli , micro , and
+nano ) different layer configurations as well as the potential to incorporate materials that would otherwise not be usable
+in standard 3D printer methods .
+6 Claims , 19 Drawing Sheets
+Fiber spoo
+Flament 3
+Filament 1 Wrapping Assembly
+filament 2 
+US 10,730,232 B2
+Page 2
+Related U.S. Application Data
+( 60 ) Provisional application No. 61 / 971,452 , filed on Mar. 27 , 2014 , provisional application No. 61 / 906,218 , filed on Nov. 19 , 2013 .
+( 51 ) Int . Ci . B29C 64/106 ( 2017.01 )
+B29K 101/12 ( 2006.01 )
+B33Y 70/00 ( 2020.01 ) B33Y 10/00 ( 2015.01 )
+( 52 ) U.S. Ci . CPC ........... B29K 2101/12 ( 2013.01 ) ; B33Y 10/00
+( 2014.12 ) ; B33Y 70/00 ( 2014.12 )
+( 58 ) Field of Classification Search
+CPC B29K 2105/251 ; B29K 2995/0062 , B33Y
+10/00 ; B33Y 70/00 ; B33Y 80/00
+See application file for complete search history .
+6,113,696 A * 9/2000 Tseng B22F 3/002
+118/313
+6,572,602 B2 * 6/2003 Furuya A61F 13/51496
+604 / 385.03
+7,910,041 B1 3/2011 Priedeman , Jr.
+2002/0129485 A1 * 9/2002 Mok G05B 19/4099
+29 / 527.2
+2002/0149148 A1 * 10/2002 Chen A471 47/005
+269/289 R
+2003/0236588 A1 * 12/2003 Jang B82Y 30/00
+700/119
+2011/0096395 A1 * 4/2011 Bluem DO1D 5/34
+359 / 487.04
+2012/0070619 Al 3/2012 Mikulak et al . 2016/0297104 A1 10/2016 Guillemette et al . 2016/0339633 A1 * 11/2016 Stolyarov B29C 47/0002
+FOREIGN PATENT DOCUMENTS
+( 56 ) References Cited
+EP
+wo
+WO
+0942301 A1
+2009111385
+2013022347 A1
+9/1999
+9/2009
+2/2013
+U.S. PATENT DOCUMENTS
+OTHER PUBLICATIONS 4,123,483 A * 10/1978 Nakahara
+5,490,962 A 2/1996 Cima
+GO2B 6/03633
+264 / 1.23
+A61F 2/022
+156 / 272.8
+B29C 66/431
+156 / 244.11
+European Patent Office , Communication Pursuant to Article 94 ( 3 )
+EPC , Application No. 14863574.1 , dated May 9 , 2018 . 5,626,703 A * 5/1997 Tomita
+* cited by examiner 
+U.S. Patent Aug. 4 , 2020 Sheet 1 of 19 US 10,730,232 B2
+Figure 1 ( a , b , and c ) :
+Figure 1
+O
+( d , e ) :
+Figure 2 ( a ) : 
+U.S. Patent Aug. 4 , 2020 Sheet 2 of 19 US 10,730,232 B2
+Figure 2 ( b - d ) :
+Figure 2 ( e ) :
+Figure 3 / a - c ) 
+U.S. Patent Aug. 4 , 2020 Sheet 3 of 19 US 10,730,232 B2
+SEE
+Figure 4 ( a - d )
+Figure 5 :
+9aatteintes
+filamentos
+? .
+Figure 6 ( a ) : Figure 6 ( b ) : 
+U.S. Patent Aug. 4 , 2020 Sheet 4 of 19 US 10,730,232 B2
+Figure 7 ( a ) :
+I
+Dewa Assemini
+Figure 7 ( b ) :
+D
+Figure 7 ( c ) : 
+U.S. Patent Aug. 4 , 2020 Sheet 5 of 19 US 10,730,232 B2
+Figure 8 :
+Figure 9 ( a ) : Figure 9 ( b ) : 
+U.S. Patent Aug. 4 , 2020 Sheet 6 of 19 US 10,730,232 B2
+E
+Figure 9 ( 0 )
+Figure 9 ( d ) 
+U.S. Patent Aug. 4 , 2020 Sheet 7 of 19 US 10,730,232 B2
+O
+Figure 10 ( a )
+Figure 10 ( 6 )
+Figure 10 ( 0 )
+split
+haif speed
+x2
+Figure 11 ( a ) and Figure 11 ( b ) 
+U.S. Patent Aug. 4 , 2020 Sheet 8 of 19 US 10,730,232 B2
+Figure 12
+À
+9 *
+Figure 13
+B B BLA BC
+Figure 14 ( a ) Figure 14 ( b ) Figure 14 ( c ) 
+U.S. Patent Aug. 4 , 2020 Sheet 9 of 19 US 10,730,232 B2
+Verpendicular
+Figure 15
+TI
+cat
+Figure 16 
+U.S. Patent Aug. 4 , 2020 Sheet 10 of 19 US 10,730,232 B2
+?
+Figure 17
+O
+Figure 18 
+U.S. Patent Aug. 4 , 2020 Sheet 11 of 19 US 10,730,232 B2
+Figure 19
+K.
+Figure 20
+WWW
+Figure 21 
+U.S. Patent Aug. 4 , 2020 Sheet 12 of 19 US 10,730,232 B2
+Figure
+www
+22
+.
+um
+Figure 23 
+U.S. Patent Aug. 4 , 2020 Sheet 13 of 19 US 10,730,232 B2
+Fiber spool
+Filament 3
+Filament 1 Wrapping Assembly
+Filament 2
+Figure 24
+segment 2 Segment 3
+Figure 25 
+U.S. Patent Aug. 4 , 2020 Sheet 14 of 19 US 10,730,232 B2
+Filament
+Filament
+Filament
+Filament
+Filament
+Filament
+Figure 26
+Filament
+Filament Rotating Printer Bed
+Scraper
+Filament
+Spool
+Figure 27 ( a ) 
+U.S. Patent Aug. 4 , 2020 Sheet 15 of 19 US 10,730,232 B2
+Filament
+Filament
+T Filament
+Figure 27 ( b )
+Pivoting Subplates
+Filament
+Track or Wall
+Pivoting Subplates
+Filament
+ain Rotating PL
+Figure 28 
+U.S. Patent Aug. 4 , 2020 Sheet 16 of 19 US 10,730,232 B2
+Filament
+Filament
+Filament
+Filament
+Filament
+Filament
+Figure 29 ( a ) and Figure ( 29 )
+Filament Filament
+Filament
+Figure 30 : 
+U.S. Patent Aug. 4 , 2020 Sheet 17 of 19 US 10,730,232 B2
+18 6
+1
+=
+Multi - platform
+Build Area
+Figure 31 ( a ) and Figure 31 ( b ) :
+Rotating Electrical
+Figure 32 
+U.S. Patent Aug. 4 , 2020 Sheet 18 of 19 US 10,730,232 B2
+Figure 33 ( a ) and Figure 33 ( b ) :
+0
+Figure 34 ; 
+U.S. Patent Aug. 4 , 2020 Sheet 19 of 19 US 10,730,232 B2
+Solenoid
+Nozzle
+Figure 35 :
+Figure 36 ( a and b ) 
+1
+5
+10
+US 10,730,232 B2
+2
+COEXTRUDED , MULTILAYER AND one embodiment of Stereolithography , the synergistic stimu
+MULTICOMPONENT 3D PRINTING INPUTS lation is radiation from a UV laser , and the material is a
+photopolymer . Another example of this approach is Selec
+CROSS - REFERENCE TO RELATED tive Laser Sintering ( SLS ) , as described in U.S. Pat . No.
+APPLICATIONS 4,863,538 , to Deckard , in which the synergistic stimulation
+is IR radiation from a CO2 laser and the material is a
+This application is a Continuation of PCT / US2014 / sinterable powder . This first approach may be termed photo 066252 filed Nov. 19 , 2014 , and also claims priority from based stereolithography . A third example is Three - Dimen
+Provisional Application 61 / 971,452 filed Mar. 27 , 2014 and sional Printing ( 3DP ) and Direct Shell Production Casting also claims priority from Provisional Application 61/906 , ( DSPC ) , as described in U.S. Pat . Nos . 5,340,656 and 218 filed Nov. 19 , 2013 . 5,204,055 , to Sachs , et al . , in which the synergistic stimu
+lation is a chemical binder ( e.g. an adhesive ) , and the FIELD material is a powder consisting of particles which bind
+The present disclosure generally relates to extrusion die 15 together upon selective application of the chemical binder . systems . In particular , the present disclosure relates to According to a second such approach , an object is formed
+coextruded , multilayer , multicomponent tubular extrusions by successively cutting object cross - sections having desired
+that are useful as inputs to three - dimensional fabrication shapes and sizes out of sheets of material to form object
+machines . The present disclosure also relates to the design of lamina . Typically in practice , the sheets of paper are stacked
+extrusion heads and nozzles that extrude various laminae , 20 and adhered to previously cut sheets prior to their being cut , including modifications and applications to the three - dimen but cutting prior to stacking and adhesion is possible . sional fabrication process . Typical of this approach is Laminated Object Manufacturing
+LOM ) , as described in U.S. Pat . No. 4,752,352 , to Feygin BACKGROUND OF THE INVENTION in which the material is paper , and the means for cutting the
+25 sheets into the desired shapes and sizes is a CO2 laser . U.S. Various approaches to automated or semi - automated Pat . No. 5,015,312 to Kinzie also addresses building object three - dimensional object production or Rapid Prototyping & with LOM techniques . Manufacturing ( RP & M ) have become available in recent According to a third such approach , object laminae are
+years , characterized in that each proceeds by building up three dimensional objects from three dimensional computer 30 material onto a working surface in desired patterns in areas
+formed by selectively depositing an unsolidified , flowable
+data descriptive of the objects in an additive manner from a which will become part of an object laminae . After or during plurality of formed and adhered laminae . These laminae are
+sometimes called object cross - sections , layers of structure , selective deposition , the selectively deposited material is
+object layers , layers of the object , or simply layers ( if the solidified to form a subsequent object lamina which is
+context makes it clear that solidified structure of appropriate 35 adhered to the previously - formed and stacked object lami
+shape is being referred to ) . Each lamina may represent a nae . These steps are then repeated to successively build up
+cross - section of a three - dimensional object , or may be a the object lamina - by - lamina . This object formation tech
+complete structure itself . Typically lamina are formed and nique may be generically called Selective Deposition Mod
+adhered to a stack of previously formed and adhered lami eling ( SDM ) . The main difference between this approach
+nae . In some RP & M technologies , techniques have been 40 and the first approach is that the material is deposited only proposed which deviate from a strict layer - by - layer build up in those areas which will become part of an object lamina . process wherein only a portion of an initial lamina is formed Typical of this approach is Fused Deposition Modeling and prior to the formation of the remaining portion ( s ) of the ( FDM ) , as described in U.S. Pat . Nos . 5,121,329 and 5,340 , initial lamina , at least one subsequent lamina is at least 433 , to Crump , in which the material is dispensed in a
+partially formed . Examples of such literature include U.S. 45 flowable state into an environment which is at a temperature Pat . No.5,130,064 to Smalley and Hull issued Jul . 14 , 1992 ; below the flowable temperature of the material , and which
+U.S. Pat . No. 5,855,836 to Leyden and Hull issued Jan. 5 , then hardens after being allowed to cool . A second example 1999 ; U.S. Pat . No. 6,366,825 to Smalley et al . issued Apr. is the technology described in U.S. Pat . No. 5,260,009 , to 2 , 2002 ; U.S. Pat . No. 8,373,905 to Erol et al . , issued Feb. Penn . A third example is Ballistic Particle Manufacturing 12 , 2013 ; U.S. Pat . No. 8,226,395 to Smith et . al . issued Jul . 50 ( BPM ) , as described in U.S. Pat . Nos . 4,665,492 ; 5,134,569 ; 24 , 2012 and U.S. Pat . No. 8,512,024 to Pax issued Aug. 20 , and 5,216,616 , to Masters , in which particles are directed to 2013. Other literature include Berman , B. , 2012. 3D Print specific locations to form object cross - sections . A fourth ing : The New Industrial Revolution . Business Horizons , 55 ( 2 ) , pp . 155-162 ; and Gibson , I. , Rosen , D. W. , Stucker , example is Thermal Stereolithography ( TSL ) as described in
+U.S. Pat . No. 5,141,680 , to Almquist et . al . B. , 2010. Additive Manufacturing : Rapid Prototyping to 55 Direct Digital Manufacturing . London : Springer . Three dimensional fabrication ( herein referred to as 3D
+According to one approach , a three - dimensional object is printing , without limitation ) is essentially a method of
+built up by applying successive layers of unsolidified , flow building up a model by the deposition of multiple layers of
+able material to a working surface , and then selectively material . The choice of input material used for producing exposing the layers to synergistic stimulation in desired 60 any given model or part thereof thus governs many of the
+patterns , causing the layers to selectively harden into object model's properties . Examples of such properties include but
+laminae which adhere to previously - formed object laminae . are not limited to those of mechanical , optical , thermal , In this approach , material is applied to the working surface conductive and chemical nature . Additionally , input mate
+both to areas which will not become part of an object lamina , rials suitable for 3D printing must meet specialized require and to areas which will become part of an object lamina . 65 ments to ensure facile processing . Product / model stability Typical of this approach is Stereolithography ( SL ) , as likewise is demanding . Restrictions on the suitability of
+described in U.S. Pat . No. 4,575,330 , to Hull . According to materials adds to the complexity to identify improved input 
+5
+US 10,730,232 B2
+3 4
+materials . Thus there is a great need to further improve thereof separated into layers or cross sections , preferably properties of 3D printing inputs . wherein the input is a 1-5 mm filament . The present invention also relates to 3D printer product SUMMARY OF THE INVENTION filament comprising a first filament wrapped around one or
+more filaments . The present invention also relates to 3D
+The present invention relates to 3D printer inputs includ printer product filament , wherein said wrapped filament ( s ) ing filaments comprising separated layers or sections . These form ( s ) a spiral . inputs particularly including filaments may be prepared by The present invention also relates to 3D printer product coextrusion , microlayer coextrusion or multicomponent / filament comprising a first filament merged with one or more
+fractal coextrusion . These inputs may be in the form of a rod 10 filaments . or may contain a hollow center . The present invention relates to 3D printer product fila
+These inputs and specifically filaments enable layering or ment containing a core or substrate . combining different materials simultaneously through one or The present invention relates to 3D printer product fila
+more nozzles ( preferably 1-6 ) during the so - called 3D ment comprising one or more filaments wrapped and merged printing process . These techniques facilitate smaller layer 15 around a core or substrate . sizes ( milli , micro , and nano ) different layer configurations The present invention relates to 3D printer product fila
+as well as the potential to incorporate materials that would ment comprising one or more filaments merged in a pattern otherwise not be usable in standard 3D printer methods . around a core or substrate . The present invention describes various steps for the The present invention relates to 3D printer product fila
+preparation of discreet 3D structures encompassed within 20 ment comprising a first filament that is chopped , stacked and
+the input material being used by a 3D printer . Although cross welded . sections of the input for a 3D printer are often rounded it can The present invention relates to a method of manufactur
+take other shapes such as rectangular , elliptical , or a variety ing a filament comprising merging two or more filaments
+of other shapes . side by side . The present invention relates to a 3D printer input , 25 The present invention relates to a method of manufactur
+wherein said input contains materials , composites and / or ing a 3D printer filament comprising wrapping two or more
+mixtures thereof separated into layers or cross sections filaments together . wherein the layers are in a flat orientation or in a wrapped The present invention relates to a method of manufactur
+orientation , or any combination of the two . ing a 3D printer filament comprising wrapping and melting The present invention also relates to 3D printer input , 30 two or more filaments together . wherein the cross - section of the 3D input comprises micro The present invention relates to a device which forces a
+layer coextrusion of 2 to 20 layers . filament around a central axis , provides heat to melt the
+The present invention also relates 3D printer input , filament as it travels towards the central axis and extrudes
+wherein the cross - section of the 3D input comprises micro the melted filament in a designed cross section . This device
+layer coextrusion of 5 to 10 layers 35 could be used to coat or merge with another running along The present invention also relates to 3D printer input , this axis such as another filament , a core or a substrate . This
+wherein the cross - section of the 3D input comprises micro device could be used to extrude products , create a filament
+layer coextrusion of 20 to 100 layers . or be used as a 3D printer hot end . The present invention also relates to 3D printer input , The present invention relates to a method of extrusion in
+wherein the cross - section of the 3D input comprises micro- 40 which a device forces a filament around a central axis , layer coextrusion of 100 to 1000 layers . provides heat to melt the filament as it travels towards the
+The present invention also relates to 3D printer input , central axis and extrudes the melted filament in a designed wherein the cross - section of the 3D input comprises micro cross section . This device could be used to coat or merge layer coextrusion of 1000 to tens of thousands of layers . with another material running along this axis such as another
+The present invention also relates to 3D printer input , 45 filament , a core or a substrate . This device could be used to
+wherein the cross - section of the 3D input comprises micro extrude products , create a filament or be used as a 3D printer layer coextrusion of tens of thousands to hundreds of hot end . thousands of layers . The present invention relates to method of extrusion
+The present invention also relates to 3D printer input , involving wrapping and melting one or more filaments
+including a filament , wherein the cross - section of the 3D 50 together to produce an end product . input is made by multicomponent coextrusion . The present invention relates to method of extrusion
+The present invention also relates to 3D printer extruded involving wrapping and melting one or more filaments
+input , wherein the input is a filament , wherein said filament together to produce a tubular or rod product . contains materials , composites and / or mixtures thereof sepa The present invention relates to method of extrusion
+rated into layers or cross sections . 55 involving wrapping and melting one or more filaments
+The present invention relates to 3D printer extruded input , together around a substrate . wherein the input is a 0.1-10 mm filament , wherein said The present invention relates to a method of manufactur
+filament contains materials , composites and / or mixtures ing a 3D printer filament comprising repeatedly chopping thereof separated into layers or cross sections , preferably and rejoining pieces of one or more first filaments to form a
+wherein the input is a 1-5 mm filament . 60 second filament .
+The present invention also relates to an extruded 3D The present invention also relates to a filament or stream printer input , wherein the input is a filament , wherein said of materials containing layers of biological components such
+filament contains materials , composites and / or mixtures as cells , fats or proteins . These components could be used in
+thereof separated into layers or cross sections . the printing of biostructures or components such as organs The present invention relates to an extruded 3D printer 65 or tissues . The present invention also relates to bioprint input , wherein the input is a 0.1-10 mm filament , wherein methods wherein the filament may contain many cell types said filament contains materials , composites and / or mixtures formed in cell aggregates . In general , the choice of cell type 
+US 10,730,232 B2
+5 6
+will vary depending on the type of three - dimensional con said flow or road contains materials , composites and / or
+struct to be printed . For example , if the aggregates are to be mixtures thereof separated into layers or cross sections . used to print a blood vessel type three dimensional structure , The present invention relates to 3D printer nozzle or hot
+the cell aggregates will advantageously comprise a cell type end which extrudes a 3D printer deflected output flow
+or types typically found in vascular tissue ( e.g. , endothelial 5 wherein said output is a 1-5 mm flow or road , wherein said
+cells , smooth muscle cells , etc. ) . In contrast , the composition flow or road contains materials , composites and / or mixtures
+of the cell aggregates may vary if a different type of thereof separated into layers or cross sections . construct is to be printed ( e.g. , intestine , liver , kidney , etc. ) . The present invention relates to 3D printer inputs and
+One skilled in the art will thus readily be able to choose an nozzle or hot end outputs ( which extrude a 3D printer appropriate cell type ( s ) for the aggregates , based on the type 10 deflected output flow ) wherein said inputs or outputs are
+of three - dimensional construct to be printed . Non - limiting comprised of so - called plastics including but not limited to
+examples of suitable cell types include contractile or muscle polyethylenes ( including high density polyethylene cells ( e.g. , striated muscle cells and smooth muscle cells ) , ( HDPE ) ) , polypropylenes , polystyrenes ( including acrylo neural cells , connective tissue ( including bone , cartilage , nitrile butadiene styrene ( ABS ) ) , polyvinyl chlorides , poly cells differentiating into bone forming cells and chondro- 15 tetrafluoroethylenes ( PTFE ) , polysulfones , polyphenylene cytes , and lymph tissues ) , parenchymal cells , epithelial cells oxides , polybutylene terephthalates , polyvinylidene chlo
+( including endothelial cells that form linings in cavities and rides , polyethylene terephthalates , polystyrenes , polycyclo vessels or channels , exocrine secretory epithelial cells , epi hexane diethylene terephthalates , styrene - butadiene - acrylo thelial absorptive cells , keratinizing epithelial cells , and nitrile copolymer , polybutylene naphthalates , nylons such as
+extracellular matrix secretion cells ) , and undifferentiated 20 nylon 11 , nylon 12 , polyimides , polyamides , polycarbon cells ( such as embryonic cells , stem cells , and other precur ates , polyurethanes , polyacetals , polyether amides , polylac
+sor cells ) , among others . These bio compositions comprise tic acid ( PLA ) , polyvinyl alcohol ( PVA ) , polymethylmeth
+a plurality of cell ggregates , wherein each cell aggregate acrylates , epoxys and polyester amides . comprises a plurality of living cells , and wherein the cell The present invention relates to 3D printer inputs and
+aggregates are substantially uniform in size and / or shape . 25 nozzle or hot end outputs ( which extrude a 3D printer The cell aggregates are characterized by the capacity : 1 ) to deflected output flow ) wherein said inputs or outputs com
+be delivered by computer - aided automatic cell dispenser prise so - called thermoplastic materials including but not based deposition or “ printing , ” and 2 ) to fuse into , or limited to acrylonitrile - butadiene - styrenes ( ABS ) , polylactic consolidate to form , self - assembled histological constructs . acid ( PLA ) , polyvinyl alcohol ( PVA ) , polymethylmethacry These aggregates may also be positioned within filaments 30 lates , polycarbonates , polyphenylsulfones , polysulfones , wherein stabilizing compositions provide a supportive envi nylons , polystyrenes , amorphous polyamides , polyetherim ronment for ensuring biological activity during the deposi ides , polyesters , polyphenylene ethers , polyurethanes , tion and curing processes . Such biological aggregates are polyetheretherketones , fluoropolymers , and combinations
+described in more detail in U.S. Pat . No. 8,241,905 to thereof . Forgacs , et al . issued Aug. 14 , 2012 , and U.S. Pat . No. 35 The present invention relates to 3D printer nozzle or hot
+8,143,055 issued Mar. 27 , 2012 . end which extrudes a 3D printer deflected output flow
+The present invention also relates to a 3D printer nozzle wherein said output comprises amorphous polyetherimides . or hot end which merges two or more deflected output The present invention also relates to 3D printer nozzle or
+streams side by side . hot end which extrudes a 3D printer deflected output flow
+The present invention relates to a 3D printer nozzle or hot 40 wherein said output comprises concentrations of a thermo
+end which wraps two or more deflected output streams plastic material in the build material range from about 50.0 % together . by volume to about 99.9 % by volume , with particularly The present invention relates to a 3D printer nozzle or hot suitable concentrations ranging from about 75.0 % by vol
+end which wraps one or more input filaments around another ume to about 95.0 % by volume , and with even more
+filament , material , substrate or core . 45 particularly suitable concentration ranging from about
+The present invention relates to 3D printer nozzle or hot 85.0 % by volume to about 90.0 % by volume , based on an
+end which extrudes a 3D printer deflected output flow entire volume of the build material . wherein said output contains materials , composites and / or Deposition speed is one unit of measure for distinguishing mixtures thereof separated into layers or cross sections . 3D printing methods . Extrusion rates ranging from about
+The present invention relates to 3D printer nozzle or hot 50 800 mics to about 2,500 mics are common ( Micro - cubic
+end which extrudes a 3D printer deflected output flow inches - per - second ( mics ) ) . Additional parameters to
+wherein said output contains materials , composites and / or describe the extruded melt include surface and a central
+mixtures thereof separated into layers wherein said layers regions , and further include viscosity profiles between the
+are in a flat orientation . surface and the central region based in part on the axial
+The present invention relates to 3D printer nozzle or hot 55 temperature profile . A viscosity profile exhibiting a higher end which extrudes a 3D printer deflected output flow viscosity of the build material adjacent to the surface com wherein said output contains materials , composites and / or pared to the central region may yield superior 3D object mixtures thereof separated into layers wherein said layers performance . are in a wrapped orientation . The present invention relates to 3D printer nozzle or hot
+The present invention relates to 3D printer nozzle or hot 60 end which extrudes a 3D printer deflected output flow
+end which extrudes a 3D printer deflected output flow wherein said output comprise additional elements such as
+wherein said output axial cross - section of the 3D output electronic , optical , magnetic , metallic , biologic , structural , comprises microlayer coextrusion of 2 to 20 layers ( milli , durable , thermal , medical , photovoltaic or pharmaceutical . micro or nano ) . The present invention relates to method of layer multi
+The present invention relates to 3D printer nozzle or hot 65 plication for a 3D printer output comprising a feedback loop end which extrudes a 3D printer deflected output flow wherein the product molten stream is split in two to create
+wherein said output is a 0.1-10 mm flow or road , wherein two new filaments . 
+US 10,730,232 B2
+7 8
+The present invention relates to 3D printer nozzle or hot melting the carrier material of the build material in the
+end extruder wherein the nozzle rotates . extrusion component to form a melt comprising the carrier
+The present invention relates to a 3D printer extrusion material and the nanofibers , the melt having an axial tem
+head which contains two or more nozzles or hot ends which perature profile ;
+can be toggled in order to produce an extrudate of various 5 extruding the melt from the extrusion component at an widths and shapes . The nozzles can be oriented on the head extrusion rate ranging from about 800 mics to about 2,500 in a variety of different fashions , including but not limited to mics , wherein the extruded melt has a surface and a central angular or linear positioning , region , and further comprises : The present invention relates to an extrusion head con a viscosity profile between the surface and the central region taining valves , stopgaps , buttons , and / or dividers which 10
+serve to act as a flow control mechanism so as to control the based in part on the axial temperature profile , the viscosity
+positioning and / or thickness of a specific filament material profile exhibiting a higher viscosity of the build material
+in the output extrudate . The extrusion head may have an adjacent to the surface compared to the central region ;
+input filament stream from one or more separate sources , and a concentration profile of the nanofibers between the
+and may have multiple nozzles or hot ends from which the 15 surface and the central region based on the viscosity profile ,
+output material may extrude . wherein the nanofiber concentration profile exhibits a higher
+The present invention relates to a 3 - D nozzle or hot end concentration of the nanofibers adjacent to the surface
+further comprising an internal valve or stopgap mechanism compared to the central region ; and depositing the extruded
+which could block or temper flow of certain input filaments melt in a layer - by - layer manner to build at least a portion of
+and / or raw materials , changing the output orientation and / or 20 the three - dimensional object . positioning of the product layers within the output product . The present invention relates to a method of extruding a
+The present invention relates to a nozzle or hot end melt from a 3D extrusion component comprising extruding comprising a magnetic field within and / or around a 3D the melt from an extrusion tip of the extrusion component , printing nozzle or hot end . the extrusion tip having an inner diameter ranging from
+The present invention relates to a nozzle or hot end which 25 about 100 micrometers to about 1,000 micrometers . is magnetic . The present invention relates to a method of building a 3D
+The present invention relates to a nozzle or hot end which model comprising providing the build material to the extru
+surrounded by a solenoid . sion - based layered deposition system as a filament . Such
+The present invention relates to a magnetic extrusion die . filament comprises a thermoplastic material present in the
+The present invention relates to an extrusion die which is 30 build material at a concentration ranging from about 50.0 %
+surrounded by a solenoid . by volume to about 99.9 % by volume , preferably wherein
+The present invention relates to a conductive 3D printer the thermoplastic material is present in the build material at
+filament containing a plurality of layers . Preferably wherein a concentration ranging from about 75.0 % by volume to
+one or more of the layers of the multilayered filament have about 95.0 % by volume , more preferably wherein the ther
+an iridescent transmittance . 35 moplastic material is present in the build material at a
+The present invention relates to an iridescent 3D printer concentration ranging from about 85.0 % by volume to about filament containing a plurality of layers . 90.0 % by volume . The present invention relates to a multilayered nanocel The present invention relates to a method of building a 3D
+lulose composite 3D printer filament comprising fibers printer model , comprising nanofibers , fibers or particles in
+including but not limited to carbon fiber , fiber glass , wood 40 the build material at a concentration ranging from about
+fiber , nanocellulose fibers ( particularly acetylated nanocel 50.0 % by volume to about 99.9 % by volume , more prefer lulose ) , or carbon nanotubes . Multilayered nanocellulose ably , wherein the nanofibers , fibers or particles are present in
+composite filament comprise fibers composed of polymers the build material at a concentration ranging from about
+selected from the group polylactic acid ( PLA ) , acrylonitrile 5.0 % by volume to about 25.0 % by volume , more preferably butadiene styrene ( ABS ) , polycarbonate , polyetherimide 45 wherein the nanofibers , fiber or particles are present in the
+and polyphenyl sulfone . build material at a concentration ranging from about 10.0 %
+The present invention relates to a method for building a by volume to about 15.0 % by volume . 3 - dimensional model in an extrusion - based digital manufac The present invention relates to a method of building a 3D turing system , the method comprising : printer model wherein the carrier material comprises a
+feeding a multilayer ribbon filament of a consumable mate- 50 thermoplastic material selected from the group consisting of
+rial to a ribbon liquefier retained by the extrusion - based acrylonitrile - butadiene - styrenes , polycarbonates , polyphe digital manufacturing system , the ribbon filament having a nylsulfones , polysulfones , nylons , polystyrenes , poly length and a cross - sectional profile of at least a portion of the amides , polyetherimides , polyesters , polyphenylene ethers , length that is axially asymmetric ; polyurethanes , polyetheretherketones , fluoropolymers , and
+melting the ribbon filament in the ribbon liquefier to provide 55 combinations thereof . a melted consumable material ; The present invention relates to a method of building a 3D
+extruding the melted consumable material from the ribbon printer model wherein the nanofibers are selected from the liquefier ; group consisting of nanotube fibers , nanowire fibers , and
+depositing the extruded consumable material in a layer - by combinations thereof . layer manner to form at least a portion of the three - dimen- 60 The present invention relates to a method of injection sional model . molding wherein the extruder is fed via a filament inlet . The present invention relates to a method for building a The present invention relates to a filament fed injection three - dimensional object with an extrusion - based layered molding nozzle or hot end specifically designed to lock into deposition system , the method comprising : a mold via a lip , key , or threaded method . An injection feeding a build material to an extrusion component of the 65 molding nozzle may also be specifically designed to attach
+extrusion - based layered deposition system , the build mate to the tip of a 3D printer nozzle or hot end . The mold may rial comprising a carrier material and nanofibers ; contain multiple ports for multiple filament fed nozzles . 
+5
+10
+15
+US 10,730,232 B2
+9 10
+The present invention relates to a product filament The present invention relates to a nozzle or hot end
+wherein a fiber or substrate is internally coiled , braided , extruder wherein the nozzle rotates . weaved , folded , or stacked in such a way that when printed , The present invention relates to a 3D printer nozzle or hot
+the substrate will release with the length of the printed end wherein the nozzle is composed of various thickness
+material . output nozzles which can be reoriented so that extrudate will
+The present invention relates to a method for storing and come out of any of the nozzles . The various output nozzles
+dispensing a fiber or substrate within a product filament are removable and interchangeable . Additionally , a filament
+wherein the fiber or substrate is internally coiled , braided , winding mechanism wherein the nozzle can rotate on two
+weaved , folded , or stacked , in such a way that when printed , axes so as to produce a filament containing a spiral , " can
+the substrate will release with the length of the printed dycane ” or other annular design is envisioned . material . The present invention relates to the creation of software
+The present invention relates to a method of segmented specifically for the application of creating and building new
+three dimensional fabrication wherein segments of an object filaments out of existing filaments and raw materials . This
+are fabricated , subsequently advanced forward relative to includes software pertaining to the design of new filaments , the fabrication device ; the fabrication resumes in such a way laying out the orientation of the necessary extrusion heads to
+that the next fabrication step adjoins the previous segment achieve new filament design , and software rendering mate
+with a new fabricated segment . The fabricated object may be rial properties of proposed filament designs . a filament and the fabricated filament may be fed directly
+into another three dimensional fabrication device . These 20 BRIEF DESCRIPTION OF THE DRAWINGS
+segmented three dimensional fabrication units may be seg mented in a tapered , angled , or “ staircase ” manner . Printing The accompanying drawings illustrate presently preferred
+a continuous or long object such as a printer filament embodiments of the present disclosure , and together with the
+wherein a planar conveyer system is used to allow continu general description given above and the detailed description
+ous filament segment fabrication may be effectuated by 25 given below , serve to explain the principles of the present advancing adjoining filament segments relative to the print disclosure . As shown throughout the drawings , like refer
+able area . The conveyor system may also be non planar . The ence numerals designate like or corresponding parts . method for printing a continuous or long object such as FIG . 1 ( a , b , and c ) are Examples of coextrusion with flat
+filament by using a 3D printer design wherein the print bed oriented layers . is a rotating disc or plate around a central axis such that arc 30 FIG . 1 ( d , e ) are Examples of coextrusion with oriented
+segments of a continuous filament can repeatedly be fabri layers . cated advanced and subsequently removed from the build FIG . 2 ( a ) is an Example of a three layer flat sheet
+plate . orientation . The print bed may also be stationary disc or plate , and the FIG . 2 ( b - d ) are Examples of coextruded cross sections :
+nozzle and / or removal mechanism rotates around a central 35 FIG . 2 ( b ) is a Five layer geometry , FIG . 2 ( c ) is a Hollow
+axis in the middle of the build plate such that are segments three layer tube , and FIG . 3 ( d ) is a Rod with three materials . of a continuous filament can repeatedly be fabricated FIG . 2 ( e ) is an Example of a Five layer geometry com
+advanced and subsequently removed from the build plate . prised of the same material . The method also envisions printing a continuous or long FIG . 3 ( a - c ) are Examples or microlayer coextrusion ori
+object such as filament by using a 3D printer design wherein 40 entations : FIG . 3 ( a ) is a Flat Multilayer FIG . 3 ( b ) is a
+a system of rotating sub - plates atop a main rotating plate Tubular Multilayer , FIG . 3 ( C ) Tubular Multilayer . move in an orientation so as a printer nozzle can fabricate FIG . 4 ( a - d ) are Examples of multicomponent geometry . adjoining linear segments of a continuous object which can FIG . 5 is an Example of Folding Geometry . repeatedly be fabricated advanced and subsequently FIG . 6 ( a ) is a Side View of an extruding apparatus . removed from the build plate . FIG . 6 ( b ) is an Internal front view of filament wrapping Alternatively , the method envisions printing a continuous around a core filament between parallel plates . or long object such as filament by using a 3D printer design FIG . 7 ( a ) : The feedblock ( s ) and / or deflector ( s ) could be
+in which a nozzle prints atop a rotating drum shaped print positioned right before the nozzle and therefore move with
+bed with the nozzle printing either externally or internally the nozzle . along the drum in order to fabricate adjoining arc segments 50 FIG . 7 ( b ) exemplifies feedblock ( s ) that could remain
+of a continuous object which can repeatedly be fabricated stationary and an exposed or enclosed stream would con
+advanced and subsequently removed from the build plate . tinue towards the deflector ( s ) and the nozzle which would
+Alternatively , the method envisions a method for printing move together . a continuous or long object such as filament by using a 3D FIG . 7 ( c ) : exemplifies feedblock ( s ) and deflector ( s ) that
+printer design in which wherein the print bed is comprised 55 could remain separated from the nozzle and an exposed or
+of two or more build plates which can rotate or otherwise enclosed stream would continue towards the nozzle . move past each other so as a printer nozzle can fabricate FIG . 8 is an Example of raw material extruder feeding adjoining linear segments of a continuous object which can directly into a 3D printing head . repeatedly be fabricated advanced and subsequently FIG . 9 ( a ) Exemplifies filament merger . removed from the build plates . FIG . 9 ( b ) is an Example of one filament wrapping around Alternatively , the method envisions printing an object another filament . whose length and / or width exceed the print area by using a FIG . 9 ( C ) is an Example of filament merger 3D printing 3D printer design in which a multitude of build plates or head . conveying build plates move relative to each other in order FIG . 9 ( d ) depicts Side - by - side filament joiner . to advance away from a printer nozzle a fabricated segment 65 FIG . 10 ( a ) depicts Spiral or ' Candycane ' filament design . of the object in any of two or more directions allowing for FIG . 10 ( b ) depicts Annular Rings filament design . fabrication of an adjoining segment . FIG . 10 ( c ) depicts Merged annular filament design .
+45
+60 
+5
+10
+US 10,730,232 B2
+11 12
+FIG . 11 ( a ) and FIG . 11 ( 6 ) depict filament heads that could Coextrusion
+be modularly designed to be placed in parallel and / or series . Coextrusion is the extrusion of more than one material or
+FIG . 12 is an Example of feedback loop filament layering layer simultaneously . Materials can be layered together to
+mechanism form an extrudate with each material forming a portion of
+FIG . 13 : depicts a Valved Coextrusion head the cross section . Each layer can be any size or in any position relative to other layers . Some simple two layer FIG . 14 ( a - c ) refer to various valve possibilities resulting products can be seen below in FIG . 1 ( a - e ) . These products from the apparatus described in FIG . 13. FIG . 14 ( a ) shows can have layers in a flat orientation ( FIG . 1 ( a - c ) ) or wrapped the scenario where only the center valve , Valve 2 , is open . around themselves ( FIG . 1 ( d , e ) ) , or any combination of FIG . 14 ( b ) shows the scenario in which the two side valves , these orientations . Valve 1 and Valve 3 , are equally open and Valve 2 is closed . The input comprises two or more polymer layers . These
+FIG . 14 ( c ) Represents a scenario in which Valve 1 is open layers may be reactive in nature ( e.g. a photopolymer , but throttled resulting in a thinner layer in the end product , thermal polymer , photoinitiator , one or two - part epoxy and Valve 2 is wide open , and Valve 3 is closed . material , or a combination thereof ) or solidifiable or vapor
+FIG . 15 depicts In - line and perpendicular arrangements 15 paris and water ) , wherein after dispensing , the material is izable when combined with another material ( e.g. plaster of
+example reacted by appropriate application of prescribed stimulation FIG . 16 is an Example of various inlet filament orienta ( e.g. heat , EM radiation [ visible , IR , UV , X - rays , etc. ) , a tions reactive chemical , the second part of a two part epoxy , the FIG . 17 is an example of a House cross - section . second or multiple part of a combination ) such that the input FIG . 18 is an alternate view of a House cross - section 20 material and / or combination of input materials become product . solidified . FIG . 19 depicts a Repeating section These inputs and filaments may be multilayered / multi
+FIG . 20 is an example of Filament Fed Injection component streams comprising so - called plastics including Molding Diagram but not limited to polyethylenes , polypropylenes , polysty
+FIG . 21 depicts a Filament with coiled fiber . 25 renes , polyvinyl chlorides , polytetrafluoroethylenes ( PTFE ) , FIG . 22 is a Diagram of fiber filament unwinding polysulfones , polyphenylene oxides , polybutylene
+FIG . 23 depicts a Coiled filament unwrapping through a terephthalates , polyvinylidene chlorides , polyethylene
+nozzle terephthalates , polystyrenes , polycyclohexane diethylene
+FIG . 24 depicts a Method for creating a substrate filament terephthalates , styrene - butadiene - acrylonitrile copolymer ,
+FIG . 25 depicts a 3D Printed Filament Diagram 30 polybutylene naphthalates , nylons such as nylon 11 , nylon 12 , polyimides , polyamides , polycarbonates , polyurethanes , FIG . 26 depicts a Planar conveying platform 3D printer FIG . 27 ( a ) is an Example of Rotary 3D Printer polyacetals , polyether amides , polymethylmethacrylates ,
+FIG . 27 ( 6 ) is an alternate example of rotary 3D printer epoxys and polyester amides . Preferred polymers include
+polylactic acid ( PLA ) , acrylonitrile butadiene styrene FIG . 28 depicts a Pivoting Sub - Plate 3D Printer 35 ( ABS ) , polycarbonate , polyetherimide and polyphenyl sul FIG . 29 ( a ) and FIG . 29 ) b are Examples of 3D Printers fone . ABS grades including but not limited to ABSplus with Angular Shaped Print Beds . P430 , ABSi and ABS - M30 possess improved properties for FIG . 30 is an Example of 3D Printer with multiple moving many applications . platforms Examples of suitable thermoplastic materials include but
+FIG . 31 ( a ) and FIG . 31 ( b ) are Examples of 2D Conveyor 40 are not limited to acrylonitrile - butadiene - styrenes ( ABS ) , 3D Printer polycarbonates , polyphenylsulfones , polysulfones , nylons , FIG . 32 is an example assembly for a rotating nozzle . The polystyrenes , amorphous polyamides , polyetherimides , black components are stationary and the grey components polyesters , polyphenylene ethers , polyurethanes , rotate along with the filament . polyetheretherketones ( PEEK ) , fluoropolymers , and combi
+FIG . 33 ( a ) and FIG . 33 ( b ) are Examples of Rotating 45 nations thereof . Examples of suitable commercially avail
+Interchangeable Nozzle 3D Printer extrusion heads able thermoplastic materials for use in the build material
+FIG . 34 is an example of a filament winder with two axes include amorphous polyetherimides . Suitable concentrations
+of rotation . of the thermoplastic material in the build material range FIG . 35 is a cross section of a 3D printer nozzle coupled from about 50.0 % by volume to about 99.9 % by volume , with a solenoid which acts to aid in the alignment of filler 50 with particularly suitable concentrations ranging from about
+particles present in the material being extruded . 75.0 % by volume to about 95.0 % by volume , and with even
+FIG . 36 ( a and b ) depict the method of creating extra small more particularly suitable concentration ranging from about
+scale features by removal of one material leaving features 85.0 % by volume to about 90.0 % by volume , based on an
+such as very small scale holes or pathways . Specifically , the entire volume of the build material . gray area in FIG . 36 ( a ) has been dissolved so as to produce 55 These inputs and filaments may also comprise additional
+FIG . 36 ( b ) . elements such as electronic , optical , magnetic , metallic , biologic , structural , durable , thermal , medical , pharmaceu DETAILED DESCRIPTION tical or other related fields and applications . Thermal Stereolithographic ( TSL ) materials and dispens The present disclosure is generally directed towards to 3D 60 ing techniques are well known in the art and may be used
+printer inputs including filaments comprising separated lay alone or in combination with the above alternatives . ers or sections . These inputs particularly including filaments Dispensing techniques include single or multiple hot melt
+may be prepared by coextrusion , microlayer coextrusion or ink jets and continuous or semi - continuous flow , single or
+multicomponent / fractal coextrusion . As will be understood , multiple orifice extrusion nozzles or heads . the various diagrams , flow charts and scenarios described 65 Beyond simple two layer geometries , there can be a
+herein are only examples , and there are many other scenarios multitude of layers ( see FIGS . 2a - e ) . Tens , hundreds or
+to which the present disclosure will apply . thousands ( e.g. ten thousand and one hundred thousand ) of 
+US 10,730,232 B2
+13 14
+layers are achievable . Typical coextrusion approaches can duced . The filament in the parallel plate ) which wraps technically be used to form up to around 12 layers . Each around the core filament would slowly melt as it reaches the
+layer of which may be comprised of its own material , filament being fed through the center of its spiral . Separate mixture or composite . heating zones could be used to melt each filament at their Microlayer Coextrusion 5 proper temperature . Microlayer coextrusion offers the ability to create geom Similarly , another approach would be to start with mate
+etries similar to those produced by regular coextrusion rials already as filaments and process them into the desired
+except with tens to thousands of layers ( Such as illustrated cross - sections and extrude them through a 3D printing in FIGS . 3a - c ) . Layers of 2-10 , 10-100 , 100-1000 , 1000-10 , nozzle . 000 ( 1,000-2000 ) are specifically contemplated . Such layer 10 Filaments that are produced by any of these means could
+multiplicity is the result of modulating a stream of layers by be processed further by reintroducing them into a process
+a multiplication strategy including splitting a stream of which would accept filaments as their inputs . This process materials and stacking the new streams , wrapping a stream , would then produce another filament or end which could be folding a stream or any combinations of these techniques . As extruded through a 3D printing nozzle . Any potential fila
+with coextrusion the layers can be wrapped or remain flat 15 ment heads which produce filament combinations of any through a given cross section's geometry . Additional skin orientation or material are considered as falling within the
+layers can be applied onto these geometries either in a present invention . Other variations of this method are con
+wrapped or stacked geometry . Other variations of these sidered apparent and included in this description . applications and geometries will also be apparent . Raw Material Heads
+These geometries may be formed inside an extrusion head 20 Extrusion technologies are well known in the art . and be extruded as a filament or as a direct input into a 3D Examples of such technology include U.S. Pat . Nos . 6,669 , printer nozzle . The inputs to form these cross sections could 458 , 6,533,565 and 6,945,764 , which are commonly owned
+come from raw material or individual filaments for each by the assignee of the instant application . Micro - layer extru
+material . sion processes are specialized extrusion methods that pro Multicomponent 25 vide products with small grain features such as described in
+A multicomponent approach takes multiple streams of U.S. Pat . No. 7,690,908 , ( hereinafter the “ 908 Patent ” ) and
+layers or materials and rejoins them into a singular stream to United States Patent Publication 2012/0189789 ( hereinafter
+create unique geometries . Streams can undergo multiple the “ 789 Publication ” ) both of which are commonly owned
+manipulations before all the streams join into the final by the assignee of the instant application , the disclosures of
+geometry . Examples of multicomponent geometries include 30 which are incorporated herein by reference in their entirety . those illustrated in FIGS . 4 ( a - d ) . Typical micro - layer products are formed in a sheet . Tubu
+Folding lar microlayer products may be prepared by first extruding Multilayered products may also be prepared from a typi as a sheet followed by conversion into the tube . This cre es
+cal output product flow channel , wherein the flow channel is a weld line or separation between the microlayers . The ' 908
+morphed to create folds in the flow . These fold patterns are 35 Patent describes a cyclical extrusion of materials by divid
+manufactured into the channel so as to gradually modify the ing , overlapping and laminating layers of flowing material , contour of the stream . These folds are oriented and propa multiplying the flow and further dividing , overlapping and
+gated in such a way so that the flow can be converged back laminating the material flow to generate small grain features
+to a flow passage with a typical cross section but now with and improve properties of the formed product . The ' 789
+a multiplied number of layers . This process may be repeated 40 Publication describes extruding a flow of extrusion material
+to multiply the number of layers . One advantage of this in a non - rotating extrusion assembly , forming a first set of
+method of layer multiplication over others is that the layers multiple laminated flow streams from the extruded flow , remain continuous around the product . FIG . 5 illustrates a amplifying a number of the laminations by repeatedly com
+core surrounded by a layer which was stretched , bent and pressing , dividing and overlapping the multiple laminated
+morphed into an outside ring . This layer could be comprised 45 flow streams , rejoining the parallel amplified laminated
+of multiple layers . flows , forming a first combined laminate output with micro / This folding method can be used to create filaments , coat nano - sized features from the rejoining ; and forming a tubu
+substrates or could be integrated into a nozzle or could be lar shaped micro - layer product from the combined laminate
+used to convert filaments into new filaments , or any com output . bination of these processes . Depending on the cross section being produced , the
+Methods for Creating Various Profiles process could also include folding , feedblocks and / or deflec
+Extrusion Heads Versus Filament Heads tors .
+In order to get from melted raw material to these profiles Deflectors act to wrap or manipulate the multi layered exiting the 3D printer nozzle , there are a number of different streams . Transforming multilayered or multi - component steps and approaches which may be taken . 55 streams into tubular shapes prior to or during extrusion is
+One approach would be to start with raw materials , implemented by passing the streams over a deflector ( such
+process them into the desired cross section and have them as a spiral , bowtie , circumferential and / or wrapping deflec
+ultimately exit through the 3D nozzle all in a single assem tors ) . Dies contain but are not limited to the spiral , bowtie , bly . circumferential , wrapping deflectors , and / or any combina
+Another approach would be to start with the raw material 60 tion of these geometries . and extrude the desired cross section as a filament . This Feedblocks act to create a multilayer stream ( s ) from the
+filament could then be used as an input for 3D printing . base materials . A combination of feedblocks and or deflec
+Another approach would be to start with filaments , pro tors will result in the desired cross section . From there , the
+cess them into the desired cross section and extrude them as cross section could be extruded into a filament . This filament
+another filament . 65 could then be used in a way typical of many current 3D
+FIGS . 6 ( a and b ) depicts another example of how a printers . Another embodiment is to skip the filament stage filament comprised of two concentric layers could be pro and process the polymer straight through the 3D printer . This
+50 
+US 10,730,232 B2
+15 16
+approach could also be done in a number of ways as FIG . 9 ( C ) is an example of the same approach integrated illustrated in FIGS . 7 ( a - c ) . These figures illustrate both as a 3D printer nozzle or ' hot end ’ . If raw or molten material
+deflectors and feedblocks in the processes , however , some were to be used as an input to this system instead of filament , designs such as flat layers may not need deflectors and while a deflector assembly may be necessary to evenly distribute
+other designs may not require feedblocks . 5 the flow . This would take the place of the parallel plates in
+Other scenarios are possible including cases in which the images above . It is understood by those skilled in the art
+feedblocks would feed to a deflector , which would then head that a nozzle could be designed to accommodate any com
+into another feedblock and yet another deflector . Any num bination of raw material and / or filament inputs .
+ber of these scenarios could be imagined , and these are Another design example is depicted in FIG.9 ( d ) , describ
+considered apparent and included in the invention . The main 10 ing a side - by - side filament joiner . Such a design could also
+point is that some portions of the overall process could be be used to accept molten material as inputs . It could also be
+used as a 3D printer hot end if a 3D printer nozzle were attached or remain detached from the nozzle assembly . placed at the end . The output of these assemblies could range from nano In filament heads , the amount of time various molten meters to meters depending on the scale of the 3D printer 15 materials are in contact could be made to be tunable to
+and its uses . counter any viscous effects while ensuring adequate adhe An example 3D printing assembly is depicted in FIG . 8 , sion . mounted on a frame . This frame allows movement in all In designs for wrapping a filament in another filament , a
+three directions as well as performing rotational degrees of different class of material could be used instead of inner
+freedom . This includes extruding material on an angle and 20 filament . Such material could be continuous or chopped allowing the head to rotate around the direction of extrusion . carbon fiber , nanocellulose ( particularly acetylated nanocel
+Another aspect of this invention is that typical extrusion lulose ) or other fillers or substrates . heads could be used with this design . This design could use This design has the potential to create spiral or ' candy
+a nozzle or a tip and die design . Other designs could include cane ' , FIG . 10 ( a ) designs . This would occur if the outside
+movement of the base plate in any or all of the three 25 filament was already multimaterial or if multiple outer
+directions . filaments were spiraled within each other . With a multilayered output , the orientation of how dif If the filament had layers in the right orientation , it would
+ferent layers are deposited may change based on the direc produce a filament with annular rings ( FIG . 10 ( b ) ) . tion of the nozzle . To account for this , the nozzle and other These filament heads function by having a “ filament
+components could be made to rotate with the direction of 30 extruder ' or other means force the solid filaments into the
+movement . Another orientation would be to have the base head . Rotational motion could also be used to force the
+rotate the product . Any combination of nozzle rotation filaments into the head . Right before filaments are merged , and / or linear movement and baseplate rotation and / or linear there is a hot section to melt the filaments and the molten
+movement is considered to be within the scope of this material is merged . The merged cross section then exits and
+invention . 35 rehardens . As the wrapped solid filament moves radially While extruders in the classical sense are production inwards , the filament could begin to become molten in order
+oriented and extrude a large amount of material at a high to merge with the material running internally within it . This
+pressure , there are also smaller scale extruders . Some of process could also occur without an internal material . these small scale extruders are being used to produce An example use of rotational motion would be if the
+filament on desktops . The raw material heads could be 40 parallel plates in FIG . 6 ( a ) or the cone in FIG . 9 ( b ) were
+designed to use any scale of these extruders depending on made to rotate toward the input filament . the scale and purpose of the 3D printer . Any scale extruder Motor speeds could vary during a merging process to
+is considered to be within the scope of this invention . create bends , waves or angles as the cross section moves in
+Filament Heads and Nozzles the direction of extrusion . Turning on and off filament
+Beyond the production of filaments from raw materials is 45 extruders could create a filament which transitions between
+the production of filaments from base filaments . Filaments materials or has different features in the direction of extru
+can be manipulated or combined into other filaments . These sion . filaments can in turn be used by a 3D printer or even be used Beyond two filament wrapping or merging designs are
+as a step to more complex filaments . Many of the processes ones which utilize multiple filaments . Side - by - side and
+to make these new filaments can be integrated into a 3D 50 wrapping mergers can use any number of filaments as inputs printer nozzle itself without the need to coil and use the and have any number of outputs . For example two filaments
+filament separately . could wrap around another filament . These two wrapping Two basic functions that could be performed by such filaments could lay side by side or one could wrap on top of
+filament machines are merging filaments side by side and the other . Another example would be to have four filaments
+wrapping a filament in another , see FIG . 9 ( a ) through 9 ( d ) . 55 combine side by side to create a four layer filament . They While any shape input could be designed or used , two basic could also arrange to create a four quadrant square filament
+shapes include circular and square inputs . Other shapes , ( see FIG . 4 ( a ) ) . such as any regular or irregular shaped polygonal or annular Another design to create an annular or wrapped layer shape , or any combination therein , could be used . Square would be to manipulate and merge multiple filaments around
+inputs and outputs will allow a means of ensuring orienta- 60 a core filament . This could also be accomplished by using tion when necessary while circular is both a commonly used square filaments and forming a box around the center
+input in 3D printer nozzles as well as a logical shape for filament . The shape could then be transitioned into a round
+creating annular rings . Thus , a square filament output could shape if desired ( See FIG . 10 ( c ) ) . be , but is not limited to being , used as an input for another The core itself could also be created by multiple filaments . filament making process and outputting round filaments 65 Essentially a filament could act as a stream of material
+when the final cross section is reached . However , a nozzle described in the coextrusion , multilayer and multicompo could be designed to use any shape filaments . nent sections . A filament could also be comprised or partially 
+5
+US 10,730,232 B2
+17 18
+comprised of an extrudable metal . There are endless possi devices could produce a product comprised of 1-10 mate
+bilities for combining filaments and design of cross sections . rials . The merging devices could produce products with 2-20
+These filament heads could be modularly designed to be layers , 20-100 layers or 100 to thousands of layers . placed in parallel and / or series , as illustrated in FIGS . 11 ( a ) Chop Stacker
+and 11 ( b ) . Merging filaments transforms one dimensional basic fila FIG . 11 ( b ) is an example of a modular assembly utilizing ments into nearly any 2D cross section . The next step would multiple heads to produce an end filament with four small be to convert the 2D cross section into 3D structures . This internal squares . Such a cross section could be produced in is made possible by repeatedly chopping and welding pieces multiple ways . A single head merging two filaments could
+produce such a cross section in multiple steps by controlling 10 The cross sections of pre - chopped filaments could be placed of filament to create desired shapes within a cross section .
+input speeds and orientations . Feedback loops would be possible with filament heads . in - line or perpendicular to the new direction of extrusion .
+This feedback loop would layer two or more filaments , then Chop stack machines are known and may be adapted accord
+split the molten stream into more desired filaments to create ing to the methods of the present invention to make these
+multiple new filaments from the original filament stream . 15 products and could take multiple filaments as inputs . Per
+These filaments would then be attached to the ends of the pendicular filaments could have different thicknesses in the
+original filament and fed back into the head , as shown in new direction of extrusion to allow for different thickness
+FIG . 12. The result would multiple the number of layers in blocks to be combined . In line filaments could simply be
+each filament by the specified number of splits within the chopped at different lengths . It would also be possible to
+head . This process could continue and each full loop the 20 have a chopping machine which would merge the created
+number of layers would be multiplied by the number of filament with other created filaments , analogous to afore
+splits . Each loop could be done in its own stage but this mentioned merging devices . These devices could also be
+process could be infinitely continuous , or be stopped after a integrated into a 3D printer hot end or nozzle . specified number of iterations . FIG . 15 demonstrates in line and perpendicular arrange Another coextrusion head could be designed to provide 25 ments and their effect on the resultant filament . for multiple pathways for the various inlet filaments so as to FIG . 16 illustrates schematically how the same filament
+increase the number of possible layering combinations of the introduced in a different orientation into a chopping mecha
+end product . The merging head could also contain valves or nism will produce a filament changing in the direction of
+gateways to control each pathway . This could be achieved extrusion . Three different views of the repeating section is
+within a single extrusion head without having to change the 30 shown . input orientation or positioning of the filaments . FIG . 13 is FIG . 17 illustrates stages to create a cross section with the
+an example of a head designed so that the positioning of the outline of a house in it . Each stage has the input filaments on
+middle inlet filament layer ( shown as filament B in the the left and the resultant filament on the right . All of the steps figure ) can be altered in the final product by the tightening are using side - by - side merging . of the valves . The valves can be used to completely shut off 35 FIG . 18 illustrates how to take the filament with a house
+one or more of the prospective pathways , or restrict the flow cross section and add separated walls and transform the
+through one or more of the pathways so as to create a thinner house filaments into a filament with discrete houses sepa layer of B at the desired location in the end product . rated by white space . The top center box shows perpendicu FIG . 14 ( a ) shows the scenario in the above extrusion head lar chopping of the filament . The final box shows an in - line
+where only the center valve , Valve 2 , is open . FIG . 14 ( 6 ) 40 chopping of the previous house cross section and the new
+shows the scenario in which the two side valves , Valve 1 and one . If the white material were to be removed , all that would
+Valve 3 , are equally open and Valve 2 is closed . FIG . 14 ( c ) remain would be a row of houses . Represents a scenario in which Valve 1 is open but throttled FIG . 19 provides an exploded view of the composition of
+resulting in a thinner layer in the end product , and Valve 2 one repeating section . is wide open , and Valve 3 is closed . Such step - by - step processes , with or without a “ chop This head could be built to accommodate any number of stacker ' mechanism , like the schematics above could be
+filaments in any geometry . The head could be designed so done one at a time or be integrated as a single machine . This
+that any number of pathways can be made available for a machine could be made to produce filament or be integrated variety of different end orientations . Any combination of into a 3D printer . Machines could be designed for a specific inlets with possible end orientations is considered an appar- 50 repeating process for the manufacture of products containing ent extension of this idea . internal milli , micro , or nano features . Different steps of
+The method of using a filament as the raw material for these processes could be performed at different cross - sec
+another extrusion process can be extended to the creation of tional shapes ( ex : round , square ) or diameters in order to
+other objects . One or more wrapping operations could occur obtain the desired feature shapes and scale . around a tip to create a tube or profile shape which could be 55 Distortion of these discreet 3D structures due to parabolic comprised of multiple materials and could be extruded at flow or viscous effects of molten material has the potential nearly any diameter or size . Similarly an extruded filament to be reversed if extruded filament is used in the reverse of
+or rod could be of any diameter . Side by side mergers could the direction it was extruded in a subsequent extrusion step . be used to create other cross sections , shapes or products . This step could be as part of a new filament or through a 3D
+For example , side by side mergers could be used to extrude 60 printer nozzle or hot end . One or more skin layers could also
+plastic sheets or films by creating a thin elongated flow be used to minimize distortions . passage . Wrapping and side by side mergers could also be Filament Fed Injection Molding made to coat or incorporate substrates of all shapes and Filaments could be used directly in injection molding sizes . applications such as depicted in FIG . 20. The filaments
+Side by side filament mergers and filament wrapping 65 would be threaded into a filament extruder assembly , devices could be used to create products containing any through a heating apparatus to be melted , and then finally number of layers or materials . Particularly the merging through an injection nozzle head directly into a mold .
+45 
+30
+US 10,730,232 B2
+19 20
+The extruder assembly could contain a motor or other would be brought down to a smaller diameter and the coil propellant device such as a screw , piston , or plunger type increasing in pitch . The schematic shown in this figure could
+apparatus to direct and pressurize the filament forward be incorporated into a 3D printer nozzle or hot end with
+through the process . Any variety of propellant system is Filament 3 being the output of the printer hot end . considered to be within the scope of the present invention . 5 These filaments could also be made on a typical extrusion
+The filament could also be fed off a spool or another storage line in which a braider or spiral machine processes the
+device into the extruder assembly . substrate around an initial filament or substrate which is
+The filament could also be heated via a heating apparatus subsequently coated with any additional layers . Additionally before entering the injection nozzle . Various different heat components of any braid , weave , coil or fold could also be
+ing systems could include : heating coils , heating brackets , 10 made of polymer which could become molten in subsequent heating via fluid jacket , radiant heating systems , resistive steps to facilitate release of the other substrates . heating systems , or a variety of other heating methods . 3D Printed Filaments
+A variety of injection nozzles could be designed for this Filaments with imbedded 3D features may also be pro application . A specific nozzle could be an injection molding duced by direct 3D printing those filaments . In order to
+nozzle that attaches directly onto the tip of a 3D printer 15 accomplish this , individual segments of the filament could
+nozzle . This nozzle could be easily installed and removed be printed at a time . After a segment is printed , an advancing from the 3D printer head , essentially converting an existing stage in which the filament segment is advanced forward
+filament 3D printer into a filament injection molding device . relative to the 3D printer nozzle or the 3D printer nozzle
+This nozzle could be designed to mate with a mold in a would promote the segment away from the nozzle . Next , variety of different ways . The injection nozzle could lock 20 another segment could be printed in such a way that it
+into the mold in a key - like manner , could be threaded into overlaps or is printed end to end with the previous segment the mold , the mold could be designed to fit around a lip or to continue the growth of the filament . Due to potential edge of the nozzle ( as shown in FIG . 20 ) , or the nozzle could interference with the printer nozzle and the end of a seg simply be machined to a very high tolerance fit within the ment , the end of a segment could be printed in a tapered , mold . The mold could be clamped or bolted around the 25 angled or ‘ staircase ' manner with the end section remaining nozzle from side to side as shown in FIG . 20 , or from back in the printable zone after advancement so that it can be
+to front via a clamping or bolt mechanism of some kind . All printed upon . The printed filament could be of any cross
+varieties of injection molding nozzles and clamping systems section and size . Of particular importance are filaments with
+are considered to be within the scope of the present inven diameters or side lengths of 0.1-10 mm . tion . FIG . 25 depicts three segments of a 3D printed filament . Multiple filament fed injection mold mechanisms could There is a gap between the segments for illustrative purposes be used on a mold which would have multiple injection but in practice this gap would be non - existent and the
+ports . This would allow for the mold to fill quicker and for “ staircase ’ shapes would be overlapping . The staircase steps otherwise difficult to fill features to be filled by additional represent a shift for each layer or groups of layers that make
+injection ports in close proximity . 35 up the printed filament . Continuous Substrate Reinforced Filament The necessary stages for printing of a long or continuous
+Another aspect of this invention relates to a substrate part could include some or all of the following stages reinforced 3D filament where the substrate ( s ) is coiled including the printing or fabrication of a segment , the
+braided , weaved , folded , stacked , etc. in such a way that advancement of that segment relative to the printer nozzles , when printed , the substrate will release with the length of the 40 the removal or separation of completed segments from the
+printed material . Substrates could include but are not limited printer bed or build plate and resumption of printing . This
+to carbon fibers , optical fibers , Kevlar fibers and wires . method of producing a continuous filament with a 3D printer Multiple substrates could be incorporated in the filament . It could be applied to printing other objects with a single large is necessary to stack weave or coil the fibers if the printed characteristic dimension . path is longer than the length of filament extruded to print 45 There are a number of methods which could accomplish that path . the tasks of printing a segment , advancing it forward and
+FIG . 21 depicts a segment of a filament with a coiled fiber continuing the print . Many of these methods relate to the
+along its length . movement of build platforms or print beds . Variations of
+FIG . 22 depicts how the fiber in a fiber filament would heating , cooling , surface texture or treatments incorporated unwind as it is extruded from a nozzle . 50 in these platforms would be obvious to someone of ordinary These substrate reinforced filaments could be created by skill in the art . wrapping , weaving , folding or braiding the substrate ( s ) One method of continuously printing in a direction would
+around an initial filament or substrate and subsequently involve a conveyor or scrolling surface over a print or build
+coated . Alternatively the substrate could be introduced platform as part of a 3D printer . A conveying sheet passing coiled , woven , braided or folded in such a way that it will 55 over a rigid print platform would be able to advance the
+only need to be coated . segments of printed material forward out of the printing FIG . 23 is an example filament being extruded through a zone such that the 3D printer could resume printing the next
+nozzle with a substrate which is coiled without an internal segment . Completed portions of the filament could be peeled from the sheet conveying over the printbed by the bending FIG . 24 is a schematic of a process to create a substrate 60 motion around the end of the conveyor , a scraper or by other filament using a ' filament head ' approach by wrapping a means . There are a number of ways to create the conveying fiber or substrate around an initial filament , Filament 1 , and motion . For example the conveyor could be powered by a
+subsequently coating Filament 1 and substrate with another internal motor or the filament could be pulled by an external
+filament , Filament 2 , to create Filament 3 . motor or robot arm . Beyond a planar printbed , the printbed In FIG . 24 , filaments 1 , 2 and 3 could be of any material 65 could be shaped in such a way to contour around the cross
+or diameter . Filament 3 could be of a smaller diameter than section of the printed filament to help maintain its form . An
+Filament 1 , with the result being that the coiled substrate example would be a semi - circular or arc shaped trough or
+core . 
+US 10,730,232 B2
+21 22
+path in which the filament would be printed . A sheet which Advancement of filament segments could also be per would provide a sufficient surface for the printed material to formed by 3D printers comprised of a multitude of build
+adhere to would convey or scroll along the trough or planar plates , print beds or platforms . These printers would have
+platform . Rather than using a conveying sheet , linked rigid the capability to move platforms relative to each other . A
+segments of the trough or platform could be used as a 5 segment could be printed across the boundary of two or
+substitute . The conveying motion of the printbed could be more platforms lying next to each other . The platforms and
+used to control a dimension of the three dimensional printing a removal tool could move relative to each other in order to
+that is occurring or it could simply act to convey the printed peel off the segment from a leading platform . The separate
+material forward . platforms would then move relative to each other in such a
+FIG . 26 above represents an example 3D printer with a 10 way that the leading platform would become a trailing
+planar conveying platform . FIG . 26 shows two angles with platform . The next segment of the object would then be
+printed across the platforms . This would allow for continu a gray filament being printed by two nozzles both of which ous printing of the object . The platforms themselves could are fed by gray filaments . The completed portion of the move relative to each other to perform various functions of filament is shown hanging from the side of the printer . 15 separation or complete removal . Such movement could Another method of advancing the printed filament seg enforce bending or shear forces which could promote a ments forward would include a rotary 3D printer . In such a printed structure to separate from the platforms . design the hot ends and scraper could rotate relative to the FIG . 30 shows an example 3D printer with multiple printer bed or the printer bed could rotate relative to the platforms which could print a continuously long filament or
+scraper and nozzle . These printers could be made to print 20 object . A segment could be printed across the two platforms with x - y - z coordinates or with polar coordinates . The rotary which can translate relative to a scraper . After the scraper motion of the printer bed or nozzle could be used to account removes the portion of the printed segment on the leading for a degree of freedom . With this method , it would be platform , the leading platform can flip downwards to avoid
+possible to print filament segments in the shape of an arc at collision during movement . The trailing platform could
+a limited number of degrees of rotation before advancing to 25 advance forward or the leading platform could move back
+a next arc segment while peeling up the previously printed wards . After the previously leading platform is behind the
+segment with a scraper , take up or other removal mecha other platform , it could flip back into position . This platform nism . It would also be possible with the rotational motion of would now be the trailing platform . The next segment could
+the printer to incorporate a spool in order to wind up the then be fabricated and process repeated . These platforms filament while it is printed . 30 could also translate in tandem to control one or more degrees FIG . 27 ( a ) is an example of a rotary printer where the of freedom during printing . Other approaches to platform build plate or print bed rotates relative to the printer nozzle movement includes an approach in which the platforms raise
+and a scraper . Beneath the build plate is a spool which would or lower in order to move past one another or an approach utilize the rotation of the build plate and would act to wrap where the trailing platform rotates 180 degrees around its
+up the printed filament . With the spool being used , it may be 35 normal axis such that the end of the segment is now next to
+necessary to change the diameter at which the filament is the other platform . Other variations will be apparent to those
+printed as the spool is filled . FIG . 27 ( b ) is an example of a skilled in the art . rotary printer in which the nozzle and scraper would rotate The schematic 3D printers in FIG . 26 through FIG . 30 are
+relative to the build plate . for illustrative purposes and therefore complete 3 - dimen
+A rotating print bed could produce linear segments which 40 sional control is implied . Variations on the mechanisms for
+would line up end to end if there were pivoting sub plates achieving the various dimensional controls should be con
+which could be printed across . FIG . 28 shows an example of sidered obvious to some one of ordinary skill in the art . The
+such a printer which would simultaneously print two fila various printers which can advance a filament for continuous
+ments . The main rotating plate would rotate 90 degrees upon production can also all have a trough or channel shaped bed
+completion of each segment , the sub plates or platforms 45 which is tuned or tunable for the intended filament or object could rotate in a manner that would allow a continuous being produced . linear filament to be printed . During an advancement stage , It is possible that a system of build platforms could allow
+the rotation of the subplates paired with the rotation of the a printer to print continuous objects in two directions . This
+main rotating plate would be such that a printed segment's would allow objects of nearly unlimited length and width to
+final location compared to its initial location would be a 50 be printed . Thus far ways to advance an object continuously linear translation along its main axis . The rotation of the sub in a single direction have been mentioned however similar
+plates could be driven by motors , a track or a wall around the approaches could be taken to advance objects in multiple subplates . Another variation could include mainly rectangu directions with continuous fabrication . Some approaches to
+lar subplates which are pinned to the main rotating plate perform the continuous printing in two directions could
+close to the main rotating plates center of rotation . There 55 involve a conveyor of conveyors or multiple conveyors or could be any number of subplates . Other variations will be platforms that rotate or translate relative to each other . For
+apparent to those skilled in the art . example if a single conveyor could convey a printed object Other variations of rotary printers which could be used to in the y direction , a conveyor comprised of a multiple of
+advance a filament forward would involve 3D printing upon these conveyors linked together could translate the object in
+or inside a vertically aligned ring or drum shaped printer bed 60 the x direction . The conveyor comprised of conveyors would
+which would be made to rotate . Other variations of rotary be analagous to a conveyor comprised of linked rigid 3D printers will be apparent to those skilled in the art . platforms that as a whole could convey an object in the x
+FIG . 29 ( a ) demonstrates a 3d printer which would use a direction , however each of those platforms would be a
+drum shaped rotary print bed to perform filament advance conveyor themselves which would be capable of conveying ment . FIG . 29 ( b ) demonstrates a 3D printer using a verti- 65 in the y direction . Alternatively multiple conveyor platforms cally aligned ring shaped rotary print bed to perform fila which could translate relative to each other and rotate
+ment advancement . themselves around their z axis , could pass along printed 
+10
+US 10,730,232 B2
+23 24
+segments and align such that printing could continue across Dual Axis Filament Winder
+platform boundaries . Non conveyor platforms along with Spiral or ' candycane ’ designs such as the one seen in FIG . removal tools or removal methods could be used to pass 10 ( a ) could also be made with a side - by - side filament along printed segments and align such that printing could merger in conjunction with a filament winder which rotates
+continue across platform boundaries . The removal tools and 5 along two separate axes ( FIG . 34 ) . One axis would act to
+methods could include but are not limited to scrapers , robot wind the filament on a spool while the other axis would act
+to rotate the first axis and twist the filament to create the arms or the platforms own relative motion . Tables or other
+forms of support could be placed around the build area to spiral design .
+provide support for completed segments of the print . Print Magnetic Fields in Nozzle or Hot End
+ing across platforms could be accomplished is a similar Another aspect of this invention pertains to the use of
+magnetic fields within and / or around a 3D printing nozzle or manner as before with a tapered or staircase approach . hot end . A magnetic field could be induced via a solenoid FIG . 31 ( a ) shows an example how a in a printer capable wrapped around the nozzle or hot end ( including the entire of advancing a multi segment print in two directions could traversal of the polymeric flow ) , wherein a current is passed be laid out with the structure supporting a nozzle out to one 15 through the solenoid material , creating a magnetic field , with
+corner relative to the platforms . FIG . 31 ( b ) shows how a a specific direction , that which the filament ( extruded large object could be printed . The arrows indicate which through the nozzle or hot end ) passes through . There are a direction the object would be advanced in order to continue variety of other methods for creating a magnetic field though the print and the number indicates the order of the printed a nozzle or hot end , such as a system of magnets , a nozzle
+segment . 20 which is also a magnet or an external magnetic source , and
+These methods of continually 3D printing a filament these methods are considered to be within the scope of this
+could be coupled with another 3D printer in such a way that invention . the filament is directly used after fabrication . The filament The purpose for creating the magnetic field , through 3D printer could be used as an attachment or as an accessory which the filament passes through , is that it could orient
+to another printer . 25 fibers , fillers , flakes , fibrils , crystals or other suspended Rotating Nozzle particles within the plastic that demonstrate magnetic , para
+The orientation of layers and features laid down by a 3D magnetic or diamagnetic properties in a desired orientation . printing nozzle may be of importance in the product being An example of this can be seen in FIG . 35 , which shows a
+printed . Without compensating for the change in direction of solenoid wrapped around a nozzle or hot end . As the
+a printer nozzle , this orientation will change . In this case , a 30 magnetic , paramagnetic , or diamagnetic fibers or particles
+rotating nozzle , base or printer , such as depicted in FIG . 32 , within the filament pass through the solenoid or magnet
+spe could be used to determine the orientation of layers or induced magnetic field , they reorient themselves in
+cific direction relative the magnetic field . In the instance features laid down by a 3D printer . Components such as the of FIG . 35 , the fibers in question demonstrate magnetic or extruder , spool of filament and heaters may need to rotate 35 diamagnetic properties , in that they are shown aligning with the nozzle depending on the mechanical design as well directly with or against the magnetic field that they are
+as the software design . Electrical connections could be shown passing through . Additionally or alternatively , mag maintained with rotating electrical connectors such as a slip netic particles inside the material could also help to enhance ring . the alignment of other particles within the material and act Interchangeable Nozzles 40 to make the extruded material magnetic itself . 3D Printer nozzles could be designed so that two or more This could be applied to a wide variety of materials and
+outlet nozzles of varying thickness or geometry could be chemicals . For example , nanocellulose crystals ( particularly toggled to provide increased variety of extrudate diameter acetylated nanocellulose ) could be mixed with PLA , then
+and shape . In the examples described in FIGS . 33 ( a ) and passed through a nozzle or hot end to be aligned in a
+33 ( b ) the extrusion heads can be rotated so that one of four 45 consistent orientation . This could have profound effects on
+potential outlet nozzles can be utilized as an active nozzle . the material properties of the extruded material , including In this method , one could create a thicker or thinner extru but not limited to , tensile strength , conductivity , brittleness , date . and a variety of other apparent material properties . Potential variations of this invention include any multi Beyond magnetizing the nozzle of a 3D printer , the nozzle
+nozzled extrusion heads containing two or more nozzles on 50 or die of an extrusion head or even a filament fed device such
+the same head , servicing a single or multiple inlet streams . as a side by side merger , wrapping merger or injection The head can use angular rotation as show in FIGS . 33 ( a ) molding nozzle could also be magnetized or be made to be
+and 33 ( 6 ) , or the nozzles could be aligned in linear orien under the effects of a strong magnetic field by any of the
+tation with the head moving side to side to align the inlet methods mentioned above . This would allow for enhanced
+over the desired outlet nozzle stream . The head could be 55 alignment of particles within an extrudate . Examples of such
+re - positioned with a variety of different mechanisms . The extrudates could include filaments , tubes , profiles or rods . head could be oriented by any dedicated internal motor , an Software
+external motor , manually , or any number of potential The potential for software design with regards to detailed
+mechanical and / or electrical systems . filament design is expansive . Software could be developed Potential benefits of this design could include increased 60 where the user could design the end product filament with
+control and variability of extrudate design . This could pro regards to geometry , layer thickness , layer count , material
+vide for thicker or thinner layers where desired potentially composition , and / or layer orientation . The software could
+decreasing build time or providing increased strength or then instruct the user as to the proper sequence or orientation
+other material properties . The potential to extrude layers of of filament heads so as to produce the desired result . different shapes with a single extrusion head greatly 65 Software could also be designed so the user could model
+increases the different layering combinations that can potential filament head pathways or layouts , and the soft
+achieved . ware would return what the corresponding output filament 
+US 10,730,232 B2
+25 26
+would be . In this way , the user could model potential could be made to recognize a calculated seam as a wall and
+filament head positions and orientations and see a corre produce any desired infill relative to the this new bounding sponding filament model without having to physically run wall . Infill examples include but are not limited to a lattice , the filament heads or 3D printer and expend material . grid or honeycomb structure . The program could be
+Software could be programmed with a feature that could 5 designed to account for any separations or gaps in the also relay the potential material properties of the modeled moving platforms detailed in earlier embodiments of this
+output filament by layer . Such properties could include , but invention , FIG . 28 and FIG . 30 . are not at all limited to , melting point data , tensile strength , Benefits of Multi and Microlayers . solubility properties , malleability , composition , electrical Multilayers , microlayers and multicomponent geometries conductivity , etc. It is also feasible that the program could be 10
+designed so the user could input the material properties , and offer a very wide range of opportunities to enhance or
+the software could return a filament design that best fits the achieve material properties . For example these layers can act
+desired material properties . to hide materials beneath the surface , ‘ mix ' materials via
+Software could be programmed in order to control the high surface area contact , orient and align fibers due to shear
+rotation speeds of a dual axis filament winder . One axis 15 stresses , change optical properties and even crystallize poly
+would control the take up speed of a filament while the other mers as layer thicknesses decrease . These effects can act to
+axis would control the twist imparted on the filament . The enhance electrical conductivity , enhance anisotropic
+rotation speed and direction of both of these axes could be strength , as well as to promote or inhibit breathability . programmed to vary over time based on a user's discretion . Encasing one material within another material could help to
+The rotation of the take up axis could be programmed to 20 print materials which would otherwise not be suitable or be
+vary automatically based on spool geometry and filament able to hold their shape . Creating many thin layers of
+diameter to prevent variations in take up speed as a result of materials could have a similar effect . Layering materials
+the spool filling up . The program could also be made to could also help bridge differences in melting temperatures . couple with a tensioner or other measurement device to Multiple layers could help reduce agglomeration of fillers
+ensure the filament is being took up at the correct rate . 25 due to the internal shear stresses layers undergo during Measurement devices could include a laser which could formation . track the position of a hanging filament . Products
+Software could also be designed to help accommodate An optical fiber or waveguide can be comprised of
+and correct for naturally occurring variations and distortions alternating layers of high and low refractive index materials
+caused by the extrudate's velocity profile . When a filament 30 around a core . Such profiles could be extruded with a 3D is processed , melted and printed by a 3D printer , a velocity printer . These optical fibers could be printed onto a light profile forms where material moves very slowly by the walls based circuit . A protective outer layer which may be more
+of a printer nozzle and more quickly towards the center of suitable to contact with the nozzle or environment could be
+the flow . Any features along the axis of an inputted filament incorporated . The individual layer thicknesses within the
+will be distorted by this velocity profile during an extrusion 35 optical fiber would determine which wavelengths would be
+process . transmitted . Altering layers of differing refractive indices
+As an example , if there were a sudden change of color in could also form an iridescent effect when printed . a filament input , the color would change near the center of Alternating layers comprised of separate parts of a two
+the flow much more quickly than the outside of the extru part epoxy or glue could be 3D printed . Small layer sizes
+date . To account for the distortion caused by a velocity 40 could act to mix the materials . The layers or certain layers profile it may be possible to print a filament with an inverse could contain fibers or fillers including but not limited to
+distortion such that extrudate will have the intended fea graphene , carbon fiber , fiber glass , wood fiber , nanocellulose
+tures . To predict what distortion would need to be printed fibers , or carbon nanotubes . The layers and extrusion pro within a filament , one may be able to couple all or a cess could act to align the fibers to create anisotropic combination of internal geometrical characteristics of a 45 strength . The 3D printer could then print in the orientation
+nozzle , rates of extrusion , fluid dynamics equations , material most needed by the structure . This would also be possible rheology , heating profiles , empirical data and computational with a single part epoxy or glue . fluid dynamics to predict the relative residence time of Electrical connections could potentially be printed . Lay different points and sections along the filament within the ers can act to align metal particles or conductive fillers in a
+nozzle . It would be possible for a controller or software 50 manner to promote anisotropic conductivity . 3D printing
+program which is accompanying or tied to the 3D printer to conductive connections could have a wide range of appli automatically calculate how the input or filament would cations including circuitry and shielding . The potential to
+need to be printed in order for the features to be extruded as embed materials within other materials could allow for
+intended or with reduced distortion . This approach could highly conductive materials to be 3D printed which would
+also be used in conjunction with a filament chop stacker . 55 otherwise be difficult to process . An extrudable metal could
+Software could also be designed so as to automatically be used as a material to form conductive layers . render and compute the necessary segmentation location and Such metals could also be used with compatible plastics style , be it a taper , staircase or other method , of a printed part to form insulated layers or pathways . or filament involving an advancement stage . The software Enhancing or inhibiting breathability through crystalliza would be able to take a chosen gradient or pattern for the 60 tion effects of layered polymers could have applications in
+style of segmentation chosen . It could also accept different packaging or containers . The increased control of individual
+geometrical and material based sections , patterns or lengths layer sizes versus the layer size of the nozzle could enhance
+that could be repeated or alternated between during the these effects . printing process . Software could be designed to also track Extra small scale features could also be 3D printed using the movement of various plates or platforms repositioning 65 multi layers and multi component approaches . If one mate
+within a 3D printer which would be necessary for advance rial was removable or soluble , its removal could leave
+ment . When printing the individual segments , the software features such as very small scale holes or pathways , see FIG . 
+US 10,730,232 B2
+27 28
+36 ( a and b ) in which the gray area in FIG . 36 ( a ) has been found in nature or in humans . Different features or layers dissolved so as to produce FIG . 36 ( b ) . containing materials including but not limited to cells , Alternating materials could have applications in micro proteins , lipids , pharmaceuticals or other materials with
+chips , batteries and capacitors . Layers could include cath applications in medicine or biology could be created in a
+odes , anodes , separators , dielectrics , etc. 5 filament or stream of material that a 3D printer uses . A threaded rod could be produced if the wrapping fila Simple household items , materials , or consumable goods ment method was used around a core . If the wrapping could be printed from these filaments . Cellulose , or another
+filament had the right internal structures and could have similar material , could potential be used to give these items
+excess filament removed , a thread could be deposited . strength , as well as make them biodegradable and potential As with batteries , photovoltaic or solar cells rely on 10 edible . For example , a potential filament could comprise two
+multilayered geometries for their function . Along with bat or more of the material layers necessary for making a
+teries , all , some or combination of these layers could be product such as soap . This could greatly reduce the time and
+incorporated into a single filament . Such a filament could be expense necessary to print such household items . Food
+created through extrusion , merging with other filament or it products could also be layered in this fashion . Potentially , a
+could be 3D printed . This filament , depending on its com- 15 preservative or layers of alternating flavor could be included
+position could be used to print a fully functioning battery or in a final end product . solar cell or it could be used to aid in the manufacturing Alternating materials within the filament could have
+process of printing such a device . Filament merging devices potential phosphorescent , fluorescent , or chemiluminescent
+have the potential to produce these layers for a functioning properties . The chemically reactant layers could be sepa product without the need for subsequent 3D printing . 20 rated by a thin layer of material , wherein upon interaction
+Alternating layers could also be used to create with with an external stimuli ( chemical , physical , mechanical , unique material properties . A brittle but strong material etc ) the thin separation layer could break or dissolve allow
+layered with a flexible material could create a strong yet ing the chemically reactant layers to react emitting chemi
+flexible material . Flexible solar panels with enhanced pho luminescent light . Potential applications include a bullet
+tovoltaic properties can thus be attained . Photovoltaic 25 proof vest including one of these chemiluminescent layers , threads that may be woven to produce solar garments is where a bullet wound would illuminate the point of impact within the scope of the invention . Particularly preferred with light . An airplane or other transportation vehicle could
+compounds used in the manufacture of these products be outfitted with a layer of this material which could
+include cadmium telluride ( CdTe ) , copper indium gallium illuminate when a stress fracture has occurred . diselenide ( CIGS ) , amorphous silicon , Gallium arsenide , 30 Thus , while there have been shown , described and pointed Copper zinc tin sulfide , Perovskite and amorphous and other out , fundamental novel features of the invention as applied thin - film silicons ( TF - Si ) . to the exemplary embodiments thereof , it will be understood
+Another property could include the ability to maintain that various omissions and substitutions and changes in the
+strength at higher temperatures by layering a low melt form and details of devices and methods illustrated , and in
+temperature material with a high melt temperature material . 35 their operation , may be made by those skilled in the art
+An environmentally friendly composite filament could be without departing from the spirit or scope of the invention . made with PLA and nanocellulose fibers ( particularly acety Moreover , it is expressly intended that all combinations of
+lated nanocellulose ) . Nanocellulose fibers often form those elements and / or method steps , which perform substan
+agglomerates which could be prevented or reduced through tially the same function in substantially the same way to
+multiple layers . 40 achieve the same results , are within the scope of the inven
+Filaments with coiled or stacked internal fibers or wires tion . Moreover , it should be recognized that structures
+could be used to print reinforced parts . For example , a and / or elements and / or method steps shown and / or
+continuous carbon fiber or fiberglass tow could be laid down described in connection with any disclosed form or embodi with this filament allowing a printed part to have greatly ment of the invention may be incorporated in any other
+enhanced mechanical properties . Another example would 45 disclosed or described or suggested form or embodiment as
+allow copper wire to be printed throughout a part , which a general matter of design choice . It is the intention , there
+could provide EMI shielding or a means for internal con fore , to be limited only as indicated by the scope of the
+ductive circuits . If conductive fillers were present in the claims appended hereto . polymer surrounding the internal wire , links could be cre The invention claimed is :
+ated between multiple layers of wires . Allowing connections 50 1. A meltable 3D printer product filament having a length , to be created vertically through a printed part . Yet another comprising :
+example would allow for optical fibers to be printed a section of a first solid 3D printer meltable filament
+throughout a part which would be useful for light based which is aligned in - line or perpendicular to the length circuits or effects . of the meltable 3D printer product filament and having A 3D printed filament will have numerous potential 55 a first chopped end including a first shape comprising applications . Such applications could include a battery fila at least one planar surface that is angled relative to the
+ment . Current advances have allowed for a battery to be length of the meltable 3D printer product filament ; completely 3D printed by using various materials and fila a section of a second solid 3D printer meltable filament
+ments . However if this battery were printed in the form of which is aligned in - line or perpendicular to the length
+a filament , there is potential that a printer could use this 60 of the meltable 3D printer product filament and having filament to print a part that part could essentially be a large a second chopped end including a second shape com
+battery . One could imagine a 3D printed smartphone case prising at least one planar surface that is angled relative
+which could double as a battery for the phone itself . to the length of the meltable 3D printer product fila
+The technology mentioned could also have a great impact ment ; in printing with biomaterials . The ability to create small 65 wherein the first chopped end of the section of the first
+features with different biomaterials will greatly enhance the solid 3D printer meltable filament and the second
+degree at which a 3D printer could mimic bio structures chopped end of the section of the second solid 3D 
+US 10,730,232 B2
+29 30
+printer meltable filament are stacked and welded meltable filament is aligned in - line to the length of the
+together and the first shape of the first chopped end of meltable 3D printer product filament to form a 1-5 mm thick
+the section of the first solid 3D printer meltable fila filament . ment and the second shape of the second chopped end
+of the section of the second solid 3D printer meltable 5 claim 1 wherein said section of the second solid 3D printer 4. The meltable 3D printer product filament according to
+filament are complementary to one another and define
+a transition between the section of the first solid 3D meltable filament is aligned in - line to the length of the
+printer meltable filament and the section of the second meltable 3D printer product filament . solid 3D printer meltable filament . 5. The meltable 3D printer product filament according to
+2. The meltable 3D printer product filament according to claim 1 further comprising multiple sections of the first solid claim 1 further comprising additional sections of the first 3D printer meltable filament aligned in - line to the length of solid 3D printer meltable filament having a first chopped end the meltable 3D printer product filament . and the second solid 3D printer meltable filament having a second chopped end that are aligned in - line or perpendicular 6. The meltable 3D printer product filament according to
+to the length of the meltable 3D printer product filament to claim 1 further comprising multiple sections of the second
+form a 1-5 mm thick filament . 15 solid 3D printer meltable filament aligned perpendicular to
+3. The meltable 3D printer product filament according to the length of the meltable 3D printer product filament . claim 1 wherein said section of the first solid 3D printer
+10 

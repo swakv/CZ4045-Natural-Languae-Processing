@@ -1,0 +1,653 @@
+Superhydrophobic Coatings for Urinary Catheters To Delay Bacterial
+Biofilm Formation and Catheter-Associated Urinary Tract Infection
+Shuai Zhang,†,§ Xinjin Liang,‡,§ Geoffrey Michael Gadd, and Qi Zhao,
+School of Science and Engineering, University of Dundee, Dundee DD1 4HN, Scotland, U.K.
+School of Life Sciences, University of Dundee, Dundee DD1 5EH, Scotland, U.K.
+*S Supporting Information
+ABSTRACT: In this research, a multilayered superhydrophobic coating for urinary catheters was synthesized by a
+layer-by-layer deposition technique. A mussel-inspired polydopamine coating was utilized as a platform for the in situ
+anchoring of silver nanoparticles followed by hydrophobic
+modification with 1H,1H,2H,2H-perfluorodecanethiol. Benefiting from the synergistic effect of hierarchical micro/
+nanostructures and antibacterial silver nanoparticles, the
+prepared catheters exhibited excellent superhydrophobicity
+and prolonged antibacterial activity against Escherichia coli
+WT F1693 and Proteus mirabilis WT F1697. Compared with
+commercial all-silicone and silver-alloy-hydrogel catheters, the
+superhydrophobic catheter exhibited significant antibiofilm
+activities in both static and dynamic models. In an in vitro bladder model, bacterial migration along the outer catheter was
+effectively delayed, reducing biomass accumulation by up to 55 and 90% compared with all-silicone and silver-alloy-hydrogel
+catheters. Encrustations in the catheter lumen were also retarded, extending the lifetime of silicone catheters from ∼40 to ∼100
+h. The superhydrophobic catheter also exhibited good biocompatibility to the L929 mouse fibroblasts, therefore providing a
+promising direction for the future design of urinary catheters.
+KEYWORDS: urinary catheter, superhydrophobic, encrustation, coating, biofilm
+INTRODUCTION
+The high incidence of infections and encrustation caused by
+the use of urinary catheters has a severe impact on human
+health and health care costs.1,2 The root cause lies in the early
+onset of contamination where bacteria migrate along the
+exterior or the internal lumen of the catheter into the bladder
+leading to complications such as bacteriuria, prostatitis,
+septicaemia, and shock.3,4 Moreover, bacterial adhesion
+initiates a cascade of events and results in the formation of a
+biofilm, which has been found to be responsible for the
+persistence of infections in patients who undergo long-term
+catheterization.3,5 Numerous attempts have been made to
+prevent/retard catheter-associated urinary tract infection
+(CAUTI) and encrustation by coating catheters with antibiotics, silver, hydrogels, or polytetrafluoroethylene
+(PTFE).6−8 However, clinical studies indicate that such coated
+catheters provide an insignificant reduction in CAUTI or
+encrustation formation.9,10
+Superhydrophobic coatings are well-known for their selfcleaning properties, which work through extreme water
+repellence to form near spherical water droplets that remove
+contaminants.11 When in contact with water, a thin layer of air
+can be trapped within the micro/nanostructures on the
+superhydrophobic surface, which inhibits bacterial colonization.12 Recent studies also showed that catheters with
+superhydrophobic textiles significantly facilitated liquid flow
+through a closed-system catheter tube when compared with a
+standard closed-tube system.13 These results indicate that a
+urinary catheter with a superhydrophobic surface may allow
+urine flow to efficiently wash off adhered bacteria and provide
+minimal colonization sites for new bacteria, thereby delaying
+biofilm formation and subsequent complications. However,
+few studies have been carried out on superhydrophobic urinary
+catheters for antibacterial applications.
+In this study, we report the preparation of a multilayered
+superhydrophobic coating for urinary catheters via a musselinspired strategy. Their ability to inhibit biofilm formation was
+examined in both static and dynamic models and compared
+silver-alloy-hydrogel-coated (BARDEX I.C., Bard, West Sussex,
+USA) and all-silicone (Rüsch, Teleflex, Buckinghamshire, UK)
+catheters. To test their ability to resist bacterial migration, a
+modified in vitro bladder model and a catheter bridge model
+were used to mimic both humid and dry conditions. To verify
+their efficacy against encrustation, the catheters were
+challenged with Proteus mirabilis in a clinically relevant
+continuous flow in vitro bladder model system. Their
+Received: September 9, 2019
+Accepted: December 3, 2019
+Published: December 3, 2019
+Article
+Cite This: ACS Appl. Bio Mater. 2020, 3, 282−291 www.acsabm.org
+© 2019 American Chemical Society 282 DOI: 10.1021/acsabm.9b00814
+ACS Appl. Bio Mater. 2020, 3, 282−291
+This article is made available for a limited time sponsored by ACS under the ACS Free to
+Read License, which permits copying and redistribution of the article for non-commercial
+scholarly purposes.
+Downloaded via 155.69.183.14 on September 18, 2020 at 09:55:18 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+cytotoxicity at the mammalian cell level was studied using
+L929 mouse fibroblast cells.
+■ EXPERIMENTAL SECTION
+Preparation of Superhydrophobic Coatings. The superhydrophobic coating (SC) was prepared via continuous deposition
+of polydopamine (PDA) and silver nanoparticles (AgNPs) followed
+by hydrophobic modification with 1H,1H,2H,2H-perfluorodecanethiol (PFDT) (Scheme 1). The precut 3 cm long all-silicone Foley
+catheters (with a diameter of 5.0 mm) were thoroughly rinsed in
+absolute ethanol and deionized water (DI). Afterward, the catheters
+were prewetted by ethanol and then immersed in an aqueous solution
+of dopamine (2 mg/mL in 10 mM Tris buffer, pH 8.5) for 24 h to
+allow the spontaneous deposition of a thin adherent polymer film.
+Afterward, the catheters were thoroughly washed with DI and
+immersed in 0.01 M AgNO3 solution for 10 h without exposure to
+light at room temperature (RT). Finally, the catheter surfaces were
+modified in a sealed anaerobic ethanol solution containing
+1H,1H,2H,2H-perfluorodecanethiol (500:1, v/v) for 12 h at room
+temperature and dried at 100 °C for 1 h (Scheme 1). The prepared
+catheters were then cut into 2 and 1 cm segments for the biofilm
+adhesion assay and bacterial migration assay, respectively.
+Surface Characterization. The surface morphology of the
+coatings was characterized using a field emission-scanning electron
+microscope (FE-SEM, JEOL JSM-7400F, Tokyo, Japan) and an
+atomic force microscope (AFM, Dimension 3000, Santa Barbara, CA,
+U.S.A.). ImageJ (LOCI, University of Wisconsin, Wisconsin, USA)
+was used to identify the PDA and silver particles, and their size
+distributions were calculated from random SEM images. The surface
+compositions were characterized by UHV X-ray photoemission (XPS,
+ESCALAB 250, Waltham, U.S.A.). The surface wettability was
+characterized by measuring the contact angle using a Dataphysics
+OCA-20 contact angle analyzer (DataPhysics Instruments GmbH,
+Filderstadt, Germany).
+Ag+ Release and Biofilm Adhesion. The release profiles of Ag+
+from the catheters were characterized by immersing 1 cm long
+catheter segments (n = 3) in 5 mL of artificial urine (AU). Every day
+for 7 days, the AU was collected, assayed for Ag+ concentrations using
+atomic absorption spectrometry (PerkinElmer, AAnalyst 400, U.S.A.),
+and replaced with fresh AU. Silver release was expressed in μm/cm2
+.
+The silver loading of the SC catheter was also determined by
+immersing 1 cm long catheter segments in 20 mL of 0.1 M nitric acid
+(HNO3) until the silver was fully dissolved. The silver concentration
+was determined by AAS.
+The antibiofilm assay was performed according to a previously
+reported method.14 In brief, the 2 cm long catheters including the SC
+catheters, silver-alloy-hydrogel (AgH)-coated Foley catheters (with a
+diameter of 5.0 mm), and all-silicone Foley catheters were incubated
+with 5 mL of Escherichia coli and Proteus mirabilis (∼2 × 108 CFU/
+mL) in tryptic soy broth (TSB) at 30 rpm at 37 °C for 48 h,
+respectively. The biofilm on the catheter surface was observed using
+SEM. The number of adhering bacteria was determined using the
+viable plate counting method. To further mimic real conditions, the
+antibiofilm ability of the catheters was tested with a dynamic flow
+model at 37 °C for 7 days (Scheme 2).15 The model allowed urine to
+continuously flow through the catheters and provided a favorable
+environment for biofilm formation. Artificial urine16 (without urea)
+containing ∼2 × 108 CFU/mL of bacteria was pumped through the
+catheter lumen via a peristaltic pump at a steady rate of 0.5 mL/min.
+The AU was refreshed every 24 h. After 7 days, the catheters were
+collected and plated for colony counting. To determine the viability of
+the adhered bacteria, the cells were stained using a LIVE/DEAD
+Baclight bacterial viability kit L13152 (Fisher Scientific, UK) and
+observed under a fluorescence microscope (OLYMPUS BX 41,
+Japan).
+Bacterial Migration Assays. As for the bladder model,17 a simple
+modification was applied. As shown in Figure 5a, the catheter
+segments (n = 4, 3.5 cm long) were perpendicularly immersed in the
+bacterial suspension (∼2 × 108 CFU/mL, 5% dextrose solution). The
+end of the catheter (0.5 cm long) immersed in the bacterial
+suspension was regarded as the site of infection. After 7 days’
+coincubation, the catheters were removed from the suspension, and
+the biofilm formed on the catheters was observed by SEM. Moreover,
+the biomass formed along the catheters was quantified by crystal
+violet staining.18 The catheter bridge model was constructed from
+tryptone soya agar (TSA) plates with two 0.85 cm wide perpendicular
+channels. Aliquots (10 μL) of the bacterial cultures (∼2 × 108 CFU/
+mL) were inoculated at the edge of the central channel of each plate
+and dried before the catheter segments (1.0 cm long) were placed
+across the channels. After 24 h of incubation at 37 °C, the growth of
+test strains on the uninoculated halves of the plates was examined. A
+fourth inoculum was not provided with a bridge to confirm that the
+bacterial migration was through the catheter and not the Petri dish
+surface.
+Scheme 1. Diagram of the Superhydrophobic Coating Process
+Scheme 2. Diagram of the Dynamic Flow Model for
+Antibiofilm Experiments
+ACS Applied Bio Materials Article
+DOI: 10.1021/acsabm.9b00814
+ACS Appl. Bio Mater. 2020, 3, 282−291
+283
+Figure 1. SEM images of the outer surfaces of (a) silicone, (b) PDA, (c) PDA−Ag, and (d) superhydrophobic catheters; size distributions of (e)
+PDA and (f) Ag; water contact angles on (g) silicone, (h) PDA, (i) PDA−Ag, and (j) superhydrophobic surfaces; AFM images of (k) silicone, (l)
+PDA, (m) PDA−Ag, and (n) superhydrophobic surfaces.
+Figure 2. XPS spectra of (a) wide scans, (b) Ag 3d, (c) S 2p, and (d) F 1s. Typical spectra are shown from several examinations.
+ACS Applied Bio Materials Article
+DOI: 10.1021/acsabm.9b00814
+ACS Appl. Bio Mater. 2020, 3, 282−291
+284
+Encrustation Assay. The efficacy of the SC catheter against
+encrustation was assayed with P. mirabilis in an in vitro bladder
+model.19 After sterilization via autoclaving, the catheters (n = 3) were
+fixed through a funnel and inserted aseptically into the “bladder”,
+which was prefilled with P. mirabilis culture (∼2 × 107 CFU/mL) in
+AU (Figure 10a). After 1 h, sterile artificial urine was pumped into the
+“bladder” via a peristaltic pump at a physiological flow rate of 0.5 mL/
+min to ensure the urine level was above the drainage holes. The
+blockage time was recorded, and the encrustations in the catheter
+lumen were observed by SEM.
+Cytotoxicity Assay. The cytotoxicity of the superhydrophobic
+catheters was tested using an MTT method according to our
+previously reported study.20 Mouse fibroblast cells L929 were seeded
+at ∼105 cells/well into 24 well plates and incubated with the catheters
+(n = 4) for up to 72 h. The relative cell viability was determined by
+measuring the absorbance at 570 nm and comparing this with the
+control (silicone catheter). The cell morphology was also examined
+after 72 h of culture using confocal microscopy (Leica SP8 confocal
+microscope, Wetzlar, Germany).
+Statistical Analysis. One-way ANOVA was used for all statistical
+analyses, and data were represented as the means ± standard
+deviation. p < 0.05 was considered significant, and p < 0.01 was
+considered highly significant.
+RESULTS AND DISCUSSION
+Surface Characterization. As seen in Figure 1a,k, the
+uncoated silicone surface exhibited a smooth morphology with
+a surface roughness of 61.2 ± 1.9 nm. After PDA deposition,
+the catheter surface exhibited a hierarchical micro/nano
+roughness (Figure 1a,b). PDA nanoparticles with a wide
+particle size distribution (ranging from ∼50 to ∼800 nm)
+aggregated onto the silicone substrate and constructed a
+micro/nano hierarchical structure with a roughness of 139.1 ±
+8.4 nm, leading to a significant wettability conversion from
+hydrophobic to hydrophilic (Figure 1b,e,h,l). To enhance the
+hierarchical structures, silver nanoparticles with an average
+diameter of 100−150 nm were homogeneously deposited and
+grown in situ on the PDA surface (Figure 1c,f), resulting in an
+increase in surface roughness (225.3 ± 4.7 nm) and a further
+decrease in the water contact angle (WCA) from 40.1 ± 0.9 to
+28.7 ± 1.4° (Figure 1i,m). PFDT used as the hydrophobic
+modifier as the mercapto group could strongly attach to silver,
+and the perfluoroalkyl chains could impart a very low surface
+tension to the surface.21,22 The surface roughness decreased to
+194.8 ± 2.7 nm, but no significant difference in particle shape
+and size was observed (Figure 1d,n). However, the surface
+exhibited extremely high water repellency with a WCA of 154.7
+± 1.1° (Figure 1j) and a sliding angle <5°. Figure S1 shows the
+cross section view of the SC, which was very uniform with a
+thickness of ∼950 nm. The chemical composition of the
+obtained superhydrophobic coating was studied by X-ray
+photoelectron spectroscopy (XPS). As seen in Figure 2a, the
+XPS wide scan spectrum of the coating exhibited characterized
+peaks of Ag 3d, Si 2p, and F 1s. The Ag 3d XPS spectra were
+deconvoluted into two asymmetric peaks with binding energies
+of 368.4 eV (Ag 3d3/2) and 374.5 eV (Ag 3d5/2), which
+indicated the formation of elemental silver nanoparticles
+(Figure 2a). In the S 2p and F 1s narrow scans, there existed
+only two strong peaks with binding energies of 162.7 and 688.0
+eV, which respectively correspond to the C−S and C−F
+groups in the molecular structure of the PFDT oligomer
+(Figure 2c,d). These results confirm the formation of a PFDT
+layer on the superhydrophobic coating. In Movie S1, the water
+droplet bounces off the surface without wetting or adhering to
+the surface, which further revealed its superhydrophobicity.
+Movies S2 and S3 show the water drop tests (released from a
+height of 1 cm) on the superhydrophobic catheter surface and
+a bare silicone catheter surface, respectively. An obvious
+difference was observed in the retraction processes (Figure 3).
+It took ∼26 ms for the impacting water droplet to complete
+the overall process on the superhydrophobic surface, while the
+impacting water droplet could not bounce off the silicone
+surface due to strong adhesion.23
+Ag+ Release and Biofilm Formation. As seen in Figure
+4a, the SC and AgH catheters showed different kinetic release
+profiles although their silver loadings were relatively close (SC
+catheters, 21.4 ± 1.1 μg/cm2
+; AgH catheters, 17.8 ± 0.6 μg/
+cm2
+). The AgH catheters released significantly higher (p <
+0.01) amounts of Ag+ over the initial 3 days. However, the
+daily release rate decreased sharply after 4 days and became
+relatively constant (∼0.13 μg/cm2
+) afterward. For the SC
+catheters, the Ag+ release rate from the SC catheters was
+relatively constant during the test period (∼0.18 μg/cm2
+).
+The antibiofilm activity of the SC catheter was compared
+with both hydrophilic catheters (PDA, PDA−Ag, silver-alloyhydrogel (AgH)-coated catheters) and hydrophobic all-silicone
+catheters. In this study, tryptic soy broth (TSB) was used as
+the culture medium, aiming at stimulating bacterial growth and
+accelerating biofilm formation. Our previous study showed that
+the silicone catheter was fully covered by a biofilm under such
+conditions.14 As shown in Figures 4c and 5, the AgH-coated
+catheters showed the highest levels of biofilm formation for
+both E. coli and P. mirabilis. Although there is evidence
+showing the effectiveness of AgH-coated catheters against
+CAUTI occurrence, the presence of tryptone in the culture
+medium may facilitate bacterial colonization and biofilm
+formation through cross-linking of the hydrogel polymer
+chains.24−26 In contrast, hydrophilic PDA and PDA−Agcoated surfaces appeared to exhibit improved antibiofilm
+properties when compared with the bare silicone surface (p <
+0.01). However, no significant difference (p > 0.05) in
+antibiofilm activity was detected between the PDA and PDA−
+Ag surfaces. After modification with PFDT, the SC catheters
+were found to be most resistant to bacterial colonization, and
+no trace of a mature biofilm was detected. The results showed
+that the SC catheters reduced the adhesion of E. coli and P.
+mirabilis by 96.1 and 84.9%, respectively, when compared with
+the unmodified silicone catheters and reduced adhesion of E.
+coli and P. mirabilis by 97.4 and 90.5%, respectively, when
+compared with the AgH catheters.
+Clinically, most cases of CAUTIs (over 66%) are caused by
+bacteria ascending into the bladder via the extraluminal
+route,27 and biofilm formation has been found to augment
+Figure 3. Time-lapse images of water droplets bouncing on the
+superhydrophobic-coated silicone surface and bare silicone surface.
+The droplet volume was 10 μL.
+ACS Applied Bio Materials Article
+DOI: 10.1021/acsabm.9b00814
+ACS Appl. Bio Mater. 2020, 3, 282−291
+285
+bacterial migration along catheter surfaces.28−30 Previous
+studies have reported that the air trapped in the micro/nano
+structures could be lost over time, leading to the loss of surface
+superhydrophobicity and antiadhesion properties.31−33 However, as seen in Figures 5 and S2, the integrity of the
+hierarchical structures in the SC was well-preserved, and the air
+film inhibited penetration of bacterial culture medium.
+Moreover, water flow over the SC may exert sufficient shear
+stress to cause adhering bacteria to slide and roll over the
+surface.34 To mimic real conditions, antibiofilm performance
+was evaluated in AU with a dynamic flow model over a period
+of 7 days. As seen in Figure 4d, no significant difference in
+bacterial adhesion was found among the silicone, PDA, PDA−
+Ag, and AgH catheters (p > 0.05). The SC catheters still
+exhibited the highest antibiofilm efficacy, reducing the
+adhesion of E. coli and P. mirabilis by 67.1 and 60.2%
+respectively, compared with the silicone catheters.
+Although it is generally believed that the antibacterial
+activity of a silver-containing coating depends on free Ag+
+release, our results showed that the SC catheters were more
+resistant to biofilm formation when compared with an AgH
+catheter. To further understand the antibiofilm mechanism of
+the SC surface, the WCA on the SC surface was also
+monitored against immersion time. As shown in Figure 4b, the
+WCA was relatively stable over the initial 3 days and gradually
+decreased from ∼150 to ∼120°. This could be due to
+penetration of the surrounding medium through the air film
+under hydraulic pressure. However, the loss of superhydrophobicity did not compromise its antibiofilm activity
+during the test period. Figure S3 shows the adhering live and
+dead bacterial cells on silicone and SC surfaces in the dynamic
+biofilm assay over 7 days. For both strains, the silicone surfaces
+were nearly covered with biofilm, and most of the adhered cells
+were alive (green). In comparison, the numbers of adhering
+bacteria on SC surfaces were significantly lower (p < 0.01)
+than those on silicone surfaces, and a large quantity of dead
+cells (red) were observed. This could be related to the
+antibacterial Ag+ released from the SC.
+The above results indicated that the enhanced antibiofilm
+efficacy could be explained using a two-stage model. In the
+initial stage, due to air-trapping ability, an air film barrier was
+formed on the SC surface that prevented bacterial adhesion
+and also reduced the direct contact between the Ag
+nanoparticles and the surrounding media, leading to a
+relatively slow but continuous release of silver ions. However,
+with increasing immersion time, water gradually penetrated
+into the micro/nano structure due to the hydraulic pressure,
+leading to an increase in the surface area exposed to bacterial
+culture media. Meanwhile, the underlying silver nanoparticles
+were activated by the surrounding media and released Ag+ to
+kill the bacteria and retard biofilm formation.
+Bacterial Migration. The migration of E. coli and P.
+mirabilis along the catheter surfaces was assessed in vitro in
+both humid and dry conditions considering that urine flow
+over the catheter surfaces is usually intermittent and weak. As
+shown in Figure 6, upon challenge with ∼108 CFU/mL of
+bacteria, all the catheters were contaminated for their full
+length (3 cm) after 7 days. However, there was a significant
+difference in biomass accumulation between these catheters.
+For both strains, the amount of biomass on the catheter
+surfaces showed a “pyramid-shaped” distribution from the
+“infection site” to the top (Figure 6b,c). The AgH catheter
+surfaces showed the highest levels of biomass accumulation on
+all sections. These results together with the above biofilm assay
+indicated that AgH coatings may not be able to impede
+bacterial adhesion and migration in a nutrient-rich culture
+medium. Similar results have been reported in other
+studies.4,35,36 In comparison, the SC effectively inhibited
+bacterial migration and showed the lowest biomass accumulation giving a reduction of over 47 and 84% for E. coli (55 and
+Figure 4. (a) Ag+ release profiles of SC and AgH catheters in AU; (b) water contact angles on the SC surface after immersion in AU for up to 7
+days; quantitative counts of viable bacterial cells adhering to different surfaces after (c) 2 days in TSB and (d) 7 days in AU. (n = 6, ** p < 0.01
+compared with silicone).
+ACS Applied Bio Materials Article
+DOI: 10.1021/acsabm.9b00814
+ACS Appl. Bio Mater. 2020, 3, 282−291
+286
+90% for P. mirabilis) biomass accumulation on the rear end of
+the catheter when compared with silicone and AgH,
+respectively.
+It has been reported that flagellated bacteria have the ability
+to swarm over various types of urinary catheters and secrete
+extracellular polymer substance (EPS) that can trap motile
+bacteria and induce swarm cell differentiation.4,36,37 For
+silicone catheters, Figures 7 and 8 clearly showed the bacteria
+migrating along the catheter surfaces. For example, E. coli
+migrated along the catheter after reaching a high enough
+density at the “infection site”, aligning in multicellular rafts and
+enveloped in EPS. However, such migration was delayed on
+the SC, although a dense biofilm was formed on the section in
+the vicinity of a bacterial suspension. The hydraulic pressure
+Figure 5. Biofilm formation on silicone, PDA, PDA−Ag, SC, and AgH surfaces after a 2 day incubation in TSB.
+Figure 6. (a) Diagram of the modified in vitro bladder model and the optical absorbance data of biomass at 590 nm for different sections of
+silicone, AgH, and SC catheters after 7 days of coincubation with (b) E. coli and (c) P. mirabilis. (n = 4; * p < 0.05 and ** p < 0.01 compared with
+silicone).
+ACS Applied Bio Materials Article
+DOI: 10.1021/acsabm.9b00814
+ACS Appl. Bio Mater. 2020, 3, 282−291
+287
+leads to penetration of the air film by the culture medium with
+increased immersion time, resulting in the loss of antiadhesion
+ability.
+In the bridge model, the time (means of three replicates)
+that E. coli took to migrate through the 1 cm sections varied
+from 13.0 ± 1.7 h over silver-alloy-hydrogel catheters, 16.8 ±
+2.1 h over silicone catheters, and 18.2 ± 1.2 h over the
+superhydrophobic catheters. For P. mirabilis, the times were
+relatively shorter: 10.0 ± 0.9 h over silver-alloy-hydrogel
+catheters, 12.8 ± 3.1 h over silicone catheters, and 14.5 ± 2.4 h
+over the superhydrophobic catheters. Figure 9 shows bacterial
+migration over the different catheter bridges after 24 h. The
+differences in the times for migration by the bacterial cells
+across the bridge for unmodified silicone catheters and SC
+catheters were not significant (p > 0.05). This could be
+explained as follows: for the SC catheter, the results of
+Figure 7. Representative SEM images of E. coli adherence along silicone, AgH, and SC surfaces after 7 days of incubation.
+Figure 8. Representative SEM images of P. mirabilis adherence along silicone, AgH, and SC surfaces after 7 days of incubation.
+ACS Applied Bio Materials Article
+DOI: 10.1021/acsabm.9b00814
+ACS Appl. Bio Mater. 2020, 3, 282−291
+288
+antibiofilm tests suggested that the primary mechanism for
+resisting bacterial adhesion in the initial stage was related to
+the superhydrophobicity. However, in the bridge model, the
+catheters were fixed between solid agar blocks, and there was
+no water flow over the catheter surfaces. Although the bridge
+model does not exactly reflect real conditions, it has been
+widely used as a simple laboratory model to examine the
+antibacterial activity of a catheter surface against bacterial
+migration.37,38 Therefore, the insignificant p-value indicated
+that the SC coating did not exhibit a desirable antibacterial
+effect on bacterial migration over the surface with the bladder
+model.
+Encrustation Assay. The efficacy of SC catheters against
+encrustation was examined with P. mirabilis via an in vitro
+bladder model (Figure 10a). This model has proven to be very
+effective in simulating the encrustation process, and our
+previous study suggested that the blockage time is independent
+of the initial bacterial concentration.19 As shown in Figure 10b,
+the times taken to block an uncoated silicone catheter and an
+SC catheter were 41.3 ± 1.7 and 101.4 ± 6.9 h, respectively.
+The catheters were also removed after 48 h to compare the
+encrustation in the catheter lumen (Figure 10b,c). The silicone
+catheter lumen was fully blocked with crystalline encrustation,
+while only discontinuous crystals were found in the SC
+catheter lumen. Previous studies reported that the all-silicone
+catheter can remain in situ for up to 12 weeks; it would not be
+surprising that the SC catheter could further reduce the risk of
+CAUTI and provide a longer period of protection during
+catheterization due to the improved antibiofilm and antiencrustation properties.14
+Cytotoxicity Assay. In this study, we conducted the
+cytotoxicity assay with mammalian cells to demonstrate
+Figure 9. (a) E. coli and (b) P. mirabilis migrating over 1 cm sections of silicone catheter, silver-alloy-hydrogel-coated latex catheter, and
+superhydrophobic catheter after 24 h (the red arrows represent the direction of migration); (c) migration time values. Bars represent the standard
+deviation of the mean (n = 3; * p < 0.05 compared with AgH).
+Figure 10. (a) Diagram of the in vitro bladder mode; (b) the time taken for catheters to block; SEM images of cross sections of (c) silicone and (d)
+superhydrophobic catheters comparing levels of encrustation and blockage. Each catheter was removed from the model after 48 h of operation. Bars
+represent the standard deviation of the mean.
+ACS Applied Bio Materials Article
+DOI: 10.1021/acsabm.9b00814
+ACS Appl. Bio Mater. 2020, 3, 282−291
+289
+catheter biocompatibility. As seen in Figure 11, no significant
+difference in cell viability was found between silicone, PDA,
+and SC catheters during 72 h of culture (p > 0.05). However, a
+significant decrease (p < 0.01) in cell viability was found in the
+PDA−Ag group. This could be due to the excessive release of
+Ag+ in the initial 3 days. After modification with PFDT, the
+silver release was controlled, leading to improved biocompatibility. This was further verified by observing cell morphologies
+by confocal microscopy (Figure 12).
+CONCLUSIONS
+In this study, superhydrophobic coatings with hierarchical
+micro/nanostructures were prepared for urinary catheters via a
+mussel-inspired approach. The superhydrophobic catheters
+demonstrated superior antibiofilm properties against two
+common uropathogens, E. coli and P. mirabilis, under both
+static and dynamic conditions when compared with
+commercial all-silicone and silver-alloy-hydrogel catheters.
+The enhanced antibiofilm efficacy was derived from a
+synergistic effect of superhydrophobicity and antibacterial Ag
+nanoparticles. The superhydrophobic feature could prevent/
+retard bacterial attachment and control silver ion release,
+which endowed the surface with antibacterial activity and
+improved biocompatibility. Bacterial migration along the outer
+surface was effectively delayed when examined in an in vitro
+bladder model. Encrustations in the catheter lumen were also
+retarded, extending the blockage time from ∼40 to ∼100 h.
+These positive results indicate a new potential direction for
+designing urinary catheters to reduce CAUTI.
+ASSOCIATED CONTENT
+*S Supporting Information
+The Supporting Information is available free of charge at
+https://pubs.acs.org/doi/10.1021/acsabm.9b00814.
+Cross-section view of the superhydrophobic coating,
+images of the different catheters (silicone catheter, newly
+prepared superhydrophobic catheter, and superhydrophobic catheter collected after biofilm assay) immersed
+in AU, live/dead fluorescent images of adhering E. coli
+and P. mirabilis on silicone and SC surfaces after 7 days’
+biofilm testing in a dynamic flow model (PDF)
+Water droplet bouncing on the superhydrophobic
+surface (MP4)
+Water droplet bouncing on the superhydrophobic
+surface (MP4)
+Water droplet bouncing on the silicone surface (MP4)
+AUTHOR INFORMATION
+Corresponding Author
+*E-mail: q.zhao@dundee.ac.uk.
+ORCID
+Shuai Zhang: 0000-0003-3243-5490
+Geoffrey Michael Gadd: 0000-0001-6874-870X
+Qi Zhao: 0000-0002-4831-1727
+Author Contributions
+S.Z. and X.L. are co-first authors.
+Notes
+The authors declare no competing financial interest.
+ACKNOWLEDGMENTS
+We acknowledge the financial support from the UK Engineering and Physical Sciences Research Council (EP/P00301X/1)
+and Natural Environment Research Council [NE/M010910/1
+(TeaSe); NE/M011275/1 (COG3
+)] (G.M.G.).
+REFERENCES
+(1) Nicolle, L. E. Catheter associated urinary tract infections.
+Antimicrob. Resist. Infect. Control. 2014, 3, 23.
+(2) Saint, S.; Fowler, K. E.; Sermak, K.; Gaies, E.; Harrod, M.;
+Holland, P.; Bradley, S. F.; Hancock, J. P.; Krein, S. L. Introducing the
+No Preventable Harms campaign: creating the safest health care
+system in the world, starting with catheter-associated urinary tract
+infection prevention. Am. J. Infect. Control 2015, 43 (3), 254−259.
+(3) Trautner, B. W.; Darouiche, R. O. Catheter-associated
+infections: pathogenesis affects prevention. Arch. Intern. Med. 2004,
+164 (8), 842−850.
+(4) Jacobsen, S. M.; Stickler, D. J.; Mobley, H. L.; Shirtliff, M. E.
+Complicated catheter-associated urinary tract infections due to
+Escherichia coli and Proteus mirabilis. Clin. Microbiol. Rev. 2008, 21
+(1), 26−59.
+Figure 11. Assessment of cell viability by MTT assay. (n = 4; ** p <
+0.01 compared with silicone).
+Figure 12. Confocal micrographs of the L929 cells cultured with
+silicone and SC catheters for 72 h (the scale bar corresponds to
+50 μm).
+ACS Applied Bio Materials Article
+DOI: 10.1021/acsabm.9b00814
+ACS Appl. Bio Mater. 2020, 3, 282−291
+290
+(5) Flores-Mireles, A. L.; Walker, J. N.; Caparon, M.; Hultgren, S. J.
+Urinary tract infections: epidemiology, mechanisms of infection and
+treatment options. Nat. Rev. Microbiol. 2015, 13 (5), 269−284.
+(6) Lim, K.; Chua, R. R. Y.; Ho, B.; Tambyah, P. A.; Hadinoto, K.;
+Leong, S. S. J. Development of a catheter functionalized by a
+polydopamine peptide coating with antimicrobial and antibiofilm
+properties. Acta Biomater. 2015, 15, 127−138.
+(7) Chen, R.; Willcox, M. D.; Ho, K. K.; Smyth, D.; Kumar, N.
+Antimicrobial peptide melimine coating for titanium and itsin vivo
+antibacterial activity in rodent subcutaneous infection models.
+Biomaterials 2016, 85, 142−151.
+(8) Lawrence, E. L.; Turner, I. G. Materials for urinary catheters: a
+review of their history and development in the UK. Med. Eng. Phys.
+2005, 27 (6), 443−453.
+(9) Pickard, R.; Lam, T.; MacLennan, G.; Starr, K.; Kilonzo, M.;
+McPherson, G.; Gillies, K.; McDonald, A.; Walton, K.; Buckley, B.;
+Glazener, C.; Boachie, C.; Burr, L.; Norrie, J.; Vale, L.; Grant, A.;
+N’Dow, J. Antimicrobial catheters for reduction of symptomatic
+urinary tract infection in adults requiring short-term catheterisation in
+hospital: a multicentre randomised controlled trial. Lancet 2012, 380
+(9857), 1927−1935.
+(10) Milo, S.; Thet, N. T.; Liu, D.; Nzakizwanayo, J.; Jones, B. V.;
+Jenkins, A. T. A. An in-situ infection detection sensor coating for
+urinary catheters. Biosens. Bioelectron. 2016, 81, 166−172.
+(11) Lu, Y.; Sathasivam, S.; Song, J.; Crick, C. R.; Carmalt, C. J.;
+Parkin, I. P. Robust self-cleaning surfaces that function when exposed
+to either air or oil. Science 2015, 347, 1132−1135.
+(12) Zhang, X.; Wang, L.; Levanen, E. Superhydrophobic surfaces ̈
+for the reduction of bacterial adhesion. RSC Adv. 2013, 3, 12003−
+12020.
+(13) Su, T.; Bhat, G.; Basta, M. Reducing urinary tract infections
+with superhydrophobic-textile-lined catheters. J. Med. Devices. 2012, 6
+(1), 017532.
+(14) Zhang, S.; Wang, L.; Liang, X.; Vorstius, J.; Keatch, R.; Corner,
+G.; Nabi, G.; Davidson, F.; Gadd, G. M.; Zhao, Q. Enhanced
+antibacterial and anti-adhesive activities of silver−PTFE nanocomposite coating for urinary catheters. ACS Biomater. Sci. Eng.
+2019, 5, 2804−2814.
+(15) Fisher, L. E.; Hook, A. L.; Ashraf, W.; Yousef, A.; Barrett, D. A.;
+Scurr, D. J.; Chen, X.; Smith, E. F.; Fay, M.; Parmenter, C. D.;
+Parkinson, R.; Bayston, R. Biomaterial modification of urinary
+catheters with antimicrobials to give long-term broadspectrum
+antibiofilm activity. J. Controlled Release 2015, 202, 57−64.
+(16) Broomfield, R. J.; Morgan, S. D.; Khan, A.; Stickler, D. J.
+Crystalline bacterial biofilm formation on urinary catheters by ureaseproducing urinary tract pathogens: a simple method of control. J. Med.
+Microbiol. 2009, 58, 1367−1375.
+(17) Darouiche, R. O.; Safar, H.; Raad, I. I. In Vitro Efficacy of
+antimicrobial-coated bladder catheters in inhibiting bacterial migration along catheter surface. J. Infect. Dis. 1997, 176, 1109−1112.
+(18) Yonezawa, T.; Onoue, S. Y.; Kimizuka, N. Self-organized
+superstructures of fluorocarbon-stabilized silver nanoparticles. Adv.
+Mater. 2001, 13 (2), 140−142.
+(19) Wang, L.; Zhang, S.; Keatch, R.; Corner, G.; Nabi, G.;
+Murdoch, S.; Davidson, F.; Zhao, Q. In-vitro antibacterial and antiencrustation performance of silver-polytetrafluoroethylene nanocomposite coated urinary catheters. J. Hosp. Infect. 2019, 103 (1),
+55−63.
+(20) Zhang, S.; Liang, X.; Gadd, G. M.; Zhao, Q. Advanced titanium
+dioxide-polytetrafluorethylene (TiO2-PTFE) nanocomposite coatings
+on stainless steel surfaces with antibacterial and anti-corrosion
+properties. Appl. Surf. Sci. 2019, 490, 231−241.
+(21) Onat, B.; Butun, V.; Banerjee, S.; Erel-Goktepe, I. Bacterial
+anti-adhesive and pH-induced antibacterial agent releasing ultra-thin
+films of zwitterionic copolymer micelles. Acta Biomater. 2016, 40,
+293−309.
+(22) Chung, J. S.; Kim, B. G.; Shim, S.; Kim, S. E.; Sohn, E. H.;
+Yoon, J.; Lee, J. C. Silver-perfluorodecanethiolate complexes having
+superhydrophobic, antifouling, antibacterial properties. J. Colloid
+Interface Sci. 2012, 366 (1), 64−69.
+(23) Shen, Y.; Tao, J.; Tao, H.; Chen, S.; Pan, L.; Wang, T.
+Relationship between wetting hysteresis and contact time of a
+bouncing droplet on hydrophobic surfaces. ACS Appl. Mater. Interfaces
+2015, 7, 20972−20978.
+(24) Singha, P.; Locklin, J.; Handa, H. A review of the recent
+advances in antimicrobial coatings for urinary catheters. Acta
+Biomater. 2017, 50, 20−40.
+(25) Davenport, K.; Keeley, F. K. Evidence for the use of silver-alloycoated urethral catheters. J. Hosp. Infect. 2005, 60 (4), 298−303.
+(26) Kandemir, N.; Vollmer, W.; Jakubovics, N. S.; Chen, J.
+Mechanical interactions between bacteria and hydrogels. Sci. Rep.
+2018, 8, 10893.
+(27) Jacobsen, S. M.; Stickler, D. J.; Mobley, H. L. T.; Shirtliff, M. E.
+Complicated catheter-associated urinary tract infections due to
+Escherichia coli and Proteus mirabilis. Clin. Microbiol. Rev. 2008, 21
+(1), 26−59.
+(28) Toba, F. A.; Akashi, H.; Arrecubieta, C.; Lowy, F. D. Role of
+biofilm in Staphylococcus aureus and Staphylococcus epidermidis
+ventricular assist device driveline infections. J. Thorac. Cardiovasc.
+Surg. 2011, 141 (5), 1259−1264.
+(29) Majumder, M. M. I.; Ahmed, T.; Ahmed, S.; Khan, A. R.
+Microbiology of Catheter Associated Urinary Tract Infection.
+Microbiology of Urinary Tract Infections: Microbial Agents and
+Predisposing Factors; Behzadi, P., Ed.; IntechOpen, 2018; Chapter 3,
+p 31.
+(30) Zhang, J.; Sheng, X.; Jiang, L. The dewetting properties of lotus
+leaves. Langmuir 2009, 25 (3), 1371−1376.
+(31) Xiang, Y.; Xue, T.; Lv, P.; Li, D.; Duan, H. Influence of fluid
+flow on the stability and wetting transition of submerged superhydrophobic surfaces. Soft Matter 2016, 12, 4241−4246.
+(32) Zhang, H.; Lamb, R.; Lewis, J. Engineering nanoscale
+roughness on hydrophobic surface-preliminary assessment of fouling
+behaviour. Sci. Technol. Adv. Mater. 2005, 6, 236−239.
+(33) Nejadnik, M. R.; van der Mei, H. C.; Busscher, H. J.; Norde, W.
+M. Determination of the shear force at the balance between bacterial
+attachment and detachment in weak-adherence systems, using a flow
+displacement chamber. Appl. Environ. Microbiol. 2008, 74 (3), 916−
+919.
+(34) Morris, N. S.; Stickler, D. J.; McLean, R. J. The development of
+bacterial biofilms on indwelling urethral catheters. World J. Urol.
+1999, 17 (6), 345−350.
+(35) Kazmierska, K. A.; Thompson, R.; Morris, N.; Long, A.; Ciach,
+T. In vitro multicompartmental bladder model for assessing blockage
+of urinary catheters: effect of hydrogel coating on dynamics of Proteus
+mirabilis growth. Urology 2010, 76 (2), 515.e15.
+(36) Jones, B. V.; Mahenthiralingam, E.; Sabbuba, N. A.; Stickleret,
+D. J. Role of swarming in the formation of crystalline Proteus mirabilis
+biofilms on urinary catheters. J. Med. Microbiol. 2005, 54 (Pt9), 807−
+813.
+(37) Stickler, D.; Hughes, G. Ability of Proteus mirabilis to swarm
+over urethral catheters. Eur. J. Clin. Microbiol. Infect. Dis. 1999, 18 (3),
+206−208.
+(38) Sabbuba, N.; Hughes, G.; Stickler, D. J. The migration of
+Proteus mirabilis and other urinary tract pathogens over Foley
+catheters. BJU Int. 2002, 89 (1), 55−60.

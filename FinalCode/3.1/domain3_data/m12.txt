@@ -1,0 +1,704 @@
+Automated Acquisition of Proximal Femur
+Morphological Characteristics
+Slobodan Tabakovic, Milan Zeljkovic, Zoran Milojevic
+Faculty of technical sciences, University of Novi Sad,
+Trg Dositeja Obradovica 6, 21000, Novi Sad, Serbia,
+Email: tabak@uns.ac.rs
+The success of the hip arthroplasty surgery largely depends on the endoprosthesis adjustment to the patient's femur. This
+implies that the position of the femoral bone in relation to the pelvis is preserved and that the endoprosthesis position ensures its
+longevity. Dimensions and body shape of the hip joint endoprosthesis and its position after the surgery depend on a number of
+geometrical parameters of the patient's femur. One of the most suitable methods for determination of these parameters involves
+3D reconstruction of femur, based on diagnostic images, and subsequent determination of the required geometric parameters.
+In this paper, software for automated determination of geometric parameters of the femur is presented. Detailed software
+development procedure for the purpose of faster and more efficient design of the hip endoprosthesis that ensures patients’ specific
+requirements is also offered.
+Keywords: Automated acquisition, hip, morphological characteristics.
+1. INTRODUCTION
+EPLACEMENT SURGERY of the natural hip joint
+with an artificial one (hip arthroplasty) is among the
+most commonly used procedures in orthopedic surgery.
+Conducted research indicates that over 800,000 procedures
+of this type are performed around the world every year [1].
+Basic endoprosthesis design requirements are prosthesis
+longevity and as short as possible recovery period of the
+patient. In recent times, primary total hip joint replacement
+surgery (Total Hip Arthoplasty - THA) results in more than
+90 % of endoprostheses being successfully used even after
+10 years of their functionality [2, 3].
+The success of hip arthroplasty depends on the following
+factors: morphology of the affected limb, type and extent of
+disease, type of surgery and endoprosthesis structure.
+Prosthesis structure factors include level of adaptation of
+prosthesis elements to the patient, and its mechanical
+properties.
+Planning of the hip replacement surgery for a particular
+patient involves defining the influencing factors which can
+be classified into two categories. The first group includes
+factors that are defined on the basis of the patient’s medical
+analysis (type and extent of disease, patient’s age and
+surgery method choices). Keeping these factors in mind,
+many different types of endoprostheses were developed in
+recent years that are characterized by ISO 7206-1 standard
+[4]. The second category includes dimensions that define the
+prosthesis element geometry. The most important in this
+group are dimensions and morphological features of the
+patient’s pelvis and femur [5] and they are crucial for
+prosthesis design [6]. Dimensions of individual elements of
+the femur, as well as the shape and characteristics of its
+geometry are determined by femur reconstruction based on
+diagnostic images (CT, MRI) [7-9].
+This paper presents software developed for the automated
+determination of geometric parameters of the femur.
+Software was developed on modular principles from two
+parts (subsystems); one subsystem was used for extraction
+of characteristic geometric parameters based on DICOM
+images; the other subsystem was utilized to determine femur
+parameters. Procedures that are used represent improved
+methods of diagnostic images processing, as well as the
+original design created from a detailed analysis of the hip
+joint endoprosthesis design process according to the
+patient’s requirements.
+2. SUBJECT & METHODS
+2.1. Reconstruction of femur geometry.
+The main source of input information in the design of hip
+endoprosthesis, considering bones morphology, are
+tomographic images of the pelvic region [10, 11] resulting
+from CT (Computer Tomography) and MRI (Magnetic
+Resonance Imaging) methods. Reconstruction of bones’
+external and internal geometry creates preconditions for:
+sizing of prosthesis elements [1, 11], optimization of
+elements of its geometry [10-12] and verification of the
+designed prosthesis by using various engineering analysis
+tools (e.g., finite element analysis [13, 14]).
+In modern medical diagnostics, archiving of images is
+performed by using DICOM (Digital Imaging and
+Communication in Medicine) format records, covered by
+ISO 12052 [15]. Processes of skeleton element
+reconstruction based on DICOM files generally consist of
+three stages:
+• Image pre-processing,
+• Femur contours extraction,
+• Definition of bones’ geometric parameters [8].
+Image pre-processing involves import and processing of
+metadata (containing information about the object and
+recording parameters) and upload of a series of planar
+images from the DICOM file. In addition, correction of
+contrast of individual images is performed [16] in order to
+emphasize the elements of the skeletal system. For this
+R
+10.2478/msr-2014-0039
+MEASUREMENT SCIENCE REVIEW, Volume 14, No. 5, 2014
+286
+purpose, distribution of pixel contrast method is used
+(contrast for images can be from Imin to Imax) for the entire
+range of depths (from Id0=0 to Idmax=2depth). This results in a
+correction coefficient, k (in (1)), which is used to multiply
+each pixel of the image.
+max min
+For determination of the image depth range and limits of
+generated contrasts, information gathered from DICOM
+images which were saved in the metadata file is used.
+Fig.1. shows the procedure for correction of images based
+on recording parameters and the desired contrast.
+Fig.1. Image correction.
+One of the main goals of this computer program is to
+determine geometric parameters that are required for the
+prosthesis design, which are most easily obtained by
+mathematical analysis of individual image sections. Because
+of this, femur contour extraction in this specific case is
+based on the 2D segmentation of the bone tissue [17], by
+filter application in order to detect edges, with subsequent
+isolation of the area of interest (i.e., bone contours) and
+noise correction that arise as a result of this procedure. In
+the segmentation procedure, the LoG (Laplacian of
+Gaussian) algorithm is used, which is based on edge
+definition of the object, derived from the rate of change of
+pixel contrast across the image. This algorithm is one of the
+methods for determination of objects’ edges, based on the
+Laplace algorithm that defines the zero value of second
+derivative of pixel’s contrast intensity function I(x, y) on the
+image (x and y determine position of pixels), and is defined
+by (2).
+Since the intensity contrast of raster images is represented
+by discrete values for every pixel, image matrix is
+multiplied by the corresponding convolution matrix. In
+order to reduce the noise that this kind of image processing
+generates, prior to Laplace algorithm application it is
+necessary to perform reduction of transitions by using the
+Gaussian filter described by equation (3).
+The result of image processing is a series of contour lines
+that describe objects in any particular image. After
+segmentation, the object’s boundaries are expanded and
+image contours closed by connecting the adjacent pixels. In
+the final phase, extraction of areas of interest is performed
+(in order to select external and internal geometry of the
+bone) as well as the removal of any existing noise.
+Fig.2. Image segmentation.
+As a result of this image processing phase, a series of
+images that include contours of the selected bone are
+obtained.
+Applicability of bone reconstruction procedure primarily
+depends on recording method and parameters, noise
+quantity, characteristics of the recording device and
+reconstruction method. Depending on the method and
+recording parameters, the accuracy of bone reconstruction
+may be significantly under 1 mm [18, 19], which satisfies
+practical needs in any prosthesis design. 
+MEASUREMENT SCIENCE REVIEW, Volume 14, No. 5, 2014
+287
+2.2. Determination of geometric parameters of the femur.
+The shape and dimensions of the hip endoprosthesis are
+defined on the basis of the number of parameters of external
+and internal geometry of the femur [11]. Regarding the
+influence on the prosthesis shape, these parameters can be
+categorized as global and local (Fig.3.).
+Fig.3. Femur morphology parameters.
+Global parameters (or reference parameters) present the
+footprint for defining dimensions of the endoprosthesis and
+its optimal position in the femur. This group of parameters
+includes:
+• Position of the medullary canal narrowing (A), isthmus,
+which determines position of the prosthesis’ coordinate
+system, its length etc.,
+• Anatomical axis of the femur (axis a),
+• Position of the femoral head center (point Ch),
+• Femoral head diameter (Dh),
+• Femoral neck axis (axis b)
+• Distance between the axis and the femoral head center
+(offset) (o)
+• Angle of the femoral neck axis (β)
+The above geometric parameters are used as sources for
+preliminary definition of individual segments of the
+endoprosthesis body, in form of coordinates (position
+points), discrete algebraic values (length, diameter and
+angle), and mathematical rules (axes).
+Local parameters are formed on the basis of femoral
+internal geometry and they portray the shape and
+dimensions of the medullary canal in typical cross-sections.
+These parameters present positions of corresponding points
+in characteristic femoral cross-sections (position Pi
+ in
+Fig.3.).
+Proper processing of diagnostic images and reconstruction
+of femoral geometry in the form of spatial array (Cloud) of
+geometric elements (usually points) makes it possible to
+specify certain parameters (Fig.3.).
+Fig.4. Cloud of points after femur reconstruction.
+Local parameters are used to define the cross-sectional
+shape of endoprosthesis. These parameters in combination
+with the characteristic points of the external geometry allow
+the formation of a CAD model of the femur, which is used
+for verification of endoprosthesis shape and preoperative
+planning.
+2.2.1. Procedure for determination of femoral parameters.
+As a part of this research, various methods of numerical
+mathematics are applied to determine geometric parameters
+of the femur from a cloud of points.
+Medullary canal narrowing is determined by calculation
+of minimum diameter of the circle inscribed in the
+medullary canal profile, for all image layers. Since the
+medullary canal cross-section is described by planar points,
+the center position and parameters of an inscribed circle are
+obtained by the least squares method. Optimal circle
+parameters are determined by the minimum sum of squares
+of the parameters applied to the planar circle equation (4)
+for m points.
+The minimum value of this sum is obtained by
+determination of values r, xc
+ and yc
+, obtained by setting the
+partial first derivative of equation (4) for all variables [20] to
+zero. From the group of resulting circles, medullary canal
+narrowing is considered to be a circle with the smallest
+radius.
+Femoral anatomical axis is obtained by using the same
+mathematical methods on the line equation in space, which
+defines the linear validity based on a set of n points which
+are used to determine the position of the center of inscribed
+circles in the medullary canal profile (obtained by
+previously described procedure) (5).
+Due to the femoral internal geometry, characteristics and
+change of the femoral structure in the proximal part, images
+of the femoral section from the narrowing to the position 20
+mm below the lesser trochanter are used for defining
+anatomical axes [10].
+Center position and femoral head diameter are
+determined by the least squares method applied to the sphere
+equation, for a set of u points used to describe the femoral
+head or a part of it (6).
+In this case, the unknown r, xc
+, yc
+ and zc
+ values are
+calculated from a system of four equations that are obtained
+by setting the first partial derivative of equation (6) for all
+variables to zero.
+In practice, some parts of the femoral head are often
+reconstructed with an error that occurs due to the small
+clearance between the femoral head and the pelvis, so the
+least squares method gives the best results. 
+MEASUREMENT SCIENCE REVIEW, Volume 14, No. 5, 2014
+288
+Femoral neck axis is determined by the cone that
+approximates the set of points on the femoral neck. For
+determination of femoral neck angle, femoral axis vector is
+used (Fig.5.).
+Fig.5. Determination of the femoral neck axis.
+Based on any selected four points (A, B, C and D) on the
+surface of the femoral neck, and coordinates of the femoral
+head center Ch (which is part of the femoral neck axis), top
+point of the cone (O) can be defined by using a system of
+four non-linear equations. Equation (7) describes the
+equation for point A.
+Femoral axis vector is determined by coordinates of Ch
+and O points (8).
+The distance between the axis and the femoral head
+center (offset) is determined by a well-known method for
+determination of minimum distance (d) between the point
+and the vector (of the femoral axis) (Fig.6.).
+Fig.6. Determination of the distance between the femoral head
+center and femoral axis.
+The method is based on the cross product of femoral axis
+vector ( o ) and the vector that extends between the
+medullary canal narrowing point and the position of the
+femoral head center ( a , known as the real femoral neck
+axis [21]), and can be described by (9).
+3. DEVELOPED SOFTWARE
+3.1. The overall structure of developed software.
+To achieve easier and more successful acquisition of
+geometric information that is necessary for the
+endoprosthesis design, specialized software that allows
+partial automation of femoral parameter determination is
+developed. The software is developed in MATLAB 2010,
+using specially developed functions in order to automate the
+procedure of femoral reconstruction and determine
+morphological parameters. To facilitate any further
+improvements, software structure is developed by using
+modular principles and it consists of two subsystems and
+multiple modules. Each developed module has a purpose to
+realize individual tasks in the image processing procedure
+and calculate femoral parameters.
+In a global sense, the software was implemented by using
+two subsystems: subsystem for import and diagnostic image
+processing and subsystem for calculation of geometric
+parameters of the femur. Fig.7. is showing a global model
+of the developed software.
+Fig.7. Model of the implemented software.
+To additionally improve and partially test the results of
+individual modules, software creates output data files from
+each module. Output from subsystem that is used to
+reconstruct femoral geometry is a 3D matrix which
+describes the external and internal geometry of the femur.
+The output files from the other subsystem are point clouds
+matrix (adapted to communicate with commercial CAD
+systems) in ASCII format, and femoral morphological
+parameter matrix (which are specific to their positions and
+mathematical laws that describe them). 
+MEASUREMENT SCIENCE REVIEW, Volume 14, No. 5, 2014
+289
+3.2. Reconstruction of femoral geometry.
+Input for the developed software is the subsystem for
+diagnostic image processing, composed of modules
+developed for the purpose of importing and processing of
+DICOM images. This process is executed in three stages
+that are implemented in different modules (Fig.8.). It is
+therefore possible to easily verify and evaluate the
+performance of individual image processing stages.
+Fig.8. Processing and image reconstruction.
+Image importing phase is implemented by converting each
+image into an appropriate 3D matrix containing the
+brightness intensity of each image pixel in order to form the
+metadata matrix. Metadata matrix contains information
+about: patient, recording parameters and characteristics of
+each image.
+As a result of segmentation in the image processing stage,
+an array of binary images is obtained, where pixels contain
+the value of 1 in places that are defined by segmentation as
+object edges, and value of 0 for all other pixels. The whole
+record is described by the 3D matrix, whose dimensions
+correspond to the resolution of each image (usually
+512x512) and to the number frames in the recording (i.e.,
+recording layers). In addition, further processing of binary
+images is performed in this stage by closing the object lines,
+which is carried out by forming an object gradient mask.
+Finally, in the last stage of image processing, a desired
+contour is selected and objects that are caused by recording
+noise near outer and inner contours are removed. These
+objects are most frequently found in the proximal part of the
+femur, in the region of the medullary canal end as well as in
+the area of the femoral head. The phase of unwanted object
+removal is done manually by defining a polygonal mask that
+frames the object of interest.
+As a result of image processing, a 3D matrix is obtained
+which contains bone contours description in binary form.
+This matrix is then forwarded for further processing.
+3.3. Determination of femoral parameters.
+Second part of the software is a subsystem that has a dual
+role: the creation of femur models in such a format that is
+suitable for processing in CAD software systems and
+determination of prosthesis parameters. Femur models in
+suitable format are realized by forming point clouds in
+standard ASCII format. This creates a base for prosthesis
+model analysis as a part of the femur to which it is fitted by
+application of Finite Element Method software. More
+important role of the subsystem, considering the design
+process, is calculation of geometric parameters of femoral
+external and internal geometry, which are very important for
+the endoprosthesis design process. This segment is also
+formed from a number of modules that are used to
+determine:
+• Position of the lesser trochanter
+• Positions of centers and radii of the maximum inscribed
+circle in the intersection of femoral medullary canal
+• Positions of medullary canal narrowing (minimum
+inscribed circle) and femoral axis equation of femur
+internal geometry
+• Positions of center and radius of the femoral head
+• Femoral neck axis
+• Femoral neck angle
+• Distance from the femoral head center to the femoral
+axis (offset)
+Fig.9. shows the structure of the module for femur size
+determination.
+Fig.9. Determination of femur parameters.
+Because of the complexity of the automated process for
+defining position of the lesser trochanter and selection of
+femoral head points, their determination is carried out with
+the assistance of software users, while the other parameters
+are determined automatically.
+4. ACQUISITION RESULTS
+Verification of applied methods and developed software
+involves processing a number of diagnostic recordings and
+analysis of attained data. 
+MEASUREMENT SCIENCE REVIEW, Volume 14, No. 5, 2014
+290
+In order to verify the developed software, 12 femurs were
+analyzed by processing DICOM images of patients of the
+Clinical Center of Vojvodina, Novi Sad, Serbia. The
+recordings include 9 partial and 3 complete DICOM files.
+Partial images were used for verification of femoral
+reconstruction (to the extent of image coverage) and
+determination of some parameters. Complete recordings
+were used to define all other parameters. Fig.10. depicts the
+method of software verification.
+Fig.10. Software verification.
+Table 1. Results of complete images analysis.
+Image
+Number of excess
+pixels / total
+number of pixels
+Number of images with
+incomplete contour
+closures / total number
+of images
+CI-1 25/42549 (0.06%) 12/272 (4.4%)
+CI-2 38/38810 (0.10%) 10/201 (4.97%)
+CI-3 30/40342 (0.07%) 9/250 (3.6%)
+First part of verification involves functional analysis of
+subsystems for diagnostic image processing. It includes
+result analysis regarding any appearance of excess pixels in
+individual, processed images and incomplete contour
+closures of bone section. Occurrence of these irregularities
+in some parts of reconstructed femur may adversely affect
+determination of geometric parameters, e.g., calculation of
+the radius of the circle inscribed in the medullary canal.
+Analysis of reconstructed femurs has shown that the partial
+images, PI (which include the femoral body), had no
+irregularities. On the other hand, analysis of complete
+images, CI, showed that irregularities occur in the proximal
+part (as a result of appearance of several elements of the
+femur on the image, i.e., parts of greater trochanter and the
+femoral head), while the femoral body contained no
+irregularities. Table 1. presents results of complete image
+analysis.
+Second part of verification includes defining of processed
+femoral morphological parameters. As Fig.10. shows, the
+partial images are used to define femoral axis and medullary
+canal narrowing, whilst complete images are used for
+determination of parameters included in the software.
+Table 2. presents parameters specified on femoral body, in
+the coordinate system defined by the image.
+Table 2. Medullary canal parameters of analyzed femurs.
+Image
+Position (x,y,z) and
+narrowing diameter
+MEASUREMENT SCIENCE REVIEW, Volume 14, No. 5, 2014
+291
+As can be seen from the tables, morphological parameters
+whose determination results in functional dependency or coordinates cannot be compared with values obtained by other
+methods, while scalar values can be compared with results
+of measurements obtained using Able Software Corp 3D
+Doctor v3.5. software. Table 4. presents comparative
+parameter values obtained using these two softwares.
+Table 4. Comparative parameter values.
+Image CI-1 CI-2 CI-3
+Femoral head
+diameter
+5. DISCUSSION / CONCLUSIONS
+Procedures for diagnostic image processing, the method
+for determining femoral morphological parameters as well
+as developed software, can all be independently evaluated.
+Evaluation criteria can be: accuracy, applicability in
+research and/or practical application, and possibilities for
+further development.
+The applied technique of diagnostic image processing
+includes a set of methods that are used in most scientific
+research and commercial softwares for diagnostic image
+processing [7, 22].
+Approach to segmentation of bone images included an
+analysis of a large number of methods, using both
+theoretical and real results of specific CT images.
+During the analysis of contour based methods in image
+border areas of the pelvic region (as in the proximal part of
+the femur, where the medullary canal ends), the LoG
+method provided the best results. The results obtained by
+using the LoG approach had the least unwanted pixels in the
+contour, which is observed in other studies [23]. Application
+of region based methods, mainly active contour methods,
+revealed a problem in previous analyses with the positioning
+of the initial mask and contour forming of the femur head
+(which is a very small distance away from the pelvis), so it
+is common that a formed contour includes a part of the
+pelvic region. In many cases, level set method application
+resulted in an inadequate formation of the bone contour
+section in the proximal region of the medullary canal end.
+This significantly complicates the determination of
+geometrical characteristics of the femoral head. In many
+cases, level set method application resulted in an inadequate
+formation of the bone contour section in the proximal region
+of the medullary canal end. Because of this, and based on
+previously obtained results, the LoG approach of image
+segmentation is implemented into software at this stage of
+its development.
+Automated processing of metadata from pre-processed
+images, image correction according to the reconstruction of
+bone tissue and automatic determination of morphological
+characteristics of the femur, enables the femur
+reconstruction process and data processing to be
+implemented with speeds that correspond well with
+commercial software for this purpose (20-30s)1
+ [24]. Factor
+that is somewhat slowing down image processing in the
+current stage of software development presents the need for
+manual definition of areas of importance to improve the
+bone tissue separation on each image. Therefore, in case of
+complex images (with more than 300 images in the
+recording) this phase requires up to 25-30 min. of
+preparation activities. Further software development should
+include reduction of manual intervention and thus reduce the
+analysis time.
+Femoral reconstruction, which is implemented using the
+developed software, is presenting the generally accepted
+method that is based on a series of 2D contours. Results in
+form of point clouds enable forming of files that can be
+imported into commercial CAD / CAE / CAM software and
+hence realization of endoprosthesis design. In addition,
+resulting contours can be approximated by polynomial
+curved lines and additional engineering parameters can be
+determined, which include the cement layer thickness (in
+cement prosthesis) and mathematical patterns (curved line)
+of femoral axis propagation. These activities present a basis
+for further research, as it is necessary to take the influence
+of distance between images in the DICOM file into account.
+The process of morphological parameter determination is
+based on algebraic mathematical methods, applied on a
+number of points that describe the femur. Applicability of
+the procedure depends on the accuracy in determination of
+certain parameters, as well as errors that arise by applying
+methods for determination of shape from a set of points.
+Table 4 presents an overview of the results obtained by the
+developed software, compared to the measurement results
+acquired from the 3D Doctor software. Critical analysis of
+these results has to take into account that subjective error
+often occurs by using commercial software, since
+measurements are carried out manually. Its extent is
+comparable to the size of errors of the presented method. In
+addition, parameter accuracy can also present an issue: in
+determination of femoral head center and diameter, where
+the largest set of points, including unwanted pixels, is
+utilized; in defining anatomical axes of the femur, circles
+inscribed in the medullary canal and the definition of the
+sphere which describes the femoral head. Table 5 presents
+results of error analysis which occur due to the influence of
+unwanted pixels on femoral head parameter accuracy, and
+also includes average error deviation of defined femoral axis
+from the position of the centers of circles inscribed in the
+medullary canal.
+From the error analysis results shown in Table 5., as well
+as comparative analysis of parameter measurements using
+ Analyses were carried out on a computer with the
+following characteristics: CPU: i5 at 2.7 GHz, with 6 GB of
+RAM; and a 64 bit version of the Matlab 2010 software
+installed on it. 
+MEASUREMENT SCIENCE REVIEW, Volume 14, No. 5, 2014
+292
+commercial and developed software, it can be concluded
+that results are significant for endoprostheses design
+requirements. This is particularly evident if the precision of
+prosthesis surgery is taken into account. Incapability to
+determine the anteversion angle (the angle between femoral
+neck axis and coronal plane) can be considered as a
+drawback of the developed method. This is caused by the
+inability to determine the exact position of the coronal plane
+without reconstruction of the entire femur and pelvic region.
+Although method tests were carried out in order to indirectly
+calculate the femur position relative to the pelvis, this
+parameter was not determined at this stage of the research.
+Table 5. Error analysis results.
+Image CI-1 CI-2 CI-3
+R spheres with
+/without unwanted
+points
+Influence [%] 0.004 0.014 0.009
+Mean femoral axis
+deviation from the
+position of circles
+centers inscribed in
+the medullary
+canal [mm]
+0.0043 0.0406 0.0341
+The developed software, as a tool that combines image
+processing methods and determination of femoral
+parameters, is based on object-oriented principles. This
+ensures its further partial development and analysis can be
+easily done. Results are exported in an ASCII file that
+contains reconstruction coordinates for CAD software, and
+in a text file containing all the morphological parameters
+determined by femoral analysis. The apparent disadvantages
+include use of manual point choice method (Region of
+Interest), which is used for selection of lesser trochanter and
+femoral head points, in order to avoid accidental selection of
+unwanted points that are occurring during the image
+processing. This significantly slows down the process of
+bone parameter determination.
+The results obtained using the software for 12 diagnostic
+images confirm the hypothesis that geometrical parameters
+that are necessary for the design of total hip endoprosthesis
+can be successfully determined by using adequate image
+processing and analysis methods. From an engineering point
+of view, obtained results are acceptably accurate. Most
+importantly, the accuracy of obtained results does not
+depend on the image processing method or the
+morphological parameters determination method; it only
+depends on the recording process and parameters that are
+used during the recording phase. Analysis results are
+obtained from CT images, which is a drawback of the
+verification process. This is due to the insufficient number
+of MRI images created with different recording protocols.
+Attained results for several MRI images are encouraging,
+but insufficient for software evaluation.
+Methods of image processing, determination of femoral
+geometrical parameters and created software, all present the
+first phase of research that aims to explore the possibilities
+for automatization of endoprosthesis design process in
+accordance with patient measures. This will enable
+significantly shorter time needed for development of custom
+endoprostheses and reduce the associated costs.
+ACKNOWLEDGMENT
+This work was supported by the Ministry of Education,
+Science and Technological Development of the Republic of
+Serbia, project No. TR 35025
+REFERENCES
+[1] Pawlikowski, M., Skalski, K., Haraburda, M. (2003).
+Process of hip joint prosthesis design including bone
+remodeling phenomenon. Computers & Structures, 81
+(8-11), 887-893.
+[2] Ramos, A., Completo, A., Relvas, C., Simões, J.A.
+(2012). Design process of a novel cemented hip
+femoral stem concept. Materials & Design, 33, 313-
+321.
+[3] Garellick, G., Karrbolm, J., Rogmark, C., Herberts, P.
+(2011). Annual Report 2010. Swedish Hip
+Arthroplasty Register.
+[4] International Organisation for Standardization. (2008).
+Implants for surgery — Partial and total hip joint
+prostheses - Part 1: Classification and designation of
+dimensions. ISO 7206-1.
+[5] Abadie, P., Lebel, B., Pineau, V., Burdin, G.,
+Vielpeau, C. (2010). Cemented total Hip stem design
+influence on adaptative cortical thickness and femoral
+morphology. Orthopaedics & Traumatology: Surgery
+& Research, 96 (2), 104-110.
+[6] Tabakovic, S., Zeljkovic, M., Zivkovic, A. (2013).
+General parametric model of the body of the total hip
+endoprosthesis. Acta Polytechnica Hungarica, 13.
+[7] Yuanzhi, C., Shengjun, Z., Yadong, W., Changyong,
+G., Jing, B., Shinichi, T. (2013). Automatic
+segmentation technique for acetabulum and femoral
+head in CT images. Pattern Recognition, 46 (11),
+2969-2984.
+[8] Galibarov, P.E., Prendergast, P.J., Lennon, A.B.
+(2010). A method to reconstruct patient-specific
+proximal femur surface models from planar preoperative radiographs. Medical Engineering &
+Physics, 32 (10), 1180-1188.
+[9] Otomaru, I., Nakamoto, M., Kagiyama, Y., Takao, M.,
+Sugano, N., Tomiyama, N., Tada, Y., Sato, Y. (2012).
+Automated preoperative planning of femoral stem in
+total hip arthroplasty from 3D CT data: Atlas-based
+approach and comparative study. Medical Image
+Analysis, 16 (2), 415-426.
+[10] Rawal, B.R., Ribeiro, R., Malhotra, R., Bhatnagar, N.
+(2012). Design and manufacturing of femoral stems
+for the Indian population. Journal of Manufacturing
+Processes, 14 (3), 216-223.
+[11] Yongtae, J., Kuiwoon, C. (2010). Design of patientspecific hip implants based on the 3D geometry of the
+human femur. Advances in Engineering Software, 41
+(4), 537-547. 
+MEASUREMENT SCIENCE REVIEW, Volume 14, No. 5, 2014
+293
+[12] Ruben, R., Fernandes, P., Folgado, J. (2012). On the
+optimal shape of hip implants. Journal of
+biomechanics, 45 (2), 239-246.
+[13] Kayabasi, O., Ekici, B. (2011). The effects of static,
+dynamic and fatigue behaviour on three-dimensional
+shape optimization of Kayabaşi_Ekici type hip
+prosthesis by finite element method and probabilistic
+approach. Journal of Biomechanics, 44, 6.
+[14] Sridhar, I., Adie, P.P., Ghista, D.N. (2010). Optimal
+design of customised hip prosthesis using fiber
+reinforced polymer composites. Materials & Design,
+31 (6), 2767-2775.
+[15] International Organisation for Standardization. (2011).
+Health informatics -- Digital imaging and
+communication in medicine (DICOM) including
+workflow and data management. ISO 12052.
+[16] Li, X. (2010). Semi-automatic segmentation of normal
+female pelvic floor structures from magnetic
+resonance images. Unpublished doctoral dissertation.
+Cleveland State University, USA.
+[17] Kale, E.H., Mumcuoglu, E.U., Hamcan, S. (2012).
+Automatic segmentation of human facial tissue by
+MRI–CT fusion: A feasibility study. Computer
+Methods and Programs in Biomedicine, 108 (3), 1106-
+1120.
+[18] Gamage, P., Xie, S.Q., Delmas, P., Xu, W.L. (2011).
+Diagnostic radiograph based 3D bone reconstruction
+framework: Application to the femur. Computerized
+Medical Imaging and Graphics, 35 (6), 427-437.
+[19] Wang, J., Ye, M., Liu, Z., Wang, C. (2009). Precision
+of cortical bone reconstruction based on 3D CT scans.
+Computerized Medical Imaging and Graphics, 33 (3),
+235-241.
+[20] Hauser, J.R. (2009). Numerical Methods for Nonlinear
+Engineering Models. Springer.
+[21] Mahaisavariya, B., Sitthiseripratip, K., Tongdee, T.,
+Bohez, E., Sloten, J.V., Oris, P. (2002). Morphological
+study of the proximal femur: A new method of
+geometrical assessment using 3-dimensional reverse
+engineering. Medical Engineering & Physics, 24 (9),
+617-622.
+[22] Ababneh, S., Prescott, J., Gurcan, M. (2011).
+Automatic graph-cut based segmentation of bones
+from knee magnetic resonance images for
+osteoarthritis research. Medical Image Analysis, 15
+(4), 438-448.
+[23] Muhit, A.A., Pickering, M.R., Scarvell, J.M., Ward,
+T., Smith, P.N. (2013). Image-assisted non-invasive
+and dynamic biomechanical analysis of human joints.
+Physics in Medicine and Biology, 58, (13), 4679-4702.
+[24] Van Cauter, S., De Beule, M., Han Haver, A.,
+Verdonk, P., Verhegghe, B. (2012) Automated
+extraction of the femoral anatomical axis for
+determining the intramedullary rod parameters in total
+knee arthroplasty. International Journal for Numerical
+Methods in Biomedical Engineering, 28, 158-169.

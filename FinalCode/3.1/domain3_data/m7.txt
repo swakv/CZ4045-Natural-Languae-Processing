@@ -1,0 +1,424 @@
+TheNormal Fetal Pancreas
+Zvi Kivilevitch, MD, Reuven Achiron, MD, Sharon Perlman, MD, Yinon Gilboa, MD
+Objectives—The aim of the study was to assess the sonographic feasibility of measuring the fetal pancreas and its normal development throughout pregnancy.
+Methods—We conducted a cross-sectional prospective study between 19 and 36
+weeks’ gestation. The study included singleton pregnancies with normal pregnancy
+follow-up. The pancreas circumference was measured. The first 90 cases were tested
+to assess feasibility.
+Results—Two hundred ninety-seven fetuses of nondiabetic mothers were recruited
+during a 3-year period. The overall satisfactory visualization rate was 61.6%. The
+intraobserver and interobserver variability had high interclass correlation coefficients
+of of 0.964 and 0.967, respectively. A cubic polynomial regression described best the
+correlation of pancreas circumference with gestational age (r
+2 5 0.744; P < .001)
+and significant correlations also with abdominal circumference and estimated fetal
+weight (Pearson r 5 0.829 and 0.812, respectively; P < .001). Modeled pancreas circumference percentiles for each week of gestation were calculated. During the study
+period, we detected 2 cases with overgrowth syndrome and 1 case with an annular
+pancreas.
+Conclusions—In this study, we assessed the feasibility of sonography for measuring
+the fetal pancreas and established a normal reference range for the fetal pancreas circumference throughout pregnancy. This database can be helpful when investigating
+fetomaternal disorders that can involve its normal development.
+Key Words—fetus; obstetric ultrasound; pancreas; sonography
+Fetal biometry is an important tool in evaluating fetal organs’
+normal development. Growth in the normal range reflects, in
+most cases, normal anatomy and functionality. Abnormal fetal
+pancreas development and growth can be the result of various pregnancy complications, such as intrauterine growth restriction (IUGR)
+and diabetes mellitus, or can be a part of genetic syndromes related
+to abnormal growth or development of the pancreas, which itself can
+have implications on fetal growth.
+The sonographic literature concerning the fetal pancreas is very
+scarce. The only 2 prenatal studies, which are more than 25 years
+old, were limited to evaluation of the feasibility of sonographic visualization.1,2 They lacked reports about intraobserver and interobserver
+variability, clear details regarding the technical steps necessary for visualization, and presentation of a normal reference range throughout
+pregnancy. As such, their clinical contribution is very limited. Moreover, most of the prenatal sonographic textbooks ignore this organ
+or, at best, include very scant information. The absence of updated
+prenatal literature and the immense technological improvements in
+ultrasound machines since the last studies spurred us to investigate
+this neglected organ, the functionality of which has an important
+impact on fetal and adult normal development.3,4
+Supplemental material online at
+wileyonlinelibrary.com/journal/jum
+Received December 6, 2016, from the Women’s
+Ultrasound Unit, Maccabi Health Services,
+Negev Medical Center, Beer-Sheva, Israel
+(Z.K.); and Department of Obstetrics and Gynecology, Chaim Sheba Medical Center, Sackler
+School of Medicine, Tel-Aviv University, RamatGan, Israel (R.A., S.P., Y.G.). Manuscript
+accepted for publication December 26, 2016.
+Address correspondence to Zvi Kivilevitch,
+MD, Women’s Ultrasound Unit, Maccabi
+Health Services, Negev Medical Center, Hatikva
+4, 8489312 Beer Sheva, Israel.
+E-mail: kibilev_z@mac.org.il
+Abbreviations
+IUGR, intrauterine growth restriction
+doi:10.1002/jum.14233
+VC 2017 by the American Institute of Ultrasound in Medicine | J Ultrasound Med 2017; 36:1997–2005 | 0278-4297 | www.aium.org
+ORIGINAL RESEARCH
+The aim of the study was to assess the sonographic
+feasibility of measuring the fetal pancreas, to construct
+normal modeled reference intervals of fetal pancreas circumference per centiles, and to evaluate the correlation
+with other fetal growth parameters and eventual pathologic conditions. These data could serve as a useful complementary tool when investigating fetal anomalies
+coexisting with or caused by abnormal congenital development of the pancreas.
+Materials and Methods
+We conducted a cross-sectional prospective study during
+routine pregnancy follow-up of women who attended
+the ultrasound units at the Chaim Sheba Medical Center
+and the Women’s Health Center of Maccabi Health
+Services between 19 and 35 weeks’ gestation. The study
+protocol was approved by the local institutional Ethics
+Committees of both centers. All of the women were
+informed and consented to the extra evaluation of the
+fetal pancreas.
+The study included nondiabetic women with a singleton pregnancy who fulfilled the following criteria: (1)
+a history of regular menses with accurate first-trimester
+dating based on sonographic measurement of the
+crown-rump length; (2) absence of any malformations;
+(3) normal pregnancy follow-up without other maternal
+or placental complications; and (4) a normal perinatal
+outcome. Each patient was examined only once during
+the study by 2 examiners (Z.K. and Y.G.) with 25 and
+15 years of experience in prenatal sonography, respectively. A commercially available Voluson 730 Expert or
+E8 Expert machine (GE Healthcare, Kretz Ultrasound,
+Zipf, Austria) equipped with an abdominal 4–8-MHz
+curvilinear transducer was used. The preset was set usually on the “routine obstetric” setting with minor personal adjustments. They included a single focal zone, high
+tissue harmonic imaging, Cross XBeam compound resolution imaging between 1 and 3, and speckle reduction
+imaging II between 3 and 5.
+To obtain the best acoustic window of the pancreas,
+we start by scanning the fetal upper abdomen with a
+transverse anteroposterior plane at the level of the stomach and the umbilicoportal complex, including the point
+of drainage of the main portal vein. The spine is preferably positioned between 5 and 7 o’clock (Figure 1A). In
+the next step, the transducer is inclined posteriorly to
+display the whole pancreas. The anterolateral edge of
+the pancreas is confined with the hypoechoic stomach,
+which provides a useful acoustic contrast (Figure 1B).
+The pancreas is an elongated, mildly echogenic
+structure lying between the stomach anteriorly and the
+kidneys, aorta, and vertebral spine posteriorly. After the
+image was frozen, the circumference was measured from
+the left caudal edge (tail) usually located below the lateral edge of the stomach (depends on the stomach’s filling) to the right edge (head), located above the aorta
+and spine. The circumference was measured by the freehand trace function (Figure 2). Each measurement was
+Figure 1. Method for fetal pancreatic sonography. A, Initial
+transverse upper abdominal anteroposterior (spine back) plane at the
+level of the intrahepatic portal system. B, Posterior inclination
+including the umbilical vein, stomach, gallbladder, and kidneys, in
+which the entire pancreas can be visualized. Dao indicates
+descending aorta; Gb, gallbladder; IVC, inferior vena cava; LPV, left
+portal vein; LK, left kidney; Lt, left; MPV, main portal vein; P, pancreas;
+Pb, pancreas body; Ph, pancreas head; Pt, pancreas tail; RAPV, right
+anterior portal vein; RK, right kidney; RPPV, right posterior portal vein;
+RPV, right portal vein; Rt, right; Sp, spine; St, stomach; and UV,
+umbilical vein.
+Kivilevitch et al—The Normal Fetal Pancreas
+1998 J Ultrasound Med 2017; 36:1997–2005
+repeated 2 or 3 times in each fetus, and the mean size
+was considered for calculation. These data were also
+used for evaluation of the intraobserver variability. The
+first 90 cases were tested to assess the feasibility rate.
+Statistical analyses were performed with the SPSS
+version 20 statistical package for Windows (IBM Corporation, Armonk, NY) and Excel 2013 software
+(Microsoft Corporation, Redmond, WA). All tests were
+2 tailed, and P< 0.05 was considered statistically
+significant.
+For estimation of a sufficient sample size, we used
+the equation n 5 Z2 3 SD 3 (1 –SD)/E2
+, where Z was
+the Z score; SD, standard deviation; and E, margin of
+error. We used a Z score of 1.645, which corresponds to
+a confidence level of 95%, an SD of 0.5, and a margin of
+error of 0.5% (0.005). These values yielded a sample
+size of 270 cases.
+The intraobserver and interobserver variability was
+assessed by the interclass correlation coefficient. For
+assessing agreement between the measurements, we
+used a Bland-Altman plot. In light of the geographic distance between the centers, the interobserver variability
+was assessed by evaluating the difference (unpaired Student t test) between the means per week of gestation for
+each examiner.
+The statistical analysis used to calculate the modeled
+percentiles and standard deviations was based on the
+method described previously.5–7 After assessment of the
+normal distribution using the Shapiro-Wilk test, fitted
+means and SDs were calculated by regression models as
+Figure 2. Measurement of the fetal pancreas circumference using the freehand trace function. A and B, Pancreas before measurement: Voluson
+Expert 8 (A) and Voluson 730 expert (B). C and D, After tracing, respectively. Abbreviations are as in Figure 1.
+Kivilevitch et al—The Normal Fetal Pancreas
+J Ultrasound Med 2017; 36:1997–2005 1999
+functions of gestational age (GA) for the raw data
+(y 5 a 1 b 3 GA 1 b1 3 GA2 1 b2 3 GA3
+). The r
+2 statistic was used to assess the best quality of fit. After
+aggregation of the raw data per week of gestation, the
+means and standard deviations were calculated, and the
+predicted values were estimated according to the bestfitted regression equation.
+The modeled percentiles for a given gestational
+age were calculates by the following equation:
+percentileGA 5 mean
+GA 1 K 3 SDGA, where K was the
+corresponding percentile of the Gaussian distribution
+(eg, determination of the 10th and 90th percentiles
+requires K 5 61.28; determination of the 5th and 95th
+percentiles requires K 5 61.645, etc), and the mean
+and SD are the predicted values obtained from modeling
+the original raw data for each week. The Z score (the difference between the measured and predicted pancreas
+circumference divided by the predicted standard deviation) was calculated as well. To assess the correlation
+between the pancreas circumference and fetal growth,
+which is represented by the abdominal circumference
+and estimated fetal weight, a 2-tailed bivariate Pearson
+correlation test was used.
+Results
+Two hundred ninety-seven fetuses of nondiabetic mothers were selected for the study during a 3-year period.
+They fulfilled our strict inclusion criteria for optimal
+imaging of the pancreas, considered visualization of the
+entire pancreas length from head to tail. In our pilot
+study, we included fetuses between 12 and 38 weeks’ gestation. We realized that because of the morphologic characteristics of the pancreas, clear visualization of the head
+was not yet reproducible by the abdominal approach in a
+substantial number of cases before 19 weeks, and the visualization rate declined sharply after 36 weeks. Therefore,
+for the sake of clinical applicability, we decided to limit
+our study to the period between 19 and 36 weeks’ gestation. The learning curve is relatively long even for experienced specialists in the field of prenatal diagnosis. In our
+experience, approximately 3 to 6 months of training was
+necessary to achieve satisfactory skill in the setup of a
+busy clinic and not in a consecutive manner. The overall
+satisfactory visualization rate was 61.6% (55 of 90). It
+decreased from 65.2% (47 of 72) before 30 weeks’ gestation to 44.4% (8 of 18) after 30 weeks’ gestation. The
+main limiting factors was an unfavorable angle of
+insonation, as in the fetal back-up position. Other limiting
+factors were maternal obesity, bowel loops, and distal
+shadowing of adjacent bony structures.
+The intraobserver variability had a high interclass
+correlation coefficient of 0.964 (95% confidence interval,
+0.941–0.978; P< .001). The mean absolute difference
+was 4.6 6 5.6 mm. The agreement between the measurements is presented in a Bland-Altman plot (Figure
+3). The interobserver variability was assessed by comparing the mean pancreas circumference for each week
+measured by both examiners. The mean absolute difference was 1.6 6 6.4 mm. The interclass correlation coefficient was high, at 0.967 (95% confidence interval,
+0.92220.986), with a nonsignificant difference between
+the measurements (P 5 .803).
+The raw pancreas circumference (PC) data were
+best correlated with gestational age by a cubic polynomial regression formula (PC 5 244.057524 1
+4.486868 3 GA 1 0.0000 3 GA2 2 0.000667 3 GA3
+;
+r
+2 5 0.744; P< .001). After aggregation of the mean
+and standard deviation for each week, they were fitted
+according to a cubic polynomial regression formula
+for the pancreas circumference (PC 5 47.561276 1
+4.768845 3 GA1 0.0000 3 GA2
+3 20.000809 3 GA3
+;
+r
+2
+5 0.976; P< .001) and linear regression for the standard deviation (SD5 3.6832591 0.1823733 GA;
+r
+2
+5 0.276; P 5 .025). Table 1 provides the measured
+and predicted pancreas circumferences, 5th, 10th, 25th,
+75th, 90th, and 95th percentiles, and standard deviations
+by gestational age between 19 and 36 weeks. The mean
+absolute Z score between measured and predicted values
+was 0.2038 6 0.2644, which was very close to the theoretical values of 0 and 1 respectively.7
+Figure 4 is a scatterplot of the measured values
+superimposed on the modeled 5th to 95th percentiles,
+showing a satisfactory goodness of fit for the model. The
+same result is expressed in Figure 5, in which 90.7%
+(264 of 291) of the Z scores for the fitted values, plotted
+against gestational age, lie between 21.645 and 11.645
+(5th–95th percentiles).
+A good correlation was found between the raw pancreas circumference data and fetal abdominal circumference and estimated weight (Pearson r 5 0.829 and
+0.812, respectively; P< .001). Cubic regression showed
+the best fit for both (r
+2 5 0.762 and 0.749; 243.398544
+2 7.200575 3 PC 1 0.161023 3 PC2 2 0.000812 3
+PC3 and 3212.605289 2 172.930368 3 PC 1
+3.124.925 3 PC2 1 0.014428 3 PC3
+).
+Kivilevitch et al—The Normal Fetal Pancreas
+2000 J Ultrasound Med 2017; 36:1997–2005
+Figure 3. Intraobserver variability: Bland-Altman plot showing mean difference 6 1.96 SDs.
+Table 1. Normal Fetal Pancreas Circumferences, Modeled Standard Deviations, and 5th to 95th Percentiles From 19 to 36 Weeks’
+Gestation
+Pancreas Circumference, mm
+Week n
+Measured
+Mean
+Predicted
+Mean
+Predicted
+SD Z Score 5th 10th 25th 50th 75th 90th 95th
+19 10 37.1 37.5 7.1 20.06 25.7 28.3 32.7 37.5 42.3 46.7 49.3
+20 23 40.7 41.3 7.3 20.09 29.3 31.9 36.4 41.3 46.3 50.7 53.4
+21 30 48.8 45.1 7.5 0.48 32.7 35.5 40.0 45.1 50.2 54.7 57.5
+22 43 48.9 48.7 7.7 0.02 36.1 38.9 43.6 48.7 53.9 58.6 61.4
+23 26 50.8 52.3 7.9 20.18 39.3 42.2 47.0 52.3 57.6 62.4 65.2
+24 13 53.4 55.7 8.1 20.28 42.4 45.4 50.3 55.7 61.1 66.0 69.0
+25 16 58.1 59.0 8.2 20.11 45.5 48.5 53.5 59.0 64.6 69.6 72.6
+26 17 65.3 62.2 8.4 0.37 48.4 51.4 56.5 62.2 67.9 73.0 76.1
+27 13 60.4 65.3 8.6 20.57 51.1 54.2 59.5 65.3 71.1 76.3 79.4
+28 11 68.5 68.2 8.8 0.03 53.7 56.9 62.3 68.2 74.1 79.5 82.7
+29 11 72.4 71.0 9.0 0.16 56.2 59.5 65.0 71.0 77.1 82.5 85.8
+30 11 74.1 73.7 9.2 0.05 58.6 61.9 67.5 73.7 79.8 85.4 88.7
+31 16 80.3 76.2 9.3 0.44 60.8 64.2 69.9 76.2 82.5 88.1 91.5
+32 16 77.3 78.5 9.5 20.13 62.9 66.3 72.1 78.5 84.9 90.7 94.2
+33 11 82.5 80.7 9.7 0.18 64.8 68.3 74.2 80.7 87.3 93.2 96.7
+34 10 78.4 82.8 9.9 20.44 66.5 70.1 76.1 82.8 89.4 95.5 99.0
+35 10 84.9 84.7 10.1 0.02 68.1 71.8 77.9 84.7 91.4 97.6 101.2
+36 10 87.0 86.4 10.2 0.06 69.5 73.2 79.5 86.4 93.3 99.5 103.2
+Kivilevitch et al—The Normal Fetal Pancreas
+J Ultrasound Med 2017; 36:1997–2005 2001
+Figure 5. Scatterplot of pancreas circumference Z scores (measured – modeled/SD) by gestational age between the 61.645 limits (5th–95th
+percentiles).
+Figure 4. Pancreas circumference raw data scatterplot superimposed on the fitted mean and 5th to 95th percentiles.
+Kivilevitch et al—The Normal Fetal Pancreas
+2002 J Ultrasound Med 2017; 36:1997–2005
+During the study period, 2 cases of intrauterine fetal
+overgrowth were encountered. Both were referred
+because of enlarged kidneys and abdominal circumference and estimated fetal weight above the 90th percentile for gestational age.8 No other major malformations
+were detected. Fetal pancreas circumferences of 115 and
+103 mm at 28 weeks’ gestation in both cases correlated
+with 4.0 and 3.0 SDs above the mean for gestational age
+(Figure 6). After multidisciplinary counseling including a
+geneticist and pediatrician, both women elected to terminate the pregnancy. Postmortem pathologic examinations confirmed the presumed diagnosis of multiorgan
+overgrowth syndrome. Weights above the normal range
+were found in the heart, lungs, liver, spleen, thymus,
+adrenal glands, kidneys, and brain. In most of the organs,
+the histologic pattern was normal and appropriate for
+gestational age. Other findings, such as macroglossia and
+linear fissures in the lobule of the external ear, suggested
+the diagnosis of Beckwith-Wiedemann syndrome.
+In the same period, a case of an isolated annular
+pancreas was diagnosed prenatally. The woman was
+referred at 34 weeks’ gestation with the findings of a
+“double bubble” and severe polyhydramnios, which
+caused premature contractions. First-trimester screening
+results and anatomic sonographic findings were normal.
+The karyotype was normal. A targeted examination of
+the fetal pancreas revealed an abnormal shape of the
+pancreas, wrapping the duodenum between the two
+bubbles (Figure 7). At 37 weeks’ gestation, a spontaneous delivery occurred. A healthy female neonate weighting 1750 g was born, and 2 days later, a surgical
+intervention was performed. At surgery, a complete circumferential annular pancreas was noted, causing
+obstruction of the duodenum. No other congenital
+anomalies of the internal organs were identified. A duodenojejunostomy was performed to bypass the
+obstructed segment, with no postoperative complications. The child, who was 4 years old at the time of this
+study, had no emerging clinical problems during her
+medical follow-up.
+Discussion
+The fetal pancreas is not an easy organ to image even
+when done by experienced sonographers and supported
+by current high-quality technology. Three main objective factors contribute to the difficulty: As it is a parenchymatous organ, the echogenicity of the pancreas is
+only mildly superior to that of the adjacent tissues, making clear delineation of its border challenging. In its retroperitoneal position, bowel loops tend to cover it more
+and more as pregnancy advances. Moreover, a fetal
+back-up position practically excludes its visualization
+because of distal shadowing. All of these factors leave a
+relatively narrow angle in the anteroposterior direction,
+with the best axial resolution and contrast, which permits
+Figure 6. Two cases of nondiabetic women (A and B) with fetal overgrowth syndrome. Both cases were examined for the first time during the
+28th week of gestation. Pancreas circumferences were 103 and 115 mm, corresponding to 3 and 4 SDs above the mean for gestational age,
+respectively. Abbreviations are as in Figure 1.
+Kivilevitch et al—The Normal Fetal Pancreas
+J Ultrasound Med 2017; 36:1997–2005 2003
+obtainment of a satisfactory image of the pancreas from
+head to tail.
+Considering these facts, it is not surprising that the
+improvement in our overall visualization rate lagged
+behind the technological advancements since the last
+studies (62% versus 49%1 and 52%2
+).
+Embryologic development of the fetal pancreas
+begins in the fourth week of gestation with the formation of the dorsal and ventral buds as endodermal diverticula of the duodenum. At 6 weeks’ gestation, as a result
+of duodenal rotation, the two buds fuse. The dorsal bud
+forms the head, body, and tail of the pancreas, whereas
+the ventral bud forms the hooklike uncinate process.
+Four types of cells develop from the endoderm of the
+pancreatic buds: 3 endocrine types (a-glucagon, binsulin, and d-somatostatin) and 1 exocrine type (digestive enzymes).9,10
+In this study, we established, for the first time to our
+knowledge, a normal reference range, which can be used
+as a complementary tool when investigating fetal anomalies involving abnormal congenital development of the
+fetal pancreas. We conducted an Online Mendelian
+Inheritance in Man search, which was limited to the
+word “pancreas” and to abstracts. We chose only cases
+in which pancreatic disorders were consistent features
+and excluded those in whom they were sporadically
+mentioned in the description of the clinical features.
+This search yielded 83 results. In online supplemental
+Table S1, we listed what seemed to us the most relevant
+for intrauterine life, excluding, for example, metabolic
+etiologies and syndromes with “exocrine pancreatic
+insufficiency,” in which the applicability to the prenatal
+diagnosis was not clear. The pancreas can be congenitally completely or partially absent, as an isolated finding
+with consequent congenital diabetes mellitus,3 or in
+association with cerebellar absence or cardiac or renal
+malformations. The pancreas can be hypoplastic or dysplastic, with fibrosis, cysts, or lipomatosis. An annular
+pancreas can present as an isolated finding or can be
+associated with some syndromes. Some of the overgrowth syndromes involve pancreatic hyperplasia of the
+exocrine or endocrine part, which results in an increased
+pancreas size. A recent publication focusing on the prenatal findings of Beckwith-Wiedemann syndrome highlights the sonographic visualization of a hyperplastic
+pancreas as one of these findings, assuming, maybe, that
+this organ is not usually demonstrable on sonography in
+healthy fetuses.11
+Moreover, pregnancy complications such as maternal diabetes mellitus and impaired placental perfusion,
+which affect fetal growth, also affect pancreas growth,
+with long-term consequence regarding development of
+diabetes mellitus, hypertension, or cardiovascular disease
+(theory of Barker et al4,12).
+Diabetic embryopathy-fetopathy is mainly related to
+the degree and onset of maternal hyperglycemia.13
+According to the Pedersen hypothesis,14 maternal hyperglycemia causes fetal hyperglycemia, which leads to hypertrophy of the b cells and resultant hyperinsulinemia.
+Fetal pancreas growth is also influenced in cases
+with decreased placental nutrient transport, as part of
+global fetal growth restriction.15 Animal studies have
+shown that maternal undernutrition causes elevations in
+glucocorticoid concentrations, which, in turn, cause a
+reduction in the b-cell mass in the fetus.16 This observation was not confirmed by a human pathologic study.17
+On the other hand, case reports of human fetal pancreatic agenesis have demonstrated a clear association with
+IUGR.18,19
+In conclusion, pancreas development is correlated
+with intrauterine fetal growth and the metabolic state, as
+well as being a part of many genetic syndromes that
+include abnormal pancreas development. Although challenging, and not applicable in a routine anatomic scan,
+the ability to recognize its normal shape and dimension
+is, in our opinion, an important skill to be obtained by
+every fetal medicine unit in a tertiary center.
+Figure 7. Annular pancreas. Note the abnormal bulky shape of the
+pancreas (arrow) between the dilated stomach and duodenum (D).
+Abbreviations are as in Figure 1.
+Kivilevitch et al—The Normal Fetal Pancreas
+2004 J Ultrasound Med 2017; 36:1997–2005
+References
+1. Hata K, Hata T, Kitao M. Ultrasonographic identification and measurement of the human fetal pancreas in utero. Int J Gynaecol Obstet
+1988; 26:61–64.
+2. Hill LM, Peterson C, Rivello D, Hixson J, Belfar HL. Sonographic
+detection of the fetal pancreas. J Clin Ultrasound 1989; 17:475–479.
+3. Baumeister FA, Engelsberger I, Schulze A. Pancreatic agenesis as cause
+for neonatal diabetes mellitus. Klin Padiatr 2005; 217:76–81.
+4. Barker DJ, Fall CH. Fetal and infant origins of cardiovascular disease.
+Arch Dis Child 1993; 68:797–799.
+5. Altman DG, Chitty LS: Charts of fetal size, 1: methodology. Br J
+Obstet Gynaecol 1994; 101:29–34.
+6. Royston P, Wright EM. How to construct “normal ranges” for fetal
+variables. Ultrasound Obstet Gynecol 1998; 11:30–38.
+7. Silverwood RJ, Cole TJ. Statistical methods for constructing gestational age-related reference intervals and centile charts for fetal size.
+Ultrasound Obstet Gynecol 2007; 29:6–13.
+8. Dollberg S, Haklai Z, Mimouni FB, Gorfein I, Gordon ES. Birth
+weight standards in the live-born population in Israel. Isr Med Assoc J
+2005; 385:311–314.
+9. Schoenwolf GC, Bleyl SB, Brauer PR, Francis-West PH. Development of the gastrointestinal tract. In: Larsen WJ (ed). Human Embryology. 4th ed. London, England: Churchill Livingstone; 2009:450–
+454.
+10. Sadler TW. Digestive system. In: Langman’s Medical Embryology. Baltimore, MD: Lippincott William & Wilkins; 2009:302–304.
+11. Kagan KO, Berg C, Dufke A, Geipel A, Hoopmann M, Abele
+H. Novel fetal and maternal sonographic findings in confirmed
+cases of Beckwith-Wiedemann syndrome. Prenat Diagn 2015;
+35:394–399.
+12. Barker DJ, Hales CN, Fall CH, Osmond C, Phipps K, Clark PM.
+Type 2 (non-insulin-dependent) diabetes mellitus, hypertension and
+hyperlipidaemia (syndrome X): relation to reduced fetal growth. Diabetologia 1993; 36:62–67.
+13. Buchanan TA, Kitzmiller JL. Metabolic interactions of diabetes and
+pregnancy. Annu Rev Med 1994; 45:245–260.
+14. Pedersen J. Weight and length at birth of infants of diabetic mothers.
+Acta Endocrinol (Copenh) 1954; 16:330–342.
+15. Matthews LC, Hanley NA. The stress of starvation: glucocorticoid
+restraint of beta cell development. Diabetologia 2011; 54:223–226.
+16. Breant B, Gesina E, Blondeau B. Nutrition, glucocorticoids and pancreas development. Horm Res 2006; 65:98–104.
+17. Beringue F, Blondeau B, Castellotti MC, Breant B, Czernichow P,
+Polak M. Endocrine pancreas development in growth-retarded
+human fetuses. Diabetes 2002; 51:385–391.
+18. Lemons JA, Ridenour R, Orsini EN. Congenital absence of the pancreas and intrauterine growth retardation. Pediatrics 1979; 64:255–
+257.
+19. Voldsgaard P, Kryger-Baggesen N, Lisse I. Agenesis of pancreas. Acta
+Paediatr 1994; 83:791–793.

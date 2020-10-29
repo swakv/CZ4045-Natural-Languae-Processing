@@ -1,0 +1,356 @@
+| HAO WALA NAMAN UTAMAN US010016929B2 MINIAI MIC
+( 12 ) United States Patent
+Wang et al . ( 10 ) Patent No . : US 10 , 016 , 929 B2
+( 45 ) Date of Patent : Jul . 10 , 2018
+( 54 ) 3D PRINTER SPRAY NOZZLE CAPABLE OF
+ADJUSTING CROSS SECTION AREAS OF
+EXTRUDED MATERIALS AND METHOD
+FOR CONTROLLING PRINTING SPEED
+AND PRECISION OF THE 3D PRINTER
+SPRAY NOZZLE
+$ 1 ) Int . Ci . B33Y 30 / 00 ( 2015 . 01 )
+B29C 64393 ( 2017 . 01 )
+( Continued ) ( 52 ) U . S . CI . CPC . . . . . . . . . . B29C 64 / 393 ( 2017 . 08 ) ; B29C 64 / 209
+( 2017 . 08 ) ; B29C 64 / 241 ( 2017 . 08 ) ;
+( Continued )
+( 58 ) Field of Classification Search
+None
+See application file for complete search history .
+( 71 ) Applicant : CLOUD COMPUTING CENTER
+CHINESE ACADEMY OF
+SCIENCES , DongGuan , Guangdong ( CN )
+( 72 ) Inventors : Feiyue Wang , Guangdong ( CN ) ; Gang Xiong , Guangdong ( CN ) ; Zhen Shen , Guangdong ( CN ) ; Xue Liu , Guangdong ( CN )
+( 73 ) Assignee : CLOUD COMPUTING CENTER
+CHINESE ACADEMY OF
+SCIENCES , DongGuan , Guangdong
+( CN )
+( 56 ) References Cited
+U . S . PATENT DOCUMENTS
+2014 / 0061974 Al * 3 / 2014 Tyler . . . . . . . . . . . . . . . B29C 67 / 0055 264 / 401
+2015 / 0352797 A1 * 12 / 2015 Kanada . . . . . . . . . . . . . . . . . DO1F 6 / 625
+428 / 212
+2017 / 0217100 A1 * 8 / 2017 Gardiner . . . . . . . . . . . . . B29C 67 / 0088
+* cited by examiner ( * ) Notice : Subject to any disclaimer , the term of this
+patent is extended or adjusted under 35
+U . S . C . 154 ( b ) by 350 days . Primary Examiner — Paul Yanchus , III
+( 21 ) Appl . No . : 14 / 778 , 108
+( 22 ) PCT Filed : Jul . 18 , 2014
+( 86 ) PCT No . : PCT / CN2014 / 082514
+$ 371 ( c ) ( 1 ) , ( 2 ) Date : Jan . 14 , 2016
+( 87 ) PCT Pub . No . : WO2016 / 004642
+PCT Pub . Date : Jan . 14 , 2016
+( 65 ) Prior Publication Data
+US 2018 / 0079139 A1 Mar . 22 , 2018
+( 30 ) Foreign Application Priority Data
+Jul . 11 , 2014 ( CN ) . . . . . . . . . . . . . . . . . . . . . . . 2014 1 0331972
+( 57 ) ABSTRACT
+A 3D printer spray nozzle includes a feeding pipeline , an
+extruder located under the feeding pipeline , an external
+housing and a driving device ; wherein the feeding pipeline
+is embedded in the external housing , the extruder is coaxi
+ally fixed under the feeding pipeline , a center of gravity of
+a cross section area of an inner channel of the feeding
+pipeline and that of the extruder are located on a same axis
+which is perpendicular to the cross section area of the inner
+channel of the feeding pipeline and that of the extruder , the
+feeding pipeline is driven by the driving device to rotate
+around the axis relative to the extruder , thereby aiming at
+different rotation angles , widths of extruding forming areas
+of the extruder at a same direction are different so as to
+ita adjust a cross section area of a sprayed filament .
+16 Claims , 3 Drawing Sheets
+influence unit printing i forming area m ert melting speed
+66666666666666666666666666 M
+decide printing
+Speed
+cross section area of filament decide 66666666666666666666666667 actually sprayed by extruder feeding speed 
+US 10 , 016 , 929 B2
+Page 2
+( 51 ) | Int . CI . B33T50 /02 ( 2015 . 01 )
+B20C64 / 209 ( 2017 . 01 )
+G05B 19 / 4099 ( 2006 . 01 )
+B20C64 / 241 ( 2017 . 01 )
+B29K 55 / 02 ( 2006 . 01 )
+B29K 67 / 00 ( 2006 . 01 )
+( 52 ) U . S . CI . CPC . . . B33Y 30 / 00 ( 2014 . 12 ) ; B33Y50 / 02
+( 2014 . 12 ) ; G05B 19 / 4099 ( 2013 . 01 ) ; B29K
+2055 / 02 ( 2013 . 01 ) ; B29K 2007 / 046 ( 2013 . 01 ) ; G05B 2219 / 49023 ( 2013 . 01 ) 
+US 10 , 016 , 929 B2
+601
+602
+603
+604
+605
+606
+A = 1 LLLLLLLL
+* - - - -
+YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+- * -
+Sheet 1 of 3
+d = 1 / 2
+WWW HHHHHH - WW - WWW
+Fig . 1
+000
+Fig . 2
+WAM
+WYM MYm
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+m
+my
+Jul . 10 , 2018
+44
+44
+441
+4
+4
+4
+44
+44
+44
+44
+44
+44
+44
+44
+44
+44
+44
+44
+44
+44
+44
+44
+4
+4
+4
+4
+4
+4
+w
+57777777777777777777777777777777777777777777777771171111111111111111111111111111111111111111111
+atent
+LLLLLLLLLLLLLL4444
+2 .42114211 444212-1142 44122421 44112442 
+U . S . Patent
+na forming area
+influence
+WY no
+unit printing forming area
+influence *
+*
+*
+melting speed melting speed
+Jul . 10 , 2018
+decide
+printing speed
+decide
+filament ofareasection crossextruder bysprayed actually
+Sheet 2 of 3
+feeding speed
+3 .Fig
+US 10 , 016 , 929 B2 
+atent Jul . 10 , 2018 Sheet 3 of 3 US 10 , 016 , 929 B2
+printing forming unit area
+melting speed
+central processing systempnnung /speed Fig .4
+- - - - - - - - - - - - - - - - - - - - - - - feeding .speed
+cross section area offilament ,actually sprayed . extruder 
+US 10 , 016 , 929 B2
+3D PRINTER SPRAY NOZZLE CAPABLE OF spray nozzles are all circular , so printing speed and precision
+ADJUSTING CROSS SECTION AREAS OF of different models or different parts of a same model are not
+EXTRUDED MATERIALS AND METHOD controllable . FOR CONTROLLING PRINTING SPEED Accordingly , in order to accomplish the first object , the
+AND PRECISION OF THE 3D PRINTER 5 present invention provides a 3D printer spray nozzle , com
+SPRAY NOZZLE prising :
+a feeding pipeline , an extruder located under the feeding
+CROSS REFERENCE OF RELATED pipeline , an external housing and a driving device ; wherein
+the feeding pipeline is embedded in the external housing , the APPLICATION 10 extruder is coaxially fixed under the feeding pipeline , a
+This is a U . S . National Stage under 35 U . S . C 371 of the center of gravity of a cross section area of an inner channel
+of the feeding pipeline and a center of gravity of a cross International Application PCT / CN2014 / 082514 , filed Jul . section area of an inner channel of the extruder are located 18 , 2014 , which claims priority under 35 U . S . C . 119 ( a - d ) to on a same axis which is perpendicular to the cross section CN 201410331972 . 9 , filed Jul . 11 , 2014 . 15 area of the inner channel of the feeding pipeline and the
+cross section area of the inner channel of the extruder , the BACKGROUND OF THE PRESENT feeding pipeline is driven by the driving device to rotate INVENTION around the axis relative to the extruder , thereby aiming at
+different rotation angles , widths of extruding forming areas Field of Invention 20 of the extruder at a same direction are different so as to
+adjust a cross section area of a sprayed filament . The present invention relates to a technical field of 3D The driving device comprises a rotary table and a motor , printing , and more particularly to a 3D printer with sprayed wherein the rotary table is connected with a body of the
+filaments whose cross section areas are adjustable and a printer , the motor is located within the external housing and
+method for controlling printing speed and precision of the 25 is capable of driving the rotary table to rotate , and the
+3D printer . feeding pipeline is fixed at a lower end of the rotary table . Both the cross section area of the inner channel of the
+Description of Related Arts feeding pipeline and that of the extruder are regular poly
+gons . 3D printing , as a rapid prototyping technology , uses 30 The regular polygons comprise triangles and rectangles . software for hierarchical discretization of 3D digital models , Both the cross section area of the inner channel of the
+then uses adhesive materials such as powdered metal or feeding pipeline and that of the extruder are a same rect
+plastic materials , for constructing an object through stacking angle , wherein a length of a long side of the rectangle is
+layer by layer . 3D printing technology belongs to plus Lmax , a length of a short side thereof is Lmin ; a rotation
+manufacturing , which is different from the traditional minus 35 angle of the feeding pipeline around the axis perpendicular manufacturing , and is better in saving raw materials . to both the cross section area of the inner channel of the
+Currently , the commonly seen 3D printing technology is feeding pipeline and that of the extruder is 0 ; when the spray
+fuse deposition technology , which melts filamentous hot - nozzle with the rotation angle of 0 works along one direc
+melt materials , and extrudes through a spray nozzle with a tion , a width of an effective printing region is Lmaxxsin
+micro channel . After being sprayed by the spray nozzle , the 40 O + Lminxcos 0 ; when the spray nozzle has a constant mov
+filamentous hot - melt materials are deposited on a work - ing speed , a forming height of Z axis at every layer is a
+bench , and are solidified when a temperature is lower than certain value , an area of the effective printing region of the
+a solidifying temperature . Finally a product is formed by spray nozzle at different rotation angles is in direct propor
+stacking the materials . For 3D printing , the spray nozzle is tion to the width thereof in a unit time . a core part , but an inner cross section of an extruder of the 45 The external housing comprises a heater for heating ABS
+spray nozzle of a conventional 3D printer is only circular . In or PLA fusible transferring material in the feeding pipeline , a unit time , an effective forming width of the spray nozzle such that the material is in a melted state . is certain . Due to the inner cross section of the spray nozzle Accordingly , in order to accomplish the second object , the
+is not adjustable , printing precision and speed and the 3D present invention provides a method for controlling printing
+printer are not able to be controlled . Therefore , for different 50 speed and precision , wherein :
+printing purposes and different print areas ( different models a method for controlling the printing speed comprises
+or the same model ) , different printing precision and speed steps of :
+are not able to be achieved . defining a printing speed V = K * S * L ; wherein S is a cross
+section area of a filament actually sprayed by an extruder , L
+SUMMARY OF THE PRESENT INVENTION 55 is a unit printing forming area , and K is a printing related
+constant ;
+A first object of the present invention is to provide a 3D determining a feeding speed by the cross section area S of
+printer spray nozzle , which is capable of adjusting cross the filament actually sprayed by the extruder and the unit
+section areas of extruded materials to adjust printing speed printing forming area L , wherein a melting speed is also
+and precision , aiming at a problem that internal cross section 60 affected ; the feeding speed and the melting speed together
+shapes of conventional 3D printer spray nozzles are all determine the printing speed ; and
+circular , so printing speed and precision of different models forming a signal referring to changes of S and L for
+or different parts of a same model are not controllable . controlling the printing speed and adjusting the feeding A second object of the present invention is to provide a speed of a feeding pipeline of a spray nozzle ; method for controlling printing speed and precision accord - 65 wherein a method for controlling the printing precision ing to printing requirements , aiming at a problem that comprises steps of : according to different precision require
+internal cross section shapes of conventional 3D printer ments , adjusting the printing speed for controlling the print
+m 
+US 10 , 016 , 929 B2
+ing precision ; wherein , when high printing precision is the extruder are located on a axis which is perpendicular to
+required , the printing speed is slow ; when low printing both the cross section area of the inner channel 603 of the
+precision is required , the printing speed is fast . feeding pipeline and the cross section area of the inner
+A rotation angle of the extruder is adjusted by a motor for channel 606 of the extruder . changing the cross section area S of the filament actually 5 The feeding pipeline 604 is fixed at a lower end of a rotary
+sprayed by the extruder in a unit time ; because a working table 601 , the rotary table 601 is connected with a body of
+moving speed of the spray nozzle is constant , for ensuring a printer , and is capable of rotating around the axis which is
+Z - axis forming heights of all layers are identical , the feeding perpendicular to both the cross section area of the inner
+speed of the feeding pipeline is real - time controlled accord channel 603 of the feeding pipeline and the cross section
+ing to the cross section area S of the filament actually 10 area of the inner channel 606 of the extruder . The external
+sprayed by the extruder ; the feeding speed equals in value to housing 602 comprises a motor for controlling a rotation of
+the melting speed of the transferred materials , and also the rotary table 601 . A rotation angle of the rotary table is
+equals to the printing speed V during printer working . adjusted by a cycle number of the motor .
+Both the cross section area of the inner channel of the In this technical solution , the inventive conception is
+feeding pipeline and that of the extruder are a same rect - 15 briefly described . Both the cross section area of the inner
+angle , wherein a length of a long side of the rectangle is channel 603 of the feeding pipeline and the cross section
+Lmax , a length of a short side thereof is Lmin ; when the area of the inner channel 606 of the extruder are a same
+spray nozzle has a constant moving speed , a forming height rectangle , wherein a length of a long side of the rectangle is
+of Z - axis at every laver is a certain value , an area of the Lmax , a length of a short side thereof is Lmin . effective printing region of the spray nozzle at different 20 The rotation of the spray nozzle is adjustable by a rotation
+rotation angles is in direct proportion to the width thereof in of the rotary table 601 . As shown in FIG . 2 , FIGS . 2a , 2b and
+a unit time ; a width of an effective printing region is 2c are top views of the inner channels of the spray nozzles
+Lmaxxsin O + Lminxcos 0 ; wherein a rotation angle of the at different rotation angles , respectively . When the spray
+feeding pipeline around the axis perpendicular to both the nozzle at a rotation angle of works along one direction , a
+cross section area of the inner channel of the feeding 25 width of an effective printing region is Lmaxxsin O + Lminx
+pipeline and that of the extruder is 0 . cos 0 . While working , the spray nozzle has a constant
+moving speed , a forming height of Z - axis at every layer is
+Beneficial Effects a certain value , so an area of the effective printing region of
+the spray nozzle at different rotation angles is in direct
+The present invention controls rotation of the motor for 30 proportion to the width thereof in a unit time . When the
+controlling the rotation angle of the extruder relative to the spray nozzle with different rotation angles works , the feed
+feeding pipeline , in such a manner that different printing ing speed of the feeding pipeline is needed to be controlled
+forming widths are selected for controlling the printing real - time . As shown in FIG . 2 , the rotation angle of the spray forming areas to control the printing precision and speed of nozzle in FIG . 2c is 0 , the width of the effective printing
+a printer . The present invention is able to adjust different 35 region is Lmin at this moment , the printing precision is
+printing precision and speed according to different printing highest , and the printing speed is slowest , which is suitable
+purposes and different printing areas . for conditions with higher printing precision requirements . Referring to FIGS . 3 and 4 , according to the present
+BRIEF DESCRIPTION OF THE DRAWINGS invention , a method for controlling the printing speed com 40 prises steps of :
+Referring to drawings , the present invention is further defining a printing speed V = K * S * L ; wherein S is a cross
+illustrated . section area of a filament actually sprayed by an extruder , L
+FIG . 1 is a front view of a printer spray nozzle according is a unit printing forming area , and K is a printing related
+to the present invention . constant ;
+FIG . 2 is a top view of the printer spray nozzle at different 45 determining a feeding speed by the cross section area Sof
+rotation angles according to the present invention . the filament actually sprayed by the extruder and the unit
+FIG . 3 is a logic diagram of factors influencing a printing printing forming area L , wherein a melting speed is also
+speed according to the present invention . affected ; the feeding speed and the melting speed together FIG . 4 is a schematic view of a printing speed adjusting determine the printing speed ; and
+system according to the present invention . 50 forming a signal referring to changes of S and L for
+controlling the printing speed and adjusting the feeding
+DETAILED DESCRIPTION OF THE speed of a feeding pipeline of a spray nozzle . PREFERRED EMBODIMENT What is claimed is :
+1 . A 3 - dimensional printer spray nozzle capable of adjust FIG . 1 is a front view of a printer spray nozzle according 55 ing cross section areas of extruded materials , comprising : a
+to the present invention . The printer spray nozzle comprises feeding pipeline , an extruder located under the feeding
+an external housing 602 , a feeding pipeline 604 and an pipeline , an external housing and a driving device ; wherein
+extruder 605 . The external housing 602 comprises a heater the feeding pipeline is embedded in the external housing , the
+for heating transferring materials in the feeding pipeline , extruder is coaxially fixed under the feeding pipeline , a
+such that the materials are in a melted state . The extruder 60 center of gravity of a cross section area of an inner channel
+605 is fixed under the feeding pipeline 604 . Both a cross of the feeding pipeline and a center of gravity of a cross
+section area of an inner channel 603 of the feeding pipeline section area of an inner channel of the extruder are located
+and a cross section area of an inner channel 606 of the on a same axis which is perpendicular to the cross section
+extruder are regular polygons such as triangles and rect - area of the inner channel of the feeding pipeline and the
+angles . A center of gravity of the cross section area of the 65 cross section area of the inner channel of the extruder , the
+inner channel 603 of the feeding pipeline and a center of feeding pipeline is driven by the driving device to rotate
+gravity of the cross section area of an inner channel 606 of around the axis relative to the extruder , thereby aiming at 
+US 10 , 016 , 929 B2
+0
+whe
+different rotation angles , widths of extruding forming areas 10 . The 3 - dimensional printer spray nozzle capable of
+of the extruder at a same direction are different so as to adjusting cross section areas of extruded materials , as recited
+adjust a cross section area of a sprayed filament . in claim 8 , wherein the external housing comprises a heater
+2 . The 3 - dimensional printer spray nozzle capable of for heating ABS or PLA fusible transferring material in the
+adjusting cross section areas of extruded materials , as recited 5 feeding pipeline , such that the material is in a melted state . in claim 1 , wherein the driving device comprises a rotary 11 . A method for controlling printing speed and precision
+table and a motor , wherein the rotary table is connected with of a 3 - dimensional printer with a 3 - dimensional printer
+a body of the printer , the motor is located within the external spray nozzle capable of adjusting cross section areas of
+housing and is capable of driving the rotary table to rotate , extruded materials ,
+and the feeding pipeline is fixed at a lower end of the rotary 10 wherein a method of controlling the printing speed com
+table . prises steps of :
+defining a printing speed V = K * S * L ; wherein S is a cross 3 . The 3 - dimensional printer spray nozzle capable of section area of a filament actually sprayed by an adjusting cross section areas of extruded materials , as recited extruder , L is a unit printing forming area , and K is a in claim 1 , wherein both the cross section area of the inner 15 15 printing related constant ; channel of the feeding pipeline and that of the extruder are determining a feeding speed by the cross section area Sof regular polygons . the filament actually sprayed by the extruder and the 4 . The 3 - dimensional printer spray nozzle capable of unit printing forming area L , wherein a melting speed adjusting cross section areas of extruded materials , as recited is also affected ; the feeding speed and the melting speed in claim 2 , wherein both the cross section area of the inner 20 together determine the printing speed ; and
+channel of the feeding pipeline and that of the extruder are forming a signal referring to changes of S and L for
+regular polygons . controlling the printing speed and adjusting the feeding 5 . The 3 - dimensional printer spray nozzle capable of speed of a feeding pipeline of a spray nozzle ; adjusting cross section areas of extruded materials , as recited wherein a method for controlling the printing precision in claim 3 , wherein the regular polygons comprise triangles 25 comprises steps of : according to different precision and rectangles . requirements , adjusting the printing speed for control
+6 . The 3 - dimensional printer spray nozzle capable of ling the printing precision ; wherein , when high printing adjusting cross section areas of extruded materials , as recited precision is required , the printing speed is slow ; when
+in claim 4 , wherein the regular polygons comprise triangles low printing precision is required , the printing speed is
+and rectangles . fast . 7 . The 3 - dimensional printer spray nozzle capable of 12 . The method for controlling printing speed and preci
+adjusting cross section areas of extruded materials , as recited sion , as recited in claim 11 , wherein a rotation angle of the
+in claim 5 , wherein both the cross section area of the inner extruder is adjusted by a motor for changing a cross section
+channel of the feeding pipeline and that of the extruder are area S of a material actually sprayed by the extruder in a unit
+a same rectangle , wherein a length of a long side of the 35 time ; because a working moving speed of the spray nozzle
+rectangle is Lmax , a length of a short side thereof is Lmin ; is constant , for ensuring a Z - axis forming height of every
+a rotation angle of the feeding pipeline around the axis layer is a certain value , the feeding speed of the feeding
+perpendicular to both the cross section area of the inner pipeline is real - time controlled according to the cross section
+channel of the feeding pipeline and that of the extruder is 0 ; area S of the material actually sprayed by the extruder ; the
+when the spray nozzle with the rotation angle of a works 40 feeding speed equals in value to the melting speed of the
+along one direction , a width of an effective printing region transferred material , and also equals to the printing speed V
+is Lmaxxsin O + Lminxcos 0 ; when the spray nozzle has a during printer working . constant moving speed , a forming height of Z axis at every 13 . The method for controlling printing speed and preci
+layer is a certain value , an area of the effective printing sion , as recited in claim 11 , wherein both a cross section area
+region of the spray nozzle at different rotation angles is in 45 of an inner channel of the feeding pipeline and that of the
+direct proportion to the width thereof in a unit time . extruder are a same rectangle , wherein a length of a long side
+8 . The 3 - dimensional printer spray nozzle capable of of the rectangle is Lmax , a length of a short side thereof is
+adjusting cross section areas of extruded materials , as recited Lmin ; when the spray nozzle has a constant moving speed , in claim 6 , wherein both the cross section area of the inner a forming height of Z - axis at every layer is a certain value , channel of the feeding pipeline and that of the extruder are 50 an area of the effective printing region of the spray nozzle at
+a same rectangle , wherein a length of a long side of the different rotation angles is in direct proportion to the width
+rectangle is Lmax , a length of a short side thereof is Lmin ; thereof in a unit time ; a width of an effective printing region
+a rotation angle of the feeding pipeline around the axis is Lmaxxsin O + Lminxcos 0 ; wherein a rotation angle of the
+perpendicular to both the cross section area of the inner feeding pipeline around the axis perpendicular to both the
+channel of the feeding pipeline and that of the extruder is 0 ; 55 cross section area of the inner channel of the feeding when the spray nozzle with the rotation angle of a works pipeline and that of the extruder is 0 . along one direction , a width of an effective printing region 14 . The method for controlling printing speed and preci
+is Lmaxxsin O + Lminxcos 0 ; when the spray nozzle has a sion , as recited in claim 12 , wherein both a cross section area
+constant moving speed , a forming height of Z axis at every of an inner channel of the feeding pipeline and that of the
+layer is a certain value , an area of the effective printing 60 extruder are a same rectangle , wherein a length of a long side
+region of the spray nozzle at different rotation angles is in of the rectangle is Lmax , a length of a short side thereof is
+direct proportion to the width thereof in a unit time . Lmin ; when the spray nozzle has a constant moving speed , 9 . The 3 - dimensional printer spray nozzle capable of a forming height of Z - axis at every layer is a certain value , adjusting cross section areas of extruded materials , as recited an area of the effective printing region of the spray nozzle at
+in claim 7 , wherein the external housing comprises a heater 65 different rotation angles is in direct proportion to the width
+for heating ABS or PLA fusible transferring material in the thereof in a unit time ; a width of an effective printing region
+feeding pipeline , such that the material is in a melted state . is Lmaxxsin 0 + Lminxcos 0 ; wherein a rotation angle of the 
+US 10 , 016 , 929 B2
+feeding pipeline around the axis perpendicular to both the 16 . The method for controlling printing speed and preci
+cross section area of the inner channel of the feeding sion , as recited in claim 14 , wherein the 3 - dimensional
+pipeline and that of the extruder is 0 . printer spray nozzle comprises a feeding pipeline , an 15 . The method for controlling printing speed and preci extruder located under the feeding pipeline , an external sion , as recited in claim 13 , wherein the 3 - dimensional 5 a 5 housing and a driving device ; wherein the feeding pipeline printer spray nozzle comprises a feeding pipeline , an is embedded in the external housing , the extruder is coaxi extruder located under the feeding pipeline , an external housing and a driving device ; wherein the feeding pipeline ally fixed under the feeding pipeline , a center of gravity of
+is embedded in the external housing , the extruder is coaxi - a cross section area of an inner channel of the feeding ally fixed under the feeding pipeline , a center of gravity of pipeline and a center of gravity of a cross section area of an
+a cross section area of an inner channel of the feeding inner channel of the extruder are located on a same axis
+pipeline and a center of gravity of a cross section area of an which is perpendicular to the cross section area of the inner
+inner channel of the extruder are located on a same axis channel of the feeding pipeline and the cross section area of which is perpendicular to the cross section area of the inner the inner channel of the extruder , the feeding pipeline is
+channel of the feeding pipeline and the cross section area of driven by the driving device to rotate around the axis relative the inner channel of the extruder , the feeding pipeline is 1 :
+driven by the driving device to rotate around the axis relative to the extruder , thereby aiming at different rotation angles , widths of extruding forming areas of the extruder at a same to the extruder , thereby aiming at different rotation angles , widths of extruding forming areas of the extruder at a same direction are different so as to adjust a cross section area of
+direction are different so as to adjust a cross section area of a sprayed filament ;
+20 wherein the driving device comprises a rotary table and a a sprayed filament ; wherein the driving device comprises a rotary table and a motor , wherein the rotary table is connected with a
+motor , wherein the rotary table is connected with a body of the printer , the motor is located within the
+body of the printer , the motor is located within the external housing and is capable of driving the rotary table to rotate , and the feeding pipeline is fixed at a external housing and is capable of driving the rotary
+table to rotate , and the feeding pipeline is fixed at a 25 lower end of the rotary table ;
+wherein both the cross section area of the inner channel of lower end of the rotary table ;
+wherein both the cross section area of the inner channel of the feeding pipeline and that of the extruder are regular
+the feeding pipeline and that of the extruder are regular polygons ; wherein the regular polygons comprise triangles and polygons ; wherein the regular polygons comprise triangles and 30 rectangles ;
+wherein the external housing comprises a heater for rectangles ;
+wherein the external housing comprises a heater for heating ABS or PLA fusible transferring material in the
+heating ABS or PLA fusible transferring material in the feeding pipeline , such that the material is in a melted
+state . feeding pipeline , such that the material is in a melted
+state . * * * * * 

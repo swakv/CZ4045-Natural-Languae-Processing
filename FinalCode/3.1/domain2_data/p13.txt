@@ -1,0 +1,937 @@
+US010761497B2
+( 12 ) United States Patent ( 10 ) Patent No .: US 10,761,497 B2
+Bennett et al . ( 45 ) Date of Patent : Sep. 1 , 2020
+( 54 ) PRINTING 3D OBJECTS WITH AUTOMATIC ( 56 ) References Cited
+DIMENSIONAL ACCURACY
+COMPENSATION U.S. PATENT DOCUMENTS
+5,137,662 A * 8/1992 Hull ( 71 ) Applicant : Microsoft Technology Licensing , LLC , Redmond , WA ( US )
+GO1J 1/4257
+118/620
+GO1J 1/4257
+156 / 273.3 5,184,307 A * 2/1993 Hull
+( 72 ) ( Continued ) Inventors : Teddy leland Bennett , Kirkland , WA
+( US ) ; Gheorghe Marius Gheorghescu , Sammamish , WA ( US ) FOREIGN PATENT DOCUMENTS
+( 73 ) Assignee : Microsoft Technology Licensing , LLC , Redmond , WA ( US )
+EP
+WO
+2599613 A2
+WO 2001/072502 Al
+6/2013
+10/2001
+( * ) Notice : OTHER PUBLICATIONS Subject to any disclaimer , the term of this
+patent is extended or adjusted under 35
+U.S.C. 154 ( b ) by 37 days .
+( 21 ) Appl . No .: 14 / 996,210
+International Patent Application No. PCT / US2017 / 013080 ; Int'l
+Search Report and the Written Opinion ; dated May 10 , 2017 ; 13
+pages .
+( Continued ) ( 22 ) Filed : Jan. 14 , 2016
+( 65 ) Charles R Kasenge Prior Publication Data Primary Examiner
+US 2017/0203515 A1 Jul . 20 , 2017
+( 51 ) Int . Ci . B29C 67/00 ( 2017.01 )
+G05B 15/02 ( 2006.01 )
+B29C 64/393 ( 2017.01 )
+B29C 64/106 ( 2017.01 ) B29C 64/232 ( 2017.01 )
+( Continued )
+( 52 ) U.S. CI . CPC G05B 15/02 ( 2013.01 ) ; B29C 64/106
+( 2017.08 ) ; B29C 64/232 ( 2017.08 ) ; B29C 64/393 ( 2017.08 ) ; B33Y 30/00 ( 2014.12 ) ; B33Y 50/02 ( 2014.12 )
+( 58 ) Field of Classification Search
+CPC B29C 67/0088 ; B29C 64/386 ; B29C 64/00 ;
+G05B 15/02 ; B33Y 50/02 ; B33Y 30/00
+See application file for complete search history .
+( 57 ) ABSTRACT
+Techniques are described for improving dimensional accu
+racy , and more specifically z - axis or vertical dimensional
+accuracy in generating a 3 dimensional ( 3D ) object com
+prising a plurality of formable layers . In one example , a
+height configuration parameter , such as a selected layer height , a print resolution , one or more tolerance values for
+certain layers or portions of a 3D object to be printed , etc. , and a total object height , may be obtained . A first height corresponding to a subset of the plurality of formable layers
+may be selected based on the received height configuration parameter and the total object height .In some aspects , the
+first height may include a global layer height for the 3D object . The first height may be selected to optimize accuracy of the height configuration parameter or the total object height .
+20 Claims , 11 Drawing Sheets
+-800
+3355
+805
+305f 720 740
+810 -
+725 320
+710 --------------
+730
+821 )
+3058 325 ;
+325i 
+US 10,761,497 B2
+Page 2
+( 51 ) Int . Ci . B33Y 30/00
+B33Y 50/02
+2014/0309764 A1
+2015/0266242 A1 * ( 2015.01 )
+( 2015.01 ) 2015/0269282 Al *
+( 56 ) References Cited 2015/0269289 A1 *
+U.S. PATENT DOCUMENTS
+10/2014 Socha - Leialoha et al . 9/2015 Comb B29C 67/0055
+264 / 40.1
+9/2015 Nelaturi GO6F 17/50
+700/98
+9/2015 Kim G06F 17/5009
+703/6
+9/2015 Nelaturi G06F 17/5009
+703/6
+3/2016 Wu G06T 15/205
+345/420
+6/2016 Lee GO5B 19/4099
+700/98
+8/2016 Das GO3F 7/70416
+2015/0269290 A1 *
+5,345,391 A * 9/1994 Hull 2016/0078670 A1 *
+5,432,704 A * 7/1995 Vouzelaud 2016/0176117 A1 *
+5,776,409 A * 7/1998 Almquist
+B29C 64/40
+156 / 273.3
+G05B 19/4099
+345/420
+B29C 64/40
+118/407
+GO1J 1/4257
+156 / 273.3
+B29C 64/40
+264/308
+2016/0221262 A1 *
+5,870,307 A 2/1999 Hull
+OTHER PUBLICATIONS 6,027,682 A * 2/2000 Almquist
+6,405,095 B1
+6,600,965 B1 *
+6/2002 Jang 7/2003 Hull
+7,369,915 B2 * 5/2008 Kritchman
+9,561,622 B2 *
+9,744,692 B2 *
+9,770,869 B2 *
+2006/0155418 A1 *
+2/2017 Das
+8/2017 Ikeda
+9/2017 Comb 7/2006 Bradbury
+GO1J 1/4257
+156 / 273.3
+B29C 41/48
+700/118
+GO3F 7/70416
+B29C 31/042
+B29C 64/386
+GO5B 19/4099
+700/182
+B29C 41/48
+700/118
+B29C 31/042
+264/401
+B29C 41/52
+264/401
+Pandey et al .; “ Slicing procedures in layered manufacturing : a
+review ” ; Image ; one page . Wang et al . , Saliency - Preserving Slicing Optimization for Effective
+3D Printing ; Computer Graphics ; vol . 33 ; Nov. 2014 ; Image ; one
+page .
+Sabourin ; Adaptive High - Precision Exterior , High - Speed Interior , Layered Manufacturing ; Master of Scie in Mechanical Engi neering ; Image ; one page . " First Office Action issued in Chinese Patent Application No.
+201780004298.5 ” , dated Aug. 30 , 2019 , 13 Pages . Yuan , et al . , “ An Algorithm for Improving Efficiency of Fused
+Deposition Molding 3D Printing System ” , Published in College of
+Internet of Things Engineering , issue No. 6 , Dec. 2014 , 5 Pages .
+2007/0173967 A1 * 7/2007 Kritchman
+2013/0228953 A1 * 9/2013 Ikeda
+2013/0313756 A1 * 11/2013 Chen
+* cited by examiner 
+-100
+U.S. Patent
+105
+.
+ZZZZ
+LI 2
+ALII
+2 .
+DI
+117 Printer Controller
+110
+175
+170
+120
+Slicer /Driver 165
+Sep. 1 , 2020
+115
+145
+Q
+150
+155 160
+130
+Sheet 1 of 11
+Slicer 165
+140
+135
+125
+US 10,761,497 B2
+FIG .1
+200
+U.S. Patent
+240
+230
+235
+130
+www
+Sep. 1 , 2020
+245
+ER
+225 220
+Sheet 2 of 11
+215
+210
+US 10,761,497 B2
+FIG 2.
+U.S. Patent Sep. 1 , 2020 Sheet 3 of 11 US 10,761,497 B2
+300
+305a
+310
+305a
+st
+315
+----
+320
+330
+325d
+3250 325e
+3256
+325a
+305c 315
+-325f G
+FIG . 3 
+U.S. Patent Sep. 1 , 2020 Sheet 4 of 11 US 10,761,497 B2
+400
+start
+402 obtain height configuration
+parameter and total object height
+404 select a layer height for at least
+a subset of the plurality of layers
+based on the obtained height configuration parameter and total
+object height
+406 generate a tool - path command
+list from object model data based
+on selected layer height
+408 print 3D object according to
+generated tool - path commands
+FIG . 4 
+U.S. Patent Sep. 1 , 2020 Sheet 5 of 11 US 10,761,497 B2
+500
+start
+502 receive height configuration
+parameter ( s ) including a selection
+of a 3D print resolution / layer height
+504 obtain total object height 404a
+506 Determine global layer height
+from selected resolution and 3D
+printer minimum resolution , according to total object height
+F 508 determine subset of layers
+associated with a tolerance /
+L accuracy requirement
+1
+1
+510 perform local optimization
+calculation to determine layer height for the subset of layers www
+512 generate a tool - path command
+list for entire model from object
+model data based on one or more
+determined layer heights
+L -
+| 514 print 3D object according to
+generated tool - path commands
+FIG . 5 
+U.S. Patent Sep. 1 , 2020 Sheet 6 of 11 US 10,761,497 B2
+wwwwwwwww
+600
+start
+No
+602
+Determine if local height
+feature data
+available
+go to 512
+Yes
+604 determine local height features
+and / or tolerances of 3D model No
+606 determine Yes layer in which
+( closest ) local height feature is
+located relative to current layer
+622
+Determine if
+more local height
+features
+608 determine at what fraction of
+global layer height local height
+feature is located
+610 determine number of layers that
+may be adjusted to meet local
+feature tolerance ( s ) of 3D model
+620 recalculate with
+at least one of a
+different number of
+layers in subset , or
+different
+approximation algorithm 612 apply approximation algorithm
+to adjust the determined number of
+layers
+| 618 adjust global layer height I 614 modify adjusted layer height ( s )
+based on maximum adjacent layer
+L height change value . No
+Yes 616
+Determine if layer configuration meets
+tolerance ( s )
+FIG . 6 
+U.S. Patent Sep. 1 , 2020 Sheet 7 of 11 US 10,761,497 B2
+-700
+305a
+705
+3050 720 740
+710
+725
+735 De 320
+730
+715
+305e
+325h
+325g
+FIG . 7 
+U.S. Patent Sep. 1 , 2020 Sheet 8 of 11 US 10,761,497 B2
+800
+305a
+805
+305f 720 740
+810
+735
+725 320
+710
+730
+820
+3058
+325j
+3251
+FIG . 8 
+U.S. Patent Sep. 1 , 2020 Sheet 9 of 11 US 10,761,497 B2
+900a
+930 925
+940
+935
+FIG .9A
+906
+920 915 910 
+U.S. Patent Sep. 1 , 2020 Sheet 10 of 11 US 10,761,497 B2
+9006
+965
+FIG 9B.
+975
+905
+980 
+med
+movement
+w
+need
+namente
+amma
+numenten
+1
+U.S. Patent
+1002 Computer
+Monitor 1042
+System Memory( ROM1023 )
+1022
+GPU 1029
+Video Memory 1003
+Printer 1043
+BIOS 1024
+1044 Speaker
+105
+1060 )RAM (OS 1025
+Processing Unit (s)1059
+Graphics Interface 1031
+Video Interface 1032
+Output Peripheral Interface 1033
+Sep. 1 , 2020
+APPLICATION PROGRAMS 1026
+1021 Bus System
+OTHER PROGRAMS 10273D Layer Height Optimizer 1065
+Non -Remvable Non -Volatile Memory Interface 1034
+Removable Volatile Non-Memory Interface 1035
+User Input Interface 1036
+Network I/F1037
+Sheet 11 of 11
+1045
+1038
+1039
+PROGRAM DATA 1028
+1004
+Modem 1005
+1
+? “
+1053
+OS 1058
+1057 Apps .
+Other Progs .1056
+Program Data 1055
+1051
+1049
+1052
+1054
+1046
+1047
+1048
+US 10,761,497 B2
+FIG .10
+US 10,761,497 B2
+1 2
+PRINTING 3D OBJECTS WITH AUTOMATIC ( 3D ) object comprising a plurality of formable layers may be
+DIMENSIONAL ACCURACY improved . At least one height configuration parameter and a
+COMPENSATION total object height are received . A first height corresponding to at least a subset of the plurality of formable layers is
+TECHNICAL FIELD 5 selected based on the received at least one height configu ration parameter and the total object height . The first height This disclosure relates generally to three - dimensional may be selected to optimize accuracy of at least one of the
+( 3D ) printing or additive manufacturing , and more specifi at least one height configuration parameter or the total object cally to improving dimensional accuracy in creating 3D height . The first height may be communicated to a 3D printer objects . 10 to generate the 3D object . Other features of the systems and methods are described
+BACKGROUND below . The features , functions , and advantages can be
+achieved independently in various examples or may be
+Creating 3D objects presents particular challenges both in combined in yet other examples , further details of which can
+terms of the complexity of modeling 3D objects and of 15 be seen with reference to the following description and generating 3D objects to accurately portray real - life objects . drawings . Many 3D printers or additive manufacturing devices print or
+generate objects from 3D models generated from computer BRIEF DESCRIPTION OF THE DRAWINGS
+aided design ( CAD ) applications , for example , by slicing the
+model into thin horizontal layers and depositing material 20 Embodiments of the present disclosure will be described
+( e.g. , melted plastic , clay , concrete , metal powder , food more fully hereinafter with reference to the accompanying stuff ) vertically layer by layer . The layer height ( thickness ) drawings , in which :
+is typically selected through a user interface ( UI ) control that FIG . 1 depicts an example of a computing device in
+allows either direct , fixed setting of layer height ( e.g. , 0.25 communication with a three dimensional ( 3D ) printer
+mm or 250 microns ) or setting layer resolution in a simpler , 25 capable of printing a 3D object . general form with predetermined layer heights associated FIG . 2 depicts an example perspective view of a 3D object with standard printer terms ( e.g. , Fine , Normal , Draft , etc. ) . segmented into 2 sets of layers , each having a different
+The layer height or layer resolution is closely linked to the thickness or layer height . tradeoff between print speed vs. vertical step resolution print FIG . 3 depicts an example process for segmenting an
+quality . Contemporary slicing application software ( slicers ) 30 object into layers by a slicer associated with a 3D printer . generally fails to consider the impact that a fixed layer height FIG . 4 depicts operational procedure for selecting a layer has on the printed object's overall vertical dimension accu height for at least a subset of the plurality of layers forming
+racy . Quantization in the form of fixed - height layer slices a 3D object . can result in vertical ( z - axis ) dimension errors of + - 50 % of FIG . 5 depicts an example of a more detailed operational the selected layer height ( e.g . , 0.125 mm for a 0.25 mm layer 35 procedure for selecting a global layer height and a localized
+height ) , two orders of magnitude over the typical x - y plane layer height for at least a subset of layers of a 3D object . dimensional accuracy of 2 microns ( 0.002 mm ) that can FIG . 6 depicts another example of a detailed operational typically be produced by a well - adjusted 3D printer . procedure for selecting a layer height for at least a subset of
+As a result of blind selection of layer height , 3D printed layers of a 3D object . objects end up having vertical or z - axis features ( including 40 FIG . 7 depicts an example process for segmenting an
+the top of the object ) aligned to a multiple of the selected object into layers by a slicer associated with a 3D printer layer height and having a potentially large error in the according to the operational procedure of FIGS . 4 and / or 6 . printed object's z - dimension . For example , printing a 1.12 FIG . 8 depicts an example process for segmenting an
+mm 3D object with a 250 micron layer will result in a 1 mm object into layers by a slicer associated with a 3D printer tall object in practice , or a 12 % error . This error occurs 45 according to the operational procedure of FIG . 4 , 5 , or 6 . because the object would require 4.48 layers , but the slicer FIGS . 9A and 9B depict example perspective views of a
+rounds down to 4 layers . The error effects are not limited to 3D object having certain z - axis features located in - between
+the top of the object , but to all the object's features at layers of the 3D object . different z layer heights . For example , consider the case of FIG . 10 depicts an example general purpose computing printing a stair object where the step increments do not align 50 environment in which the techniques described herein may with the layer heights . This configuration results in errors at be embodied . each step along the way to the object's upper surface . Generally controlled by stepper or servo motors , or other DETAILED DESCRIPTION OF ILLUSTRATIVE
+movement means , 3D printer hardware is capable of much EMBODIMENTS
+higher precision on the Z axis — typically in the range of 10 55
+microns to less than 1 micron ( 100 steps / mm - 1600 steps / For at least the purposes of this description , the selected
+mm ) resolution in practice . This fine positioning control in terms and phrases herein may have the following meanings :
+the z - axis hardware creates a theoretical opportunity to a ) Bed - Leveling : refers to a 3D printer calibration process produce objects with z dimensional accuracy to within 1-10 that measures the height of the print nozzle ( hot - end ) microns ( 0.1 to 1 % error ) . Accordingly , improvements to 3D 60 relative to the surface upon which the printed object printing processes can be made . will be made ( a.k.a. print surface , print bed , build
+plate ) . The calibration process may include moving the
+SUMMARY print head across the print bed and stopping at multiple locations to measure the clearance between the nozzle
+Illustrative examples of the disclosure include , without 65 and the surface . The calibration measurements may be
+limitation , methods , systems , and various devices . In one used by the printer controller to adjust the z - axis height aspect , dimensional accuracy in generating a 3 dimensional during printing , or may be used by the slicer to adjust 
+US 10,761,497 B2
+3 4
+the layer height for one or more layers where necessary some aspects , for example , based on design considerations
+to compensate for variation in the printer's nozzle or user selection / preference , an optimal layer height may be
+surface clearance at the points measured . selected by computing an error associated with using the
+b ) Feature : refers to any area or aspect of a 3D model nominal or current layer height to print the remaining layers where the dimensional tolerance of the printed object is 5 required to reach the next local / global maximum height important . feature of the 3D object model or to reach the total object
+c ) Local Feature : refers to 3D model features such as height . In some aspects , the error associated with using the vertical slopes or angled surfaces , or those that have a nominal or current layer height to print the remaining layers high / low point ( a.k.a. local maximum / minimum ) to reach the next local maximum height feature of the 3D above / below nearby surrounding surfaces , but always 10 object model may be weighted more heavily in selecting an
+lower than the 3D model's total height . optimal layer height relative to the error associated with total
+d ) Layer : a single delta z - axis , fixed - height planar hori object height ,vice versa , or in any proportion ( e.g. , accord
+zontal slice of a 3D model by which to guide a 3D ing to user preference , etc. ) . In some aspects , a positive error printing machine to deposit material onto a platform or computed to print the remaining layers to reach the next
+onto a previously deposited layer of material . 15 local / global maximum height feature of the 3D object model
+e ) Slice : refers to a single , typically vertical , cross or to reach the total object height may result in selecting a
+sectional layer of a 3D object model . slightly smaller slice layer height than that selected by the
+f ) Slicer : a software program that converts a 3D object user due to slightly higher print resolution , whereas select
+model into a collection of sliced layers of one or more ing a slightly higher layer height for a negative error may not
+layer heights . The sliced layers may be viewed graphi- 20 be chosen due to a slightly lower print resolution . cally on a display , or converted to toolpath commands In some cases , the height configuration parameter that
+used to instruct a 3D printer to create a physical may be obtained or received may include a print resolution
+manifestation of the 3D object model . Slicer program ( e.g. , slice layer height ) , such as a selection of fine , normal , functionality may be performed wholly or in part on a or draft print modes ( similar to an inkjet or other such
+mobile or other personal computing device , on a com- 25 printer ) , a user - selected layer height value ( e.g. , 250
+puting component within a 3D printer , or on a local or microns ) , a selection of the 3D object's total height having remote computing environment that may include physi a corresponding tolerance or required accuracy , one or more
+cal or virtualized computing resources ( e.g. , datacenter tolerance or accuracy requirements , one or more selections
+server , virtual machine ) . of subsets of 3D object local / global maximum / minimum
+g ) Global Layer Height : refers to a layer height defined by 30 height features having a corresponding tolerance or required the print quality selection ( e.g. , draft , normal , fine ) , and accuracy , one or more tolerance or accuracy requirements , a
+adjusted as required to produce an accurate , and in maximum print time or minimum print speed , one or more
+some cases the most accurate total height dimension in layer height variation limitations ( e.g. , preserve uniform
+a 3D printed object as specified by the corresponding ridges on vertical or side walls of the 3D object by not
+model data . 35 varying the layer height too much ) , et al . h ) Optimal Layer Height :refers to a layer height that In some cases , a single layer height value may be selected
+results in printed 3D object height features having as a global layer height . In this scenario , the global layer dimensions exactly as modeled , or as close as achiev height may be selected so that the total object height is as
+able when combining constraints of multiple param close as possible to an even multiple of the layer height . In
+eters such as , e.g. , tolerances of multiple object model 40 some aspects , a total number of layers may also be selected
+height features , minimum resolution capability of 3D in conjunction with the global layer height to equal or best printer , or proximity of local layer height features to approximate the total object height . The global layer height other layer height features . may also be selected to maximize the accuracy of the at least i ) Height Configuration Parameter : specifies an aspect of one height configuration parameter , such as a print resolu
+height ( z - axis dimension ) of a 3D model or object . For 45 tion , a user - selected layer height value , or to meet a toler
+example , this may be , but is not limited to , nominal ance value , or to minimize error of one or more local
+layer height , total height ,local feature height , height maximum / minimum height features . It should be appreci tolerances , Z - axis height tolerance of vertical sloping or ated that a number of different techniques may be used to
+curved surfaces , etc. determine a global or other layer height value , including the
+j ) Total Height : refers to the distance from the lowest 50 weighting scheme described above , machine learning tech
+surface to the highest surface or point of a 3D model niques , and so on . ( i.e. , the total z - axis dimension ) . In some aspects , the described techniques may also
+Systems and techniques are described herein for selecting include local optimization of the layer height corresponding
+a layer height for generating a 3D object to improve dimen to a subset of the plurality of layers that form local maxi
+sional accuracy of the generated 3D object . In one aspect , 55 mum / minimum height features of the 3D object ( e.g. , the layer height may be determined based on the total height dynamic adjustment of layer height ) . In some cases , the
+( z - axis dimension ) of a 3D object model to be generated selection of a layer height corresponding to a subset of layers using a 3D printer or other additive manufacturing tech may be performed in a similar manner as described above
+nique , and at least one height configuration parameter that for the global layer height . In some cases , the total height or
+may be obtained or received . A layer height selected for at 60 z - dimension of the subset of layers may be treated as a total
+least a subset of a plurality of formable material layers that object height . In some aspects , localized errors may be
+will be printed to form the 3D object , may be determined weighted less heavily than global errors , such that the total
+based on the total object height and at least one height object height / total height of the subset of layers is a more
+configuration parameter . The layer height may be selected to important factor than localized z - dimensional accuracy for
+maximize accuracy of at least one of the 3D object's total 65 selecting one or more layer heights . In other cases , accept height or one or more local / global maximum height features able error bounds may be configured or individually of the 3D object model , or other configuration parameters . In selected . 
+US 10,761,497 B2
+5 6
+In some aspects , a 3D printing software application , The extruder assembly 120 may be moved in at least the
+generally referred to as a slicer or 3D print driver , which vertical direction ( z axis ) by movement means 175 , which
+may execute on a computing device , may perform the may include one or more stepper or servo motors , as is
+above - described techniques for selecting one or more layer generally known in the art . The movement means 175 may heights for a 3D object to be printed or generated . Any of a 5 also move the extruder assembly 120 in the horizontal plane number of input means , for example , of the computing ( x or y axis ) , such as along the upper plate 170 relative to the
+device , may be used to obtain the total object height and the base 125. Other 3D printer 105 designs fix the extruder 120
+height configuration parameter ( s ) . In some cases , the slicer in the z - axis and move it in the x - axis and y - axis while
+or other device or application may determine the total object moving the bed 125 in the z - axis . Yet other designs move the height and / or one or more height configuration parameters 10 extruder 120 in the z - axis and x - axis while moving the bed
+( e.g. , identifying Z - axis features ) from a model of the 3D 125 in the y - axis . Still other designs operate using a polar object to be printed , for example from a computer aided coordinate system to move the extruder 120 over a station
+design ( CAD ) package , image data from a 3D scanner , etc. , ary bed 125. The techniques described herein are applicable such that dimensional accuracy optimization may be per to these and other variations of 3D printer configurations formed automatically . 15 ( such as Delta Parallel Kinematic printers ) . In some aspects , In some cases , a layer height associated with the first layer the extruder assembly 120 may include or house one or more height may be individually selected , such as to be larger than filaments 150 , for example wound / stored in spool 145. In
+a global or other layer heights associated with a 3D object , other cases , the filament 150 may be stored or housed in
+to ensure bottom layer adhesion to the print bed during other portions of the 3D printer 105 or completely external
+printing . It should be appreciated that any of a number of 20 to the 3D printer 105. The extruder assembly 120 may also
+individual 3D object height feature layers or subsets of 3D include opposing rollers 155 that drive filament 150 into a object height feature layers may be separately configured , heated nozzle 160 , at a specified rate , whereby the filament
+via similar processes as will be described in greater detail is melted and extruded onto the most recently deposited below . layer of layers 135 previously deposited onto base 125. The
+It should be appreciated that the described techniques may 25 extruder assembly 120 may include means , such as one or
+be applied to various 3D object generation techniques imple more motors , other drive mechanisms , etc. , for controlling menting a fixed layer approach , such as extrusion techniques the rate at which filament 150 is fed into the heated nozzle
+including fused deposition modeling ( FDM ) , fused filament 160 by rollers 155 and extruded from nozzle 160 , thus
+fabrication ( FFF ) , Robocasting or Direct Ink Writing ( DIW ) , controlling the height of each layer of layers 135 . or other types of additive manufacturing techniques that use 30 According to the techniques described herein , the
+a slicing or layered method , such as Vat Photopolymerisa extruder assembly 120 may be controlled to extrude filament
+tion , Material Jetting , Binder Jetting , Powder Bed Fusion , at a specified rate to deposit one or more layers 135 of a Directed Energy Deposition , etc. material at a certain layer thickness or having a certain
+FIG . 1 illustrates an example system 100 including a z - dimension . In one aspect , the height of one or more of
+computing device 110 in communication with a three dimen- 35 layers 135 may be determined , for example , based on the sional ( 3D ) printer 105 capable of or configured to print a 3D total height 140 of the 3D object 130 to be printed . In some
+object 130. The computing device 110 may include any of a aspects , the height of one or more of layers 135 may be
+laptop , a desktop or personal computer ( PC ) , mobile devices determined based on at least one layer height configuration such as smart phones , tablets , etc. , networked devices , cloud parameter , such as a print resolution , a selected or default
+computing resources , or combinations thereof . The comput- 40 layer height , hardware limitations of the 3D printer ( e.g. , ing device 110 may communicate with 3D printer 105 via a highest possible z - axis resolution , or steps thereof ) , or any of
+wired connection or any of a variety of wireless connections a variety of tolerance values or error requirements ( e.g. , 115 , as are known to one of skill in the art . The 3D printer maximum error value ) , corresponding to one or more layers 105 may have or be associated with any of a variety of 135 , etc. In some cases , the tolerance value ( s ) may be
+transceivers , modems , NICs , etc. , typically associated with 45 selected for certain local object maximum height features of
+the printer controller 117 , to communicate with computing a 3D object or for all 3D object height features , and the layer device 110 via wired and / or wireless connection 115. In height may be automatically selected based on errors cal
+general , the computing device 110 may execute or access culated on localized feature maximum / minimum heights , ( via a network or via the cloud ) , one or more software global layer height ,or the total 3D object height .In some
+programs or applications that take 3D object data and 50 aspects , the slicer 165 may determine or select the one or
+translate the data into instructions executable by the printer more layer heights for printing the 3D object 130. In yet controller 117 controlling the 3D printer 105 ( e.g. , G - code ) some cases , the computing device 110 and / or slicer 165 may to enable 3D printer 105 to form 3D object 130 by extruding provide a user interface for enabling a user to manually material onto the base 125 in multiple ( e.g. , separately ) configure or set one or more parameters for generating the
+configurable layers 135. For reference purposes , and as used 55 3D object 130 . throughout , the software application , which may in some FIG . 2 illustrates an example diagram 200 of a 3D object , cases include a CAD component , a CAM component , 3D such as 3D object 130 of FIG . 1 , segmented into 2 sets of
+image capture and translation functions , and so on , may be layers , each having a different thickness or layer height . The
+referred to as slicer or driver 165. In most circumstances , the 3D object 130 may include a first or bottom portion 210 , slicer 165 will be associated with the computing device 110. 60 including multiple layers , and having an upward - facing However , it is contemplated herein that the slicer 165 may surface 215. 3D object 130 may also include a number of
+be in whole or in part associated with an individual 3D stepped portions 220 each having approximately a uniform
+printer 105 that might , but not necessarily be a function of thickness and an upward facing surface 225 , stacked on top
+or within the printer controller 117 , without departing from of the bottom portion 210. The 3D object 130 may further be
+the techniques described herein . 65 defined by a top surface 230 . The 3D printer 105 may include one or more extruder 3D object 130 may be printed , for example , by 3D printer assemblies 120 positioned over an object base or bed 125 . 105 , according to a number of different configurations , 
+US 10,761,497 B2
+7 8
+including different global layer heights , as represented by for example , graphically . In other cases , an accuracy require dashed lines 235 , and dotted lines 240. Layer height 235 is ment or tolerance may be automatically assigned to certain
+selected according to the techniques described herein for height values / layers of a 3D object model and specified in a
+z - axis dimensional accuracy optimization , whereas the layer height configuration parameter . In some aspects , a user
+height 240 may represent a generic or default layer height . 5 interface may provide a visual representation of the 3D
+Layer height 235 is less than layer height 240 , and aligns to object including specific heights at which layers will be
+a greater extent with upward facing surfaces 215 , 225 , thus formed , for example , in a preview or print preview format or
+resulting in less z - axis error ( as illustrated by distance screen . This may enable a designer to more readily and more
+marker 245 ) . efficiently optimize layer height ( s ) for printing a 3D object , In some cases layer height 240 may be selected to best 10 when , for example , not all error requirements for specific approximate the z - axis features of 3D object 130. In the layers can be met in one print ,or in other circumstances , example illustrated , the layer height 240 still results in some such as , to fully customize a print and identify specific
+errors in the z - axis ( every other stepped portion 220 is locations associated with different accuracy requirements . omitted ) . This may be due to a print resolution limitation , When the user has selected a 3D model and is prepared to
+such as a draft or normal mode that specifies a minimum 15 print the modeled object on a 3D printer , a user interface layer height ( e.g . , greater than each of stepped portions 220 ) . ( UI ) may be presented to the user for selection of various
+In other cases , other layer heights may be selected to options that affect the quality of the printed object , the speed generate a best fit 3D object that aligns more precisely to with which it will print , and other user - selectable relevant
+data defining the 3D object . In some cases , higher resolution parameters . The UI may be incorporated into the slicer 165 , may result in a longer print time , whereas lower resolution 20 into the print application that executes when the print
+may result in a faster print time . In some aspects , a maxi command is issued ( e.g. , clicking the print button ) from an
+mum print time may be selected , for example , by a user , to application that executes on a computing device 110 , or in
+limit or otherwise bound the maximum print resolution used . another manner ( e.g. , cloud service ) prior to executing the
+FIG . 3 depicts an example process 300 for segmenting a actual layer height calculations and model slicing function . 3D object 305 into layers for 3D printing or 3D generation . 25 In one embodiment , a feature may be provided that allows
+A layer height may be selected ( e.g. , a default layer height ) the user to activate the 3D print function from a 3D
+for printing 3D object 305 at operation 310 , without adjust computer aided design / modeling ( CAD ) application . The
+ing for z - dimension features of the 3D object 305. Operation feature may include rendering a menu of 3D printers or
+310 may result in slicing the object 305 into a number of vendor services for a user to select . Upon selection by the
+layers having a thickness 315. The sliced object 305a may 30 user , the feature may render a UI that presents resolution and
+then be printed at operation 330. Thickness 315 may not be other configuration parameter settings ( e.g. , draft mode , a multiple of the total object height 320 , and so may result normal mode , fine mode , raft / no raft , support ) to a user for
+in error in the total object height at 325d . The layer height selection . Since the UI is activated directly from the CAD
+315 may also not align with other stepped portions of the 3D application , the UI may have direct and easy access to data
+object 305 ( e.g. , sections 325a , 325c , and 325f ) and / or may 35 related to the 3D model for generating parameter options for
+result in sizeable errors in sloped portions of the 3D object the user to select . 305 ( e.g. , 325b and 325e ) . The UI may process data from the 3D model associated
+FIG . 4 illustrates an example operational procedure 400 with the print request action , to present configuration for selecting a layer height for at least a subset of the options for a user to select , or to provide default parameter plurality of layers to form a 3D object and improve z - di- 40 values based on simple calculations and other parameters mension accuracy . Procedure 400 may , in some instances , be related to features of the 3D model that may be used by the performed by slicer 165 , computing device 110 , 3D printer slicer 165 for determining optimal layer heights for slicing 105 , or a combination thereof . Procedure 400 may begin at the model in preparation for printing the corresponding operation 402 , where at least one height configuration object . The UI application may receive data describing the
+parameter or a total object height may be obtained . In some 45 3D model from which it may extract , determine , and identify
+cases , operation 402 may include receiving the at least one ( e.g. , graphically for a user ) not only the total 3D modeled
+height configuration parameter or a total object height as object height , but other features of interest which may be
+selection or input events via a user interface operating in subject to loss of dimensional accuracy if a fixed layer height conjunction with slicer 165 , for example , provided via were selected for slicing the entire model . For example , the
+computing device 110. In some cases , one or more of the 50 UI may present a graphical representation of the model with
+height configuration parameter ( s ) or total object height may features of interest identified via markers , colors , circles , be obtained or determined from 3D object data , for example highlights , or other means of identifying features to a user . associated with a 3D model of the object to be printed . In Selecting a feature ( e.g. , via mouse click , finger or stylus
+some aspects , the 3D object data may be accessed from a touch ) may cause the rendering of an option box showing the
+CAD or other modeling application or program , or may be 55 modeled dimensional values for the feature and the dimen obtained from a 3D scanner or associated application , or sional error produced if sliced using the layer height asso
+from other locations or applications . ciated with the resolution setting chosen ( e.g. , draft , normal , In some aspects , 3D object models may have localized fine , user defined ) , and enabling a user to specify a maxi
+height features that may be required to be printed with a mum dimensional error for the selected feature . Additionally specified accuracy or dimensional tolerance . For example , 60 or alternatively , the UI may present a graphic object with
+when selecting a portion of 3D object model data ( e.g. , via which the user can scale the model to adjust the dimensions
+CAD software or a user interface associated with the slicer as desired for the printed object , and present information on
+165 , etc. ) , a higher or specified tolerance ( i.e. , error margin ) features of interest in a list or other collection of UI elements
+may be assigned that must be met in order for the 3D object showing the modeled dimensions and errors produced at the
+data to be sent to the 3D printer and actually printed . 65 current fixed resolution setting . The UI may present the Selecting a portion of the 3D object data may include calculated time to print the object given the current con
+identifying one or more z - axis features of the 3D object data , figuration parameter option settings and for changed set 
+US 10,761,497 B2
+9 10
+tings . In this manner , the user may assess the tradeoff Procedure 500 may begin at operation 502 , where a height between the choice of resolution settings , the choice of error configuration parameter including a selection of a 3D print tolerances , etc , and the time required to print the object . The resolution and / or a specified layer height may be received , UI may enable a user to control the dimensional accuracy of for example , via a user interface associated with or provided selected 3D model features as required to meet the precision 5 by the slicer 165. Information that indicates the minimum
+needs for the object being printed in the least amount of z - axis or height increment of which the 3D printer 105 is
+time . In some cases , the height configuration parameter may capable ( i.e. , minimum printer resolution capability , such as
+include a print resolution , such as a selection of fine , normal , 0.625 microns ) may be obtained for example , by querying
+or draft print modes ( similar to an inkjet or other such the 3D printer 105 for hardware specifications , via the slicer
+printer ) , a selection from a different print resolution scheme , 10 165 , a driver associated with 3D printer 105 , or a variety of
+one or more selected layer height values ( e.g. , 250 microns other ways including receiving 502 configuration param for certain layers , and 150 microns for other layers ) , one or eters or specifications of the 3D printer 105 , such as in an
+more selections of subsets of layers having a corresponding XML or other type of file . Such a configuration file associ
+tolerance or required accuracy , one or more tolerance or ated with a specific 3D printer may contain the nominal print
+accuracy requirements , a maximum print time or minimum 15 resolution ( i.e. , nominal layer height ) settings for draft , print speed , one or more layer height variation limitations normal , and fine modes specified along with other capabili ( e.g. , to preserve uniform ridges on vertical or side walls of ties ( e.g. , auto - calibration ) or operational parameter settings the 3D object by not varying the layer height too much ) , etc. determined , based on the specific 3D printer capabilities , to
+In one example , a “ Click to Fit ” feature may be included produce the best print quality and speed associated with the
+in a 3D modeling UI , in a printing preview screen or 3D 20 modes selected by default or by the user . Next , at operation print dialog window , etc. , that enables selection of one or 504 , the total object height of the 3D object to be printed
+more specific features on the z - axis to maximize for accu may be obtained . The total object height may be derived or
+racy . The “ Click to Fit ” feature may be implemented through obtained from 3D object data , or may be received via the
+selection of locations on a 3D model of the 3D object to be user interface . printed or rendered via a cursor , drawing an area ( e.g. , box ) 25 Next , at operation 404a , which may include a more detail
+around one or more z - axis features , or other graphical for operation 404 of FIG . 4 , a global layer height may be
+selection actions . This feature may optimize error or toler determined . Operation 404a may first include at operation
+ance calculations to provide solutions of otherwise unsolv 506 , determining the optimal global layer height based on
+able constraints on a 3D object ( e.g. , by prioritizing which one or more configuration parameters received at operation tolerances are most important / which are less important ) . In 30 502 , such as the minimum z - axis increment of which the 3D
+one aspect , upon receiving a selection of the plane , an printer 105 is capable , the selected 3D print resolution , and
+indication may be sent to the slicer to optimize fit of that the total object height obtained in 504. Ideally , 3D object particular z - axis value or height . model total height will be evenly divisible by the determined
+Procedure 400 may continue at operation 404 , where a optimal global layer height .If the determined optimal global layer height for a least a subset of the plurality of layers may 35 layer height is not evenly divisible by the minimum height be selected based on the total object height and the one or resolution of the 3D printer 105 , then the nearest global layer
+more height configuration parameters . In some aspects , a height value above or below the optimal global layer height , global layer height may be determined , such that it is that is evenly divisible by the minimum height resolution of
+optimized to best fit some or all of z - axis ( i.e. , height ) the 3D printer 105 , may be a candidate for the global layer features of the 3D object ,according to the one or more 40 height . height configuration parameters . More details of operation Determining whether to use the global layer height above
+404 will be described below in reference to FIGS . 5 , 6 , and or below the optimal global layer height may be based on the
+8 . 3D object model's total height accuracy / tolerance require Next ,in some aspects , at operation 406 , the slicer may ment , or simply on the basis of that which will result in the
+generate a tool - path command list based on the selected or 45 printed object having a total height closest ( above or below ) determined layer height and the object model data . The to that of the 3D model . tool - path command list is typically generated in the form of In some cases , if received height configuration parameters G - code that instructs the 3D printer in the aspects of motion , 502 indicate the existence of one or more local height material temperature and extrusion rate , print bed tempera features in the 3D model having tolerance or accuracy ture , and any other instructions required for a 3D printer 105 50 requirements , operation 508 may be performed to determine
+to print or generate the entire 3D object according to the a subset of layers whose layer height may be altered to
+determined layer height and object model data . The tool achieve the tolerance or accuracy requirement . Ideally , the
+path command list is typically stored in a file ( e.g. , on a determined layer height change in the subset of layers ( e.g. , computing device or removable storage media e.g. , SD card ) less than +/- 10 % of global layer height ) would not be
+or transmitted directly to the printer to print the 3D object 55 noticeable in the appearance of the outer surface of the
+according to the generated tool - path commands 408. Gen resulting object printed from the 3D model . For example , if
+erating the tool - path file is not limited to using G - code , but a local feature whose accuracy requires a high point to
+may use any variety of formats or code optimized for a 3D terminate at a point in the middle ( i.e. at 50 % ) of a global printer . layer height slice , the height of a subset of layers may be
+FIG . 5 illustrates an example of a more detailed opera- 60 adjusted linearly or non - linearly at operation 510 so that the
+tional procedure 500 for selecting a global layer height and local height feature is reached as close as possible to the top
+a localized layer height for at least a subset of layers of a 3D of one of the subset of layers . A linear , square - wave shaped object . As with procedure 400 , procedure 500 may be layer height adjustment might be accomplished by selecting performed by slicer 165 , computing device 110 , 3D printer a subset of ten layers , five above and five below the feature , 105 , or a combination thereof . Procedure 500 may share 65 with the first five layers having a height 10 % less than the
+some operations with procedure 400 ; for the sake of brevity , global layer height and the second five layers having a height the duplicative operations will not be described again here . of 10 % above the global layer height . One non - linear layer 
+US 10,761,497 B2
+11 12
+height adjustment that may achieve the same dimensional Next , in some aspects , at operation 512 , the slicer may result as a linear adjustment but possibly with a less notice generate a tool - path command list based on the selected or
+able visual impact , may be a sinusoidal waveform approxi determined global layer height , local subset layer heights ( if
+mation . In this case , each layer height of a subset of layers any ) , and the 3D object model data . The tool - path command
+may be reduced at an increasing rate until an inflection point 5 list is typically generated in the form of G - code that instructs
+is reached , and reduced at a decreasing rate until a minimum the 3D printer in the aspects of motion , material temperature layer height occurs with its surface layer at the height that and extrusion rate , print bed temperature , and any other
+matches the local feature . A subset of ten layers with a rough instructions required for a 3D printer 105 to print or generate sinusoidal approximation applied to layer height changes to the entire 3D object according to the determined layer reach the local feature height in the immediate example 10 height ( s ) and object model data . The tool - path command list
+could comprise successive changes to the Global Layer is typically stored in a file ( e.g. , on a computing device or
+Height value in a sequence such as : { -6 % , -11 % , -16 % , removable storage media e.g. , SD card ) or may be trans
+-11 % , -6 % , + 6 % , + 11 % , + 16 % , + 11 % , + 6 % } . mitted directly to the printer to print the 3D object according Table 1 shows a comparison of cumulative object height to the generated tool - path commands 514. Generating the
+1 ) without a subset of adjusted layers , 2 ) with a 10 - layer 15 tool - path file is not limited to using G - code , but may use any subset adjusted using a linear layer height adjustment variety of formats or code optimized for a 3D printer . scheme , and 3 ) with a 10 - layer subset adjusted using a In other aspects , at operation 512 , the optimal layer
+non - linear ( e.g. , rough sinusoidal approximation ) layer heights may be determined in a software module or program height adjustment scheme to meet the local feature height that may be part of , or associated with , a 3D modeling CAD
+dimension at sub - layer 5 of 50 % of the Global Layer Height 20 application on a computing device 110 , a 3D printer driver
+for that layer . The layer height values shown are in milli in a computing device , in a 3D printer 105 , in a local or
+meters and the cumulative heights are relative to the surface remote computing environment , or a combination thereof . below the ten layers listed . Layer 5 in both the linear and Instead of , or in addition to , generating tool - path command
+non - linear subset layer adjustment columns , is exactly 50 % lists , the software module or program may generate a list of
+below that of where the printed objects surface would be 25 the optimal layer heights at which to slice an object and at
+without a subset layer adjustment ,and exactly the height operation 514 , send the list to a file stored on a storage dimension of the local height feature target . Following layer device or directly to a 3D printer 105 where a resident slicer
+5 , both subset layer height adjustment profiles compensate 165 module associated with a 3D model printer will slice the
+for the reduction in overall global height resulting from the model based on the list . first five height - adjusted subset layers by adjusting the 30 FIG . 6 illustrates another example of a detailed opera height of the next five subset layers where by layer 10 , the tional procedure 600 for selecting a layer height for at least
+compensation has fully corrected for the subset layer height a subset of layers of a 3D object . In some aspects , procedure reduction and is the same cumulative layer height that it 600 may correspond to operation 508-510 described above
+would have been without the presence of a local height in reference to FIG . 5. Procedure 600 may , in some
+feature , and returns to using at the global layer height 35 instances , be performed by slicer 165 , computing device
+starting with the next layer . 110 , 3D printer 105 , or a combination thereof .
+TABLE 1
+Subset Layer Height Adjustment Profile Comparison
+Global Cumulative
+Layer Without
+Height Subset
+Surface Below
+Linear Sinusoidal
+Subset Layer Subset Layer Heights Linear Heights
+( % Global Cumulative ( % Global
+Layer Height ) Height Layer Height )
+Surface Below Subset of Layers
+Sinusoidal
+Cumulative
+Layer height
+Number
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0.250
+0.250
+0.250
+0.250
+0.250
+0.250
+0.250
+0.250
+0.250
+0.250
+0.250
+0.500
+0.750
+1.000
+1.250
+1.500
+1.750
+2.000
+2.250
+2.500
+-10 %
+-10 %
+-10 %
+-10 %
+-10 %
++ 10 % + 10 %
++ 10 % + 10 % + 10 %
+0.225
+0.450
+0.675
+0.900
+1.125
+1.400
+1.675
+1.950
+2.225
+2.500
+-6 %
+-11 %
+-16 %
+-11 %
+-6 %
++ 6 %
++ 11 %
++ 16 %
++ 11 %
++ 6 %
+0.235
+0.458
+0.668
+0.890
+1.125
+1.390
+1.668
+1.958
+2.235
+2.500
+Procedure 600 may begin at operation 602 , after a global It should be appreciated that here are many approaches for layer height has been determined at operation 506 described determining a subset of layers and adjusting the layer height above in reference to FIG . 5. Operation 602 may include for the subset of layers , all of which will not be explicitly 60 determining if local height feature data is available for the described herein . However , most if not all of the computa 3D model . If no local height feature data is included in the tions used to determine the number of subset layers and their received height configuration parameter data , then proce height may consider other local features with height toler dure 600 may end and continue to operation 512. However , ance / accuracy that may lie within the layer subset selected , if local height feature data is available for the 3D model , and , in some cases , may compensate for the impact on the 65 then procedure 600 may continue to operation 604 , where
+total object height that the collective subset layers with the received height configuration parameter data may be
+different heights have . analyzed to determine local height features of the 3D model , 
+US 10,761,497 B2
+13 14
+along with any associated data specifying dimensional tol meet the specified tolerance ( s ) . If yes , procedure 600 may
+erance or error limits . Next , at operation 606 , the layer in proceed to operation 622 , where it may be determined
+which the closest local height feature is present in the 3D whether there are any more local height features . If the 3D
+model may be determined , for example , relative to a current model data includes more local height features , procedure layer being modeled . In some aspects , operation 606 may 5 600 may proceed back to operation 606 and continue to include determining , from lowest to highest , which global cycle through to operation 622 , until no more local height layer above the current layer being evaluated has the nearest features are present in the 3D model data , at which point , local height feature . procedure 600 may proceed to operation 512. If the toler Procedure 600 may then proceed to operation 608 , where ance ( s ) have not been met , procedure 600 may proceed to the fraction of the global layer at which the local height 10 operation 620 , where at least one of a different number of feature peaks ( e.g. , the top of the height feature ) , is located . layers in the subset of layers , or a different approximation For example , the number of layers from the base of the 3D
+object model to the local height feature may be determined algorithm may be implemented , and operations 610-616
+by dividing the height of the local feature by the determined repeated until a satisfactory layer height adjustment or
+global layer height , with any non - zero remainder indicating 15 configuration has been determined . In some aspects , if one
+at what fraction of the global layer height the local height or more local feature heights cannot be produced with local
+feature peaks . Next , at operation 610 , the number of a subset height adjustments , the global layer height of the 3D model
+of layers whose height may be adjusted to meet the dimen may be adjusted at operation 618 . sional accuracy ( tolerance ) requirement ,if specified for the In some aspects , if a global layer height that would
+height feature , may be determined . This determination may 20 produce a printed object meeting the specified tolerance for
+be achieved based on at least one of the determined global the total object height could not be determined as described
+layer height , the fraction of a global layer height in which the at operation 506 , then layer height adjustments in layer local height feature peaks , and the minimum z - axis height subsets may be applied to the global layer height to produce resolution supported by the target 3D printer 105 , a user a printed object that would be closest to meeting the speci selection , etc. 25 fied tolerance for the total object height .One approach to
+Next , at operation 612 , any of a number of approximation making global layer height adjustments to bring the total
+algorithms may be applied to adjust the determined number object height within specified tolerance limits is to divide the
+of layers from operation 610. For example , if the fraction of total object height error that would result from using the
+a local height feature peaks at half of the determined global determined global layer height ,by the minimum printer layer height of 0.25 millimeters , as indicated in Table 1 , then 30 height resolution . For example , if an object with a total
+using a linear square - wave approximation , reducing the object height tolerance of + 0 / -50 microns would be pro subset layer height by 10 % ( i.e. , 0.225 mm ) for five layers duced by using the determined global layer height with a
+will exactly equal the dimensional height of the local feature resulting error of +28 microns , and the 3D printer minimum
+at the top of the 5th layer . The 0.225 mm subset layer height height resolution is 10 microns , the total object height can be
+works well for 3D printers with a minimum height resolu- 35 printed with an error of -2 microns ( well within its specified tion of 1 micron ( 0.001 mm ) , but it may not be equally tolerance ) by reducing the height of one layer by 30 microns , divisible by the minimum height resolution of the other 3D or by reducing the layer height of 3 layers by 10 microns . printers ( e.g. , 0.010 mm ) . In such cases , the number of These layer height adjustments may be preferentially made
+subset layers , the subset layer heights , other types of adjust at layers near the top of the object to avoid complicating ment profiles ( non - linear ) , and the associated feature height 40 local height feature subset layer height adjustment calcula tolerance may be considered / adjusted algorithmically to tions , but may be made individually or together as layer determine the best layer height that will produce the local subsets and located anywhere in the model slice stack . feature peak within its associated tolerance . It should be appreciated that procedure 600 is only given An additional consideration for determining subset layer by way of example . It is contemplated herein that different
+height adjustment is the visual effect associated with 45 error values associated with multiple subsets of layers increasing differences in adjacent layer heights . In some ( including single layers ) may be used in selecting one or
+aspects , at operation 614 , the adjusted layer heights of the more different layer heights as needed , for example , to
+subset of layers may be modified based on a maximum accommodate all of the constraints of a 3D object in light of adjacent layer height change value . For example , a 10 % user preferences / height configuration parameters . In one
+change in layer height in adjacent layers may impact the 50 example , if procedure 600 is unsuccessful in selecting a
+visual quality for some models and be of no concern for single layer height for a subset of layers , for example , due
+others . Referring to the example depicted in Table 1 , layer to higher constraints placed on error ranges , the subset of
+6 is 20 % higher than layer 5 for the linear adjustment layers may be split into two different subsets , and layer scheme and 12 % higher than layer 5 for the sinusoidal wave heights for each subset may subsequently be tested , each
+approximation scheme . Both of these adjustment schemes 55 according to a separate performance of procedure 600. If
+could accommodate a 10 % adjacent layer height change independent solutions can be obtained , then the combination
+limit requirement by simply slicing layer 6 at the global of the two subsets , each with a different layer height , may layer height and shifting the layer heights shown for layers instead be used to meet the error requirements . If two
+6-10 to layers 7-11 . Accordingly , the maximum change in subsets do not satisfy the error requirements , a master subset
+adjacent layer height may be user - adjustable through a 60 may be divided into 3 or 4 subsets , and so on . In some cases , configuration setting . Some curve - fitting algorithms may be the amount of subset divisions that are allowed to occur may well suited to solving the problems of determining subset be constrained by another height configuration parameter , layer heights and numbers given the variety of potential such as a layer height variation limitation , for example determined global layer heights , local feature heights , implemented to yield a more uniform , in the z - dimension , printer resolutions , and finishing visual effect settings . 65 printed 3D object ( e.g. , to reduce different layering effects
+Next , at operation 616 , it may be determined whether the visible on the exterior and vertical or partially vertical faces resulting layer height adjustments to the subset of layers of the 3D object ) . 
+US 10,761,497 B2
+15 16
+An example of procedures 500 and 600 will be described tions ( e.g. , associated with a single user , tracked via login below . In one example , an object having a total object height information , a single 3D printer , or multiple users and / or 3D
+of 1.1 mm may be selected for 3D printing ( e.g. , operation printers ) and revisions to 3D printing projects . The user
+504 ) , with a user - specified normal mode layer height of 250 selections may be aggregated over time to modify the
+microns ( 0.25 mm ) ( e.g. , received from operation 502 ) . At 5 default settings that may be automatically entered by the
+operation 506 , the 3D printer driver application in comput slicer 165. In some instances , machine learning may be used
+ing device 110 may receive the 3D printer minimum reso at least in part to modify biases applied to the selection
+lution capability of 10 microns ( 0.01 mm ) and calculate that algorithm , such that certain error ranges may be acceptable the total object height of 1.1 mm ( 1100 microns ) is an even to a specific user or specific 3D printer , but not to other users
+multiple of the 3D printer minimum height resolution , by 10 or printers . In this scenario , the factors X and Y may be
+dividing the total object height of 1100 microns by the selected or modified according to tracked and aggregated printer resolution of 10 microns . This may result in an even user preferences / selections . 110 number of layers of height 0.01 mm ( 10 microns ) that In some cases , collected data that relate to user selections , would print the 1.1 mm object with zero total object height such as the “ Click to fit ” UI feature described above , may be
+error . Printing 110 layers , each at a 0.01 mm height , may 15 used as training data for machine learning processes . In one
+take a substantial amount of time to complete . However , example , every time a user selects a “ Fit this ” or other
+dividing the 1.1 mm total object height by the selected similar selection item associated with a Z - axis feature , the
+250 - micron layer height results in 4.4 layers not an even selection and data associated therewith may be added to a multiple of layers — so an adjustment to the selected global training set . A machine learning algorithm ( such as a generic layer height is warranted . 20 machine learning algorithm ) may be trained and validated
+Any adjustment to the global layer height that is an even on this data such that it recognizes the best feature in any multiple of the minimum printer resolution may be used to new object that the user prints . In this scenario , the 3D
+produce the object with a total height that has no errors . One modeling application or UI may automatically indicate or
+iterative technique for determining the global layer height suggest which z - axis features to preserve or associate with
+nearest to the selected layer height of 250 microns , is to 25 a higher or specific tolerance or accuracy , based on historic
+successively divide the total object height ( 1100 microns ) by user selection data / the training data , thus reducing the steps the selected layer height ( 250 microns ) plus or minus a required by a user to configure 3D modeling / printing of an
+multiple of the printer's minimum height resolution ( 10 object . microns ) until the result is a whole number of layers . For FIG . 7 depicts an example process 700 for segmenting an
+example , dividing 1100 by 240 microns yields 4.58333 30 object 305 , previously described in reference to FIG . 3 , into
+layers ; dividing by 230 microns yields 4.7826 layers ; divid layers by a slicer associated with a 3D printer according to
+ing by 220 microns yields exactly 5 layers . In this example , the operational procedures 400 , 500 , and / or 600 described in
+the technique determines that a global layer height of 220 reference to FIGS . 5 and / or 6 above . microns , equivalent to 88 % of the selected value , is closest Process 700 may begin with a global layer height being to the selected layer height and will result in a printed object 35 selected for printing 3D object 305a at 705 , based on the
+whose total height is as specified in the associated 3D model total object height 320 , and one or more height configuration with no error . Similarly , for a 3D model having a total object parameters , for example , according to operations 402 and
+height of 1.05 mm and tolerance of + 0 / –30 microns , with a 404 , operations 502-510 , and / or procedure 600. Layer fine mode ( 0.200 mm ) selected , following the same tech height 710 may be selected to equal a multiple of the total
+nique for adjusting layer heights , it can be determined that 40 object height 320 , and to conform to one or more height the model may be sliced using a global layer height adjusted configurator parameters ( e.g. , a minimum and / or maximum
+to 210 microns ( 5 % above that selected ) to reproduce the layer resolution or step size , a specified layer height , and
+objects total height in 5 layers with no error . tolerance values for certain z - dimensional features of 3D
+Techniques for determining global layer heights of 3D object 305 , such as stepped portions 720 , 725 , and 730 , and
+models having total object heights and tolerances to be 45 slopped portions 735 and 740 ) . Operation 705 may result in
+printed on printers of resolution capabilities that may not slicing the object 305d into a number of layers having a
+evenly divide into the total object height value , may section thickness 710. The sliced object 305d may then be printed at
+global layers into one or more layer subsets that may employ operation 715 to produce object 305e . Thickness or layer linear or curve fit adjustments in subset layer heights to height 710 may be selected to be a multiple of the total
+achieve the best object height accuracy . This technique is 50 object height 320 , and so may result in no total object height similar to that discussed in reference to Table 1 for adjusting error . Layer height 710 may also be selected to minimize any and compensating layer heights to accurately reproduce z - dimensional error , such as errors present in process 300 , local height features , except that layer height adjustments to such as errors 325a , 325c , and 325f .In addition , layer height accurately reproduce the total object height may not require 710 may result in reduced errors in sloped portions of the 3D
+the compensating layer height changes that local height 55 object 305 , such that errors 325g and 325h are less than feature techniques require . errors 325b and 325e associated with process 300 . In the example described above , positive user preference FIG . 8 illustrates an example process 800 for segmenting
+error , or error associated with one or more height configu an object into layers by a slicer associated with a 3D printer ration parameters may be favored over negative user pref according to the operational procedure of FIGS . 4 , 5 , and / or
+erence error . This may be accomplished by weighting total 60 6 . object height or printing error with a factor X and user Process 800 may begin with a global layer height being preference error with a factor Y , with a specific bias towards selected for printing 3D object 305 at 805 , based on the total
+positive user preference error , such as printing at a higher object height 320 , and one or more height configuration resolution than selected by the user . It should be appreciated parameters , for example , according to operations 402 and
+that other weighting or selecting schemes or algorithms are 65 404 , operations 502-514 , and / or procedure 600. Layer contemplated herein . For example , in one aspect , machine height 710 may be selected to equal a multiple of the total
+learning techniques may be employed to track user selec object height 320 , and to conform to one or more height 
+US 10,761,497 B2
+17 18
+configurator parameters ( e.g. , a minimum and / or maximum may be embodied . The computing system environment 1002
+layer resolution or step size , a specified layer height ,and is only one example of a suitable computing environment
+tolerance values for certain Z - dimensional features of 3D and is not intended to suggest any limitation as to the scope object 305 , such as stepped portions 720 , 725 , and 730 ) . In of use or functionality of the presently disclosed subject
+some cases , the errors associated with sloped portions 735 5 matter . Neither should the computing environment 1002 be and 740 present when using a single and global layer height interpreted as having any dependency or requirement relat
+710 , as illustrated in FIG . 7 as errors 325g and 325h , may not ing to any one or combination of components illustrated in
+be acceptable or within a specified error range . In this the example operating environment 1002. In some embodi
+circumstance , local layer height optimization may be used , ments the various depicted computing elements may include
+also indicated by 805 , to select a second layer height 810 10 circuitry configured to instantiate specific aspects of the
+( e.g. , half of layer height 710 in the illustrated example ) to present disclosure . For example , the term circuitry used in
+reduce the errors present in portions 735 and 740 , for the disclosure can include specialized hardware components example , according to operations 508 and 510. In this way , configured to perform function ( s ) by firmware or switches . when the sliced 3D object 305f is printed at 820 , errors 325i In other example embodiments , the term circuitry can and 325j associated with sloped portions 735 and 740 of 15 include a general purpose processing unit , memory , etc. , object 305g may be reduced . configured by software instructions that embody logic oper FIGS . 9A and 9B illustrate examples of specific z - axis able to perform function ( s ) . In example embodiments where
+features of a 3D object 900a and 900b that may be modeled circuitry includes a combination of hardware and software , and / or printed with greater accuracy using the described an implementer may write source code embodying logic and
+techniques . With reference to FIG . 9A illustrating a top view 20 the source code can be compiled into machine readable code of 3D object 900a , 3D object 300 is sliced into 4 layers , 910 , that can be processed by the general purpose processing unit . 915 , 920 , and 935 by planes 905. The top layer 935 includes Since one skilled in the art can appreciate that the state of the
+text having a certain height 940 , such as embossed text , art has evolved to a point where there is little difference
+which may be less than a global layer height 925 , of layers between hardware , software , or a combination of hardware / 910 and 915. In order to model and / or 3D print accurately 25 software , the selection of hardware versus software to effec
+the embossed text 935 , the height 930 of layer 920 may be tuate specific functions is a design choice left to an imple adjusted ( e.g. , in this case , reduced ) , according to the menter . More specifically , one of skill in the art can
+techniques described above , in order to enable a 3D printer appreciate that a software process can be transformed into an
+with a specific minimum height resolution to print accu equivalent hardware structure , and a hardware structure can
+rately embossed text 935 having a height 940. With tradi- 30 itself be transformed into an equivalent software process . tional techniques for slicing a 3D model , such as 3D model Thus , the selection of a hardware implementation versus a
+900a , features such as embossing features on the top ( illus software implementation is one of design choice and left to trated from the bottom perspective in FIG.9B ) of the object , the implementer . may be completely lost in a fixed layer height approach , Computer 1002 , which may include any of a mobile
+such as if the height 940 of the feature is less than half of a 35 device or smart phone , tablet , laptop , desktop computer , or
+global or fixed layer height 925. In one example , when the collection of networked devices , cloud computing resources , top or bottom layer has a fine feature , such as text emboss etc. , typically includes a variety of computer - readable
+ing , the described techniques may include adjusting the media . Computer - readable media can be any available
+layer height of the particular layer and / or one or more media that can be accessed by computer 1002 and includes
+proximate layers , such as layer 920 , to that maximize 40 both volatile and nonvolatile media , removable and non
+accuracy of the specific feature height . In some cases , the removable media . The system memory 1022 includes com
+height of other layers may be kept constant , thus preserving puter - readable storage media in the form of volatile and / or
+the perceptual uniformity on the sides of the object but also nonvolatile memory such as read only memory ( ROM ) 1023
+improving speed by not having to adjust each layer height and random access memory ( RAM ) 1060. A basic input / individually . This technique can be applied to intermediary 45 output system 1024 ( BIOS ) , containing the basic routines
+layers as well , by splitting one layer into two layers , or by that help to transfer information between elements within
+adjusting two layers equally . computer 1002 , such as during start - up , is typically stored in
+FIG . 9B illustrates another example bottom perspective ROM 1023. RAM 1060 typically contains data and / or
+view of 3D object 9006. 3D object 900b , as shown is sliced program modules that are immediately accessible to and / or
+into five layers , 975 , 945 , 950 , 955 , and 960 by planes 905 , 50 presently being operated on by processing unit 1059. By for example , to be printed in reverse . The bottom layer 975 way of example , and not limitation , FIG . 10 illustrates
+includes subtractive text having a certain height / depth 980 , operating system 1025 , application programs 1026 , other
+which may be less than a global layer height 965 , of layers program modules 1027 including a 3D layer height opti 945 , 950 , 955 , and 960. In order to model and / or 3D print mizer 1065 , and program data 1028 . accurately the subtractive embossed text 975 , the height 980 55 The computer 1002 may also include other removable / of layer containing text 975 may be adjusted ( e.g. , in this non - removable , volatile / nonvolatile computer storage
+case , reduced ) , according to the techniques described above , media . By way of example only , FIG . 10 illustrates a hard
+in order to enable a 3D printer with a specific minimum disk drive 1038 that reads from or writes to non - removable , height resolution to print accurately embossed text 975 nonvolatile magnetic media , a magnetic disk drive 1039 that
+having a height 980 . 60 reads from or writes to a removable , nonvolatile magnetic The 3D object layer height selection techniques described disk 1054 , and an optical disk drive 1004 that reads from or
+above , and / or the slicer / driver 165 and any associated user writes to a removable , nonvolatile optical disk 1053 such as
+interfaces may be implemented on one or more computing a CD ROM or other optical media . Other removable / non
+devices or environments , as described below . FIG . 10 removable , volatile / nonvolatile computer storage media that depicts an example general purpose computing environ- 65 can be used in the example operating environment include , ment , for example , that may include computing device 110 , but are not limited to , magnetic tape cassettes , flash memory in which in which some of the techniques described herein cards , digital versatile disks , digital video tape , solid state 
+US 10,761,497 B2
+19 20
+RAM , solid state ROM , and the like . The hard disk drive In some aspects , other programs 1027 may include a 3D 1038 is typically connected to the system bus 1021 through layer height optimizer application 1065 that includes the
+a non - removable memory interface such as interface 1034 , functionality as described above , such as in or associated
+and magnetic disk drive 1039 and optical disk drive 1004 are with a 3D printer slicer or driver 165. In some cases , the 3D typically connected to the system bus 1021 by a removable 5 layer height optimizer application 1065 / slicer 165 may
+memory interface , such as interface 1035 or 1036 . execute some or all operations of processes 400 , 500 , 600 , The drives and their associated computer storage media and / or 800 , and provide a user interface , as described above , discussed above and illustrated in FIG . 10 , provide storage through graphics interface 1031 , video interface 1032 , out
+of computer - readable instructions , data structures , program put peripheral interface 1033 , and / or one or more monitors
+modules and other data for the computer 1002. In FIG . 10 , 10 or touch screen devices 1042. In some aspects , the 3D layer for example , hard disk drive 1038 is illustrated as storing height optimizer application 1065 / slicer 16 may communi
+operating system 1058 , application programs 1057 , other cate with 3D printer 105 to produce a physical 3D object of
+program modules 1056 , and program data 1055. Note that the 3D image data , as described above . In some aspects , these components can either be the same as or different from other programs 1027 may include one or more 3D virtual
+operating system 1025 , application programs 1026 , other 15 ization applications that may obtain and provide images that
+program modules 1027 , and program data 1028. Operating may be displayed of sliced 3D models generated by 3D layer system 1058 , application programs 1057 , other program height optimizer application 1065 / slicer 165 . modules 1056 , and program data 1055 are given different Each of the processes , methods and algorithms described
+numbers here to illustrate that , at a minimum , they are in the preceding sections may be embodied in , and fully or
+different copies . A user may enter commands and informa- 20 partially automated by , code modules executed by one or
+tion into the computer 1002 through input devices such as a more computers or computer processors . The code modules
+keyboard 1051 and pointing device 1052 , commonly may be stored on any type of non - transitory computer referred to as a mouse , trackball or touch pad . Other input readable medium or computer storage device , such as hard
+devices ( not shown ) may include a microphone , joystick , drives , solid state memory , optical disc and / or the like . The
+game pad , satellite dish , scanner , retinal scanner , or the like . 25 processes and algorithms may be implemented partially or
+These and other input devices are often connected to the wholly in application - specific circuitry . The results of the
+processing unit 1059 through a user input interface 1036 that disclosed processes and process steps may be stored , per is coupled to the system bus 1021 , but may be connected by sistently or otherwise , in any type of non - transitory com
+other interface and bus structures , such as a parallel port , puter storage such as , e.g. , volatile or non - volatile storage . game port or a universal serial bus ( USB ) . A monitor 1042 30 The various features and processes described above may be
+or other type of display device is also connected to the used independently of one another , or may be combined in
+system bus 1021 via an interface , such as a video interface various ways . All possible combinations and subcombina
+1032. In addition the monitor , computers may also include tions are intended fall within the scope of this disclosure . other peripheral output devices such as speakers 1044 and In addition , certain methods or process blocks may be
+printer 1043 , such as a 3D printer 105 , which may be 35 omitted in some implementations . The methods and pro connected through an output peripheral interface 1033 . cesses described herein are also not limited to any particular The computer 1002 may operate in a networked environ sequence , and the blocks or states relating thereto can be
+ment using logical connections to one or more remote performed in other sequences that are appropriate . For
+computers , such as a remote computer 1046. The remote example , described blocks or states may be performed in an
+computer 1046 may be a personal computer , a server , a 40 order other than that specifically disclosed , or multiple router , a network PC , a peer device or other common blocks or states may be combined in a single block or state . network node , and typically includes many or all of the The example blocks or states may be performed in serial , in
+elements described above relative to the computer 1002 , parallel or in some other manner . Blocks or states may be
+although only a memory storage device 1047 has been added to or removed from the disclosed example embodi
+illustrated in FIG . 10. The logical connections depicted in 45 ments . The example systems and components described
+FIG . 10 include a local area network ( LAN ) 1045 and a wide herein may be configured differently than described . For
+area network ( WAN ) 1049 , but may also include other example , elements may be added to removed from or
+networks . Such networking environments are commonplace rearranged compared to the disclosed example embodi
+in offices , enterprise - wide computer networks , intranets , the ments . Internet , and cloud computing resources . It will also be appreciated that various items are illustrated
+When used in a LAN networking environment , the com as being stored in memory or on storage while being used , puter 1002 is connected to the LAN 1045 through a network and that these items or portions thereof may be transferred
+interface or adapter 1037. When used in a WAN networking between memory and other storage devices for purposes of
+environment , the computer 1002 typically includes a modem memory management and data integrity . Alternatively , in
+1005 or other means for establishing communications over 55 other embodiments some or all of the software modules the WAN 1049 , such as the Internet . The modem 1005 , and / or systems may execute in memory on another device
+which may be internal or external , may be connected to the and communicate with the illustrated computing systems via
+system bus 1021 via the user input interface 1036 , or other inter - computer communication . Furthermore , in
+appropriate mechanism . In a networked environment , pro embodiments , some or all of the systems and / or modules
+gram modules depicted relative to the computer 1002 , or 60 may be implemented or provided in other ways , such as at
+portions thereof ,may be stored in the remote memory least partially in firmware and / or hardware , including , but
+storage device . By way of example , and not limitation , FIG . not limited to , one or more application - specific integrated 10 illustrates remote application programs 1048 as residing circuits ( ASICs ) , standard integrated circuits , controllers
+on memory device 1047. It will be appreciated that the ( e.g. , by executing appropriate instructions , and including network connections shown are example and other means of 65 microcontrollers and / or embedded controllers ) , field - pro establishing a communications link between the computers grammable gate arrays ( FPGAs ) , complex programmable
+may be used . logic devices ( CPLDs ) , etc. Some or all of the modules ,
+50
+some 
+US 10,761,497 B2
+21 22
+systems and data structures may also be stored ( e.g. , as selecting a global slice layer height based on the height software instructions or structured data ) on a computer configuration parameter accuracy error ,wherein each
+readable medium , such as a hard disk , a memory , a network of the plurality of layers has a global slice layer height ;
+or a portable media article to be read by an appropriate drive adjust a layer height of at least one of the plurality of
+or via an appropriate connection . For purposes of this 5 layers based on the feature and a total object height of
+specification and the claims , the phrase " computer - readable the 3D model , wherein the adjusted layer height is
+storage medium ” and variations thereof , does not include different from the global slice layer height , and wherein
+waves , signals , and / or other transitory and / or intangible the adjusted layer height is selected to optimize an
+communication media . The systems , modules and data accuracy of the total object height of the 3D model ; and
+structures may also be transmitted as generated data signals 10 generate , based on the global slice layer height and the
+( e.g. , as part of a carrier wave or other analog or digital adjusted layer height , tool - path instructions for use by propagated signal ) on a variety of computer - readable trans a device to produce the 3D object . mission media , including wireless - based and wired / cable 2. The system of claim 1 , wherein the instructions , when
+based media , and may take a variety of forms ( e.g. , as part executed by the processor , further cause the system to :
+of a single or multiplexed analog signal , or as multiple 15 determine an object height accuracy error for the 3D
+discrete digital packets or frames ) . Such computer program object ; and
+products may also take other forms in other embodiments . select the global slice layer height based on the object Accordingly , the present disclosure may be practiced with height accuracy error . other computer system configurations . 3. The system of claim 2 , wherein a first received height Conditional language used herein , such as , among others , 20 configuration parameter comprises a tolerance correspond " can , ” “ could , ” “ might , ” “ may , ” “ e.g. " and the like , unless ing to a subset of the plurality of layers . specifically stated otherwise , or otherwise understood within 4. The system of claim 3 , wherein a second received
+the context as used , is generally intended to convey that height configuration parameter is the total object height , certain embodiments include , while other embodiments do wherein the instructions further cause the system to :
+not include , certain features , elements , and / or steps . Thus , 25 select a slice layer height for the subset of the plurality of
+such conditional language is not generally intended to imply layers based on the first received height configuration that features , elements and / or steps are in any way required parameter and the total object height , wherein the slice
+for one or more embodiments or that one or more embodi layer height is selected to optimize accuracy the plu ments necessarily include logic for deciding , with or without rality of height configuration parameters and the total
+author input or prompting , whether these features , elements 30 object height . and / or steps are included or are to be performed in any 5. A method for generating tool - path instructions to pro particular embodiment . The terms " comprising , ” “ includ duce a 3 dimensional ( 3D ) object ,the method comprising :
+ing , ” “ having ” and the like are synonymous and are used accessing a 3D model of the 3D object be produced , inclusively , in an open - ended fashion , and do not exclude wherein the 3D model comprises at least one feature
+additional elements , features , acts , operations and so forth . 35 and a plurality of layers ; Also , the term “ or ” is used in its inclusive sense ( and not in determining a height configuration parameter accuracy its exclusive sense ) so that when used , for example , to error ;
+connect a list of elements , the term “ or ” means one , some or selecting a global slice layer height based on the height all of the elements in the list . configuration parameter accuracy error , wherein each
+While certain example embodiments have been described , 40 of the plurality of layers has a global slice layer height ; these embodiments have been presented by way of example adjusting a layer height of at least one of the plurality of
+only and are not intended to limit the scope of the inventions layers based on the feature and a total object height of
+disclosed herein . Thus , nothing in the foregoing description the 3D model , wherein the adjusted layer height is
+is intended to imply that any particular feature , character different from the global slice layer height , and wherein
+istic , step , module or block is necessary or indispensable . 45 the adjusted layer height is selected to optimize an
+Indeed , the novel methods and systems described herein accuracy of the total object height of the 3D model ; and
+may be embodied in a variety of other forms ; furthermore , generating , based on the global slice layer height and the
+various omissions , substitutions and changes in the form of adjusted layer height , tool - path instructions for use by the methods and systems described herein may be made a device to produce the 3D object . without departing from the spirit of the inventions disclosed 50 6. The method of claim 5 , further comprising receiving at
+herein . The accompanying claims and their equivalents are least one height configuration parameter comprising the
+intended to cover such forms or modifications as would fall global slice layer height for the plurality of layers . within the scope and spirit of certain of the inventions 7. The method of claim 6 , wherein the global slice layer disclosed herein . height is based on a total height of the object . 8. The method of claim 6 , wherein the at least one height What is claimed is : configuration parameter comprises a tolerance for a subset
+1. A system for generating tool - path instructions to pro of the plurality of layers . duce a three - dimensional ( 3D ) object with high dimensional 9. The method of claim 8 , further comprising :
+accuracy , the system comprising : identifying one or more layers of the plurality of layers
+a processor ; and associated with the tolerance ; and
+a memory comprising instructions that , when executed by selecting at least one of a number of layers of the plurality the processor , cause the system to : of layers to correspond to a second height based on the
+access a 3D model of the 3D object to be produced , tolerance .
+wherein the 3D model comprises at least one feature 10. The method of claim 9 , wherein identifying the one or
+and a plurality of layers ; 65 more layers comprises receiving a selection of at least one
+determining a height configuration parameter accuracy first tolerance and at least one formable layer corresponding
+error ; to the at least one first tolerance .
+55
+60 
+10
+15
+US 10,761,497 B2
+23 24
+11. The method of claim 6 , wherein the at least one height accessing a 3D model of the 3D object to be produced , configuration parameter comprises a tolerance for a subset wherein the 3D model comprises at least one feature
+of the plurality of layers , and wherein the method further and a plurality of layers ; comprises : determining a height configuration parameter accuracy
+adjusting a second layer height of at least one of the 5 error ; selecting a global slice layer height based on the height plurality of layers based on the tolerance . configuration parameter accuracy error , wherein each 12. The method of claim 6 , wherein the at least one height of the plurality of layers has a global slice layer height ; configuration parameter comprises an object height resolu adjusting a layer height of at least one of the plurality of tion , further comprising : layers based on the feature and a total object height of selecting the global slice layer height to meet or exceed the 3D model , wherein the adjusted layer height is
+the object height resolution . different from the global slice layer height , and wherein
+13. The method of claim 5 , further comprising : the adjusted layer height is selected to optimize an
+determining an object height accuracy error for the 3D accuracy of the total object height of the 3D model ; and
+object ; and generating , based on the global slice layer height and the
+selecting the global slice layer height based on a adjusted layer height , tool - path instructions for use by
+a device to produce the 3D object . comparison of the object height accuracy error and 18. The computer readable storage device of claim 17 , the height configuration parameter accuracy error . wherein operations further comprise receiving at least one 14. The method of claim 13 , wherein selecting the global height configuration parameter comprising a 3D printer slice layer height further comprises : 20 resolution selection or the global slice layer height . weighting the height configuration parameter accuracy 19. The computer readable storage device of claim 17 , error relative to the object height accuracy error .wherein a layer comprising the global slice layer height is a
+15. The method of claim 13 , wherein selecting the global first thickness and a layer comprising the adjusted layer slice layer height is biased towards a positive height con height is a second thickness that is different than the first
+figuration parameter accuracy error . 25 thickness .
+16. The method of claim 5 , further comprising selecting 20. The computer readable storage device of claim 19 , a bottom formable layer height separately from global slice wherein the operations further comprise selecting a height
+layer height to ensure bottom layer adhesion . corresponding to at least the subset of the plurality of layers
+17. A computer readable storage device having stored based on the received at least one height configuration
+thereon instructions that , upon execution by at least one 30 parameter and the total object height , wherein the height is
+processor , cause the at least one processor to perform selected to optimize accuracy of the at least one height
+operations for generating tool - path instructions to produce a configuration parameter and the total object height .three dimensional ( 3D ) object , the operations comprising : * * 

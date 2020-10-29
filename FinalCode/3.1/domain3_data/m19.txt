@@ -1,0 +1,1073 @@
+Discriminative T cell recognition of cross-reactive
+islet-antigens is associated with HLA-DQ8
+transdimer–mediated autoimmune diabetes
+I-Ting Chow1
+, Theresa J. Gates1
+, George K. Papadopoulos2
+*, Antonis K. Moustakas3
+,
+Elizabeth M. Kolawole4
+, Richard J. Notturno1
+, John W. McGinty1
+, Nadia Torres-Chinn1
+,
+Eddie A. James1
+, Carla Greenbaum1
+, Gerald T. Nepom1,5, Brian D. Evavold4
+, William W. Kwok1,6†
+Human leukocyte antigen (HLA)–DQ8 transdimer (HLA-DQA1*0501/DQB1*0302) confers exceptionally high risk
+in autoimmune diabetes. However, little is known about HLA-DQ8 transdimer–restricted CD4 T cell recognition,
+an event crucial for triggering HLA-DQ8 transdimer–specific anti-islet immunity. Here, we report a high degree
+of epitope overlap and T cell promiscuity between susceptible HLA-DQ8 and HLA-DQ8 transdimer. Despite preservation of putative residues for T cell receptor (TCR) contact, stronger disease-associated responses to crossreactive, immunodominant islet epitopes are elicited by HLA-DQ8 transdimer. Mutagenesis at the chain of
+HLA-DQ8 transdimer in complex with the disease-relevant GAD65250–266 peptide and in silico analysis reveal
+the DQ 52 residue located within the N-terminal edge of the peptide-binding cleft for the enhanced T cell reactivity, altering avidity and biophysical affinity between TCR and HLA-peptide complexes. Accordingly, a structurally promiscuous but nondegenerate TCR-HLA-peptide interface is pivotal for HLA-DQ8 transdimer–mediated
+autoimmune diabetes.
+INTRODUCTION
+Major histocompatibility complex (MHC) genes, also known as human
+leukocyte antigen (HLA) genes in humans, are the prominent susceptibility factor for many autoimmune diseases, including multiple
+sclerosis (MS), autoimmune diabetes (type 1 diabetes or T1D), and
+rheumatoid arthritis (RA). Several hypotheses for MHC-linked susceptibility in autoimmune diseases have been proposed, including
+preferential accommodation of self-peptides or altered self-peptides
+derived from the target organ of each disease by MHC molecules,
+promotion of autoimmunity through molecular mimicry between
+self- and microbial antigens, and unstable trimolecular interactions
+among the T cell receptor (TCR)–peptide-MHC (pMHC) complexes
+that facilitate the escape of self-reactive T cells from negative selection
+[recent reviews in (1, 2)]. However, because of limited knowledge of
+T cell epitopes and scarcity of self-reactive T cells, the molecular and
+structural association between susceptible alleles and T cell autoreactivity is not clearly understood.
+T1D is a chronic disease that causes severe loss of insulinproducing cells in the pancreatic islets of Langerhans. T1D is predominantly linked to genetically predisposed individuals carrying
+HLA-DQ8 (encoded by HLA-DQA1*0301-DQB1*0302 and hereafter referred to as DQ8cis) or HLA-DQ2 (encoded by HLADQA1*0501-DQB1*0201 and hereafter referred to as DQ2cis)
+haplotypes (3, 4). HLA-DQ8/DQ2 heterozygous individuals confer
+a synergistically higher risk for disease (5–7). Epidemiological studies
+link this high risk to the naturally occurring trans-complementary
+molecule HLA-DQ8 transdimer (hereafter referred to as DQ8trans),
+consisting of the DQ2cis chain (DQA1*0501) and the DQ8cis chain
+(DQB1*0302) (5–7). The other trans-complementary molecule HLA-DQ2
+transdimer, consisting of the DQ8cis chain (DQA1*0301) and
+the DQ2cis chain (DQB1*0201), also confers T1D risk but to a
+lesser extent (7).
+Despite conferring exceptionally high risk in T1D, little is known
+about the DQ8trans-restricted epitope repertoire and T cell recognition. DQ8cis and DQ8trans molecules have an identical  chain
+(DQB1*0302). Protein sequence alignment by BLAST (Basic Local
+Alignment Search Tool) reveals a high similarity between the chain
+of DQ8cis (DQA1*0301) and the chain of DQ8trans (DQA1*0501),
+but with distinct residues, namely, 23, 31, 37, 44, 47, 48, 50,
+52, 72, and 73, that are proximal to or within the peptide-binding
+cleft (8, 9). A special feature of the DQ susceptibility alleles in T1D
+is the absence of an aspartic acid residue at position 57 of the  chain
+(4), which leads to a highly skewed peptide repertoire favoring a
+negative charge at the p9 anchor in DQ8cis (10, 11). Although the
+differences in   chain may lead to distinct peptide-binding specificities
+between DQ8cis and DQ8trans (12), cross-recognition of both DQ8cis
+and DQ8trans by CD4+
+ T cell clones specific for some self-epitopes
+has been reported (13–16), suggesting convergence of TCR footprints
+onto both alleles (9) due to “missing the differences” form of molecular
+mimicry. In light of this, elucidating the molecular basis of T cell
+recognition of DQ8cis/trans molecules may advance the understanding
+of DQ8trans-specific immunity and the mechanism by which DQ8trans
+increases the risk for T1D.
+In this study, we investigate the structural and functional attributes
+of DQ8cis/trans that are critical to T1D progression by an integrated
+in vitro, direct ex vivo, biophysical, and in silico analysis of specific
+1
+Benaroya Research Institute at Virginia Mason, 1201 9th Ave., Seattle, WA 98101,
+USA. 2
+Laboratory of Biophysics, Biochemistry, Bioprocessing and Bioproducts, Faculty
+of Agricultural Technology, Technological Educational Institute of Epirus, GR47100
+Arta, Greece. 3
+Department of Food Technology, Ionian University, GR28100 Argostoli,
+Cephallonia, Greece. 4
+Department of Pathology, University of Utah School of Medicine, Salt
+Lake City, UT 84132, USA. 5
+Department of Immunology, University of Washington,
+Seattle, WA 98195, USA. 6
+Department of Medicine, University of Washington, Seattle,
+WA 98195, USA.
+*Laboratory address given for identification purposes only. G.K.P. has retired as of
+31 August 2018. Since 1 October 2018, the Technological Educational Institute of
+Epirus has been absorbed by the University of Ioannina with the respective department’s
+name changed to Department of Agriculture.
+†Corresponding author. Email: bkwok@benaroyaresearch.org
+Copyright © 2019
+The Authors, some
+rights reserved;
+exclusive licensee
+American Association
+for the Advancement
+of Science. No claim to
+original U.S.Government
+Works. Distributed
+under a Creative
+Commons Attribution
+NonCommercial
+License 4.0 (CC BY-NC).
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+2 of 14
+CD4+
+ T cells using DQ8cis, DQ2cis, and DQ8trans tetramer reagents.
+We find a high degree of T cell promiscuity between DQ8cis and
+DQ8trans for self- and nonself-antigens. T cells specific for crossreactive, disease-relevant islet epitopes show an enhanced responsiveness toward DQ8trans-peptide (pDQ8trans) complexes compared
+to DQ8cis-peptide (pDQ8cis) complexes, as a result of increased
+TCR-pDQ8trans affinity. Modified TCR recognition toward immunodominant and disease-relevant epitopes is associated with DQ  
+chain residues at the N-terminal end of peptide-binding cleft that
+potentially involves reorientation of the epitopes under the context
+of different DQ   chains. Thus, preferential TCR cross-recognition
+of pDQ8trans complexes through specific DQ   chain residues provides a molecular explanation for the extremely high risk of developing T1D that is conferred by DQ8trans.
+RESULTS
+A high degree of epitope sharing and T cell promiscuity is
+observed between T1D-susceptible DQ8cis and
+DQ8trans alleles
+We assessed the structural and functional properties of DQ8/DQ2
+cis and trans molecules by examination of T cells specific for common
+Influenza A epitopes, as well as multiple T1D-associated islet antigen
+epitopes. Tetramer-guided epitope mapping (17) was applied to
+identify influenza-specific epitopes. Briefly, total CD4+
+ T cells from
+multiple DQ8+
+DQ2+
+ participants were stimulated using pooled peptides spanning Influenza A/New Caledonia/20/1999 Hemagglutinin
+(H1HA or HA) and Influenza A/New York/318/2003 Nucleoprotein
+(H1NP or NP). After culturing for 14 days, antigenic epitopes were
+identified with DQ8cis, DQ2cis, and DQ8trans tetramers. A representative DQ8trans tetramer staining for pooled and individual epitope
+mapping of H1HA is shown in fig. S1. We observed extensive epitope
+sharing between DQ8cis and DQ8trans for Influenza A antigens
+(Fig. 1A and Table 1). Most identified epitopes were stained by both
+tetramers (Table 1, group I). Peptides HA102–118/HA108–124, HA274–290/
+HA280–296, HA398–414/HA404–420, NP288–304/NP294–310, and NP480–496/
+NP486–498 were single overlapping epitopes as specific T cells were
+stained by tetramers with either peptide. In vitro expanded primary
+T cells specific for HA186–202, HA340–356, HA422–438, HA440–456, HA452–468,
+NP175–191, and NP240–256, by contrast, were visualized by either DQ8cis
+or DQ8trans tetramer only (Table 1, group II, group III, unique
+epitopes for DQ8cis, and inconclusive). To confirm restriction of
+each cis- or transdimer, human embryonic kidney (HEK) 293 cells,
+which are commonly used for antigen presentation studies (18, 19),
+Common Influenza A antigens
+Fig. 1. A high degree of epitope sharing and T cell promiscuity is observed between DQ8cis and DQ8trans for influenza and islet antigens. (A) A high degree of
+epitope overlap (highlighted in red) was observed between DQ8cis- and DQ8trans-restricted influenza-specific T cells. In contrast, only one DQ2cis-restricted epitope
+(HA102–118/HA108–124) was accommodated by DQ8cis/trans. Numbers indicate epitopes shared between DQ8cis, DQ2cis, and DQ8trans or exclusively presented by DQ8cis,
+DQ2cis, or DQ8trans. Each overlapping epitope (HA102–118/HA108–124, HA274–290/HA280–296, HA398–414/HA404–420, NP288–304/NP294–310, or NP480–496/NP486–498) was viewed as
+one epitope. (B and C) Cross-recognition of islet-specific clones was confirmed by T cell reactivity in the presence of 500 nM peptides. Black and white bars represent T cell
+reactivity stimulated by DQ8cis- and DQ8trans-transfected HEK293 cells, respectively. Error bars represent SDs among three experiments. SI, stimulation index.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+3 of 14
+were transfected with DQcis or DQtrans expression constructs.
+DQ8cis-, DQ2cis-, DQ8trans-, and DQ2trans-transfected HEK293
+cells had comparable surface DQ expression, as determined by the
+mean fluorescence intensity of anti-DQ (SPVL3) antibody staining
+(fig. S1C). Responses of T cell clones specific for HA186–202, HA440–456,
+NP175–191, and NP240–256 indicated that these cells could be activated
+by either DQ8cis or DQ8trans in T cell proliferation assay. On the
+other hand, multiple DQ8cis-restricted HA452–468-specific clones
+from two individuals failed to respond to pDQ8trans in T cell proliferation assay, confirming HA452–468 as a unique DQ8cis epitope.
+We were unable to isolate DQ8cis-restricted HA340–356- and
+HA422–438-specific lines or clones to attribute the recognition of these
+specificities to pDQ8trans. In contrast, only one DQ2cis-restricted
+HA peptide (HA102–118/HA108–124) was accommodated by DQ8cis/
+trans (Fig. 1A and table S1).
+The identification of overlapping Influenza A epitope repertoires
+between DQ8cis and DQ8trans prompted us to investigate whether
+cross-recognition of peptides presented by both restriction elements
+also occurs in islet antigens. We screened a total of 130 possible
+DQ8cis/trans-binding peptides from important islet antigens, specifically from chromogranin A, cyproheptadine, islet autoantigen
+69 (ICA69), islet-specific glucose-6-phosphatase catalytic subunit–
+related protein (IGRP), -aminobutyric acid (GABA) receptor–
+associated protein, glutamic acid decarboxylase 65 (GAD65),
+phogrin, preproinsulin, tyrosine phosphatase–related islet antigen–2
+(IA-2), secretory granule proteins, synaptic adhesion molecules, and
+Table 1. List of unique and shared epitopes derived from common Influenza A and islet antigens for DQ8cis and DQ8trans. Ins, insulin; ICA69, islet cell
+antigen 69.
+Influenza A/New Caledonia/20/1999
+Hemagglutinin
+Influenza A/New York/318/2003
+Nucleoprotein
+Peptide Sequence Peptide Sequence
+Shared and cross-reactive
+between
+DQ8cis and DQ8trans
+Group I*
+HA102–118 PENGTCYPGYFADYEEL NP61–77 LTIERMVLSAFDERRNK
+HA108–124 YPGYFADYEELREQLSS NP288–304 GYDFEKEGYSLVGVDPF
+HA114–130 DYEELREQLSSVSSFER NP294–310 EGYSLVGVDPFKLLQTS
+HA120–136 EQLSSVSSFERFEIFPK NP306–322 LLQTSQVYSLIRPNENP
+HA238–254 DQEGRINYYWTLLEPGD NP468–484 DERATNPIVPSFDMSNE
+HA274–290 SRGFGSGIITSNAPMDE NP480–496 DMSNEGSYFFGDNAEEY
+HA280–296 GIITSNAPMDECDAKCQ NP486–498 SYFFGDNAEEYDN
+HA398–414 VIEKMNTQFTAVGKEFN
+HA404–420 TQFTAVGKEFNKLERRM
+HA434–450 IWTYNAELLVLLENERT
+Group II† HA440–456 ELLVLLENERTLDFHDS NP240–256 DQVRESRNPGNAEIEDL
+Group III‡ HA186–202 EKEVLVLWGVHHPPNIG NP175–191 RSGAAGAAVKGVGTMVL
+Unique epitopes for DQ8cis HA452–468 DFHDSNVKNLYEKVKSQ
+Inconclusive
+HA340–356 IQSRGLFGAIAGFIEGG
+HA422–438 NLNKKVDDGFLDIWTYN
+Islet antigens
+Peptide Sequence
+Shared and cross-reactive
+between
+DQ8cis and DQ8trans
+GAD65121–140§ YVVKSFDRSTKVIDFHYPNE
+GAD65250–266§ AMMIARFKMFPEVKEKG
+InsB11–24§ LVEALYLVCGERGF
+IA-2168–182 GASSSLSPLQAELLP
+IA-2273–287 FQDSGLLYLAQELPA
+IA-2761–777 RSDYINASPIIEHDPRM
+IA-2957–972 DQFEFALTAVAEEVNA
+ICA69297–311 QEPSQLISLEEENQR
+IGRP306–320 LYHFLQIPTHEEHLF
+Phogrin323–337 GLSGLELDGMAELMA
+ZnT815–29 AKMYAFTLESVELQQ
+*In vitro responses detected by both DQ8cis and DQ8trans tetramers. †In vitro responses detected only by DQ8cis tetramers. ‡In vitro responses
+detected only by DQ8trans tetramers. §Epitopes reported in our previous studies.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+4 of 14
+zinc transporter 8 (ZnT8) (for peptide selection, see Materials and
+Methods). The list included several peptides exclusively presented
+by DQ8trans (12). We identified eight previously unknown peptides
+(Table 1) that elicited in vitro responses from peripheral blood
+mononuclear cells (PBMCs) of T1D participants. No T cell responses
+to peptides exclusively presented by DQ8trans (12) were detected.
+Cross-reactivity to these eight epitopes together with InsB11–24,
+GAD65121–140, and GAD65250–266, which were published in our previous studies (20, 21), was examined by tetramer staining and functional responses of T cell clones. To avoid any bias in TCR selection
+due to the presence of DQ8trans, we set up stimulation in DQ8+
+DQ2−
+participants and isolated clones using DQ8cis tetramers. GAD65250–266-,
+InsB11–24-, IA-2761–777–, IA-2957–972–, IGRP306–320-, and ZnT815–29-
+specific clones from several participants were stained by both DQ8cis
+and DQ8trans tetramers (fig. S2A). Cross-recognition of these six
+epitopes was confirmed by T cell reactivity (Fig. 1, B and C). Clones
+specific for GAD65121–140, IA-2168–182, IA-2273–287, ICA69297–311, and
+Phogrin323–337 were not effectively stained by DQ8trans tetramers
+(fig. S2B) but proliferated in response to pDQ8trans (Fig. 1B).
+Together, 16 of 19 (84%) influenza epitopes and 11 of 11 islet epitopes
+(100%) were cross-recognized.
+Cross-recognition ofislet-specific T cells occurs in ex vivo
+unmanipulated, polyclonal populations
+As the aforementioned cross-reactivity was observed by using T cell
+clones/lines, we scrutinized the cross-recognition of polyclonal and
+unmanipulated islet-specific T cells by direct ex vivo analysis in
+DQ8+
+DQ2−
+ participants. GAD65250–266- and IA-2957–972–specific cells
+were investigated as these two epitopes elicited in vitro responses in
+more than half of T1D participants screened. T cell cross-recognition
+to polyclonal DQ8cis/GAD65250–266-specific and DQ8trans/
+GAD65250–266-specific cells was validated by double staining of
+ex vivo enriched cells with DQ8cis and DQ8trans tetramers [Fig. 2A;
+the specificity of ex vivo staining for DQ8/GAD65250–266 has been
+demonstrated in our previous study (20)]. In contrast, IA-2957–972–
+specific T cells could only be effectively visualized by DQ8trans
+tetramers; however, functional cross-reactivity and specificity of the
+staining was revealed when ex vivo sorted DQ8trans/IA-2957–972–
+specific clones from DQ8 (DQA1*0301-DQB1*0302) homozygous
+patients were stimulated with the specific peptide presented by DQ8cis
+or DQ8trans (Fig. 2B). A representative ex vivo staining from one
+T1D and one healthy participant is shown in fig. S2. Results of
+ex vivo staining experiments are summarized in table S2. Higher
+frequencies of GAD65250–266- and IA-2957–972–specific cells were observed in both DQ8+
+ patients (Fig. 2, C and D).
+Overall, our in vitro and ex vivo data suggested that GAD65250–266-
+and IA-2957–972–specific T cells are immunodominant and disease
+relevant in human T1D, and T cell promiscuity in the context of
+DQ8cis/trans for these two epitopes was present in unmanipulated,
+polyclonal T cell populations.
+DQ8cis- andDQ8trans-restricted epitopes elicit T cell
+responses by conserved putative TCR contact residues
+We next investigated whether DQ8cis/trans cross-reactivity to
+InsB11–24 (the primary autoantigen in the nonobese diabetic
+mouse model and relevant in human T1D (21, 22)), GAD65250–266,
+and IA-2957–972 epitopes was mediated by the same TCR recognition
+sites using single-site alanine scanning mutagenesis. Several clones
+from different participants were investigated, and a representative
+result was shown in fig. S3B. Previous and current data demonstrated
+that the minimal T cell epitopes for GAD65250–266, InsB11–24, and
+IA-2957–972 are GAD65253–261 (23), InsB14–22 (21), and IA-2961–969
+(fig. S3A), respectively. TCRs interacted with GAD65250–263, InsB11–24,
+and IA-2957–972 across the entire peptide region, as mutations at both
+middle and end residues abolished the recognition of T cell clones.
+T cell reactivity profiles for these epitopes were similar between
+DQ8cis and DQ8trans as substitutions at given positions of the
+epitope of the DQ8cis/trans complexes have very similar to identical
+effects on the cognate T cell clones. These data indicate that both
+molecules elicit T cell responses via the same TCR recognition motif
+(fig. S3B). Studies by Eerligh et al. (24) suggest that the DQ8 cis- and
+transdimers present InsB6–22 in a different binding register. This
+discrepancy is likely accounted for by a single amino acid shift in the
+antigenic motif recognized by our insulin clones [14ALYLVCGER22
+(21), the predominant form recognized in DQ8+
+ individuals (25)]
+versus those of Eerligh et al. (13EALYLVCGE21).
+Islet autoimmunity is promoted by DQ8trans
+The functional implication of T cell cross-reactivity to immunodominant InsB11–24, GAD65250–266, and IA-2957–972 epitopes was explored using islet-specific clones isolated with DQ8cis tetramers from
+in vitro expanded cultures of memory CD4+
+ T cells in multiple DQ8+
+T1D participants. All six GAD65250–266 clones proliferated with pDQ8cis
+and pDQ8trans, but pDQ8trans elicited greater responses across all
+but one of the clones (Fig. 3A). Similarly, all IA-2957–972–specific clones
+proliferated more strongly in response to DQ8trans when stimulated
+with specific peptide (Fig. 3B). pDQ8trans also induced greater cytokine production from cross-reactive T cell clones that recognized
+pDQ8trans better, including significantly more interferon- (IFN-)
+secretion from pDQ8trans-induced GAD65250–266-specific clones
+[Fig. 3C and table S3, P < 0.05 by paired t tests, compared to 0.2574
+for interleukin-4 (IL-4) and 0.1862 for interleukin-10 (IL-10)]. Similar
+IFN-, IL-4, and IL-10 secretion results as to GAD65250–266-specific
+clones were seen for IA-2957–972–specific clones (Fig. 3C and table S3).
+Although InsB11–24-specific clones did not proliferate strongly in
+response to peptide stimulation, higher levels of IFN- secretion were
+induced (from three different InsB11–24 clones) by pDQ8trans, compared to the levels of IFN- induced by pDQ8cis (Fig. 3C). A summary
+of the T cell clones, their proliferative capacity, and cytokine secretion
+is summarized in table S3. Thus, islet-specific cross-reactive T cells
+respond more strongly to DQ8trans-presented peptides than DQ8cispresented peptides and produce higher amounts of proinflammatory
+cytokines associated with T1D pathogenesis in the former compared
+to the latter case, regardless of the DQ status (DQ8+
+DQ2−
+ or
+DQ8+
+DQ2+
+) of the host.
+Enhanced T cell recognition ofDQ8trans/GAD65250–266 is
+correlated with biophysical interactions and
+functional avidity
+A direct correlation exists between two-dimensional (2D) affinity
+and T cell functional responses (26, 27). We next investigated the
+2D affinity and cross-recognition of pDQ8cis and pDQ8trans to
+GAD65250–266-specific CD4 T cells using purified covalent DQ8cis- or
+DQ8trans-GAD65250–266 protein complexes. We found that clones
+03-C1, 05-C1, and 07-C1 all had significantly higher affinity (>2-fold)
+for the pDQ8trans molecule (Fig. 4A), which would be in agreement
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+Fig. 2. Direct ex vivo cross-recognition analysis of disease-relevant islet-specific T cells. (A) Double staining by DQ8cis and DQ8trans tetramers was observed for
+ex vivo polyclonal GAD65250–266-specific cells in DQ8+
+DQ2−
+ participants. DQ8trans/HA102–188 tetramer was used as a control. The double staining shown here was performed in DQ8 (DQA1*0301-DQB1*0302) homozygous individuals. (B) Ex vivo sorted DQ8trans/IA-2957–972–specific clones cross-recognized DQ8cis and DQ8trans. (C and
+D) Comparison of total (left) and memory (right) CD4+
+ T cell frequencies for GAD65250–266-specific (C) and for IA-2957–972–specific (D) T cells among DQ8+
+ patients (open circles), and DQ8+
+ healthy controls (gray circles). The y axis in (C) and (D) indicates T cell frequencies. Statistical significance was
+evaluated by one-way analysis of variance (ANOVA) followed by Bonferroni’s test. *P < 0.05, **P < 0.01, ***P < 0.001; ns, not significant (P > 0.05). Tmr, tetramer.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+6 of 14
+with the observed increases in the stimulation index (SI) (Fig. 3A). In
+contrast, the 09-C1 clone had higher affinity for and was more responsive to pDQ8cis (Figs. 4A and 3A, respectively). We also evaluated the 2D
+affinity of influenza matrix protein–specific clone and its 2D affinity
+also correlated with T cell function. Dose-response curves of T cells
+have been used to generate functional avidity comparisons between
+T cells. The functional avidity of GAD65250–266-specific T cell clones
+was also correlated with pMHC potency as the dose-response curves
+suggested that higher pDQ8cis concentrations were required to
+reach a similar response to that of pDQ8trans (Fig. 4B). On the other
+hand, no apparent variation in functional avidity between DQ8cis
+and DQ8trans for GAD65250–266-specific T cell clone 09-C1, which
+exhibited stronger responses and biophysical interactions for DQ8cis,
+was observed (Fig. 4B). The lack of difference might be associated
+Fig. 3. pDQ8trans most often elicit stronger disease-associated responses from cross-reactive islet-specific T cell clones. (A) All but one GAD65250–266-specific
+clones were activated more vigorously by DQ8trans in the presence of 50 and 500 nM peptides. (B) DQ8trans induced stronger responses from IA-2957–972–specific clones
+in the presence of 50 and 500 nM peptides. (C) Secretion of IFN- was significantly higher from cross-reactive T cell clones when stimulated with pDQ8trans. Peptide
+concentrations used in (C) were as follows: 5 nM (GAD65250–266), 50 nM (IA-2957–972), 2.5 M (InsB11–24), which were the minimal concentrations that cytokine secretion
+could be detected for specific clones. Error bars in (A) and (B) represent SDs among three experiments. Comparison of T cell responses to DQ8cis and DQ8trans was evaluated
+by paired t tests. Statistical analysis in (A) and (B) was not performed as SIs for some clones were ≤3.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+7 of 14
+Clone EC50 (95% CI) for
+DQ8cis, nM
+EC50 (95% CI) for
+DQ8trans, nM
+P value
+(F test)
+GAD65250–266 03-C1 7.16 (2.76–18.61) 0.61 (0.49–0.75) <0.0001
+GAD65250–266 05-C1 40.64 (28.54–57.88) 3.92 (2.33–6.61) <0.0001
+GAD65250–266 07-C1 111.3 (66.73–185.8) 15.91 (6.52–38.83) <0.0001
+GAD65250–266 09-C1 54.27 (40.68–72.41) 54.89 (47.26–63.76) 0.9417
+A
+DQ8cis WT DQ8trans Q31E DQ8trans S72I, L73V
+DQ8trans Q31E, F51_ R53insR
+DQ8trans 44–50, W43_ F51insDQ8cis 44–50 DQ8trans 44–50, W43_ F51insDQ8cis 44-50, F51_ R53insR
+DQ8cis 44–50, 52, W43_ F51insDQ8trans 44–50
+DQ8trans WT
+GAD65250–266 clone 09-C1
+Log(M)
+DQA1*0501 SL
+Fig. 4. Altered T cell avidity for DQ8trans/GAD65250–266 is associated with the absence of Arg52 residue in DQA1*0501. (A) 2D affinity of five antigen-reactive
+clones to DQ8cis (closed shapes) or DQ8trans (open shapes). 2D affinity correlates with T cell potency. MP, matrix protein. (B) Stronger responses of GAD65250–266-specific
+clones to pDQ8trans were correlated with higher TCR-pMHC avidity. Arg52 and, to a lesser extent, 44–50 residues for clone 07-C1 were critical to the enhanced T cell
+avidity toward DQ8trans/GAD65250–266. Experiments were run in duplicates with the error bars denoting the SD. Statistical significance was evaluated by extra sum-of-squares
+F test and listed in table S4. WT, wild-type; CI, confidence interval. (C) Amino acid sequence alignment of the core peptide-binding cleft region between the chain of
+DQ8cis (DQA1*0301) and the  chain of DQ8trans (DQA1*0501). The parallel lines in DQA1*0501 indicate identical amino acid residues between two chains. The numbers
+above the amino acid sequence are the sequence number of the residue in the   chain, as presented in (44), ensuring structural equivalence of the respective residues
+and their counterparts in HLA-DRA. The regions in which mutations were made in DQA1*0501 are highlighted in red”. **P < 0.01, ****P < 0.0001.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+8 of 14
+with the unusual high affinity of cognate TCR as TCR with affinities
+beyond the natural range can initiate T cells responses faster than
+TCR within the natural range, although both may endow T cells with
+the same functional avidity (28).
+To assess the contribution of distinct chain residues to altered
+T cell functional avidity, a set of DQ8trans mutants in complex with
+GAD65250–266 were made in which specific chain residues adjacent
+to or within the peptide-binding pockets [namely, 31 and 52 in
+pocket 1, 44–50 at the lateral side of pocket 1, and 72–73 in pocket
+9 (8, 9)] were replaced with those of DQ8cis (table S4 and Fig. 4,
+B and C). The corresponding residues Glu31, Arg52, Ile72, and
+Val73 in DQ8cis were Gln31 , a deletion in position 52, Ser72 ,
+and Leu73  in DQ8trans (Fig. 4C). We were not able to produce
+DQ8trans mutant protein with addition of Arg52  alone (the residue
+absent in the pocket 1 of DQ8trans) and had to generate this mutant
+protein in combination with other mutations (DQ8trans  Q31E,
+ F51_ R53insR, and DQ8trans ∆ 44–50,  W43_ F51insDQ8cis
+ 44–50,  F51_ R53insR in table S4 and Fig. 4B). T cell functional
+avidity was not affected with substitution of  31 or  72–73 (DQ8trans
+ Q31E and DQ8trans  S72I,  L73V in table S4 and Fig. 4B) and
+was only slightly reduced for GAD65250–266 clone 07-C1 with the
+substitution of  44–50 (DQ8trans ∆ 44–50,  W43_ F51insDQ8cis
+ 44–50 in table S4 and Fig. 4B). Inclusion of Arg52  with  31 or
+ 44–50 substitutions in DQ8trans, however, significantly reduced
+responses of T cell clones to a level similar to that of DQ8cis (table S4
+and Fig. 4B). As substitution of either  31 or  44–50 alone had a
+minimal effect, these results highlight the importance of inserting
+an additional Arg in between Phe51  and Arg53  in DQ8trans
+diminishing T cell responses to pDQ8trans. The pivotal role of the
+Arg52  residue in the regulation of TCR reactivity was further confirmed by the observation that T cell functional avidity for DQ8cis
+was enhanced by replacing the  44–52 domain in DQ8cis with the
+corresponding domain from DQ8trans (DQ8cis ∆ 44–50, ∆ 52,
+ W43_ F51insDQ8trans  44–50 in table S4 and Fig. 4B). In total,
+these data suggest that the presence or the absence of Arg52  in DQA1
+chain plays an important role in regulating DQ8cis/trans-restricted
+T cell responses.
+Altered orientation ofimportant TCR-contact residues
+in the bound peptides by the absence of Arg52  residue
+inDQA1*0501
+Although Arg52  can potentially dictate peptide-binding preference
+at pocket 1 (9), the differences in T cell reactivity to pDQ8cis/
+pDQ8trans cannot be adequately explained by pMHC affinity as the
+shared GAD65250–266 and IA-2957–972 epitopes bound comparably to
+both molecules (fig. S4A). Thus, altered T cell avidity by Arg52 
+might reflect a differential display of the bounded peptide toward
+TCR. This scenario was investigated by in silico modeling analysis.
+The side view of the superimposed GAD65251–263 bound by DQ8cis
+and DQ8trans revealed almost identical positioning for anchor residues p4Phe, p6Met, p7Phe, and p9Glu (Fig. 5A). However, a slightly
+different orientation at the p1Ile anchor led to a considerable divergence at the TCR contact surface, including the important TCR contact residues p3Arg, p5Lys, and p11Lys (Fig. 5A and fig. S3B). A similar
+observation was found in the superposition of IA-2957–972, with distinct orientation at potential TCR-contacting p3Leu and p8Glu residues
+(Fig. 5A and fig. S3B). Replacement of the  44–50 residues of DQ8trans
+with those of DQ8cis and insertion of Arg52  into DQ8trans
+(DQ8trans ∆ 44–50,  W43_ F51insDQ8cis  44–50,  F51_ R53insR)
+resulted in a nearly matched peptide orientation between DQ8cis
+and DQ8trans in the context of GAD65250–266 and IA-2957–972 epitopes
+(Fig. 5B), in contrast to little change of peptide orientation in DQ8trans
+when only the  44–50 substitutions were in place (DQ8trans ∆ 44–50,
+ W43_ F51insDQ8cis  44–50).
+The presence or absence of Arg52  was also associated with the
+conformation of some MHC residues (fig. S4B), possibly linked to
+peptide orientation, that leads to remarkably different modeled interactions with the adjacent, prominent TCR contact residues of
+the bound epitopes. In the DQ8cis/GAD65251–263 modeled complex,
+p3Arg interacted via hydrogen bonds with the OH group of Thr61 
+and the side chain amide group of Asn62  and was away from
+Asp55 . p5Lys pointed toward the  chain, interacting via a salt
+bridge with Glu74. By contrast, in the DQ8trans/GAD65251–263
+modeled complex, p3Arg cannot interact with Thr61  and Asn62  as
+they were distantly located. The terminal guanidine group of p3Arg
+formed a salt bridge with Asp55  in the DQ8trans complex. p5Lys
+pointed upward and away from p3Arg, Arg70, and Glu74; the
+latter two residues were closer to each other than in the DQ8cis
+modeled complex.
+Molecular modeling of InsB12–23, which contains the same register
+as InsB11–24, revealed stronger interactions between the p9Arg anchor
+of InsB12–23 (InsB22Arg) and surrounding pocket 9 residues of the
+DQ8trans compared to that of DQ8cis (Fig. 5C), in addition to a
+reorientation of the N and C termini of the insulin peptide in the
+groove (Fig. 5A). Besides the interactions observed for both molecules, p9Arg anchor of InsB12–23 formed four hydrogen bonds with
+Ser72  of DQ8trans (albeit one of them weak), in contrast to only
+weak van der Waals interactions between the p9Arg anchor of
+InsB12–23 and Val73  of DQ8cis (table S5). The extra hydrogen bonds
+between Arg76  and Ser72  (Fig. 5C and table S5) in the DQ8trans/
+InsB12–23 complex, but not in the DQ8cis/InsB12–23 complex,
+would further stabilize pocket 9 and potentially contribute to the
+stability of the DQ8trans/InsB12–23 complex. Thus, for the nonacidic p9 anchor InsB12–23 epitope, the expanded network of residue
+interaction in pocket 9 might enhance accommodation of epitopes
+in DQ8trans. Similar to GAD65250–266 and IA-2957–972, substitution
+of only  44–50 with the respective residues from DQ8cis (A1*0301)
+causes trivial deviations in the orientation of anchor residues p-2 to
+p2 and p8 to p10 but hardly any change from anchor residues p3 to
+p7. Together, the modeling results suggested that Arg52  residue of
+DQ   chain regulates TCR-pDQ8cis/trans intramolecular interactions through reorientation of bound peptides.
+DISCUSSION
+Although it is well established that DQ8/DQ2 cis and trans molecules
+play a pivotal role in T1D, little is known regarding the cognate
+islet-epitope repertoire and the interaction between pathogenic T cells
+and DQ molecules. In contrast to the notion that DQ8trans increases
+susceptibility to T1D by presentation of a unique T cell epitope repertoire, in this study, we discovered a high degree of epitope overlap
+and T cell promiscuity between DQ8cis and DQ8trans (Table 1 and
+Fig. 1), and cross-reactive T cells from homozygous DQ8 participants
+often recognized the trans-complementary molecule (Fig. 2, A and B).
+Despite the similarity in epitope recognition and pMHC association (figs. S3B and S4A), increased affinity of TCR-pMHC complexes by distinct amino acid residues at DQ2cis   chain leads to
+enhanced functional recognition of T cells to DQ8trans in complex
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+9 of 14
+A B
+Magenta: DQ8cis Green: DQ8trans
+GAD65251–263
+InsB12–23
+IA-2959–971
+C
+Magenta: DQ8cis
+Green: DQ8trans 44–50, W43_ F51insDQ8cis 44-50, F51_ R53insR
+GAD65251–263
+InsB12–23
+IA-2959–971
+DQ8cis DQ8trans
+Green line: Hydrogen bond
+Red line: Cation-π
+Blue line: van der Waals
+Fig. 5. In silico analysis of epitope presentation in the context of different DQ molecules. (A) Superimposed side view of GAD65251–263, InsB12–23, and IA-2959–971
+shown in stick form in the grooves of DQ8cis (nitrogen, blue; oxygen, red; sulfur, yellow; all other atoms, magenta) and DQ8trans (same atom color convention, for N, O,
+and S; all other atoms, green). (B) A nearly matched peptide orientation was seen in the superimposed side view of GAD65251–263, InsB12–23, and IA-2959–971 in the grooves
+of DQ8cis (magenta) and DQ8trans ∆ 44–50,  W43_ F51insDQ8cis  44–50,  F51_ R53insR (green). Same depiction conventions and atom color codes are used as in (A).
+(C) TCR view of pocket 9 in complex with InsB12–23 revealed differences in residue interaction (listed in table S5). The pocket 9 view of the DQ8cis-Ins complex is rotated
+−60o
+ (top half away from the viewer; bottom half toward the viewer), and the DQ8trans-Ins complex is also rotated −90o
+, with respect to the x axis. DQ residues are shown
+in stick form with the same atom color codes for N, O, and S, and carbon is in orange. The p9Arg anchor of InsB12–23 is in ball-and-stick format with carbon atoms in magenta
+(DQ8cis) or green (DQ8trans). All DQ residues shown in stick form are at a distance <5 Å (any atom to any atom) from the p9Arg anchor residues, with the exception of
+Tyr32 in DQ8trans that is shown just for comparison. Only the major interactions (highlighted in red in table S5) are shown here. The two major putative hydrogen bonds
+for the DQ8cis molecule and six major putative hydrogen bonds for the DQ8trans molecule are plotted. The hydrogen bond between Arg76 N2 and Ser72 O of
+DQ8trans is not plotted because of an overlap with a covalent bond. The line indicating the cation- interaction between p9ArgC and Tyr32C of DQ8cis is only visible
+close to the latter atom and obscured around the former atom because of the depiction of covalent bonds of p9Arg. All relevant information is provided in table S5.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+10 of 14
+with immunodominant and disease-relevant GAD65250–266 (Fig. 4),
+correlating with the increased risk of T1D of DQ8/DQ2 heterozygosity. Epistatic interaction of HLA genes in other autoimmune
+diseases includes shared epitope–containing DRB1 alleles in RA
+(29, 30) and DRB1*1501/DRB5*0101 in MS (31) but with undefined or a small number of T cell specificities. Our study provides a
+molecular and functional basis whereby disease risk may be altered
+primarily by increased T cell promiscuity driven by HLA epistatic
+interaction.
+Our data suggest a promiscuous but nondegenerate TCR-peptideDQ8cis/trans interaction, in which the pMHC/TCR affinity/avidity
+is governed mainly by the presence or absence of the potential nonTCR contact residue DQ Arg52  (8, 9) within the peptide-binding
+cleft. T cell cross-reactivity can occur by preservation of structural
+similarity at specific TCR-pMHC contact sites without the need for
+TCR degeneracy. In cross-recognition of pDQ8cis and pDQ8trans,
+the differences in the pDQ8cis/trans   chain are distal to or within
+the peptide-binding cleft (8, 9) and do not overlap with TCR footprints of canonical docking (9). The increased 2D affinity and functional avidity for DQ8trans/GAD65250–266 (Fig. 4) cannot be attributed
+to GAD65250–266 affinity for MHC (fig. S4A). Thus, TCR discrimination
+of DQ8cis/trans-GAD65250–266 complexes must involve differences
+in peptide or MHCII conformation. Distinct peptide orientation
+patterns at critical TCR contact residues and distinct conformations
+of several conserved   chain residues at the TCR/pMHCII interface,
+due to the presence or absence of DQ Arg52 , were seen in the
+modeled structures of DQ8cis and DQ8trans in complex with
+GAD65250–266 (Fig. 5, A and B). DQ  52-mediated peptide reorientation was also observed in the context of two other disease-relevant
+InsB11–23 and IA-2957–972 epitopes (Fig. 5, A and B), implying a common
+architecture for TCR recognition of both DQ8cis and DQ8transrestricted islet epitopes. In contrast to the narrowed TCR usage in
+cross-reactive, gliadin-specific T cell clones (9, 32), TCR usage in
+cross-reactive, GAD65250–266-specific T cell clones was quite diverse
+(fig. S5A). The divergent TCR repertoire suggests an unconfined
+flexible TCR docking zone enabling the promiscuous TCR discrimination of pDQ8cis/trans complexes.
+The T cell clones generated in this study were tetramer-positive
+and would likely have high affinity for their respective pMHC molecules. In general, we have found tetramers to require 2D affinity values of 10−4 to 10−5 m4
+ for their avidity reaction (33). The highly
+sensitive 2D micropipette assay confirmed their high affinity (10−3 m4
+)
+yet was still able to discern significant affinity differences between
+the DQ8cis and DQ8trans that directly connect to the functional
+responses. It should be noted that twofold differences in affinity can
+lead to major functional and fate decisions including differentiation
+and tissue trafficking of T follicular helper cells (34). Thus, we demonstrate that not only all clones tested are all of high affinity but also,
+when comparing DQ8cis to DQ8trans, the pMHC with the highest
+2D affinity correlates with the most effective T cell response and subsequent susceptibility to T1D (Figs. 3A and 4A).
+T cell clones derived by DQ8cis or DQ8trans tetramer were
+only activated by pDQ8cis and pDQ8trans but not by pDQ2cis or
+pDQ2trans (fig. S5B), raising the possibility that the shared  chain
+is more critical to T cell recognition. The dominance of one MHC
+chain in T cell recognition has been observed for myelin basic protein
+peptide–specific T cells, including the highly cross-reactive Hy.1B11
+(35–37). The few available crystal structures of autoimmune TCRs
+in complex with their specific pMHCIIs typically exhibit an extremely
+focused and narrow peptide footprint (35–37). However, our T cell
+reactivity profiles for GAD65250–266, InsB11–23, and IA-2957–972 suggest
+that specific T cells recognized these epitopes across the entire peptide
+region (fig. S3B), arguing against the case of unconventional TCR
+docking for these epitopes.
+The enhanced functional recognition via pDQ8trans of immunodominant GAD65250–266- and IA-2957–972–specific T cells at the molecular level (Fig. 3) did not lead to significantly higher frequencies
+of specific T cells in DQ8+
+DQ2+
+ patients, compared to DQ8+
+DQ2−
+patients (Fig. 2, C and D), and phenotypically, most GAD65250–266-
+and IA-2957–972–specific T cells demonstrated a T helper 1–like phenotype
+(table S3). A number of homeostatic properties could be involved in
+control of T cell numbers, e.g., proliferation of these disease-related
+cells in participants with T1D could be influenced by the suppressive
+immune responses from other T cells, an anergic state of islet-specific
+memory cells (38) might well keep the majority of cross-reactive cells
+in quiescence, or differences in surface expression of DQ molecules
+could impact susceptibility to T1D (39). Thus, at the cellular level,
+the role of DQ8trans in islet autoimmunity may be an active component of the dynamic temporal nature of the autoimmune process (40, 41).
+It has been suggested that the absence of aspartic acid residues at
+57 in DQ8/DQ2 cis and trans molecules leads to a highly skewed
+peptide repertoire favoring a negative charge at the p9 anchor (10–12).
+Our T cell epitope data agreed with these previous reports as more
+than 90% epitopes identified in this study have a negative charge at the
+C-terminal end. In contrast, two influenza antigen–derived epitopes
+with a nonacidic p9 anchor residue (HA186–202 and NP175–191) were
+identified in this study, and both of them bound to DQ8cis/trans
+with a moderate affinity (fig. S4A). Recently, an oncogenic self-peptide
+with an atypical DQ8cis/trans-binding motif was found to be restricted
+by DQ8cis (42). These observations highlight the presence and importance of atypical DQ8cis/trans-binding epitopes in immune responses to foreign and self-antigens. Therefore, identification of
+T cells specific for atypical DQ8cis/trans-binding epitopes might
+further advance the understanding of DQ8cis/trans-specific T cell
+repertoire and their implication in progression of T1D.
+In summary, the promiscuous TCR/pMHCII interactions reported in
+this study provide functional and structural insights into TCR recognition of T1D–associated DQ8cis/trans complexes. The reported
+mechanism is distinct from selective presentation of autoimmune
+peptides or altered T cell repertoires as the primary drivers of autoimmune pathology. The increased risk of T1D in DQ8/DQ2 heterozygous individuals is attributable, in part, to epistatic interactions
+between HLA alleles that lead to promiscuous TCR recognition of
+pDQ8cis and pDQ8trans, with amplified functional responses to
+the latter. The exquisite discrimination of these two molecules in
+complex with islet-derived epitopes by TCR results from modest
+differences in the   chain at the N-terminal end of the pocket binding cleft. The mode of TCR discrimination to DQ8cis/trans complexes reported in this study is likely to be shared by other DQ8cis/
+trans-restricted islet epitopes. Thus, the structural and functional
+characteristics of genetically linked T cell promiscuity demonstrated
+in this study may be important for the immunopathology and
+immunomodulation of T1D. Arg52  is not surface exposed, but
+its presence may serve as a functional switch while preserving the
+structural similarity at specific TCR-pMHC contact sites without
+much change in the pMHC conformation. Modulation of TCR/
+pDQ8cis/trans affinities via mutagenesis at Arg52  may lead to more
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+11 of 14
+effective induction of anergy/apoptosis or conversion of naïve lowavidity autoreactive T cells into memory-like autoregulatory cells,
+e.g., by gene editing or nanoparticle-based immunotherapy.
+MATERIALS AND METHODS
+Participants
+These studies were approved by the Institutional Review Board of
+Benaroya Research Institute (BRI, Seattle, WA) and Seattle Children’s
+Hospital. All DQ8+
+DQ2−
+ and DQ8+
+DQ2+
+ participants were volunteers
+of Caucasian descent and were recruited with written consent from
+participating individuals or assent and the consent of their guardians
+if participants were minors (tables S2 and S3). HLA typing was conducted by the BRI sequencing and genotyping core facilities. Autoantibodies were measured at the Barbara Davis Center for Childhood
+Diabetes.
+HLA-DQ proteins and tetramers
+Recombinant DQ8cis, DQ2cis, DQ8trans, and mutated DQ8cis/
+trans proteins were produced as previously described (20). Briefly,
+soluble DQ proteins were purified from insect cell culture supernatants by affinity chromatography. For the preparation of HLA class II
+tetramers, DQ proteins were in vivo biotinylated in Drosophila S2
+cells before harvest and exchanged to citric/phosphate buffer (pH 5.4)
+(or to phosphate-buffered saline for covalent pDQ8cis or pDQ8trans
+complexes). The biotinylated monomer was loaded with peptide
+(0.2 mg/ml) by incubating at 37°C for 72 hours in the presence of
+n-dodecyl--maltoside (0.2 mg/ml) and 1 mM Pefabloc SC (SigmaAldrich, St. Louis, MO). Peptide-loaded monomers were subsequently
+conjugated into tetramers using R-PE (phycoerythrin)–streptavidin
+(Biosource International, Camarillo, CA) at a molar ratio of 8:1.
+The quality control of DQ monomers, empty or covalently linked
+with GAD65250–266, was carried out by staining T cell clones with
+serially diluted DQ tetramers.
+Selection ofislet-specific peptides and peptides synthesis
+Multiple T1D-associated islet antigens, IA-2, ICA69, Phogrin, and
+Zn T8, were screened using the DQ8cis binding prediction algorithm
+in NetMHCIIpan (43) to identify potential DQ8cis/trans-restricted
+peptides. The top 20 to 25 ranking peptides for each protein were
+selected for T cell experiments. IGRP-specific epitopes was identified directly by Tetramer Guided Epitope Mapping. Peptides derived
+from influenza antigens, islet antigens, and a panel of modified
+GAD65250–266, InsB11–24, and IA-2957–972 peptides with alanine,
+glycine, or phenylalanine substitution were synthesized by Mimotopes
+(Clayton, Australia).
+Tetramer-guided epitope identification
+PBMCs were prepared from the blood of T1D participants or
+healthy participants by Ficoll underlay. CD4+
+ T cells were isolated
+using the Miltenyi CD4+
+ T cell isolation kit, plated in 48-well plates
+with adherent antigen-presenting cells (APCs), and stimulated with
+the selected islet-peptide set or a pool of five consecutive peptides of
+17 amino acids in length with an 11-residue overlap spanning the
+H1HA and H1NP protein sequences. The cells were cultured for
+2 weeks in the presence of T cell medium and IL-2 (Roche; added
+every 24 to 48 hours starting on day 7) at 37°C and stained with PE
+tetramers. Subsequently, cells were stained with CD4 PerCP (BD
+Biosciences), CD3 FITC (fluorescein isothiocyanate), and CD25 APC
+monoclonal antibodies (eBioscience) and analyzed by flow cytometry.
+Cells from pools that gave positive staining were analyzed again
+with the corresponding individual peptide tetramers to identify each
+antigenic peptide. Our criterion for positivity was distinct staining
+that labeled a compact tetramer-positive CD4+
+ population and was
+more than threefold above background (cells from an unstimulated
+well) in the same experiment.
+T cell clone isolation
+T cell clones were generated by staining cultured T cells with tetramers, sorting gated tetramer-positive CD4+
+ cells using FACSAria
+(at single-cell purity, applying a singlet gate to the lymphocyte population), and expanding in a 96-well plate in the presence of 1.0 × 105
+irradiated PBMCs and phytohemagglutinin (2 g/ml; Remel Inc.,
+Lenexa, KS). After expansion of each T cell clone into a single well of
+a 48-well plate, clones were stained again with tetramer and also
+stimulated in parallel with the corresponding peptides (500 nM),
+adding HLA-DQ–matched irradiated PBMCs as APCs and measuring
+thymidine uptake to verify epitope specificity.
+T cell proliferation, cytokine enzyme-linked
+immunosorbent assay, and half-maximal effective
+concentration determination
+Proliferation assays were performed in triplicate in 96-well roundbottom plates. T cell clones were stimulated with irrelevant or specific
+peptides in the presence of irradiated nontransfected or DQ-transfected
+HEK293 cells as APCs. After 72-hour stimulation, cultures were
+pulsed with 1 Ci of [3
+H] thymidine and harvested 18 hours later. SI
+was calculated by dividing the net counts of specific peptides (counts
+per minute of DQ8cis- or DQ8trans-stimulated cells subtracted from
+counts per minute of nontransfected cells) by the counts per minute
+of irrelevant peptide. For cytokine enzyme-linked immunosorbent
+assay (ELISA), IFN- (clone MD-1), IL-4 (clone 8D4–8), and IL-10
+(clone JES3-19F1) capturing antibodies (BioLegend) were coated
+onto 96-well round-bottom plates. Supernatants (50 l) from cultures
+of T cell clones were collected after 48 hours of stimulation and
+added to each well. After overnight incubation, bound cytokines
+were detected by biotinylated anti–IFN- (clone 4 s.B3), anti–IL-4
+(clone MP4-25D2), and anti–IL-10 (clone JES3-12G8) antibodies
+(BioLegend) and quantified using a Victor2 D time-resolved fluorometer (PerkinElmer). Unless otherwise stated, peptide concentrations were everywhere 2.5 M for the wild-type insulin peptide and
+500 nM for all other peptides. For half-maximal effective concentration (EC50) determination in Fig. 4B, secreted IFN- was measured
+by ELISA after co-incubation of T cell clones with serial-diluted
+mutated DQ8cis/trans proteins for 48 hours. For EC50 determination
+in fig. S4A, various concentrations of each biotinylated peptide
+were incubated in wells coated with DQ8 and DQ8trans proteins.
+After washing, the remaining biotinylated peptides were labeled
+using europium-conjugated streptavidin (PerkinElmer) and quantified using the Victor2 D time-resolved fluorometer (PerkinElmer).
+EC50 values were calculated via a nonlinear regression model in
+Prism software. All experiments except EC50 determination in fig.
+S4A were performed in the presence of anti-CD28 antibodies (1 g/ml).
+Statistical analysis
+Statistical analysis was performed with Prism software (GraphPad
+Software Inc.). One-way analysis of variance (ANOVA) followed by
+Bonferroni’s test was used to perform multigroup comparisons of
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+12 of 14
+T cell frequency. An unpaired or paired t test was used to compare
+the T cell responses between pDQ8cis and pDQ8trans. The extra
+sum-of-squares F test was used to compare EC50 between different
+DQ8cis/trans proteins.
+Binding motif determination forGAD65250–266, InsB11–24,
+and IA-2957–972
+A panel of 17 GAD65250–266-, 13 InsB11–24-, and 16 IA-2957–972–derived
+peptides with a single alanine substitution was synthesized to determine the antigenic motif. Glycine or phenylalanine substitution was
+used if the original residue was an alanine. GAD65250–266, InsB11–24,
+and IA-2957–972 T cell clones obtained from T1D patients were stimulated with 500 nM (for GAD65250–266 and IA-2957–972) or 2.5 M (for
+InsB11–24) of wild-type or modified peptides in the presence of irradiated DQ8cis- or DQ8trans-expressing HEK293 cells as APCs. For
+GAD65250–266 and IA-2957–972, cultures were pulsed after 72 hours of
+stimulation with 1 Ci of [3
+H] thymidine and harvested 18 hours
+later. For InsB11–24, culture supernatants were collected after 48 hours
+of stimulation and assayed for IFN- secretion by cytokine ELISA.
+The % activity was calculated by dividing the SI of mutated peptides
+by the SI of the wild-type peptide. All stimulation experiments were
+performed in the presence of anti-CD28 antibodies (1 g/ml).
+Ex vivo analysis ofislet-specific T cells
+Thirty million PBMCs in culture medium at a concentration of
+150 million/ml were incubated with 50 nM dasatinib for 10 min at 37°C.
+The cells were next stained with 250 nM PE-labeled tetramers at
+room temperature for 120 min, followed by antibody staining for
+20 min at 4°C with CD4 APC (clone RPA-T4, eBioscience), CD45RO
+FITC (clone UCHC1, eBioscience), and a combination of CD14
+PerCP (clone MφP9, BD Pharmingen) and CD19 PerCP (clone
+SJ25C1, BD Pharmingen) to exclude B cells and monocytes from
+the analysis. Cells were washed twice and incubated with anti-PE
+magnetic beads (Miltenyi Biotec, Bergisch Gladbach, Germany) at
+4°C for another 20 min. The cells were washed again and enriched with
+a Miltenyi magnetic column. Samples were labeled with ViaProbe
+(BD Biosciences) and analyzed on a BD FACSCalibur flow cytometer.
+Frequencies were calculated by dividing the number of tetramerpositive cells in the bound fraction by the number of total CD4+
+T cells in the sample. For ex vivo costaining of GAD65250–266-specific
+cells with DQ8cis and DQ8trans tetramers, PBMCs from DQ8+
+DQ2−
+participants were first stained with PE-labeled DQ8trans/GAD65250–266
+tetramers. After enrichment, tetramer-positive cells were stained again
+with APC-labeled DQ8cis/GAD65250–266 tetramers at 37°C for 1 hour.
+2D micropipette adhesion frequency assay
+The 2D affinity of cultured HLA-DQ CD4+
+ T cell clones specific for
+DQ8cis (DQA1*0301/DQB1*0302) and DQ8trans (DQA1*0501/
+DQB1*0302) were measured using the previously characterized 2D
+micropipette adhesion frequency assay (33). Briefly, red blood cells
+(RBCs) were coated with Biotin-LC-NHS (BioVision), followed by
+streptavidin (Thermo Fisher Scientific) and with either covalently
+linked, biotinylated DQ8cis/GAD65250–266 or DQ8trans/GAD65250–266
+monomers. In this 2D assay, the adhesion frequency between TCR
+on the T cell and ligand (pMHC on an RBC) aspirated on opposing
+pipettes was observed using an inverted microscope. An electronically controlled piezoelectric actuator repeated 50 T cell contact and
+separation cycles with the pMHC-coated RBC while keeping time
+(t) constant. Following retraction of the T cell, adhesion (binding of
+TCR:pMHC) was observed as distention of the RBC membrane,
+allowing for quantification of the adhesion frequency (Pa). Surface
+pMHC (ml) ligand and TCR (mr) densities were determined by flow
+cytometry and BD QuantiBRITE PE beads for standardization (BD
+Biosciences). The calculation of molecules per area was determined
+by dividing the number of TCRs and pMHCs per cell by the respective
+surface areas. The relative 2D affinities were calculated using the
+following equation: AcKa = −ln [1 − Pa (1)]/mrml. Normalized adhesion frequency was calculated using the equation [−ln(1 − Pa(s))/ml
+(pMHC)]. Geometric means of all measured single-cell affinities are
+reported ± SEM.
+Molecular modeling
+Models of DQ8cis and DQ8trans in complex with GAD65251–263,
+InsB12–23, and IA-2959–971, using the antigenic motifs shown in fig. S3,
+were prepared on a Silicon Graphics Fuel workstation using the
+program Discover, version 2005 (Accelrys, San Diego, CA) as previous
+reported (12, 15, 24). Briefly, the basis molecule for pDQ8cis complexes was the DQ8cis-InsB11–23 complex, without any solvent
+molecules [(8); pdb code: 1jk8]. To generate pDQ8trans complexes,
+we superimposed the DQ2cis-  gliadin complex (pdb code: 1s9v;
+also used free of solvent) onto this DQ8cis-InsB11–23 complex, as
+previously described (12, 24). The subsequent availability of the
+crystal structure of a DQ8trans molecule complexed with a gluten
+peptide and the cognate TCR (9) allowed us to compare the soobtained model pDQ8trans structure with its crystal counterpart.
+The root mean square deviation in the alpha carbons (C s) of the two
+structures was very small, both in the histocompatibility molecules
+and the bound antigenic peptides, confirming the validity of the
+approach. In the case of molecular simulation of mutated DQ8trans
+structures containing the Arg52  insertion, the DQ8-InsB11–23 crystal
+structure above was used as the base molecular complex (8). We
+assumed that the amino acid deletion in the HLA-DQ2   chain occurs
+at position 52, as this results in the least deviation from structural
+equivalence of neighboring residues among DQ molecules with this
+deletion and those without [e.g., Arg53 , as evidenced by all the
+crystal structures of DQ8cis, DQ2cis, and DQ8trans (9)]. Amino acid
+substitutions both in the antigenic peptide and the  MHCII molecules were performed manually by selecting from a library of available
+rotamers of the software to arrive at residues with orientations consistent with the environment in which they were placed. Molecular
+simulation was performed via energy minimization, as previously
+described (12, 15, 24), at a physiological pH of 7.4. Minimization
+proceeded by one thousand steps of the steepest gradient approach,
+followed by another thousand steps of the conjugated gradient
+approach, as previously described (12, 15). Figures were drawn with
+the aid of WebLab Viewer version 3.5 and DS Viewer Pro version
+6.0 (both from Accelrys, San Diego, CA). The .pdb coordinates of
+the pDQ8cis/trans complexes shown and discussed here will be
+available to interested researchers upon request to A.K.M. or G.K.P.
+SUPPLEMENTARY MATERIALS
+Supplementary material for this article is available at http://advances.sciencemag.org/cgi/
+content/full/5/8/eaaw9336/DC1
+Fig. S1. Representative tetramer-guided epitope mapping for H1HA and surface expression of
+DQ molecules on HEK293 cells.
+Fig. S2. Cross-reactivity of islet-specific T cell clones was investigated by staining of DQ8cis and
+DQ8trans tetramers and a representative ex vivo staining for DQ8trans/GAD65250–266 and
+DQ8trans/IA-2957–972 from one T1D and one healthy participant.
+Fig. S3. DQ8cis and DQ8trans elicit T cell responses by the same antigenic motif.
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+13 of 14
+Fig. S4. Affinity and presentation of shared epitopes.
+Fig. S5. TCR usages for GAD65250–266-specific T cell clones and investigation of cross-reactivity
+of islet-specific T cell clones by different DQ restriction elements.
+Table S1. List of common Influenza A epitopes presented by DQ2cis.
+Table S2. Summary of ex vivo results for GAD65250–266 and IA-2957–972.
+Table S3. List of the T cell clones, their proliferative capacity, and cytokine secretion.
+Table S4. Comparison of functional avidity EC50 between wild-type DQ8trans and other
+DQ8cis/trans variants in complex with GAD65250–266.
+Table S5. Predicted interactions between p9Arg/Arg76  with residues at pocket 9 of DQ8cis or
+DQ8trans.
+REFERENCES AND NOTES
+1. K. W. Wucherpfennig, D. Sethi, T cell receptor recognition ofself and foreign antigens
+in the induction of autoimmunity. Semin. Immunol. 23, 84–91 (2011).
+2. J. Rossjohn, S. Gras, J. J. Miles, S. J. Turner, D. I. Godfrey, J. McCluskey, T cell antigen
+receptor recognition of antigen-presenting molecules. Annu. Rev. Immunol. 33, 169–200
+(2015).
+3. P. Concannon, S. S. Rich, G. T. Nepom, Genetics of type 1A diabetes. N. Engl. J. Med. 360,
+1646–1654 (2009).
+4. J. A. Todd, J. I. Bell, H. O. McDevitt, HLA-DQ gene contributes to susceptibility
+and resistance to insulin-dependent diabetes mellitus. Nature 329, 599–604 (1987).
+5. B. P. C. Koeleman, B. A. Lie, D. E. Undlien, F. Dudbridge, E. Thorsby, R. R. P. de Vries,
+F. Cucca, B. O. Roep, M. J. Giphart, J. A. Todd, Genotype effects and epistasis in type 1
+diabetes and HLA-DQ trans dimer associations with disease. Genes Immun. 5, 381–388
+(2004).
+6. G. Thomson, A. M. Valdes, J. A. Noble, I. Kockum, M. N. Grote, J. Najman, H. A. Erlich,
+F. Cucca, A. Pugliese, A. Steenkiste, J. S. Dorman, S. Caillat-Zucman, R. Hermann, J. Ilonen,
+Å. P. Lambert, P. J. Bingley, K. M. Gillespie, A. Lernmark, C. B. Sanjeevi, K. S. Rønningen,
+D. E. Undlien, E. Thorsby, A. Petrone, R. Buzzetti, B. P. Koeleman, B. O. Roep,
+G. Saruhan-Direskeneli, F. A. Uyar, H. Günoz, C. Gorodezky, C. Alaez, B. O. Boehm,
+W. Mlynarski, H. Ikegami, M. Berrino, M. E. Fasano, E. Dametto, S. Israel, C. Brautbar,
+A. Santiago-Cortes, T. Frazer de Llado, J.-X. She, T. L. Bugawan, J. I. Rotter, L. Raffel,
+A. Zeidler, F. Leyva-Cobian, B. R. Hawkins, S. H. Chan, L. Castano, F. Pociot, J. Nerup,
+Relative predispositional effects of HLA class II DRB1-DQB1 haplotypes and genotypes
+on type 1 diabetes: A meta-analysis. Tissue Antigens 70, 110–127 (2007).
+7. H. Erlich, A. M. Valdes, J. Noble, J. A. Carlson, M. Varney, P. Concannon, J. C. Mychaleckyj,
+J. A. Todd, P. Bonella, A. L. Fear, E. Lavant, A. Louey, P. Moonsamy; Type 1 Diabetes
+Genetics Consortium, HLA DR-DQ haplotypes and genotypes and type 1 diabetes risk:
+Analysis of the type 1 diabetes genetics consortium families. Diabetes 57, 1084–1092
+(2008).
+8. K. H. Lee, K. W. Wucherpfennig, D. C. Wiley, Structure of a human insulin peptide-HLADQ8 complex and susceptibility to type 1 diabetes. Nat. Immunol. 2, 501–507 (2001).
+9. J. Petersen, Y. Kooy-Winkelaar, K. L. Loh, M. Tran, J. van Bergen, F. Koning, J. Rossjohn,
+H. H. Reid, Diverse T cell receptor gene usage in HLA-DQ8-associated celiac disease
+converges into a consensus binding solution. Structure 24, 1643–1657 (2016).
+10. K. W. Wucherpfennig, J. L. Strominger, Selective binding ofself peptides to diseaseassociated major histocompatibility complex (MHC) molecules: A mechanism
+for MHC-linked susceptibility to human autoimmune diseases. J. Exp. Med. 181,
+1597–1601 (1995).
+11. R. Tisch, H. McDevitt, Insulin-dependent diabetes mellitus. Cell 85, 291–297 (1996).
+12. M. van Lummel, P. A. van Veelen, A. Zaldumbide, A. de Ru, G. M. Janssen, A. K. Moustakas,
+G. K. Papadopoulos, J. W. Drijfhout, B. O. Roep, F. Koning, Type 1 diabetes-associated
+HLA-DQ8 transdimer accommodates a unique peptide repertoire. J. Biol. Chem. 287,
+9514–9524 (2012).
+13. V. Pathiraja, J. P. Kuehlich, P. D. Campbell, B. Krishnamurthy, T. Loudovaris, P. T. Coates,
+T. C. Brodnicki, P. J. O’Connell, K. Kedzierska, C. Rodda, P. Bergman, E. Hill, A. W. Purcell,
+N. L. Dudek, H. E. Thomas, T. W. Kay, S. I. Mannering, Proinsulin-specific, HLA-DQ8,
+and HLA-DQ8-transdimer-restricted CD4+
+ T cells infiltrate islets in type 1 diabetes.
+Diabetes 64, 172–182 (2015).
+14. S. Tollefsen, H. Arentz-Hansen, B. Fleckenstein, Ø. Molberg, M. Ráki, W. W. Kwok, G. Jung,
+K. E. A. Lundin, L. M. Sollid, HLA-DQ2 and -DQ8 signatures of gluten T cell epitopes
+in celiac disease. J. Clin. Invest. 116, 2226–2236 (2006).
+15. J. van Heemst, D. T. S. L. Jansen, S. Polydorides, A. K. Moustakas, M. Bax, A. L. Feitsma,
+D. G. Bontrop-Elferink, M. Baarse, D. van der Woude, G.-J. Wolbink, T. Rispens, F. Koning,
+R. R. P. de Vries, G. K. Papadopoulos, G. Archontis, T. W. Huizinga, R. E. Toes,
+Crossreactivity to vinculin and microbes provides a molecular basis for HLA-based
+protection against rheumatoid arthritis. Nat. Commun. 6, 6681 (2015).
+16. M. van Lummel, P. A. van Veelen, A. H. de Ru, J. Pool, T. Nikolic, S. Laban, A. Joosten,
+J. W. Drijfhout, I. Gomez-Tourino, S. Arif, H. J. Aanstoot, M. Peakman, B. O. Roep, Discovery
+of a selective islet peptidome presented by the highest-risk HLA-DQ8trans Molecule.
+Diabetes 65, 732–741 (2016).
+17. E. J. Novak, A. W. Liu, J. A. Gebe, B. A. Falk, G. T. Nepom, D. M. Koelle, W. W. Kwok,
+Tetramer-guided epitope mapping: Rapid identification and characterization
+of immunodominant CD4+
+ T cell epitopes from complex antigens. J. Immunol. 166,
+6665–6670 (2001).
+18. R.-F. Wang, X. Wang, A. C. Atwood, S. L. Topalian, S. A. Rosenberg, Cloning genes
+encoding MHC class II-restricted antigens: Mutated CDC27 as a tumor antigen. Science
+284, 1351–1354 (1999).
+19. W. Zwart, A. Griekspoor, C. Kuijl, M. Marsman, J. van Rheenen, H. Janssen, J. Calafat,
+M. van Ham, L. Janssen, M. van Lith, K. Jalink, J. Neefjes, Spatial separation of HLA-DM/
+HLA-DR interactions within MIIC and phagosome-induced immune escape. Immunity 22,
+221–233 (2005).
+20. I.-T. Chow, J. Yang, T. J. Gates, E. A. James, D. T. Mai, C. Greenbaum, W. W. Kwok,
+Assessment of CD4+ T cell responses to glutamic acid decarboxylase 65 using DQ8
+tetramers reveals a pathogenic role of GAD65 121-140 and GAD65 250-266 in T1D
+development. PLOS ONE 9, e112882 (2014).
+21. J. Yang, I.-T. Chow, T. Sosinowski, N. Torres-Chinn, C. J. Greenbaum, E. A. James,
+J. W. Kappler, H. W. Davidson, W. W. Kwok, Autoreactive T cells specific for insulin B:11-23
+recognize a low-affinity peptide register in human subjects with autoimmune diabetes.
+Proc. Natl. Acad. Sci. U.S.A. 111, 14840–14845 (2014).
+22. J. A. Spanier, N. L. Sahli, J. C. Wilson, T. Martinov, T. Dileepan, A. L. Burrack, E. B. Finger,
+B. R. Blazar, A. W. Michels, A. Moran, M. K. Jenkins, B. T. Fife, Increased effector memory
+insulin-specific CD4+
+ T cells correlate with insulin autoantibodies in patients with recentonset type 1 diabetes. Diabetes 66, 3051–3060 (2017).
+23. W. W. Kwok, M. L. Domeier, F. C. Raymond, P. Byers, G. T. Nepom, Allele-specific motifs
+characterize HLA-DQ interactions with a diabetes-associated peptide derived
+from glutamic acid decarboxylase. J. Immunol. 156, 2171–2177 (1996).
+24. P. Eerligh, M. van Lummel, A. Zaldumbide, A. K. Moustakas, G. Duinkerken, G. Bondinas,
+B. P. C. Koeleman, G. K. Papadopoulos, B. O. Roep, Functional consequences of HLA-DQ8
+homozygosity versus heterozygosity for islet autoimmunity in type 1 diabetes. Genes
+Immun. 12, 415–427 (2011).
+25. M. Nakayama, K. McDaniel, L. Fitzgerald-Miller, C. Kiekhaefer, J. K. Snell-Bergeon,
+H. W. Davidson, M. Rewers, L. Yu, P. Gottlieb, J. W. Kappler, A. Michels, Regulatory vs.
+inflammatory cytokine T-cell responses to mutated insulin peptides in healthy and type 1
+diabetic subjects. Proc. Natl. Acad. Sci. U.S.A. 112, 4429–4434 (2015).
+26. J. Huang, V. I. Zarnitsyna, B. Liu, L. J. Edwards, N. Jiang, B. D. Evavold, C. Zhu, The kinetics
+of two-dimensional TCR and pMHC interactions determine T-cell responsiveness. Nature
+464, 932–936 (2010).
+27. J. B. Huppa, M. Axmann, M. A. Mörtelmaier, B. F. Lillemeier, E. W. Newell, M. Brameshuber,
+L. O. Klein, G. J. Schütz, M. M. Davis, TCR-peptide-MHC interactions in situ show
+accelerated kinetics and increased affinity. Nature 463, 963–967 (2010).
+28. S. Thomas, S.-A. Xue, C. R. Bangham, B. K. Jakobsen, E. C. Morris, H. J. Stauss, Human
+T cells expressing affinity-matured TCR display accelerated responses but fail
+to recognize low density of MHC-peptide antigen. Blood 118, 319–329 (2011).
+29. A. Porter, J. L. Nelson, Immunogenetics of rheumatoid arthritis, systemic sclerosis and
+systemic lupus erythematosus, in Immunogenetics of Autoimmune Disease, J. Oksenberg,
+D. Brassat, Eds. (Springer US, 2004), pp 75–91.
+30. L. Padyukov, C. Silva, P. Stolt, L. Alfredsson, L. Klareskog, A gene-environment interaction
+between smoking and shared epitope genes in HLA-DR provides a high risk
+ofseropositive rheumatoid arthritis. Arthritis Rheum. 50, 3085–3092 (2004).
+31. J. W. Gregersen, K. R. Kranc, X. Ke, P. Svendsen, L. S. Madsen, A. R. Thomsen, L. R. Cardon,
+J. I. Bell, L. Fugger, Functional epistasis on a common MHC haplotype associated
+with multiple sclerosis. Nature 443, 574–577 (2006).
+32. S. E. Broughton, J. Petersen, A. Theodossis, S. W. Scally, K. L. Loh, A. Thompson,
+J. van Bergen, Y. Kooy-Winkelaar, K. N. Henderson, T. Beddoe, J. A. Tye-Din,
+S. I. Mannering, A. W. Purcell, J. McCluskey, R. P. Anderson, F. Koning, H. H. Reid,
+J. Rossjohn, Biased T cell receptor usage directed against human leukocyte antigen
+DQ8-restricted gliadin peptides is associated with celiac disease. Immunity 37, 611–621
+(2012).
+33. J. J. Sabatino Jr., J. Huang, C. Zhu, B. D. Evavold, High prevalence of low affinity
+peptide–MHC II tetramer–negative effectors during polyclonal CD4+
+ T cell responses.
+J. Exp. Med. 208, 81–90 (2011).
+34. D. DiToro, C. J. Winstead, D. Pham, S. Witte, R. Andargachew, J. R. Singer, C. G. Wilson,
+C. L. Zindl, R. J. Luther, D. J. Silberger, B. T. Weaver, E. M. Kolawole, R. J. Martinez,
+H. Turner, R. D. Hatton, J. J. Moon, S. S. Way, B. D. Evavold, C. T. Weaver, Differential IL-2
+expression defines developmental fates of follicular versus nonfollicular helper T cells.
+Science 361, eaao2933 (2018).
+35. K. W. Wucherpfennig, A. Sette, S. Southwood, C. Oseroff, M. Matsui, J. L. Strominger,
+D. A. Hafler, Structural requirements for binding of an immunodominant myelin basic
+protein peptide to DR2 isotypes and for its recognition by human T cell clones. J. Exp.
+Med. 179, 279–290 (1994).
+36. D. K. Sethi, S. Gordo, D. A. Schubert, K. W. Wucherpfennig, Crossreactivity of a human
+autoimmune TCR is dominated by a single TCR loop. Nat. Commun. 4, 2623 (2013).
+ on September 18, 2020 http://advances.sciencemag.org/ Downloaded from 
+Chow et al., Sci. Adv. 2019; 5 : eaaw9336 21 August 2019
+SCIENCE ADVANCES | RESEARCH ARTICLE
+14 of 14
+37. Y. Li, Y. Huang, J. Lue, J. A. Quandt, R. Martin, R. A. Mariuzza, Structure of a human
+autoimmune TCR bound to a myelin basic protein self-peptide and a multiple
+sclerosis-associated MHC class II molecule. EMBO J. 24, 2968–2979 (2005).
+38. K. E. Pauken, J. L. Linehan, J. A. Spanier, N. L. Sahli, L. A. Kalekar, B. A. Binstadt, J. J. Moon,
+D. L. Mueller, M. K. Jenkins, B. T. Fife, Cutting edge: Type 1 diabetes occurs despite robust
+anergy among endogenous insulin-specific CD4 T cells in NOD mice. J. Immunol. 191,
+4913–4917 (2013).
+39. H. Miyadera, J. Ohashi, A. Lernmark, T. Kitamura, K. Tokunaga, Cell-surface MHC density
+profiling reveals instability of autoimmunity-associated HLA. J. Clin. Invest. 125, 275–291
+(2015).
+40. S. Arif, T. I. Tree, T. P. Astill, J. M. Tremble, A. J. Bishop, C. M. Dayan, B. O. Roep,
+M. Peakman, Autoreactive T cell responses show proinflammatory polarization
+in diabetes but a regulatory phenotype in health. J. Clin. Invest. 113, 451–463
+(2004).
+41. V. Ablamunits, N. A. Sherry, J. A. Kushner, K. C. Herold, Autoimmunity and  cell
+regeneration in mouse and human type 1 diabetes: The peace is not enough. Ann.
+N. Y. Acad. Sci. 1103, 19–32 (2007).
+42. J. R. Veatch, S. M. Lee, M. Fitzgibbon, I.-T. Chow, B. Jesernig, T. Schmitt, Y. Y. Kong, J. Kargl,
+A. M. Houghton, J. A. Thompson, M. McIntosh, W. W. Kwok, S. R. Riddell, Tumorinfiltrating BRAFV600E-specific CD4+
+ T cells correlated with complete clinical response
+in melanoma. J. Clin. Invest. 128, 1563–1568 (2018).
+43. Q. Zhang, P. Wang, Y. Kim, P. Haste-Andersen, J. Beaver, P. E. Bourne, H. H. Bui, S. Buus,
+S. Frankild, J. Greenbaum, O. Lund, C. Lundegaard, M. Nielsen, J. Ponomarenko, A. Sette,
+Z. Zhu, B. Peters, Immune epitope database analysis resource (IEDB-AR). Nucleic Acids Res.
+36, W513–W518 (2008).
+44. G. P. Bondinas, A. K. Moustakas, G. K. Papadopoulos, The spectrum of HLA-DQ
+and HLA-DR alleles, 2006: A listing correlating sequence and structure with function.
+Immunogenetics 59, 539–553 (2007).
+Acknowledgments: We thank C. Pihoker and research coordinators at Seattle Children’s
+Hospital and coordinators from BRI Diabetes and Translational Research Programs as well as
+the BRI clinical core for obtaining and processing samples from participants. We appreciate
+the assistance from BRI genomic and bioinformatics cores for determination of TCR   chain
+and  chain usage. Funding: This work was supported by DP3 DK097653 and DK106909
+grants from the National Institutes of Health and by the JDRF-2-SRA-2019-678-S-B grant from
+JDRF. The Silicon Graphics Fuel instrument and the accompanying software were obtained via
+grant no. MIS 91949 from the Epirus Regional Development Programme to the Technological
+Educational Institute of Epirus, through the 3rd Community Support Framework of the
+European Union (80% European Union funds, 20% Hellenic state funds). Author
+contributions: I-T.C. and W.W.K. designed the research. I-T.C., G.T.N., B.D.E., and W.W.K. wrote
+the manuscript. W.W.K. performed islet-specific peptide selection. I-T.C., T.J.G., E.M.K., R.J.N.,
+J.W.M., E.A.J., and N.T.-C. performed the research. G.K.P. and A.K.M. performed molecular
+modeling. C.G. assisted with participant selection and the study design. All authors reviewed
+the manuscript. Competing interests: The authors declare that they have no competing
+interests. Data and materials availability: All data needed to evaluate the conclusions in the
+paper are present in the paper and/or the Supplementary Materials. Additional data related to
+this paper may be requested from the authors.
