@@ -54,7 +54,7 @@ The Domain Specifc Analysis for Stack Overflow Domain is in Assignment_1_3.1_D1.
 
 
 
-# Task 3.2 Development of a h Noun - Adjective i Pair Ranker
+# Task 3.2 Development of a <Noun - Adjective> Pair Ranker
 The first step performed under this task is coreferencing. Coreferencing is to find all expressions that refer to the same person/thing in a text. NeuralCoref is a pipeline extension for spaCy 2.1+ which annotates and resolves coreference clusters using a neural network. 
 The requirements for coreferencing is installed as follows - 
 ```bash
