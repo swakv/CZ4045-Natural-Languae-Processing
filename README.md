@@ -6,7 +6,7 @@ Download or Clone the repository before running any file
 
 # Task 3.1 Domain Specific Dataset Analysis
 
-# Web Scraping for Domain 1 Analysis - Scrape StackOverflow Questions
+# Web Scraping for Domain 1 Analysis - Scrapy StackOverflow Questions
 Scrapy is an efficient framework to crawl websites which uses a spider to crawl through websites. 
 Firstly, we install scrapy. 
 ```bash
